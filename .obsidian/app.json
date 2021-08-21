@@ -1,0 +1,13 @@
+{
+  "obsidianCss": true,
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_resources",
+  "promptDelete": false,
+  "newFileFolderPath": "Zettelkasten",
+  "foldHeading": false,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showFrontmatter": false,
+  "readableLineLength": false
+}

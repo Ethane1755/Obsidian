@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "48a1a04b7f764229",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cccbe4d2b31f076",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/三角函數.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "8223908f52a22100",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9c33f4af5fdf53f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe636a731191f1cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce124a85989e51ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "57eb9b56099ae3b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76dfb9428beed156",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f00e30906692480b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7d8a1fcfd493bba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b84faf83a99a6bc",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8223908f52a22100",
+  "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/POPCAT plugin.md",
+    "Zettelkasten/三角函數.md",
+    "Zettelkasten/解題背後的心理學心得.md",
+    "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/SQL 資料操縱 (DML).md",
+    "Zettelkasten/SQL.md",
+    "Zettelkasten/VS  Code 小技巧.md",
+    "Zettelkasten/SQL  資料定義(DDL).md",
+    "Zettelkasten/SQL 資料查詢(DQL).md"
+  ]
+}
