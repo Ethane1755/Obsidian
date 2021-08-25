@@ -1,9 +1,10 @@
 {
-  "baseFontSize": 30,
+  "baseFontSize": 24,
   "theme": "obsidian",
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "新文字文件"
+    "新文字文件",
+    "font."
   ],
   "translucency": false
 }

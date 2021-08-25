@@ -9,5 +9,5 @@
   "foldIndent": true,
   "showLineNumber": false,
   "showFrontmatter": false,
-  "readableLineLength": false
+  "readableLineLength": true
 }
