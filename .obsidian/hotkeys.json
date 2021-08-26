@@ -64,5 +64,6 @@
       "key": "="
     }
   ],
-  "obsidian-git:push": []
+  "obsidian-git:push": [],
+  "editor:open-search-replace": []
 }
