@@ -1,6 +1,6 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "commitMessage": "Obsidian Backup {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm",
   "autoSaveInterval": 5,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
