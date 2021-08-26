@@ -22,27 +22,27 @@
 <a href>中
 指定超連結中
 <a name=名稱>中
-被連結點的名稱中
-<b>中
-粗體字中
-<base target>中
-指定超連結的分割視窗中
-<basefont size>中
-更改預設字形大小中
-<bgsound src>中
-加入背景音樂中
-<big>中
-顯示大字體中
-<blink>中
-閃爍的文字中
-<body text link vlink>中
-設定文字顏色中
-<br>中
-換行中
-<caption align>中
-設定表格標題位置中
-<caption>...</caption>中
-為表格加上標題中
+被連結點的名稱
+<b>
+粗體字
+<base target>
+指定超連結的分割視窗
+<basefont size>
+更改預設字形大小
+<bgsound src>
+加入背景音樂
+<big>
+顯示大字體
+<blink>
+閃爍的文字
+<body text link vlink>
+設定文字顏色
+<br>
+換行
+<caption align>
+設定表格標題位置
+<caption>...</caption>
+為表格加上標題
 <center>
 
 向中對齊
