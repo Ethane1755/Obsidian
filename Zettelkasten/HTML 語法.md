@@ -4,54 +4,70 @@
 
 文件格式 <html> </html>: 檔案的開頭與結尾
 網頁主題<title> </title>: 必須放在抬頭區段
-抬頭區段<head> </head>描述文件的資訊，如「網頁主題」
-內文區段
-<body> </body>
-內容所在
-一般語法
-屬性名稱
-說明
+抬頭區段<head> </head>: 描述文件的資訊，如「網頁主題」
+內文區段<body> </body>: 內容所在
+
+#### 一般語法
 <! - -與 - ->
 註解
+
 <a href target>
 指定超連結的分割視窗
+	
 <a href>
 指定超連結
+	
 <a name=名稱>
 被連結點的名稱
+	
 <b>
 粗體字
+	
 <base target>
 指定超連結的分割視窗
+	
 <basefont size>
 更改預設字形大小
+	
 <bgsound src>
 加入背景音樂
+	
 <big>
 顯示大字體
+	
 <blink>
 閃爍的文字
+	
 <body text link vlink>
 設定文字顏色
+	
 <br>
 換行
+	
 <caption align>
 設定表格標題位置
+	
 <caption>...</caption>
 為表格加上標題
+	
 <center>
-
 向中對齊
+	
 <cite>...<cite>
 用於引經據典的文字
+	
 <code>...</code>
 用於列出一段程式碼
+	
 <comment>...</comment>
 加上註解
+	
 <dd>
 設定定義列表的項目解說
+	
 <dfn>...</dfn>
 顯示"定義"文字
+	
 <dir>...</dir>
 列表文字標籤
 <dl>...</dl>
