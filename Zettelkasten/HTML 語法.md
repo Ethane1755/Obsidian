@@ -46,121 +46,63 @@
 <center>
 
 向中對齊
-
 <cite>...<cite>
-
 用於引經據典的文字
-
 <code>...</code>
-
 用於列出一段程式碼
-
 <comment>...</comment>
-
 加上註解
-
 <dd>
-
 設定定義列表的項目解說
-
 <dfn>...</dfn>
-
 顯示"定義"文字
-
 <dir>...</dir>
-
 列表文字標籤
-
 <dl>...</dl>
-
 設定定義列表的標籤
-
 <dt>
-
 設定定義列表的項目
-
 <em>
-
 強調之用
-
 <font face>
-
 任意指定所用的字形
-
 <font size>
-
 設定字體大小
-
 <form action>
-
 設定戶動式表單的處理方式
-
 <form method>
-
 設定戶動式表單之資料傳送方式
-
 <frame marginheight>
-
 設定視窗的上下邊界
-
 <frame marginwidth>
-
 設定視窗的左右邊界
-
 <frame name>
-
 為分割視窗命名
-
 <frame noresize>
-
 鎖住分割視窗的大小
-
 <frame scrolling>
-
 設定分割視窗的捲軸
-
 <frame src>
-
 將HTML檔加入視窗
-
 <frameset cols>
-
 將視窗分割成左右的子視窗
-
 <frameset rows>
-
 將視窗分割成上下的子視窗
-
 <frameset>...</frameset>
-
 劃分分割視窗(不能在body內)
-
 <h1>~<h6>
-
 設定文字大小(H1為最大)
-
 <hr>
-
 加上分格線
-
 <i>
-
 斜體字
-
 <img align>
-
 調整圖形影像的位置
-
 <img alt>
-
 為你的圖形影像加註
-
 <img dynsrc loop>
-
 加入影片
-
 <img height width>
-
 插入圖片並預設圖形大小
 
 <img hspace>
