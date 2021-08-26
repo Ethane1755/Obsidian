@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anki cards/Geography.md",
+            "file": "Zettelkasten/台灣史前文化代表.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki cards/Geography.md",
+                "file": "Zettelkasten/台灣史前文化代表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "ee7d6c0ecba110d4",
   "lastOpenFiles": [
+    "Zettelkasten/台灣史前文化代表.md",
     "Anki cards/Geography.md",
     "Zettelkasten/卡爾文循環.md",
     "Zettelkasten/日冕.md",
@@ -120,7 +121,6 @@
     "Zettelkasten/三角函數.md",
     "Zettelkasten/台灣考古學發展.md",
     "Zettelkasten/細胞與能量.md",
-    "Zettelkasten/NADPH.md",
-    "Zettelkasten/光合作用.md"
+    "Zettelkasten/NADPH.md"
   ]
 }
