@@ -70,109 +70,160 @@
 	
 <dir>...</dir>
 列表文字標籤
+	
 <dl>...</dl>
 設定定義列表的標籤
+	
 <dt>
 設定定義列表的項目
+	
 <em>
 強調之用
+	
 <font face>
 任意指定所用的字形
+	
 <font size>
 設定字體大小
+	
 <form action>
 設定互動式表單的處理方式
+	
 <form method>
 設定互動式表單之資料傳送方式
+	
 <frame marginheight>
 設定視窗的上下邊界
+	
 <frame marginwidth>
 設定視窗的左右邊界
+	
 <frame name>
 為分割視窗命名
+	
 <frame noresize>
 鎖住分割視窗的大小
+	
 <frame scrolling>
 設定分割視窗的捲軸
+	
 <frame src>
 將HTML檔加入視窗
+	
 <frameset cols>
 將視窗分割成左右的子視窗
+	
 <frameset rows>
 將視窗分割成上下的子視窗
+	
 <frameset>...</frameset>
 劃分分割視窗(不能在body內)
+	
 <h1>~<h6>
 設定文字大小(H1為最大)
+	
 <hr>
 加上分格線
+	
 <i>
 斜體字
+	
 <img align>
 調整圖形影像的位置
+	
 <img alt>
 為你的圖形影像加註
+	
 <img dynsrc loop>
 加入影片
+	
 <img height width>
 插入圖片並預設圖形大小
 
 <img hspace>
 插入圖片並預設圖形的左右邊界
+	
 <img lowsrc>
 預載圖片功能
+	
 <img src border>
 設定圖片邊界
+	
 <img src>
 插入圖片
+	
 <img vspace>
 插入圖片並預設圖形的上下邊界
+	
 <input type name value>
 在表單中加入輸入欄位
+	
 <isindex>
 定義查詢用表單
+	
 <kbd>...</kbd>
 表示使用者輸入文字
+	
 <li type>...</li>
 列表的項目 ( 可指定符號 )
+	
 <marquee>
 跑馬燈效果
+	
 <menu>...</menu>
 條列文字標籤
+	
 <meta name="refresh" content url>
 自動更新文件內容
+	
 <multiple>
 可同時選擇多項的列表欄
+	
 <noframe>
 定義不出現分割視窗的文字
+	
 <ol>...</ol>
 有序號的列表
+	
 <option>
 定義表單中列表欄的項目
+	
 <p align>
 設定對齊方向
+	
 <p>
 分段
+	
 <person>...</person>
 顯示人名
+	
 <pre>
 使用原有排列
+
 <samp>...</samp>
 用於引用字
+
 <select>...</select>
 在表單中定義列表欄
+
 <small>
 顯示小字體
+
 <strike>
 文字加橫線
+
 <strong>
 用於加強語氣
+
 <sub>
 下標字
+
 <sup>
 上標字
+
 <table border=n>
 調整表格的寬線高度
+
 <table cellpadding>
 調整資料欄位之邊界
 <table cellspacing>
