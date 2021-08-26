@@ -17,9 +17,9 @@
 	target有五個變數:
 		1.  _self: 預設，在當前視窗開啟
 		2. _blank: 在新視窗開啟
-		3. _parent: ㄗ
-		4. _top
-		5. framename
+		3. _parent: 在上一層父視窗開啟
+		4. _top: 在最頂層父視窗開啟
+		5. framename: 指定在哪個框架開啟
 	
 <a href>
 指定超連結
