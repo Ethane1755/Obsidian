@@ -4,56 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "95a54bac7cdc2d56",
+        "id": "ee7d6c0ecba110d4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/卡爾文循環.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "d628eb973c7f404b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/三角函數.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "cbccaadd292e1aea",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/公聽會.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4d3d08679156b05e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/太陽風.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b2bd391228e05ec7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/日冕.md",
+            "file": "Anki cards/Geography.md",
             "mode": "source"
           }
         }
@@ -114,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/卡爾文循環.md",
+                "file": "Anki cards/Geography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "95a54bac7cdc2d56",
+  "active": "ee7d6c0ecba110d4",
   "lastOpenFiles": [
+    "Anki cards/Geography.md",
     "Zettelkasten/卡爾文循環.md",
     "Zettelkasten/日冕.md",
-    "Zettelkasten/台灣考古學發展.md",
     "Zettelkasten/太陽風.md",
     "Zettelkasten/公聽會.md",
     "Zettelkasten/三角函數.md",
+    "Zettelkasten/台灣考古學發展.md",
     "Zettelkasten/細胞與能量.md",
     "Zettelkasten/NADPH.md",
-    "Zettelkasten/光合作用.md",
-    "Zettelkasten/Untitled.md"
+    "Zettelkasten/光合作用.md"
   ]
 }
