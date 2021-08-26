@@ -14,6 +14,9 @@
 
 <a href target>
 指定超連結的分割視窗
+	target有五個變數:
+		1. _self
+	
 	
 <a href>
 指定超連結
