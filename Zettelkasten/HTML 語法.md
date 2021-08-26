@@ -106,75 +106,40 @@
 插入圖片並預設圖形大小
 
 <img hspace>
-
 插入圖片並預設圖形的左右邊界
-
 <img lowsrc>
-
 預載圖片功能
-
 <img src border>
-
 設定圖片邊界
-
 <img src>
-
 插入圖片
-
 <img vspace>
-
 插入圖片並預設圖形的上下邊界
-
 <input type name value>
-
 在表單中加入輸入欄位
-
 <isindex>
-
 定義查詢用表單
-
 <kbd>...</kbd>
-
 表示使用者輸入文字
-
 <li type>...</li>
-
 列表的項目 ( 可指定符號 )
-
 <marquee>
-
 跑馬燈效果
-
 <menu>...</menu>
-
 條列文字標籤
-
 <meta name="refresh" content url>
-
 自動更新文件內容
-
 <multiple>
-
 可同時選擇多項的列表欄
-
 <noframe>
-
 定義不出現分割視窗的文字
-
 <ol>...</ol>
-
 有序號的列表
-
 <option>
-
 定義表單中列表欄的項目
-
 <p align>
-
 設定對齊方向
-
 <p>
-
 分段
 
 <person>...</person>
