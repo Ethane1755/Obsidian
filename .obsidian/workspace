@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "82fcada1ba8e9316",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/HTML 語法.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/HTML 語法.md",
+                "file": "Zettelkasten/台灣史前文化代表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,11 +111,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82fcada1ba8e9316",
+  "active": "ee7d6c0ecba110d4",
   "lastOpenFiles": [
+    "Zettelkasten/台灣史前文化代表.md",
     "Zettelkasten/HTML 語法.md",
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/台灣史前文化代表.md",
     "Anki cards/Geography.md",
     "Zettelkasten/卡爾文循環.md",
     "Zettelkasten/日冕.md",
