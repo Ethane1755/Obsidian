@@ -2,92 +2,47 @@
 #html
 基本標籤
 
-文件格式: <html> </html>
-
-檔案的開頭與結尾
-
-網頁主題
-
-<title> </title>
-
-必須放在抬頭區段
-
-抬頭區段
-
-<head> </head>
-
-描述文件的資訊，如「網頁主題」
-
-內文區段
-
-<body> </body>
-
-內容所在
-
- 
-
-一般語法
-
-屬性名稱
-
-說明
-
-<! - -與 - ->
-
-註解
-
-<a href target>
-
-指定超連結的分割視窗
-
-<a href>
-
-指定超連結
-
-<a name=名稱>
-
-被連結點的名稱
-
-<b>
-
-粗體字
-
-<base target>
-
-指定超連結的分割視窗
-
-<basefont size>
-
-更改預設字形大小
-
-<bgsound src>
-
-加入背景音樂
-
-<big>
-
-顯示大字體
-
-<blink>
-
-閃爍的文字
-
-<body text link vlink>
-
-設定文字顏色
-
-<br>
-
-換行
-
-<caption align>
-
-設定表格標題位置
-
-<caption>...</caption>
-
-為表格加上標題
-
+文件格式 <html> </html>: 檔案的開頭與結尾
+網頁主題中
+<title> </title>中
+必須放在抬頭區段中
+抬頭區段中
+<head> </head>中
+描述文件的資訊，如「網頁主題」中
+內文區段中
+<body> </body>中
+內容所在中
+一般語法中
+屬性名稱中
+說明中
+<! - -與 - ->中
+註解中
+<a href target>中
+指定超連結的分割視窗中
+<a href>中
+指定超連結中
+<a name=名稱>中
+被連結點的名稱中
+<b>中
+粗體字中
+<base target>中
+指定超連結的分割視窗中
+<basefont size>中
+更改預設字形大小中
+<bgsound src>中
+加入背景音樂中
+<big>中
+顯示大字體中
+<blink>中
+閃爍的文字中
+<body text link vlink>中
+設定文字顏色中
+<br>中
+換行中
+<caption align>中
+設定表格標題位置中
+<caption>...</caption>中
+為表格加上標題中
 <center>
 
 向中對齊
