@@ -225,42 +225,62 @@
 調整表格的寬線高度
 
 <table cellpadding>
+
 調整資料欄位之邊界
+
 <table cellspacing>
 調整表格線的寬度
+
 <table height>
 調整表格的高度
+
 <table width>
 調整表格的寬度
+
 <table>...</table>
 產生表格的標籤
+
 <td align>
 調整表格欄位之左右對齊
+
 <td bgcolor>
 設定表格欄位之背景顏色
+
 <td colspan rowspan>
 表格欄位的合併
+
 <td nowrap>
 設定表格欄位不換行
+
 <td valign>
 調整表格欄位之上下對齊
+
 <td width>
 調整表格欄位寬度
+
 <td>...</td>
 定義表格的資料欄位
+
 <textarea name rows cols>
 表單中加入多少列的文字輸入欄
+
 <textarea wrap>
 決定文字輸入欄是自動否換行
+
 <th>...</th>
 定義表格的標頭欄位
+
 <tr>...</tr>
 定義表格每一行
+
 <tt>
 打字機字體
+
 <u>
 文字加底線
+
 <ul type>...</ul>
 無序號的列表 ( 可指定符號 )
+
 <var>...</var>
 用於顯示變數
