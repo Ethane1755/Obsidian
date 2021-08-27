@@ -42,7 +42,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Untitled.md",
+            "file": "Zettelkasten/HTML Workflow.md",
             "mode": "source"
           }
         }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/HTML Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
