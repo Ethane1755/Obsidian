@@ -37,13 +37,13 @@
         }
       },
       {
-        "id": "29a4c17eb0ef368a",
+        "id": "1798dde5802cb726",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/HTML Workflow.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -154,17 +154,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "29a4c17eb0ef368a",
+  "active": "1798dde5802cb726",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled.md",
+    "Zettelkasten/HTML Workflow.md",
     "Zettelkasten/地理資訊系統.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/HTML 語法.md",
     "Zettelkasten/關鍵字.md",
     "Zettelkasten/台灣史前文化代表.md",
     "Anki cards/Geography.md",
     "Zettelkasten/卡爾文循環.md",
     "Zettelkasten/日冕.md",
-    "Zettelkasten/太陽風.md",
-    "Zettelkasten/公聽會.md"
+    "Zettelkasten/太陽風.md"
   ]
 }
