@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/關鍵字.md",
+                "file": "Zettelkasten/河川襲奪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +122,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f5ebda317ac37b2",
+  "active": "0a8b3157b59a77f0",
   "lastOpenFiles": [
+    "Zettelkasten/河川襲奪.md",
     "Zettelkasten/關鍵字.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/地理資訊系統.md",
@@ -132,7 +133,6 @@
     "Zettelkasten/台灣史前文化代表.md",
     "Zettelkasten/SQL  資料定義(DDL).md",
     "Zettelkasten/HTML Workflow.md",
-    "Anki cards/Geography.md",
-    "Zettelkasten/卡爾文循環.md"
+    "Anki cards/Geography.md"
   ]
 }
