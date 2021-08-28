@@ -4,13 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5f5ebda317ac37b2",
+        "id": "15044539732c8c7b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "6eaea9c5309a9c59",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/河川襲奪.md",
-            "mode": "preview"
+            "file": "Zettelkasten/關鍵字.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/河川襲奪.md",
+                "file": "Zettelkasten/關鍵字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,11 +119,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f5ebda317ac37b2",
+  "active": "6eaea9c5309a9c59",
   "lastOpenFiles": [
+    "Zettelkasten/關鍵字.md",
     "Zettelkasten/河川襲奪.md",
     "Anki cards/History.md",
-    "Zettelkasten/關鍵字.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/地理資訊系統.md",
     "Zettelkasten/HTML 語法.md",
