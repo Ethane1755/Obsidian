@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/準平原.md",
+            "file": "Zettelkasten/原始準平原學說.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/準平原.md",
+                "file": "Zettelkasten/原始準平原學說.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
   },
   "active": "6eaea9c5309a9c59",
   "lastOpenFiles": [
+    "Zettelkasten/原始準平原學說.md",
     "Zettelkasten/準平原.md",
     "Zettelkasten/關鍵字.md",
     "Zettelkasten/Untitled.md",
@@ -130,7 +131,6 @@
     "Zettelkasten/地理資訊系統.md",
     "Zettelkasten/HTML 語法.md",
     "Zettelkasten/SQL.md",
-    "Zettelkasten/台灣史前文化代表.md",
-    "Zettelkasten/SQL  資料定義(DDL).md"
+    "Zettelkasten/台灣史前文化代表.md"
   ]
 }
