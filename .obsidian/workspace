@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/河川襲奪.md",
+            "file": "Anki cards/History.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/河川襲奪.md",
+                "file": "Anki cards/History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -124,6 +123,7 @@
   },
   "active": "0a8b3157b59a77f0",
   "lastOpenFiles": [
+    "Anki cards/History.md",
     "Zettelkasten/河川襲奪.md",
     "Zettelkasten/關鍵字.md",
     "Zettelkasten/Untitled.md",
@@ -132,7 +132,6 @@
     "Zettelkasten/SQL.md",
     "Zettelkasten/台灣史前文化代表.md",
     "Zettelkasten/SQL  資料定義(DDL).md",
-    "Zettelkasten/HTML Workflow.md",
-    "Anki cards/Geography.md"
+    "Zettelkasten/HTML Workflow.md"
   ]
 }
