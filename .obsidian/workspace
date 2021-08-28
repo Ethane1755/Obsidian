@@ -28,8 +28,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/侵蝕輪迴論.md",
-            "mode": "preview"
+            "file": "Zettelkasten/準平原.md",
+            "mode": "source"
           }
         }
       }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/侵蝕輪迴論.md",
+                "file": "Zettelkasten/準平原.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -132,6 +133,7 @@
   },
   "active": "07a9caaa0d41d034",
   "lastOpenFiles": [
+    "Zettelkasten/準平原.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/關鍵字.md",
     "Zettelkasten/河川襲奪.md",
@@ -140,7 +142,6 @@
     "Zettelkasten/HTML 語法.md",
     "Zettelkasten/SQL.md",
     "Zettelkasten/台灣史前文化代表.md",
-    "Zettelkasten/SQL  資料定義(DDL).md",
-    "Zettelkasten/HTML Workflow.md"
+    "Zettelkasten/SQL  資料定義(DDL).md"
   ]
 }
