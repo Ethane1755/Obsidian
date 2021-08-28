@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ee7d6c0ecba110d4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/台灣史前文化代表.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "5f5ebda317ac37b2",
         "type": "leaf",
         "state": {
@@ -32,50 +21,6 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/地理資訊系統.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1798dde5802cb726",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/HTML Workflow.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "0a9d94a9b74fbef2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/HTML 語法.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "cc978937f4ac7d03",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/SQL.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c3352efb974660a1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/SQL  資料定義(DDL).md",
             "mode": "source"
           }
         }
@@ -136,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/SQL  資料定義(DDL).md",
+                "file": "Zettelkasten/關鍵字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -176,16 +122,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c3352efb974660a1",
+  "active": "5f5ebda317ac37b2",
   "lastOpenFiles": [
-    "Zettelkasten/SQL  資料定義(DDL).md",
-    "Zettelkasten/SQL.md",
+    "Zettelkasten/關鍵字.md",
     "Zettelkasten/HTML 語法.md",
+    "Zettelkasten/SQL.md",
+    "Zettelkasten/台灣史前文化代表.md",
+    "Zettelkasten/SQL  資料定義(DDL).md",
     "Zettelkasten/HTML Workflow.md",
     "Zettelkasten/地理資訊系統.md",
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/關鍵字.md",
-    "Zettelkasten/台灣史前文化代表.md",
     "Anki cards/Geography.md",
     "Zettelkasten/卡爾文循環.md"
   ]
