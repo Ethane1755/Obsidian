@@ -159,8 +159,8 @@
     "Zettelkasten/Blockly.md": "095e97ba18e8d9fcf1bd0f3105a39035",
     "Zettelkasten/Coursera Application.md": "352ab7bdc3dfb52c2dbaccc2f1f1ba34",
     "Zettelkasten/Intermediate English Learning.md": "f8a5eef423841ef7e8787a1f3167f1bd",
-    "Anki cards/History.md": "2355f05bbadb373dab8bc4043bdede93",
-    "Anki cards/Geography.md": "46b2b2d74f96649ad3f6cd10b02b46ee",
+    "Anki cards/History.md": "6acd0859529be116bbd3f2ef52d350f3",
+    "Anki cards/Geography.md": "cba0c9aaea5b2049199514ff0dc434b6",
     "_Templates/Notes.md": "20e97755d8bb5a6f4d6f03b6c0d827f2",
     "Zettelkasten/美利堅聯盟國.md": "e77531445e003bbb677ae58960a41499",
     "Zettelkasten/黑矮星.md": "a27d2c40a67f458e6c2a92785754a1c3",
@@ -177,7 +177,7 @@
     "Zettelkasten/哈伯望遠鏡.md": "f5fbcf098e028cc53ad817040f974849",
     "Zettelkasten/公聽會.md": "40ed8b4403d80a24fa67269374b1e325",
     "Zettelkasten/台灣考古學發展.md": "016b1032db097ce906acddd17c72349c",
-    "Zettelkasten/台灣史前文化代表.md": "660e2c4ddf7647e72472d66c3ad07ab9",
+    "Zettelkasten/台灣史前文化代表.md": "8d6f84b306a2d2d8400267cb3b46f243",
     "Zettelkasten/南北戰爭.md": "387246f03faf38d5b8a6eb9ad2bb859f",
     "Anki cards/Earth Science.md": "bd681af1aacc1bea0a1c29d6602ada1f",
     "Anki cards/Math.md": "f15aa42e15c01f3fda3b1cdf290fa79d",
@@ -215,7 +215,13 @@
     "Zettelkasten/POPCAT plugin.md": "a88161f4d91a82013f4266baf9231f71",
     "Zettelkasten/NADPH.md": "3df33bd5f2ec448bdfc38fd344fb27c5",
     "Zettelkasten/Git Commands.md": "df73d9db422cafe8f248fbfb487612a6",
-    "Zettelkasten/Folium 入門.md": "b39b172e9e065480f48a5e63aa1b04e8"
+    "Zettelkasten/Folium 入門.md": "b39b172e9e065480f48a5e63aa1b04e8",
+    "Zettelkasten/河川襲奪.md": "d20702e94740c704edc3d428b51ed523",
+    "Zettelkasten/關鍵字.md": "a6fe2919847bc6026013a699a9e7376d",
+    "Zettelkasten/地理資訊系統.md": "bd04a7f78994a44b7b4f7cbdcb18fc53",
+    "Zettelkasten/HTML 語法.md": "7b8dca20416205766003409cd326fc1c",
+    "Zettelkasten/HTML Workflow.md": "f32222a2cfd5e41ea16df57331c1de0a",
+    "README.md": "297a4e2ac4afa60dcae91328af83b3ce"
   },
   "fields_dict": {
     "克漏字": [

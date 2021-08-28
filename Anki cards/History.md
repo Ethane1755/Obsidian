@@ -50,6 +50,12 @@ TARGET DECK: History
 低關稅以利出口，但被合眾國杯葛 
 <!--ID: 1627972387074-->
 
+hello #flashcard 
+hi
+<!--ID: 1630147091836-->
+
+
+
 
 
 
