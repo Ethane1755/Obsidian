@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/關鍵字.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/河川襲奪.md",
+                "file": "Zettelkasten/關鍵字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +122,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0a8b3157b59a77f0",
+  "active": "5f5ebda317ac37b2",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/關鍵字.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/地理資訊系統.md",
     "Zettelkasten/HTML 語法.md",
     "Zettelkasten/SQL.md",
