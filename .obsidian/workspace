@@ -10,17 +10,6 @@
           "type": "empty",
           "state": {}
         }
-      },
-      {
-        "id": "6eaea9c5309a9c59",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/原始準平原學說.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/原始準平原學說.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -118,7 +107,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6eaea9c5309a9c59",
+  "active": "15044539732c8c7b",
   "lastOpenFiles": [
     "Zettelkasten/原始準平原學說.md",
     "Zettelkasten/準平原.md",
