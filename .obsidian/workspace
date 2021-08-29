@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Untitled.md",
+            "file": "Zettelkasten/解題背後的心理學心得.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mermaid",
+                "query": "建中",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/解題背後的心理學心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "15044539732c8c7b",
   "lastOpenFiles": [
+    "Zettelkasten/解題背後的心理學心得.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/侵蝕輪迴論.md",
     "Zettelkasten/原始準平原學說.md",
@@ -122,7 +123,6 @@
     "Zettelkasten/河川襲奪.md",
     "Anki cards/History.md",
     "Zettelkasten/地理資訊系統.md",
-    "Zettelkasten/HTML 語法.md",
-    "Zettelkasten/SQL.md"
+    "Zettelkasten/HTML 語法.md"
   ]
 }
