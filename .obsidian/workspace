@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Untitled.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "平原",
+                "query": "mermaid",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,12 +81,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -114,6 +114,7 @@
   "active": "15044539732c8c7b",
   "lastOpenFiles": [
     "Zettelkasten/Untitled.md",
+    "Zettelkasten/侵蝕輪迴論.md",
     "Zettelkasten/原始準平原學說.md",
     "Zettelkasten/準平原.md",
     "Zettelkasten/關鍵字.md",
@@ -121,7 +122,6 @@
     "Anki cards/History.md",
     "Zettelkasten/地理資訊系統.md",
     "Zettelkasten/HTML 語法.md",
-    "Zettelkasten/SQL.md",
-    "Zettelkasten/台灣史前文化代表.md"
+    "Zettelkasten/SQL.md"
   ]
 }

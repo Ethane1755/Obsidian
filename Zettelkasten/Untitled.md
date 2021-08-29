@@ -10,5 +10,5 @@ id5-->|O|id6(不是質數)
 id5-->|X|id5
 id5-->id7(當所有V都被檢測完後, n/V都不為0)
 id7-->id8(是質數)
-style 
+style id8 fill:#e35146
 ```
