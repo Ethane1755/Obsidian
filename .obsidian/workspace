@@ -7,8 +7,11 @@
         "id": "15044539732c8c7b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +113,10 @@
   },
   "active": "15044539732c8c7b",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/原始準平原學說.md",
     "Zettelkasten/準平原.md",
     "Zettelkasten/關鍵字.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/河川襲奪.md",
     "Anki cards/History.md",
     "Zettelkasten/地理資訊系統.md",
