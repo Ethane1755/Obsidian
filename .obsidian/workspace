@@ -13,6 +13,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "da1a9f30a52c6932",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/自主學習計畫討論.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/解題背後的心理學心得.md",
+                "file": "Zettelkasten/自主學習計畫討論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +123,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15044539732c8c7b",
+  "active": "da1a9f30a52c6932",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 1.md",
     "Zettelkasten/解題背後的心理學心得.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/侵蝕輪迴論.md",
@@ -122,7 +134,6 @@
     "Zettelkasten/關鍵字.md",
     "Zettelkasten/河川襲奪.md",
     "Anki cards/History.md",
-    "Zettelkasten/地理資訊系統.md",
-    "Zettelkasten/HTML 語法.md"
+    "Zettelkasten/地理資訊系統.md"
   ]
 }
