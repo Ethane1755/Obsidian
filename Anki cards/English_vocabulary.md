@@ -163,7 +163,12 @@ the rest (of)
 ...not...anymore
 
 有好的開始 #flashcard 
-be/ get off tp a
+be/ get off to a good start
+
+n[C], (高中或大學) 一年級新生 #flashcard 
+freshman
+
+n [C], 
 
 
 
