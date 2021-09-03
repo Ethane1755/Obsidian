@@ -108,6 +108,11 @@ pause
 n[C], 暫停、停頓的時間 #flashcard 
 pause
 
+vt, 了解、領悟 /
+vt, 實現 #flashcard 
+realize
+
+vt, ㄏㄨㄟ
 
 
 
