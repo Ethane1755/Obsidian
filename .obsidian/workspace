@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Git Commands.md",
-            "mode": "preview"
+            "file": "Anki cards/English_vocabulary.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Git Commands.md",
+                "file": "Anki cards/English_vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,13 +81,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -114,15 +112,15 @@
   },
   "active": "da1a9f30a52c6932",
   "lastOpenFiles": [
+    "Anki cards/English_vocabulary.md",
+    "Anki cards/Geography.md",
+    "Anki cards/Dndj.md",
     "Zettelkasten/Git Commands.md",
     "Zettelkasten/解題背後的心理學心得.md",
     "Zettelkasten/自主學習計畫討論.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/侵蝕輪迴論.md",
-    "Zettelkasten/原始準平原學說.md",
-    "Zettelkasten/準平原.md",
-    "Zettelkasten/關鍵字.md",
-    "Zettelkasten/河川襲奪.md"
+    "Zettelkasten/原始準平原學說.md"
   ]
 }
