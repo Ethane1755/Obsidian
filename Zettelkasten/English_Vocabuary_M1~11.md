@@ -80,4 +80,15 @@ n, 大多數、大部分 #flashcard
 majority
 
 大多數的... #flashcard 
-majo
+majority of N
+
+v, 通知、知會 #flashcard 
+inform
+
+v, 鼓掌 #flashcard 
+applaud
+
+n, 出席、參加 #flashcard 
+attendance
+
+n, 設備、
