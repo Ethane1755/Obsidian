@@ -50,5 +50,8 @@ v, 拍攝 #flashcard
 shoot-shot-shot
 
 adj, 令人愉快的 #flashcard 
+enjoyable
 
+adj, 實際的、實作的 #flashcard 
+practical
 
