@@ -12,4 +12,9 @@ reflect #flashcard
 vt, 映出(影像等)
 
 vt.  #flashcard 
+及物動詞
+
+vi. #flashcard 
+不及物動詞
+
 
