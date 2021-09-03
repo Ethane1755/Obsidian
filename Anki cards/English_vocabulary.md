@@ -154,6 +154,12 @@ make sure
 let out
 
 剩餘(的......) #flashcard 
+the rest (of)
+
+再也沒有人 #flashcard 
+...no one/ nobody...anymore
+
+再也沒有、不再 #flashcard 
 
 
 
