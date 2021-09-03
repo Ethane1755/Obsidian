@@ -80,8 +80,10 @@ depression
 adv, 回答、回覆 #flashcard 
 reply
 
-
+adv, 幸運的 #flashcard 
 fortunately
+
+
 
 
 
