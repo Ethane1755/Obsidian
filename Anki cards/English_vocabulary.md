@@ -134,11 +134,20 @@ recall
 
 
 n[C], 回憶、記憶/
-n[C], 記憶力、記性flashcard 
+n[C], 記憶力、記性 #flashcard 
 memory
 <!--ID: 1630673802146-->
 
 vt, 記憶、記住 #flashcard 
+memorize
+
+adj, 難忘的 #flashcard 
+memorable
+
+vt, 提醒、使想起 #flashcard 
+remind
+
+
 
 
 
