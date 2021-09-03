@@ -160,7 +160,10 @@ the rest (of)
 ...no one/ nobody...anymore
 
 再也沒有、不再 #flashcard 
+...not...anymore
 
+有好的開始 #flashcard 
+be/ get off tp a
 
 
 
