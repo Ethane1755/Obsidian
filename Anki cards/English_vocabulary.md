@@ -90,6 +90,11 @@ fortunately
 adj, 幸運的 #flashcard 
 fortunate
 
+vi, 大喊、大吼 #flashcard 
+yell
+
+adj, 噁心的、
+
 
 
 
