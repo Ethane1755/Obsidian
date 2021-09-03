@@ -1,4 +1,4 @@
-# English_vocabulary
+# English_Vocabulary
 
 TARGET DECK: English_Vocabuary
 
@@ -50,6 +50,6 @@ embarrassment
 vt, 故意不參加，不做(該做)的事 #flashcard 
 skip
 
-vt, vi
+vt/ vi, 
 
 
