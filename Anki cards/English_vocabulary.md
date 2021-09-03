@@ -73,6 +73,12 @@ adj, 沮喪的、消沉的 #flashcard
 depressed
 <!--ID: 1630673211221-->
 
+n [U], 沮喪、消沉 #flashcard 
+depression
+<!--ID: 1630673253437-->
+
+
+
 
 
 
