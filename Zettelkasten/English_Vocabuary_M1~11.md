@@ -56,4 +56,16 @@ adj, 實際的、實作的 #flashcard
 practical
 
 n, (中學或大學的) 一年級新生 #flashcard 
-freshmna
+freshman
+
+n, 博覽會 #flashcard 
+expo
+
+n, 劇本、腳本 #flashcard 
+script
+
+n, 會籍、會員 #flashcard 
+membership
+
+v, 介紹 #flashcard 
+int
