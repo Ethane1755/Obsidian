@@ -22,18 +22,19 @@ vt.
 vi. 
 <!--ID: 1630672355198-->
 
-upset #flashcard 
 adj, 難過的，沮喪的/
-vt, 使難過，使沮喪
+vt, 使難過，使沮喪 #flashcard 
+upset 
 <!--ID: 1630672355201-->
 
-ruin #flashcard 
 vt, 破壞，毀壞/
-n, 破壞，毀壞
+n, 破壞，毀壞 #flashcard 
+ruin 
 <!--ID: 1630672409540-->
 
-embarassed #flashcard 
-adj, 尷尬的，難堪的
+adj, 尷尬的，難堪的 #flashcard 
+embarrassed
+<!--ID: 1630672599932-->
 
 embarassed
 
