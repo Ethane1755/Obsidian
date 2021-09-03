@@ -46,5 +46,9 @@ hall
 v, 討論 #flashcard 
 discuss
 
-v, 
+v, 拍攝 #flashcard 
+shoot-shot-shot
+
+adj, 令人愉快的 #flashcard 
+
 
