@@ -77,7 +77,11 @@ n [U], 沮喪、消沉 #flashcard
 depression
 <!--ID: 1630673253437-->
 
+adv, 回答、回覆 #flashcard 
+reply
 
+
+fortunately
 
 
 
