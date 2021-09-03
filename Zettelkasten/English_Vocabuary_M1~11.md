@@ -101,3 +101,7 @@ too...to...
 sign up
 
 請坐 #flashcard 
+take/ have a seat 
+
+開始談論某事 #flashcard 
+get into sth
