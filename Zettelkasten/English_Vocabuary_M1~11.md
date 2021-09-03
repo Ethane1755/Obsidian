@@ -25,4 +25,9 @@ n, 總務部 #flashcard
 general affairs department
 <!--ID: 1630675105845-->
 
+n, 活動部 #flashcard 
+activities department
+
+n, 美宣部 #flashcard 
+artisitic 
 
