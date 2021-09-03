@@ -29,5 +29,11 @@ n, 活動部 #flashcard
 activities department
 
 n, 美宣部 #flashcard 
-artisitic 
+artisitic design department
+
+n, 秘書部 #flashcard 
+secretary department
+
+n, 公關部 #flashcard 
+public relations departm
 
