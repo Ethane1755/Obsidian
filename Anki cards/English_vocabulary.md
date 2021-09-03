@@ -89,30 +89,54 @@ fortunately
 
 adj, 幸運的 #flashcard 
 fortunate
+<!--ID: 1630673802118-->
+
 
 vi, 大喊、大吼 #flashcard 
 yell
+<!--ID: 1630673802122-->
+
 
 adj, 噁心的、令人不快的 #flashcard 
 disgusting
+<!--ID: 1630673802125-->
+
 
 vt, 使作嘔、使反感 #flashcard 
 disgust
+<!--ID: 1630673802128-->
+
 
 n [U], 噁心、反感 #flashcard 
 disgust
+<!--ID: 1630673802131-->
+
 
 vi, 暫停、停頓 #flashcard 
 pause
+<!--ID: 1630673802134-->
+
 
 n[C], 暫停、停頓的時間 #flashcard 
 pause
+<!--ID: 1630673802137-->
+
 
 vt, 了解、領悟 /
 vt, 實現 #flashcard 
 realize
+<!--ID: 1630673802140-->
 
-vt, ㄏㄨㄟ
+
+vt, 回想起、記起 #flashcard 
+recall
+<!--ID: 1630673802143-->
+
+
+n[C], 回憶、記憶 #flashcard 
+memory
+<!--ID: 1630673802146-->
+
 
 
 
