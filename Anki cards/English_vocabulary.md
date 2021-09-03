@@ -44,6 +44,12 @@ v, 使尷尬，使難堪 #flashcard
 embarrass
 <!--ID: 1630672724915-->
 
-n [U], 尷尬，難堪
+n [U], 尷尬，難堪 #flashcard 
+embarrassment
+
+vt, 故意不參加，不做(該做)的事 #flashcard 
+skip
+
+vt, vi
 
 
