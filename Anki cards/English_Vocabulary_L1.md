@@ -1,4 +1,4 @@
-# English_Vocabulary
+# English_Vocabulary_L1
 
 TARGET DECK: Vocabuary_L1
 
@@ -220,9 +220,9 @@ adj, 無憂無慮的 #flashcard
 carefree
 <!--ID: 1630674403129-->
 
-TARGET DECK: Vocabuary_M1~11
 
-hello #flashcard 
+
+
 
 
 
