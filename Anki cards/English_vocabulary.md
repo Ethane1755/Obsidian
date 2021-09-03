@@ -40,7 +40,10 @@ adj, 令人尷尬、難堪的 #flashcard
 embarrassing
 <!--ID: 1630672669740-->
 
-v, 
+v, 使尷尬，使難堪 #flashcard 
 embarrass
+<!--ID: 1630672724915-->
+
+
 
 
