@@ -220,8 +220,9 @@ adj, 無憂無慮的 #flashcard
 carefree
 <!--ID: 1630674403129-->
 
-TARGET DECK: Vocabuary_M1
+TARGET DECK: Vocabuary_M1~11
 
+hello #flashcard 
 
 
 
