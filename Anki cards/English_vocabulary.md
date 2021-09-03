@@ -50,6 +50,11 @@ embarrassment
 vt, 故意不參加，不做(該做)的事 #flashcard 
 skip
 
-vt/ vi, 
+vt/ vi, 略過、跳過 #flashcard 
+skip
+
+adj, 令人沮喪的，令人消沉的
+depressing
+
 
 
