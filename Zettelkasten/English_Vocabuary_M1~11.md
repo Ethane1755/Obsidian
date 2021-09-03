@@ -12,4 +12,8 @@ n, 會長、社長 #flashcard
 president
 
 n, 副會長、副社長 #flashcard 
-viv
+vice president
+
+n, 總務部 #flashcard 
+general affairs department
+
