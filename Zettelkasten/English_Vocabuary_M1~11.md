@@ -4,16 +4,25 @@ TARGET DECK: Vocabuary_M1~11
 
 n, 學生會 #flashcard 
 student association
+<!--ID: 1630675102245-->
 
 n, 校隊 #flashcard 
 varsity team
+<!--ID: 1630675105837-->
+
 
 n, 會長、社長 #flashcard 
 president
+<!--ID: 1630675105840-->
+
 
 n, 副會長、副社長 #flashcard 
 vice president
+<!--ID: 1630675105843-->
+
 
 n, 總務部 #flashcard 
 general affairs department
+<!--ID: 1630675105845-->
+
 
