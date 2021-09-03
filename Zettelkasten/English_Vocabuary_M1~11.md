@@ -91,4 +91,13 @@ applaud
 n, 出席、參加 #flashcard 
 attendance
 
-n, 設備、
+n, 設備、器材 #flashcard 
+equipment
+
+太...以致於不能... #flashcard 
+too...to...
+
+報名參加 #flashcard 
+sign up
+
+請坐 #flashcard 
