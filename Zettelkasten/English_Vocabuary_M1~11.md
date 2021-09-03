@@ -68,4 +68,16 @@ n, 會籍、會員 #flashcard
 membership
 
 v, 介紹 #flashcard 
-int
+introduction
+
+n, 恐懼、恐怖 #flashcard 
+horror
+
+adv, 每周的 #flashcard 
+weekly
+
+n, 大多數、大部分 #flashcard 
+majority
+
+大多數的... #flashcard 
+majo
