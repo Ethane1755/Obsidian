@@ -35,5 +35,16 @@ n, 秘書部 #flashcard
 secretary department
 
 n, 公關部 #flashcard 
-public relations departm
+public relations department
+
+v, 參加、出席 #flashcard 
+attend
+
+n, 走廊 #flashcard 
+hall
+
+v, 討論 #flashcard 
+discuss
+
+v, 
 
