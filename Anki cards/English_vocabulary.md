@@ -177,6 +177,13 @@ alien
 n [C], 太空船 #flashcard 
 spaceship
 
+n [C], 青春痘、粉刺 #flashcard 
+pimple
+
+n [C], 最亮眼的女生 #flashcard 
+It girl
+
+adv, 神奇的，奇蹟似的
 
 
 
