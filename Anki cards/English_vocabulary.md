@@ -133,9 +133,13 @@ recall
 <!--ID: 1630673802143-->
 
 
-n[C], 回憶、記憶 #flashcard 
+n[C], 回憶、記憶/
+n[C], 記憶力、記性flashcard 
 memory
 <!--ID: 1630673802146-->
+
+vt, 記憶、記住 #flashcard 
+
 
 
 
