@@ -168,7 +168,15 @@ be/ get off to a good start
 n[C], (高中或大學) 一年級新生 #flashcard 
 freshman
 
-n [C], 
+n [C], 青春痘、粉刺 #flashcard 
+zit
+
+n [C], 外星人 #flashcard 
+alien
+
+n [C], 太空船 #flashcard 
+spaceship
+
 
 
 
