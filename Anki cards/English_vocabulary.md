@@ -36,6 +36,11 @@ adj, 尷尬的，難堪的 #flashcard
 embarrassed
 <!--ID: 1630672599932-->
 
-embarassed
+adj, 令人尷尬、難堪的 #flashcard 
+embarrassing
+<!--ID: 1630672669740-->
+
+v, 
+embarrass
 
 
