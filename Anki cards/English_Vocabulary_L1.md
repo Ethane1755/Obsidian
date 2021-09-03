@@ -1,6 +1,6 @@
-# English_Vocabulary_
+# English_Vocabulary_L1
 
-TARGET DECK: English_Vocabuary
+TARGET DECK: Vocabuary_L1
 
 adj, 完美的 #flashcard 
 perfect 
