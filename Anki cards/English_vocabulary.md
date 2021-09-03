@@ -147,6 +147,13 @@ memorable
 vt, 提醒、使想起 #flashcard 
 remind
 
+確定、確保 #flashcard 
+make sure
+
+發出(尖叫聲、叫喊聲) #flashcard 
+let out
+
+剩餘(的......) #flashcard 
 
 
 
