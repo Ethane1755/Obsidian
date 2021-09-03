@@ -46,15 +46,34 @@ embarrass
 
 n [U], 尷尬，難堪 #flashcard 
 embarrassment
+<!--ID: 1630673198313-->
+
 
 vt, 故意不參加，不做(該做)的事 #flashcard 
 skip
+<!--ID: 1630673198343-->
+
 
 vt/ vi, 略過、跳過 #flashcard 
 skip
+<!--ID: 1630673198371-->
 
-adj, 令人沮喪的，令人消沉的
+
+adj, 令人沮喪的，令人消沉的 #flashcard 
 depressing
+<!--ID: 1630673211123-->
+
+
+vt, 使沮喪、使消沉 #flashcard 
+depress
+<!--ID: 1630673211189-->
+
+
+adj, 沮喪的、消沉的 #flashcard 
+depressed
+<!--ID: 1630673211221-->
+
+
 
 
 
