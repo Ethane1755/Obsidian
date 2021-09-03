@@ -93,7 +93,14 @@ fortunate
 vi, 大喊、大吼 #flashcard 
 yell
 
-adj, 噁心的、
+adj, 噁心的、令人不快的 #flashcard 
+disgusting
+
+vt, 使作嘔、使反感 #flashcard 
+disgust
+
+n [U], 噁心、ㄈㄢ
+
 
 
 
