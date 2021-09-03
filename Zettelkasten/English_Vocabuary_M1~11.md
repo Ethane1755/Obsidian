@@ -55,3 +55,5 @@ enjoyable
 adj, 實際的、實作的 #flashcard 
 practical
 
+n, (中學或大學的) 一年級新生 #flashcard 
+freshmna
