@@ -87,7 +87,8 @@ fortunately
 <!--ID: 1630673443569-->
 
 
-
+adj, 幸運的 #flashcard 
+fortunate
 
 
 
