@@ -1,4 +1,4 @@
-# English_Vocabulary_L1
+# English_Vocabulary
 
 TARGET DECK: Vocabuary_L1
 
@@ -219,6 +219,8 @@ miraculously
 adj, 無憂無慮的 #flashcard 
 carefree
 <!--ID: 1630674403129-->
+
+TARGET DECK: Vocabuary_M1
 
 
 
