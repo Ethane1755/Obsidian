@@ -6,3 +6,10 @@ n, 學生會 #flashcard
 student association
 
 n, 校隊 #flashcard 
+varsity team
+
+n, 會長、社長 #flashcard 
+president
+
+n, 副會長、副社長 #flashcard 
+viv
