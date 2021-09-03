@@ -17,4 +17,6 @@ vt.  #flashcard
 vi. #flashcard 
 不及物動詞
 
-
+upset #flashcard 
+adj, 難過的，沮喪的
+vt, 使難過，使沮喪
