@@ -2,24 +2,24 @@
 
 TARGET DECK: English_Vocabuary
 
-adj, 完美的#flashcard 
+adj, 完美的 #flashcard 
 perfect 
 <!--ID: 1630672350305-->
 
-reflection #flashcard 
-n, 映出的影像
+n, 映出的影像 #flashcard 
+reflection
 <!--ID: 1630672355138-->
 
-reflect #flashcard 
-vt, 映出(影像等)
+vt, 映出(影像等) #flashcard 
+reflect 
 <!--ID: 1630672355190-->
 
-vt. #flashcard 
-及物動詞
+及物動詞 #flashcard 
+vt. 
 <!--ID: 1630672355194-->
 
-vi. #flashcard 
-不及物動詞
+不及物動詞 #flashcard 
+vi. 
 <!--ID: 1630672355198-->
 
 upset #flashcard 
