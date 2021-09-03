@@ -99,7 +99,16 @@ disgusting
 vt, 使作嘔、使反感 #flashcard 
 disgust
 
-n [U], 噁心、ㄈㄢ
+n [U], 噁心、反感 #flashcard 
+disgust
+
+vi, 暫停、停頓 #flashcard 
+pause
+
+n[C], 暫停、停頓的時間 #flashcard 
+pause
+
+
 
 
 
