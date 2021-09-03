@@ -27,6 +27,12 @@ adj, 難過的，沮喪的/
 vt, 使難過，使沮喪
 <!--ID: 1630672355201-->
 
-ruin 
+ruin #flashcard 
+vt, 破壞，毀壞/
+n, 破壞，毀壞
+<!--ID: 1630672409540-->
+
+embarassed #flashcard 
+adj
 
 
