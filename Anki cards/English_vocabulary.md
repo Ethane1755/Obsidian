@@ -79,9 +79,13 @@ depression
 
 adv, 回答、回覆 #flashcard 
 reply
+<!--ID: 1630673443523-->
+
 
 adv, 幸運的 #flashcard 
 fortunately
+<!--ID: 1630673443569-->
+
 
 
 
