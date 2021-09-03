@@ -105,3 +105,6 @@ take/ have a seat
 
 開始談論某事 #flashcard 
 get into sth
+
+盡快 #flashcard 
+as soon as possiv
