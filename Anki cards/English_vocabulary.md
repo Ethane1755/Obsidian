@@ -11,5 +11,5 @@ n, 映出的影像
 reflect #flashcard 
 vt, 映出(影像等)
 
-vt. #flashcard 
+vt.  #flashcard 
 
