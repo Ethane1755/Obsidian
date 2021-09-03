@@ -5,4 +5,11 @@ TARGET DECK: English_Vocabuary
 perfect #flashcard 
 adj, 完美的
 
-reflection
+reflection #flashcard 
+n, 映出的影像
+
+reflect #flashcard 
+vt, 映出(影像等)
+
+vt. #flashcard 
+
