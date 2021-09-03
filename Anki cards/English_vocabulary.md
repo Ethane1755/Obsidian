@@ -2,8 +2,8 @@
 
 TARGET DECK: English_Vocabuary
 
-perfect #flashcard 
-adj, 完美的
+adj, 完美的#flashcard 
+perfect 
 <!--ID: 1630672350305-->
 
 reflection #flashcard 
@@ -33,6 +33,8 @@ n, 破壞，毀壞
 <!--ID: 1630672409540-->
 
 embarassed #flashcard 
-adj
+adj, 尷尬的，難堪的
+
+embarassed
 
 
