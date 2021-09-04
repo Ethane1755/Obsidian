@@ -20,8 +20,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/English_Vocabuary_M1~11.md",
+            "file": "Anki cards/English_Vocabuary_M1~11.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "0b7cc432b501f712",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled 1.md",
+            "mode": "source"
           }
         }
       }
@@ -81,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/English_Vocabuary_M1~11.md",
+                "file": "Zettelkasten/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,11 +132,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6d0cab3b7f59fb0",
+  "active": "0b7cc432b501f712",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 1.md",
     "Zettelkasten/English_Vocabuary_M1~11.md",
     "Anki cards/English_Vocabulary_L1.md",
-    "Zettelkasten/Untitled 1.md",
     "Anki cards/English_vocabulary.md",
     "Anki cards/Geography.md",
     "Anki cards/Dndj.md",
