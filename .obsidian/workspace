@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -124,6 +123,8 @@
   },
   "active": "c6d0cab3b7f59fb0",
   "lastOpenFiles": [
+    "Zettelkasten/English_Vocabuary_M1~11.md",
+    "Anki cards/English_Vocabulary_L1.md",
     "Zettelkasten/Untitled 1.md",
     "Anki cards/English_vocabulary.md",
     "Anki cards/Geography.md",
@@ -131,8 +132,6 @@
     "Zettelkasten/Git Commands.md",
     "Zettelkasten/解題背後的心理學心得.md",
     "Zettelkasten/自主學習計畫討論.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/侵蝕輪迴論.md",
-    "Zettelkasten/原始準平原學說.md"
+    "Zettelkasten/Untitled.md"
   ]
 }
