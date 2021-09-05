@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da1a9f30a52c6932",
+        "id": "d8756b90ace7e96b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Anki cards/English_Vocabulary_L1.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c6d0cab3b7f59fb0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Anki cards/English_Vocabuary_M1~11.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "0b7cc432b501f712",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Matplotlib 入門.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "f30595808983588e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Untitled 1.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -103,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Matplotlib 入門.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b7cc432b501f712",
+  "active": "d8756b90ace7e96b",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 1.md",
+    "Anki cards/English_Vocabuary_M1~11.md",
+    "Zettelkasten/Untitled.md",
+    "Anki cards/English_Vocabulary_L1.md",
+    "Untitled.md",
     "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/英文自我介紹.md",
-    "Zettelkasten/Untitled 1.md",
     "Zettelkasten/English_Vocabuary_M1~11.md",
-    "Anki cards/English_Vocabulary_L1.md",
     "Anki cards/English_vocabulary.md",
-    "Anki cards/Geography.md",
-    "Anki cards/Dndj.md",
-    "Zettelkasten/Git Commands.md",
-    "Zettelkasten/解題背後的心理學心得.md"
+    "Anki cards/Geography.md"
   ]
 }
