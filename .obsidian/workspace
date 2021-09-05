@@ -7,8 +7,11 @@
         "id": "d8756b90ace7e96b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Git Commands.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matplot",
+                "query": "git",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Git Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,6 +113,7 @@
   },
   "active": "d8756b90ace7e96b",
   "lastOpenFiles": [
+    "Zettelkasten/Git Commands.md",
     "Zettelkasten/Untitled 1.md",
     "Anki cards/English_Vocabuary_M1~11.md",
     "Zettelkasten/Untitled.md",
@@ -116,7 +122,6 @@
     "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/英文自我介紹.md",
     "Zettelkasten/English_Vocabuary_M1~11.md",
-    "Anki cards/English_vocabulary.md",
-    "Anki cards/Geography.md"
+    "Anki cards/English_vocabulary.md"
   ]
 }
