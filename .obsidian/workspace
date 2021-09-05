@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled 1.md",
+                "file": "Zettelkasten/英文自我介紹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +143,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f30595808983588e",
+  "active": "0b7cc432b501f712",
   "lastOpenFiles": [
+    "Zettelkasten/英文自我介紹.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/English_Vocabuary_M1~11.md",
     "Anki cards/English_Vocabulary_L1.md",
@@ -153,7 +154,6 @@
     "Anki cards/Dndj.md",
     "Zettelkasten/Git Commands.md",
     "Zettelkasten/解題背後的心理學心得.md",
-    "Zettelkasten/自主學習計畫討論.md",
-    "Zettelkasten/Untitled.md"
+    "Zettelkasten/自主學習計畫討論.md"
   ]
 }
