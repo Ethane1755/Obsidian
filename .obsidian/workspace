@@ -31,8 +31,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/英文自我介紹.md",
-            "mode": "source"
+            "file": "Zettelkasten/Matplotlib 入門.md",
+            "mode": "preview"
           }
         }
       },
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ㄩ",
+                "query": "matplot",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/英文自我介紹.md",
+                "file": "Zettelkasten/Matplotlib 入門.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,7 @@
   },
   "active": "0b7cc432b501f712",
   "lastOpenFiles": [
+    "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/英文自我介紹.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/English_Vocabuary_M1~11.md",
@@ -154,7 +155,6 @@
     "Anki cards/Geography.md",
     "Anki cards/Dndj.md",
     "Zettelkasten/Git Commands.md",
-    "Zettelkasten/解題背後的心理學心得.md",
-    "Zettelkasten/自主學習計畫討論.md"
+    "Zettelkasten/解題背後的心理學心得.md"
   ]
 }
