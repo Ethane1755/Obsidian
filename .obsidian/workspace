@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Git Commands.md",
+            "file": "Zettelkasten/英文自我介紹.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "英文",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Git Commands.md",
+                "file": "Zettelkasten/英文自我介紹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "d8756b90ace7e96b",
   "lastOpenFiles": [
+    "Zettelkasten/英文自我介紹.md",
     "Zettelkasten/Git Commands.md",
     "Zettelkasten/Untitled 1.md",
     "Anki cards/English_Vocabuary_M1~11.md",
@@ -120,7 +121,6 @@
     "Anki cards/English_Vocabulary_L1.md",
     "Untitled.md",
     "Zettelkasten/Matplotlib 入門.md",
-    "Zettelkasten/英文自我介紹.md",
     "Zettelkasten/English_Vocabuary_M1~11.md",
     "Anki cards/English_vocabulary.md"
   ]
