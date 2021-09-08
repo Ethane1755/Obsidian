@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/自主學習計畫-塞車模型.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/NADPH.md",
+                "file": "Zettelkasten/自主學習計畫-塞車模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,16 +143,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd143984ef75224a",
+  "active": "ff6afce15fb1c134",
   "lastOpenFiles": [
-    "Zettelkasten/NADPH.md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
+    "Zettelkasten/Coursera Application.md",
+    "Zettelkasten/NADPH.md",
     "Zettelkasten/SQL  資料定義(DDL).md",
     "Zettelkasten/自主學習計畫.md",
     "Zettelkasten/Python 指令.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/英文自我介紹.md",
-    "Zettelkasten/Coursera Application.md",
     "Zettelkasten/名言錦句.md",
     "Zettelkasten/Git Commands.md"
   ]
