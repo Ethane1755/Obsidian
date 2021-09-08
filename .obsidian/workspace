@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/名言錦句.md",
-            "mode": "preview"
+            "file": "Zettelkasten/Coursera Application.md",
+            "mode": "source"
           }
         }
       }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/名言錦句.md",
+                "file": "Zettelkasten/Coursera Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,8 @@
   },
   "active": "5d7876d52e062745",
   "lastOpenFiles": [
+    "Zettelkasten/Coursera Application.md",
+    "Zettelkasten/名言錦句.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/英文自我介紹.md",
     "Zettelkasten/Git Commands.md",
@@ -130,8 +132,6 @@
     "Anki cards/English_Vocabuary_M1~11.md",
     "Anki cards/English_Vocabulary_L1.md",
     "Untitled.md",
-    "Zettelkasten/Matplotlib 入門.md",
-    "Zettelkasten/English_Vocabuary_M1~11.md",
-    "Anki cards/English_vocabulary.md"
+    "Zettelkasten/Matplotlib 入門.md"
   ]
 }
