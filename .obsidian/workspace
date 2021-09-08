@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自主學習計畫.md",
+                "file": "Zettelkasten/SQL  資料定義(DDL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,10 +154,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff6afce15fb1c134",
+  "active": "00ffdc43a35652c8",
   "lastOpenFiles": [
-    "Zettelkasten/自主學習計畫.md",
     "Zettelkasten/SQL  資料定義(DDL).md",
+    "Zettelkasten/自主學習計畫.md",
     "Zettelkasten/NADPH.md",
     "Zettelkasten/Python 指令.md",
     "Zettelkasten/Untitled.md",
