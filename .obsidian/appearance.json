@@ -1,10 +1,11 @@
 {
-  "baseFontSize": 28,
+  "baseFontSize": 16,
   "theme": "obsidian",
   "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "新文字文件",
     "font."
   ],
-  "translucency": false
+  "translucency": false,
+  "baseFontSizeAction": false
 }
