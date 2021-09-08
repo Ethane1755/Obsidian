@@ -25,20 +25,13 @@
     --font-monospace: 'Hack Nerd Font', 'Source Code Pro', monospace;
 	
 }
-body.theme-light, body.theme-dark  {
-  /* change these numbers for an entirely new look */
-  --hue: 203;
-  --sat: 8%;
-  --interactive-accent-rgb: 200, 120, 0;
-  --code: #EB5757;
-}
 
 .theme-dark
 {
-	--background-primary:         hsl(var(--hue), var(--sat), var(--L1));
-	--background-primary-alt:     hsl(var(--hue), var(--sat), var(--L3));
-	--background-secondary:       hsl(var(--hue), var(--sat), var(--L2));
-	--background-secondary-alt:   hsl(var(--hue), var(--sat), var(--L3));
+	--background-primary:         #EB5757;
+	--background-primary-alt:     #EB5757;
+	--background-secondary:       #EB5757;
+	--background-secondary-alt:   #EB5757;
     --text-normal:                var(--light2);
     --text-faint:                 var(--light0);
     --text-muted:                 var(--light1);
