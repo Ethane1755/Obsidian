@@ -2,7 +2,7 @@
 #coursera
 To whom it may concern:
 
-The "Michgan infographics course" enables me to jigsaw tiny bits of data and information into extremely useful conclusions. Companies from technology giants like Google and Amazon to Community firms who only serves rural areas all need data analyst to decide which route their company might take to achieve more efficiency and goals. With these courses, I can get the essential skills to be a Data Analyst in major companies. My current career goal, since I am still a student, is to ensure as many abilities with divergences as possible. In order to fulfill my ambition, Coursera is the best place I could find online. Thank you in advance for giving me and many others the chance to have a dreamlike education platform, and for the application of funds which helps many, including me, to have a resource normally unable for us to reach.
+The "Michgan infographics course" enables me to jigsaw tiny bits of data and information into extremely useful conclusions. Companies from technology giants like Google and Amazon to Community firms which only serves rural areas all need infographics to decide which route their company might take to achieve more efficiency and goals. With these courses, I can get the essential skills to have a fundamental infographics . My current career goal, since I am still a student, is to ensure as many abilities with divergences as possible. In order to fulfill my ambition, Coursera is the best place I could find online. Thank you in advance for giving me and many others the chance to have a dreamlike education platform, and for the application of funds which helps many, including me, to have a resource normally unable for us to reach.
 # Coursera Application
 
 To whom it may concern:
