@@ -7,8 +7,11 @@
         "id": "6f0840a4174f5016",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/自主學習計畫-塞車模型.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/自主學習計畫-塞車模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,12 +81,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -110,6 +114,7 @@
   "active": "6f0840a4174f5016",
   "lastOpenFiles": [
     "Zettelkasten/自主學習計畫-塞車模型.md",
+    "Zettelkasten/Untitled 1.md",
     "Zettelkasten/太陽風.md",
     "Zettelkasten/太陽活動.md",
     "Zettelkasten/Untitled.md",
@@ -117,7 +122,6 @@
     "Zettelkasten/Coursera Application.md",
     "Zettelkasten/NADPH.md",
     "Zettelkasten/SQL  資料定義(DDL).md",
-    "Zettelkasten/自主學習計畫.md",
-    "Zettelkasten/Python 指令.md"
+    "Zettelkasten/自主學習計畫.md"
   ]
 }
