@@ -26,23 +26,23 @@
         }
       },
       {
-        "id": "c566f8c04a2d5e9f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Python 指令.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "00ffdc43a35652c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/SQL  資料定義(DDL).md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fd143984ef75224a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/NADPH.md",
             "mode": "source"
           }
         }
@@ -157,6 +157,7 @@
   "active": "00ffdc43a35652c8",
   "lastOpenFiles": [
     "Zettelkasten/SQL  資料定義(DDL).md",
+    "Zettelkasten/NADPH.md",
     "Zettelkasten/Python 指令.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/英文自我介紹.md",
@@ -164,7 +165,6 @@
     "Zettelkasten/名言錦句.md",
     "Zettelkasten/Git Commands.md",
     "Zettelkasten/Untitled 1.md",
-    "Anki cards/English_Vocabuary_M1~11.md",
-    "Anki cards/English_Vocabulary_L1.md"
+    "Anki cards/English_Vocabuary_M1~11.md"
   ]
 }
