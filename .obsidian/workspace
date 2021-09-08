@@ -10,7 +10,40 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/自主學習計畫-塞車模型.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5c2e35a91e393e6a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "0c55ac6ec04b8677",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/太陽活動.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4cf8641747f3801d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/太陽風.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自主學習計畫-塞車模型.md",
+                "file": "Zettelkasten/太陽風.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,13 +114,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -112,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f0840a4174f5016",
+  "active": "4cf8641747f3801d",
   "lastOpenFiles": [
+    "Zettelkasten/太陽風.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
+    "Zettelkasten/太陽活動.md",
     "Zettelkasten/英文自我介紹.md",
     "Zettelkasten/Coursera Application.md",
     "Zettelkasten/NADPH.md",
     "Zettelkasten/SQL  資料定義(DDL).md",
     "Zettelkasten/自主學習計畫.md",
-    "Zettelkasten/Python 指令.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/名言錦句.md",
-    "Zettelkasten/Git Commands.md"
+    "Zettelkasten/Python 指令.md"
   ]
 }
