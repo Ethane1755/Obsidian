@@ -13,6 +13,39 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "177da67dcaa8dbff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/SQL  資料定義(DDL).md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bdc8c061e745f1ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/SQL 資料查詢(DQL).md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ab8717ac992fd766",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/SQL 資料操縱 (DML).md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -39,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自主",
+                "query": "SQL",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自主學習計畫-塞車模型.md",
+                "file": "Zettelkasten/SQL 資料查詢(DQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -111,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f0840a4174f5016",
+  "active": "bdc8c061e745f1ea",
   "lastOpenFiles": [
+    "Zettelkasten/SQL 資料查詢(DQL).md",
+    "Zettelkasten/SQL 資料操縱 (DML).md",
+    "Zettelkasten/SQL  資料定義(DDL).md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/太陽風.md",
     "Zettelkasten/太陽活動.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/英文自我介紹.md",
-    "Zettelkasten/Coursera Application.md",
-    "Zettelkasten/NADPH.md",
-    "Zettelkasten/SQL  資料定義(DDL).md",
-    "Zettelkasten/自主學習計畫.md"
+    "Zettelkasten/Coursera Application.md"
   ]
 }
