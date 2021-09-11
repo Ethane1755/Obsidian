@@ -4,45 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6f0840a4174f5016",
+        "id": "95c8fdd700987ab3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/自主學習計畫-塞車模型.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "177da67dcaa8dbff",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/SQL  資料定義(DDL).md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "bdc8c061e745f1ea",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/SQL 資料查詢(DQL).md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ab8717ac992fd766",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/SQL 資料操縱 (DML).md",
+            "file": "Zettelkasten/Matplotlib 入門.md",
             "mode": "preview"
           }
         }
@@ -103,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/SQL 資料查詢(DQL).md",
+                "file": "Zettelkasten/Matplotlib 入門.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bdc8c061e745f1ea",
+  "active": "95c8fdd700987ab3",
   "lastOpenFiles": [
-    "Zettelkasten/SQL 資料查詢(DQL).md",
+    "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/SQL 資料操縱 (DML).md",
-    "Zettelkasten/SQL  資料定義(DDL).md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
+    "Zettelkasten/SQL  資料定義(DDL).md",
+    "Zettelkasten/SQL 資料查詢(DQL).md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/太陽風.md",
     "Zettelkasten/太陽活動.md",
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/英文自我介紹.md",
-    "Zettelkasten/Coursera Application.md"
+    "Zettelkasten/英文自我介紹.md"
   ]
 }
