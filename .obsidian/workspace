@@ -112,6 +112,8 @@
   },
   "active": "d485abe3cefa55ef",
   "lastOpenFiles": [
+    "Zettelkasten/Titles.md",
+    "Zettelkasten/ndarray.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/太陽活動.md",
@@ -119,8 +121,6 @@
     "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/SQL 資料操縱 (DML).md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
-    "Zettelkasten/SQL  資料定義(DDL).md",
-    "Zettelkasten/SQL 資料查詢(DQL).md",
-    "Zettelkasten/太陽風.md"
+    "Zettelkasten/SQL  資料定義(DDL).md"
   ]
 }
