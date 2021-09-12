@@ -26,6 +26,14 @@ $\tan \theta$=? #flashcard
 對邊除以鄰邊
 <!--ID: 1628059566990-->
 
+$(a+b+c)(a^2+b^2+c^2-ab-bc-ac)$=? #flashcard 
+$=a^3+b^3+c^3-3abc$
+<!--ID: 1631435275402-->
+
+$(a+b)^3$=? #flashcard 
+
+
+
 
 
 
