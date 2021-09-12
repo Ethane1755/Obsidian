@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Matplotlib 入門.md",
-            "mode": "preview"
+            "file": "Anki cards/Math.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Matplotlib 入門.md",
+                "file": "Anki cards/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,12 +81,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -113,6 +113,7 @@
   },
   "active": "95c8fdd700987ab3",
   "lastOpenFiles": [
+    "Anki cards/Math.md",
     "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/SQL 資料操縱 (DML).md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
@@ -121,7 +122,6 @@
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/太陽風.md",
     "Zettelkasten/太陽活動.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/英文自我介紹.md"
+    "Zettelkasten/Untitled.md"
   ]
 }
