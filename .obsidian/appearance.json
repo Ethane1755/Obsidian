@@ -6,6 +6,6 @@
     "新文字文件",
     "font."
   ],
-  "translucency": true,
+  "translucency": false,
   "baseFontSizeAction": false
 }

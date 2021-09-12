@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anki cards/Math.md",
-            "mode": "source"
+            "file": "Zettelkasten/太陽活動.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki cards/Math.md",
+                "file": "Zettelkasten/太陽活動.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -113,6 +112,7 @@
   },
   "active": "95c8fdd700987ab3",
   "lastOpenFiles": [
+    "Zettelkasten/太陽活動.md",
     "Anki cards/Math.md",
     "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/SQL 資料操縱 (DML).md",
@@ -121,7 +121,6 @@
     "Zettelkasten/SQL 資料查詢(DQL).md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/太陽風.md",
-    "Zettelkasten/太陽活動.md",
     "Zettelkasten/Untitled.md"
   ]
 }
