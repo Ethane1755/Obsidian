@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Titles.md",
-            "mode": "source"
+            "file": "Zettelkasten/Python 數據分析.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Titles.md",
+                "file": "Zettelkasten/Python 數據分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,8 @@
   },
   "active": "d485abe3cefa55ef",
   "lastOpenFiles": [
+    "Zettelkasten/Python 數據分析.md",
+    "Zettelkasten/Python 變數.md",
     "Zettelkasten/Titles.md",
     "Zettelkasten/ndarray.md",
     "Zettelkasten/Untitled 1.md",
@@ -119,8 +121,6 @@
     "Zettelkasten/太陽活動.md",
     "Anki cards/Math.md",
     "Zettelkasten/Matplotlib 入門.md",
-    "Zettelkasten/SQL 資料操縱 (DML).md",
-    "Zettelkasten/自主學習計畫-塞車模型.md",
-    "Zettelkasten/SQL  資料定義(DDL).md"
+    "Zettelkasten/SQL 資料操縱 (DML).md"
   ]
 }
