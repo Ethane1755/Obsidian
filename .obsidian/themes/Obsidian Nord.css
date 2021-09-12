@@ -18,20 +18,19 @@
 
     --red:    #bf616a;
     --orange: #d08770;
-    --yellow: #ebcb8b;
+    --yellow: #e0ac44;
     --green:  #a3be8c;
     --purple: #b48ead;
 
     --font-monospace: 'Hack Nerd Font', 'Source Code Pro', monospace;
-	
 }
 
 .theme-dark
 {
-	--background-primary:         #EB5757;
-	--background-primary-alt:     #EB5757;
-	--background-secondary:       #EB5757;
-	--background-secondary-alt:   #EB5757;
+    --background-primary:         var(--dark0);
+    --background-primary-alt:     var(--dark0);
+    --background-secondary:       var(--dark1);
+    --background-secondary-alt:   var(--dark2);
     --text-normal:                var(--light2);
     --text-faint:                 var(--light0);
     --text-muted:                 var(--light1);
@@ -41,20 +40,20 @@
     --text-title-h4:              var(--green);
     --text-title-h5:              var(--purple);
     --text-link:                  var(--frost0);
-    --text-a:                     var(--frost3);
+    --text-a:                     var(--green);
     --text-a-hover:               var(--frost2);
     --text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
     --pre-code:                   var(--dark1);
-    --text-highlight-bg:          var(--dark3);
+    --text-highlight-bg:          rgba(224, 172, 68, 0.6);
     --interactive-accent:         var(--frost0);
     --interactive-before:         var(--dark3);
     --background-modifier-border: var(--dark2);
     --text-accent:                var(--orange);
     --interactive-accent-rgb:     var(--orange);
     --inline-code:                var(--frost1);
-    --code-block:                 var(--frost1);
+    --code-block:                 var(--frost0);
     --vim-cursor:                 var(--orange);
-    --text-selection:             var(--dark3);
+    --text-selection:             rgba(136, 192, 208, 0.6);
 }
 .theme-light
 {
@@ -75,14 +74,14 @@
 	--text-a-hover:               var(--frost1);
 	--text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
 	--pre-code:                   var(--light2);
-	--text-highlight-bg:          var(--light0);
+	--text-highlight-bg:          var(--yellow);
 	--interactive-accent:         var(--frost0);
 	--interactive-before:         var(--light0);
 	--background-modifier-border: var(--light1);
 	--text-accent:                var(--orange);
 	--interactive-accent-rgb:     var(--orange);
-	--inline-code:                var(--frost1);
-	--code-block:                 var(--frost1);
+	--inline-code:                var(--dark2);
+	--code-block:                 var(--dark2);
 	--vim-cursor:                 var(--orange);
 	--text-selection:             var(--light0);
 }
@@ -125,7 +124,7 @@ body
 
 strong
 {
-    font-weight: 600 !important;
+    font-weight: 800 !important;
 }
 
 a,
@@ -139,7 +138,7 @@ a:hover,
 .cm-hmd-internal-link:hover,
 .cm-url
 {
-    color: var(--text-a-hover) !important;
+    color: var(--red) !important;
     text-decoration: none !important;
 }
 
@@ -155,7 +154,7 @@ mark
 
 .view-actions a:hover
 {
-    color: var(--text-a) !important;
+    color: var(--red) !important;
 }
 
 .HyperMD-codeblock-bg
@@ -183,7 +182,7 @@ mark
 
 th
 {
-    font-weight: 600 !important;
+    font-weight: 800 !important;
 }
 
 thead
@@ -439,13 +438,13 @@ img
 }
 
 input.task-list-item-checkbox {
-    border: 1px solid var(--frost3);
+    border: 1px solid var(--light2);
     appearance: none;
     -webkit-appearance: none;
 }
 
 input.task-list-item-checkbox:checked {
-    background-color: var(--frost2);
+    background-color: var(--green);
     box-shadow: inset 0 0 0 2px var(--background-primary);
 }
 
