@@ -489,22 +489,44 @@ run into sb
 
 據說 #flashcard 
 it is said (that+S+V...)
+<!--ID: 1631535952110-->
+
 
 至今 #flashcard 
 to this day
+<!--ID: 1631535952113-->
+
 
 n, 立法委員 #flashcard 
 legislator
+<!--ID: 1631535952116-->
+
 
 n, 獸醫 #flashcard 
 veterinarian
+<!--ID: 1631535952119-->
+
 
 v, (尤其以法令)禁止 #flashcard 
 prohibit
+<!--ID: 1631535952121-->
+
 
 v, (醫生)開(藥) #flashcard 
 prescribe
+<!--ID: 1631535952124-->
+
 
 n, 法規、條例 #flashcard 
 regulation
+<!--ID: 1631535952127-->
 
+
+prep, 有關、關於 #flashcard 
+regarding
+<!--ID: 1631535952129-->
+
+
+破傷風 #flashcard 
+tetanu
+<!--ID: 1631535952132-->
