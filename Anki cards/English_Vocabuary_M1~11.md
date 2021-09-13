@@ -334,23 +334,60 @@ act sth out
 
 adj, 美味的、可口的 #flashcard 
 tasty
+<!--ID: 1631532713520-->
+
 
 adj, 富有的 #flashcard 
 wealthy
+<!--ID: 1631532713524-->
+
 
 n, 脾氣 #flashcard 
 temper
+<!--ID: 1631532713527-->
+
 
 v, 飼養 #flashcard 
 raise
+<!--ID: 1631532713530-->
+
 
 adj, 非常瘦的 #flashcard 
 skinny
+<!--ID: 1631532713532-->
+
 
 n, 小偷 #flashcard 
 thief
+<!--ID: 1631532713536-->
+
 
 adj, 狡猾的、狡詐的 #flashcard 
 cunning
+<!--ID: 1631532713539-->
 
-v, 偷偷地走、偷偷摸摸的行動
+
+v, 偷偷地走、偷偷摸摸的行動 #flashcard 
+sneak
+<!--ID: 1631532713542-->
+
+
+n, (動物的)巢穴、窩 #flashcard 
+den
+<!--ID: 1631532713547-->
+
+
+n, 蘋果酒 #flashcard 
+cider
+<!--ID: 1631532713551-->
+
+
+逃脫 #flashcard 
+get away
+<!--ID: 1631532713554-->
+
+
+最後 #flashcard 
+at lastaaaa
+<!--ID: 1631532713556-->
+
