@@ -171,4 +171,17 @@ can't wait (to V)
 
 n, 品牌 #flashcard 
 brand
+<!--ID: 1631531651187-->
+
+adj, 一班的 #flashcard 
+average
+<!--ID: 1631531665546-->
+
+adj, 巨大的 #flashcard 
+huge
+<!--ID: 1631531679017-->
+
+adj, 吸引人的 #flashcard 
+attractive
+<!--ID: 1631531700830-->
 
