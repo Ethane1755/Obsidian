@@ -499,4 +499,12 @@ legislator
 n, 獸醫 #flashcard 
 veterinarian
 
-v, (尤其以法令
+v, (尤其以法令)禁止 #flashcard 
+prohibit
+
+v, (醫生)開(藥) #flashcard 
+prescribe
+
+n, 法規、條例 #flashcard 
+regulation
+
