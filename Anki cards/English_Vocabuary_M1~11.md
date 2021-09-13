@@ -415,4 +415,8 @@ ambush
 adj, 極其生氣的 #flashcard 
 furious
 
-讓...措手ㄅㄨ
+讓...措手不及、乘其不備(時做某事) #flashcard 
+catch sb off guard
+
+挖掘、挖(洞) #flashcard 
+dig st
