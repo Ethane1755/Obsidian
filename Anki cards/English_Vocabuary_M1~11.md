@@ -409,4 +409,10 @@ frightened
 v, 提醒 #flashcard 
 remind
 
-n, 埋伏、圖ㄒㄧ
+n, 埋伏、突襲 #flashcard 
+ambush
+
+adj, 極其生氣的 #flashcard 
+furious
+
+讓...措手ㄅㄨ
