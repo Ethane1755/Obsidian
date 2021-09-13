@@ -489,3 +489,14 @@ run into sb
 
 據說 #flashcard 
 it is said (that+S+V...)
+
+至今 #flashcard 
+to this day
+
+n, 立法委員 #flashcard 
+legislator
+
+n, 獸醫 #flashcard 
+veterinarian
+
+v, (尤其以法令
