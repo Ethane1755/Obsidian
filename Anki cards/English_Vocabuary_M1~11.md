@@ -344,5 +344,13 @@ temper
 v, 飼養 #flashcard 
 raise
 
-adj, 非ㄔ
+adj, 非常瘦的 #flashcard 
+skinny
 
+n, 小偷 #flashcard 
+thief
+
+adj, 狡猾的、狡詐的 #flashcard 
+cunning
+
+v, 偷偷地走、偷偷摸摸的行動
