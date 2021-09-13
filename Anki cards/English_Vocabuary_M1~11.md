@@ -276,3 +276,17 @@ interrupt
 n, 關係、關聯 #flashcard 
 relationship
 
+v, 連結 #flashcard 
+link
+
+adj, 頻繁的 #flashcard 
+frequent
+
+v, 試驗、嘗試 #flashcard 
+experiment
+
+adj, 聽覺的 #flashcard 
+auditory
+
+
+
