@@ -388,6 +388,17 @@ get away
 
 
 最後 #flashcard 
-at lastaaaa
+at last
 <!--ID: 1631532713556-->
+
+v, 逃走、逃脫 #flashcard 
+escape
+
+v, 攫取、抓取 #flashcard 
+grab
+
+n, 鏟子 #flashcard 
+shovel
+
+adv, 在地下 #flashcard 
 
