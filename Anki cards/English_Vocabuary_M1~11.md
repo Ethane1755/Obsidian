@@ -452,11 +452,29 @@ so/as long as
 
 n, 飢餓、飢荒 #flashcard 
 hunger
+<!--ID: 1631533199707-->
+
 
 v, 承認 #flashcard 
 admit
+<!--ID: 1631533199711-->
+
 
 n, 隧道、地道、通道 #flashcard 
 tunnel
+<!--ID: 1631533199715-->
 
-v, 
+
+v, 明白、意識到 #flashcard 
+realize
+<!--ID: 1631533199720-->
+
+
+adv, 在此期間、與此同時 #flashcard 
+meanwhile
+<!--ID: 1631533199724-->
+
+
+v, 逗留、留下 #flashcard 
+remain
+<!--ID: 1631533199728-->
