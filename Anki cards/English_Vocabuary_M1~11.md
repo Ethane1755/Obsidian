@@ -199,9 +199,23 @@ logo
 
 adj, 小寫的 #flashcard 
 lowercase
+<!--ID: 1631531856672-->
 
 n, 小寫 #flashcard 
 lowercase
+<!--ID: 1631531856676-->
 
 n, 大寫 #flashcard 
+uppercase
+<!--ID: 1631531856679-->
+
+n, 幾何(學) #flashcard 
+geometry
+<!--ID: 1631531856682-->
+
+n, 學期 #flashcard 
+semester
+
+
+
 
