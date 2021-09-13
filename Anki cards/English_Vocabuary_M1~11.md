@@ -479,3 +479,8 @@ v, 逗留、留下 #flashcard
 remain
 <!--ID: 1631533199728-->
 
+(時間)逝去 #flashcard 
+go by
+
+偶然遇到... #flashcard 
+run into sb
