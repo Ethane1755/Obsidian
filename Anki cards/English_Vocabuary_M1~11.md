@@ -266,5 +266,13 @@ build on sth
 <!--ID: 1631532043009-->
 
 n, 許可、允許 #flashcard 
-permi
+permission
+<!--ID: 1631532096578-->
+
+v, 打斷、打擾 #flashcard 
+interrupt
+<!--ID: 1631532090390-->
+
+n, 關係、關聯 #flashcard 
+relationship
 
