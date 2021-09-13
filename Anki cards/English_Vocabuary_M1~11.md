@@ -223,21 +223,48 @@ effectively
 
 n, 混和(體) #flashcard 
 mixture
+<!--ID: 1631532042986-->
+
 
 v, 偏好 #flashcard 
 prefer
+<!--ID: 1631532042990-->
+
 
 n, 偏好 #flashcard 
 preference
+<!--ID: 1631532042993-->
+
 
 v, 要求、請求 #flashcard 
 request
+<!--ID: 1631532042995-->
+
 
 v, 對(某人)有好處、有助於 #flashcard 
 benefit
+<!--ID: 1631532042998-->
+
 
 adj, 視覺的 #flashcard 
 visual
+<!--ID: 1631532043001-->
 
-n, 圖表、是一ㄊㄨ
+
+n, 圖表、示意圖 #flashcard 
+diagram
+<!--ID: 1631532043004-->
+
+
+確認、確保 #flashcard 
+make sure
+<!--ID: 1631532043007-->
+
+
+以...為基礎 #flashcard 
+build on sth
+<!--ID: 1631532043009-->
+
+n, 許可、允許 #flashcard 
+permi
 
