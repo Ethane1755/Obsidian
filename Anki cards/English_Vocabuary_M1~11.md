@@ -288,5 +288,14 @@ experiment
 adj, 聽覺的 #flashcard 
 auditory
 
+adj, 動覺的 #flashcard 
+kinesthetic
 
+adj, 觸覺的 #flashcard 
+tactile
+
+而不是 #flashcard 
+rather than
+
+想ㄉㄧㄤ
 
