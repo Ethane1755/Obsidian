@@ -533,10 +533,19 @@ tetanus
 
 n, 事件、事故 #flashcard 
 incident
+<!--ID: 1631537956171-->
+
 
 v, 導致、引起 #flashcard 
 spark
+<!--ID: 1631537956175-->
+
 
 adj, 病重的、傷重的 #flashcard 
 critical
+<!--ID: 1631537956178-->
 
+
+(病情)危急的 #flashcard 
+in a critical condition
+<!--ID: 1631537956181-->
