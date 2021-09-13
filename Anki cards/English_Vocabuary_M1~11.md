@@ -297,5 +297,12 @@ tactile
 而不是 #flashcard 
 rather than
 
-想ㄉㄧㄤ
+響亮的、大聲的 #flashcard 
+out loud
+
+要求...、請求... #flashcard 
+ask for sth
+
+輪流...、依次... #flashcard 
+take turns 
 
