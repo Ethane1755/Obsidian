@@ -454,7 +454,6 @@ n, 飢餓、飢荒 #flashcard
 hunger
 <!--ID: 1631533199707-->
 
-
 v, 承認 #flashcard 
 admit
 <!--ID: 1631533199711-->
@@ -481,6 +480,9 @@ remain
 
 (時間)逝去 #flashcard 
 go by
+<!--ID: 1631535726203-->
+
 
 偶然遇到... #flashcard 
 run into sb
+<!--ID: 1631535726207-->
