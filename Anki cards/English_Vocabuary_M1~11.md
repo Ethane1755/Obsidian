@@ -275,34 +275,61 @@ interrupt
 
 n, 關係、關聯 #flashcard 
 relationship
+<!--ID: 1631532324551-->
+
 
 v, 連結 #flashcard 
 link
+<!--ID: 1631532324554-->
+
 
 adj, 頻繁的 #flashcard 
 frequent
+<!--ID: 1631532324557-->
+
 
 v, 試驗、嘗試 #flashcard 
 experiment
+<!--ID: 1631532324559-->
+
 
 adj, 聽覺的 #flashcard 
 auditory
+<!--ID: 1631532324562-->
+
 
 adj, 動覺的 #flashcard 
 kinesthetic
+<!--ID: 1631532324565-->
+
 
 adj, 觸覺的 #flashcard 
 tactile
+<!--ID: 1631532324567-->
+
 
 而不是 #flashcard 
 rather than
+<!--ID: 1631532324570-->
+
 
 響亮的、大聲的 #flashcard 
 out loud
+<!--ID: 1631532324572-->
+
 
 要求...、請求... #flashcard 
 ask for sth
+<!--ID: 1631532324575-->
+
 
 輪流...、依次... #flashcard 
-take turns 
+take turns Ving
+<!--ID: 1631532324578-->
+
+
+將...表現出來 #flashcard 
+act sth out
+<!--ID: 1631532324580-->
+
 
