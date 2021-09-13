@@ -449,3 +449,14 @@ once again
 只要 #flashcard 
 so/as long as
 <!--ID: 1631532992579-->
+
+n, 飢餓、飢荒 #flashcard 
+hunger
+
+v, 承認 #flashcard 
+admit
+
+n, 隧道、地道、通道 #flashcard 
+tunnel
+
+v, 
