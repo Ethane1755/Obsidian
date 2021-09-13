@@ -185,3 +185,12 @@ adj, 吸引人的 #flashcard
 attractive
 <!--ID: 1631531700830-->
 
+v, 辨識、識別 #flashcard 
+recognize
+<!--ID: 1631531728141-->
+
+n, 控制器 #flashcard 
+controller
+<!--ID: 1631531748421-->
+
+n, {(公司的
