@@ -528,5 +528,15 @@ regarding
 
 
 破傷風 #flashcard 
-tetanu
+tetanus
 <!--ID: 1631535952132-->
+
+n, 事件、事故 #flashcard 
+incident
+
+v, 導致、引起 #flashcard 
+spark
+
+adj, 病重的、傷重的 #flashcard 
+critical
+
