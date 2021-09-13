@@ -169,4 +169,6 @@ as soon as possible
 can't wait (to V)
 <!--ID: 1630676135507-->
 
-***
+n, 品牌 #flashcard 
+brand
+
