@@ -228,5 +228,16 @@ v, 偏好 #flashcard
 prefer
 
 n, 偏好 #flashcard 
-prefere
+preference
+
+v, 要求、請求 #flashcard 
+request
+
+v, 對(某人)有好處、有助於 #flashcard 
+benefit
+
+adj, 視覺的 #flashcard 
+visual
+
+n, 圖表、是一ㄊㄨ
 
