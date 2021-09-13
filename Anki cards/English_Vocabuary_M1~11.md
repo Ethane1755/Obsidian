@@ -332,4 +332,17 @@ take turns Ving
 act sth out
 <!--ID: 1631532324580-->
 
+adj, 美味的、可口的 #flashcard 
+tasty
+
+adj, 富有的 #flashcard 
+wealthy
+
+n, 脾氣 #flashcard 
+temper
+
+v, 飼養 #flashcard 
+raise
+
+adj, 非ㄔ
 
