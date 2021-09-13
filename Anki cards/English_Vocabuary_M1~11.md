@@ -486,3 +486,6 @@ go by
 偶然遇到... #flashcard 
 run into sb
 <!--ID: 1631535726207-->
+
+據說 #flashcard 
+it is said (that+S+V...)
