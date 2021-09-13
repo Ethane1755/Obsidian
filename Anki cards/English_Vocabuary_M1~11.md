@@ -215,7 +215,18 @@ geometry
 
 n, 學期 #flashcard 
 semester
+<!--ID: 1631531902953-->
 
+adv, 有效地 #flashcard 
+effectively
+<!--ID: 1631531902957-->
 
+n, 混和(體) #flashcard 
+mixture
 
+v, 偏好 #flashcard 
+prefer
+
+n, 偏好 #flashcard 
+prefere
 
