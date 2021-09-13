@@ -400,5 +400,13 @@ grab
 n, 鏟子 #flashcard 
 shovel
 
-adv, 在地下 #flashcard 
+adv/ adj, 在地下 #flashcard 
+underground
 
+adj, 害怕的、受驚的 #flashcard 
+frightened
+
+v, 提醒 #flashcard 
+remind
+
+n, 埋伏、圖ㄒㄧ
