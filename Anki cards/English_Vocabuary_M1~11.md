@@ -393,30 +393,59 @@ at last
 
 v, 逃走、逃脫 #flashcard 
 escape
+<!--ID: 1631532992549-->
+
 
 v, 攫取、抓取 #flashcard 
 grab
+<!--ID: 1631532992552-->
+
 
 n, 鏟子 #flashcard 
 shovel
+<!--ID: 1631532992555-->
+
 
 adv/ adj, 在地下 #flashcard 
 underground
+<!--ID: 1631532992558-->
+
 
 adj, 害怕的、受驚的 #flashcard 
 frightened
+<!--ID: 1631532992561-->
+
 
 v, 提醒 #flashcard 
 remind
+<!--ID: 1631532992563-->
+
 
 n, 埋伏、突襲 #flashcard 
 ambush
+<!--ID: 1631532992566-->
+
 
 adj, 極其生氣的 #flashcard 
 furious
+<!--ID: 1631532992568-->
+
 
 讓...措手不及、乘其不備(時做某事) #flashcard 
 catch sb off guard
+<!--ID: 1631532992571-->
+
 
 挖掘、挖(洞) #flashcard 
-dig st
+dig sth up
+<!--ID: 1631532992574-->
+
+
+再一次 #flashcard 
+once again
+<!--ID: 1631532992576-->
+
+
+只要 #flashcard 
+so/as long as
+<!--ID: 1631532992579-->
