@@ -193,4 +193,15 @@ n, 控制器 #flashcard
 controller
 <!--ID: 1631531748421-->
 
-n, {(公司的
+n, (公司的) 標誌、商標 #flashcard 
+logo
+<!--ID: 1631531775140-->
+
+adj, 小寫的 #flashcard 
+lowercase
+
+n, 小寫 #flashcard 
+lowercase
+
+n, 大寫 #flashcard 
+
