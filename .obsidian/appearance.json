@@ -3,8 +3,7 @@
   "theme": "obsidian",
   "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
-    "新文字文件",
-    "font."
+    "新文字文件"
   ],
   "translucency": false,
   "baseFontSizeAction": false
