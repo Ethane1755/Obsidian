@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anki cards/English_Vocabuary_M1~11.md",
-            "mode": "source"
+            "file": "Zettelkasten/Matplotlib 入門.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki cards/English_Vocabuary_M1~11.md",
+                "file": "Zettelkasten/Matplotlib 入門.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "d485abe3cefa55ef",
   "lastOpenFiles": [
+    "Zettelkasten/Matplotlib 入門.md",
     "Anki cards/English_Vocabuary_M1~11.md",
     "Anki cards/English_Vocabulary_L1.md",
     "Zettelkasten/Python 數據分析.md",
@@ -120,7 +121,6 @@
     "Zettelkasten/ndarray.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/太陽活動.md",
-    "Anki cards/Math.md"
+    "Zettelkasten/太陽活動.md"
   ]
 }
