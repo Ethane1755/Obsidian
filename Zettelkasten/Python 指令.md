@@ -7,4 +7,4 @@ pow（a,b）：a的b次方
 input()
 pow(a,n次方)
 x%y
-`
+```
