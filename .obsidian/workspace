@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/太陽星雲說.md",
+            "file": "Zettelkasten/Matplotlib 入門.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/太陽星雲說.md",
+                "file": "Zettelkasten/Matplotlib 入門.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "d485abe3cefa55ef",
   "lastOpenFiles": [
+    "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/太陽星雲說.md",
     "Zettelkasten/侵蝕輪迴論.md",
     "Zettelkasten/Python 字串.md",
@@ -120,7 +121,6 @@
     "Zettelkasten/細胞與能量.md",
     "Zettelkasten/Python 指令.md",
     "Zettelkasten/VS  Code 小技巧.md",
-    "Zettelkasten/三角函數.md",
-    "Zettelkasten/ndarray.md"
+    "Zettelkasten/三角函數.md"
   ]
 }
