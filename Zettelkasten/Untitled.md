@@ -17,5 +17,5 @@ subgraph 分析
 將實驗記錄數據讀入Excel-->繪製散點圖-->建立線性回歸曲線-->顯示R2值與方程式
 end
 顯示R2值與方程式-->id2(導出結論)
-style id2 fill:#B00616
+style id2 fill:#FF5177
 ```
