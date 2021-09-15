@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/水密度分析.md",
+            "file": "Zettelkasten/Matplotlib 入門.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/水密度分析.md",
+                "file": "Zettelkasten/Matplotlib 入門.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -113,9 +112,9 @@
   },
   "active": "d485abe3cefa55ef",
   "lastOpenFiles": [
+    "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/水密度分析.md",
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
     "Zettelkasten/準平原.md",
     "Zettelkasten/太陽星雲說.md",
