@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Matplotlib 入門.md",
+            "file": "Zettelkasten/地科隨堂.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SQL",
+                "query": "地科",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Matplotlib 入門.md",
+                "file": "Zettelkasten/地科隨堂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,6 +113,7 @@
   },
   "active": "d485abe3cefa55ef",
   "lastOpenFiles": [
+    "Zettelkasten/地科隨堂.md",
     "Zettelkasten/Matplotlib 入門.md",
     "Anki cards/English_Vocabuary_M1~11.md",
     "Anki cards/English_Vocabulary_L1.md",
@@ -120,7 +122,6 @@
     "Zettelkasten/Titles.md",
     "Zettelkasten/ndarray.md",
     "Zettelkasten/Untitled 1.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/太陽活動.md"
+    "Zettelkasten/Untitled.md"
   ]
 }
