@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/侵蝕輪迴論.md",
+            "file": "Zettelkasten/太陽星雲說.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/侵蝕輪迴論.md",
+                "file": "Zettelkasten/太陽星雲說.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "d485abe3cefa55ef",
   "lastOpenFiles": [
+    "Zettelkasten/太陽星雲說.md",
     "Zettelkasten/侵蝕輪迴論.md",
     "Zettelkasten/Python 字串.md",
     "Zettelkasten/Coursera Application.md",
@@ -120,7 +121,6 @@
     "Zettelkasten/Python 指令.md",
     "Zettelkasten/VS  Code 小技巧.md",
     "Zettelkasten/三角函數.md",
-    "Zettelkasten/ndarray.md",
-    "地科B1L1.md"
+    "Zettelkasten/ndarray.md"
   ]
 }
