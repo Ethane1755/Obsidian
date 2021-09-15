@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/自主學習計畫-塞車模型.md",
+            "file": "Zettelkasten/Matplotlib 入門.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自主學習計畫-塞車模型.md",
+                "file": "Zettelkasten/Matplotlib 入門.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +112,9 @@
   },
   "active": "d485abe3cefa55ef",
   "lastOpenFiles": [
+    "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
     "Zettelkasten/準平原.md",
-    "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/太陽星雲說.md",
     "Zettelkasten/侵蝕輪迴論.md",
     "Zettelkasten/Python 字串.md",
