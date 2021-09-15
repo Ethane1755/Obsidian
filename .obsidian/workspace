@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Matplotlib 入門.md",
+            "file": "Zettelkasten/Untitled.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Matplotlib 入門.md",
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -112,6 +113,7 @@
   },
   "active": "d485abe3cefa55ef",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
     "Zettelkasten/準平原.md",
@@ -120,7 +122,6 @@
     "Zettelkasten/Python 字串.md",
     "Zettelkasten/Coursera Application.md",
     "Zettelkasten/NADPH.md",
-    "Zettelkasten/細胞與能量.md",
-    "Zettelkasten/Python 指令.md"
+    "Zettelkasten/細胞與能量.md"
   ]
 }
