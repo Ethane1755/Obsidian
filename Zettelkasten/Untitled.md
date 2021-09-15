@@ -1,6 +1,6 @@
 # Untitled
 ```mermaid
-graph LR
+graph TD
 記錄當天氣溫,水溫-->取100mL燒杯置於秤盤上
 subgraph 容器種類
 50mL燒杯-->50mL錐形瓶-->吸量管25mL-->容量瓶10mL-->量筒25mL-->滴定管50mL
@@ -16,4 +16,6 @@ end
 subgraph 分析
 將實驗記錄數據讀入Excel-->繪製散點圖-->建立線性回歸曲線-->顯示R2值與方程式
 end
+顯示R2值與方程式-->id2(導出結論)
+style id2 fill:#
 ```
