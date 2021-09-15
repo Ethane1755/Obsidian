@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/自然探究與實作_水密度測量_流程.md",
-            "mode": "source"
+            "file": "Zettelkasten/水密度測量流程表.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自然探究與實作_水密度測量_流程.md",
+                "file": "Zettelkasten/水密度測量流程表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
