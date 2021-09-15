@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/地科隨堂.md",
+            "file": "Zettelkasten/侵蝕輪迴論.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地科隨堂.md",
+                "file": "Zettelkasten/侵蝕輪迴論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,8 +81,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,15 +112,15 @@
   },
   "active": "d485abe3cefa55ef",
   "lastOpenFiles": [
-    "Zettelkasten/地科隨堂.md",
-    "Zettelkasten/Matplotlib 入門.md",
-    "Anki cards/English_Vocabuary_M1~11.md",
-    "Anki cards/English_Vocabulary_L1.md",
-    "Zettelkasten/Python 數據分析.md",
-    "Zettelkasten/Python 變數.md",
-    "Zettelkasten/Titles.md",
+    "Zettelkasten/侵蝕輪迴論.md",
+    "Zettelkasten/Python 字串.md",
+    "Zettelkasten/Coursera Application.md",
+    "Zettelkasten/NADPH.md",
+    "Zettelkasten/細胞與能量.md",
+    "Zettelkasten/Python 指令.md",
+    "Zettelkasten/VS  Code 小技巧.md",
+    "Zettelkasten/三角函數.md",
     "Zettelkasten/ndarray.md",
-    "Zettelkasten/Untitled 1.md",
-    "Zettelkasten/Untitled.md"
+    "地科B1L1.md"
   ]
 }
