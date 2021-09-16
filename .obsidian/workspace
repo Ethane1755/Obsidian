@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/地球利生物生存之原因.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/臭氧.md",
+                "file": "Zettelkasten/地球利生物生存之原因.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,11 +156,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c8f622691c6daa4",
+  "active": "164df16b46401e6e",
   "lastOpenFiles": [
+    "Zettelkasten/地球利生物生存之原因.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/分層作用.md",
-    "Zettelkasten/地球利生物生存之原因.md",
     "Zettelkasten/歐特雲.md",
     "Zettelkasten/地球生存之原因.md",
     "Zettelkasten/柯伊伯帶.md",
