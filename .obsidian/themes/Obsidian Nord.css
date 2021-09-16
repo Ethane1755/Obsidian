@@ -41,7 +41,7 @@
     --text-title-h4:              var(--green);
     --text-title-h5:              var(--purple);
     --text-link:                  var(--frost0);
-    --text-a:                     var(--green);
+    --text-a:                     var(--frost1);
     --text-a-hover:               var(--frost2);
     --text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
     --pre-code:                   var(--dark1);
