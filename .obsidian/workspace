@@ -26,6 +26,17 @@
         }
       },
       {
+        "id": "d838c9bc7b7cbecd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/太陽黑子（日斑）.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "3324ee98f5301de1",
         "type": "leaf",
         "state": {
@@ -136,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/閃焰.md",
+                "file": "Zettelkasten/太陽黑子（日斑）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,17 +189,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3324ee98f5301de1",
+  "active": "d838c9bc7b7cbecd",
   "lastOpenFiles": [
-    "Zettelkasten/閃焰.md",
+    "Zettelkasten/太陽黑子（日斑）.md",
     "Zettelkasten/太陽活動.md",
     "Zettelkasten/Untitled.md",
+    "Zettelkasten/閃焰.md",
     "Zettelkasten/日珥.md",
     "Zettelkasten/地球利生物生存之原因.md",
     "Zettelkasten/分層作用.md",
     "Zettelkasten/歐特雲.md",
     "Zettelkasten/地球生存之原因.md",
-    "Zettelkasten/柯伊伯帶.md",
-    "地球生存之原因.md"
+    "Zettelkasten/柯伊伯帶.md"
   ]
 }
