@@ -10,6 +10,28 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/地球利生物生存之原因.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "f82258d98235af6b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/太陽活動.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1601f66d4477dbd0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/日珥.md",
             "mode": "source"
           }
         }
@@ -83,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "地科",
+                "query": "CME",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地球利生物生存之原因.md",
+                "file": "Zettelkasten/日珥.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,17 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "164df16b46401e6e",
+  "active": "1601f66d4477dbd0",
   "lastOpenFiles": [
-    "Zettelkasten/地球利生物生存之原因.md",
+    "Zettelkasten/日珥.md",
+    "Zettelkasten/太陽活動.md",
     "Zettelkasten/Untitled.md",
+    "Zettelkasten/地球利生物生存之原因.md",
     "Zettelkasten/分層作用.md",
     "Zettelkasten/歐特雲.md",
     "Zettelkasten/地球生存之原因.md",
     "Zettelkasten/柯伊伯帶.md",
     "地球生存之原因.md",
-    "Zettelkasten/水密度測量流程表.md",
-    "Zettelkasten/Matplotlib 入門.md",
-    "Zettelkasten/水密度分析.md"
+    "Zettelkasten/水密度測量流程表.md"
   ]
 }
