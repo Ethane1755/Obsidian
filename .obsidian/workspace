@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/大南澳事件.md",
-            "mode": "source"
+            "file": "Zettelkasten/9_1~9_11.md",
+            "mode": "preview"
           }
         }
       }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/大南澳事件.md",
+                "file": "Zettelkasten/9_1~9_11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/大南澳事件.md",
+                "file": "Zettelkasten/9_1~9_11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,6 +118,7 @@
   },
   "active": "5b1cd9f49ff9748a",
   "lastOpenFiles": [
+    "Zettelkasten/9_1~9_11.md",
     "Zettelkasten/大南澳事件.md",
     "Zettelkasten/臭氧.md",
     "Zettelkasten/閃焰.md",
@@ -125,7 +127,6 @@
     "Zettelkasten/太陽黑子（日斑）.md",
     "Zettelkasten/地球利生物生存之原因.md",
     "Zettelkasten/日冕物質拋射(CME).md",
-    "Zettelkasten/分層作用.md",
-    "Zettelkasten/太陽活動.md"
+    "Zettelkasten/分層作用.md"
   ]
 }
