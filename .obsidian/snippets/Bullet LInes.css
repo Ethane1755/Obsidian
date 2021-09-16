@@ -2,7 +2,7 @@
 .cm-hmd-list-indent .cm-tab, ul ul { position: relative; }
 .cm-hmd-list-indent .cm-tab::before, ul ul::before {
 content:'';
-border-left: 3px solid rgba(0, 122, 255, 0.25);
+border-left: 3px solid rgba(255, 255, 255, 1);
 position: absolute;
 }
 .cm-hmd-list-indent .cm-tab::before { left: 0; top: -5px; bottom: -4px;
