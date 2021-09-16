@@ -96,11 +96,14 @@
     background-color: var(--pre-code) !important;
 }
 
-.graph-view.color-circle
+.graph-view.color-circle,
 {
-	color: var(--red)
+	color: var(--light0)
 },
 .graph-view.color-fill-highlight,
+{
+	color: var(--red)
+}
 .graph-view.color-line-highlight
 {
     color: var(--red) !important;
