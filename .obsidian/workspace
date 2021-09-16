@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/地球生存之原因.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/歐特雲.md",
+                "file": "Zettelkasten/地球生存之原因.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,11 +103,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -132,8 +134,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c79bfa9f77a30e21",
+  "active": "164df16b46401e6e",
   "lastOpenFiles": [
+    "Zettelkasten/地球生存之原因.md",
+    "Zettelkasten/柯伊伯帶.md",
     "Zettelkasten/歐特雲.md",
     "Zettelkasten/Untitled.md",
     "地球生存之原因.md",
@@ -141,8 +145,6 @@
     "Zettelkasten/Matplotlib 入門.md",
     "Zettelkasten/水密度分析.md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
-    "Zettelkasten/準平原.md",
-    "Zettelkasten/太陽星雲說.md",
-    "Zettelkasten/侵蝕輪迴論.md"
+    "Zettelkasten/準平原.md"
   ]
 }
