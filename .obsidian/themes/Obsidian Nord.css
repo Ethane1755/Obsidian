@@ -100,7 +100,7 @@
 .graph-view.color-fill-highlight,
 .graph-view.color-line-highlight
 {
-    color: var(--interactive-accent-rgb) !important;
+    color: var(--red) !important;
 }
 .graph-view.color-text
 {
