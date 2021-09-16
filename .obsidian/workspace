@@ -15,12 +15,12 @@
         }
       },
       {
-        "id": "d9c436217933c0a4",
+        "id": "f02575231bedb471",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/區間.md",
+            "file": "Zettelkasten/數線區間.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/區間.md",
+                "file": "Zettelkasten/數線區間.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,12 +84,12 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/區間.md",
+                "file": "Zettelkasten/數線區間.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9c436217933c0a4",
+  "active": "f02575231bedb471",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/9_1~9_11.md",
     "Zettelkasten/區間.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/Untitled 2.md",
     "Zettelkasten/Untitled 3.md",
-    "Zettelkasten/9_1~9_11.md",
     "Zettelkasten/大南澳事件.md",
     "Zettelkasten/臭氧.md",
     "Zettelkasten/閃焰.md",
-    "Zettelkasten/柯伊伯帶.md",
-    "Zettelkasten/歐特雲.md"
+    "Zettelkasten/柯伊伯帶.md"
   ]
 }
