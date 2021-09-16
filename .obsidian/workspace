@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "164df16b46401e6e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/地球利生物生存之原因.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "e2f801dab64732e9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/日冕物質拋射(CME).md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -32,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/太陽黑子（日斑）.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -43,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/閃焰.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -65,7 +54,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/歐特雲.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -116,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "太陽活動",
+                "query": "地球",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,12 +147,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -191,14 +180,14 @@
   "active": "e2f801dab64732e9",
   "lastOpenFiles": [
     "Zettelkasten/日冕物質拋射(CME).md",
+    "Zettelkasten/地球利生物生存之原因.md",
+    "Zettelkasten/歐特雲.md",
+    "Zettelkasten/柯伊伯帶.md",
+    "Zettelkasten/閃焰.md",
+    "Zettelkasten/太陽黑子（日斑）.md",
     "Zettelkasten/太陽活動.md",
     "Zettelkasten/太陽風.md",
     "Zettelkasten/磁暴.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/太陽黑子（日斑）.md",
-    "Zettelkasten/閃焰.md",
-    "Zettelkasten/日珥.md",
-    "Zettelkasten/地球利生物生存之原因.md",
-    "Zettelkasten/分層作用.md"
+    "Zettelkasten/Untitled.md"
   ]
 }
