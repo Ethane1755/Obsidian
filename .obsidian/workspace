@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/地球利生物生存之原因.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地球利生物生存之原因.md",
+                "file": "Zettelkasten/分層作用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "164df16b46401e6e",
+  "active": "b0f292f16cf1d088",
   "lastOpenFiles": [
+    "Zettelkasten/分層作用.md",
     "Zettelkasten/地球利生物生存之原因.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/歐特雲.md",
@@ -155,7 +156,6 @@
     "地球生存之原因.md",
     "Zettelkasten/水密度測量流程表.md",
     "Zettelkasten/Matplotlib 入門.md",
-    "Zettelkasten/水密度分析.md",
-    "Zettelkasten/自主學習計畫-塞車模型.md"
+    "Zettelkasten/水密度分析.md"
   ]
 }
