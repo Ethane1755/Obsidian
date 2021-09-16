@@ -48,7 +48,7 @@
     --text-highlight-bg:          rgba(224, 172, 68, 0.6);
     --interactive-accent:         var(--frost0);
     --interactive-before:         var(--dark3);
-    --background-modifier-border: var(--dark2);
+    --background-modifier-border: var(--hello);
     --text-accent:                var(--orange);
     --interactive-accent-rgb:     var(--orange);
     --inline-code:                var(--frost1);
@@ -82,7 +82,7 @@
 	--text-accent:                var(--orange);
 	--interactive-accent-rgb:     var(--orange);
 	--inline-code:                var(--dark2);
-	--code-block:                 var(--hello);
+	--code-block:                 var(--dark2);
 	--vim-cursor:                 var(--orange);
 	--text-selection:             var(--light0);
 }
