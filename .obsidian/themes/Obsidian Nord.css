@@ -109,11 +109,11 @@
 
 .graph-view.color-fill
 {
-    color: var(--background-secondary);
+    color: var(--frost0);
 }
 .graph-view.color-line
 {
-  color: var(--background-modifier-border);
+  color: var(--light0);
 }
 
 
