@@ -3,7 +3,8 @@
   "theme": "obsidian",
   "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
-    "新文字文件"
+    "新文字文件",
+    "Bullet Lines"
   ],
   "translucency": false,
   "baseFontSizeAction": false
