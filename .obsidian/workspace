@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/水密度測量流程表.md",
-            "mode": "preview"
+            "file": "Zettelkasten/地球生存之原因.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/水密度測量流程表.md",
+                "file": "Zettelkasten/地球生存之原因.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "164df16b46401e6e",
   "lastOpenFiles": [
+    "地球生存之原因.md",
     "Zettelkasten/水密度測量流程表.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Matplotlib 入門.md",
@@ -120,7 +121,6 @@
     "Zettelkasten/準平原.md",
     "Zettelkasten/太陽星雲說.md",
     "Zettelkasten/侵蝕輪迴論.md",
-    "Zettelkasten/Python 字串.md",
-    "Zettelkasten/Coursera Application.md"
+    "Zettelkasten/Python 字串.md"
   ]
 }
