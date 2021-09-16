@@ -35,6 +35,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "80c193cdb24f165c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/數學符號表.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -61,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CME",
+                "query": "數學符號",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/三角不等式.md",
+                "file": "Zettelkasten/數學符號表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +106,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/三角不等式.md",
+                "file": "Zettelkasten/數學符號表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,8 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b87049ea0c9bbf8",
+  "active": "80c193cdb24f165c",
   "lastOpenFiles": [
+    "Zettelkasten/數學符號表.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/數線區間.md",
     "Zettelkasten/9_1~9_11.md",
@@ -147,7 +160,6 @@
     "Zettelkasten/Untitled 2.md",
     "Zettelkasten/Untitled 3.md",
     "Zettelkasten/大南澳事件.md",
-    "Zettelkasten/臭氧.md",
-    "Zettelkasten/閃焰.md"
+    "Zettelkasten/臭氧.md"
   ]
 }
