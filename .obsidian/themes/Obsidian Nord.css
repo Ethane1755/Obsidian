@@ -96,7 +96,10 @@
     background-color: var(--pre-code) !important;
 }
 
-.graph-view.color-circle,
+.graph-view.color-circle
+{
+	color: var(--red)
+},
 .graph-view.color-fill-highlight,
 .graph-view.color-line-highlight
 {
