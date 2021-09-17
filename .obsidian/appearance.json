@@ -6,6 +6,6 @@
     "新文字文件",
     "Bullet Lines"
   ],
-  "translucency": false,
+  "translucency": true,
   "baseFontSizeAction": false
 }
