@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/南北戰爭.md",
+            "file": "Zettelkasten/美國各州加入聯邦順序.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/南北戰爭.md",
+                "file": "Zettelkasten/美國各州加入聯邦順序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "64a6aa9f22c43695",
   "lastOpenFiles": [
+    "Zettelkasten/美國各州加入聯邦順序.md",
+    "Zettelkasten/美利堅聯盟國.md",
+    "Zettelkasten/柯伊伯帶.md",
+    "Zettelkasten/柯本氣候分類法.md",
+    "Zettelkasten/政治光譜.md",
+    "Zettelkasten/建中學習單心得.md",
+    "Zettelkasten/哈伯望遠鏡.md",
     "Zettelkasten/南北戰爭.md",
     "Zettelkasten/侵蝕輪迴論.md",
-    "Zettelkasten/花岡一郎與花岡二郎.md",
-    "Zettelkasten/法律解釋與適用.md",
-    "Zettelkasten/法治意涵、法律制定.md",
-    "Zettelkasten/河川襲奪.md",
-    "Zettelkasten/底索曲線.md",
-    "Zettelkasten/西北航道.md",
-    "Zettelkasten/行星風系與地方風系.md",
-    "Zettelkasten/色球層.md"
+    "Zettelkasten/花岡一郎與花岡二郎.md"
   ]
 }
