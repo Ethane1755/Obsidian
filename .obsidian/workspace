@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/歷史解釋_認同問題.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/台灣史料.md",
+                "file": "Zettelkasten/歷史解釋_認同問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/台灣史料.md",
+                "file": "Zettelkasten/歷史解釋_認同問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,10 +127,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4d5480dbe52b194",
+  "active": "dea6c2e5fc7e84c2",
   "lastOpenFiles": [
-    "Zettelkasten/台灣史料.md",
     "Zettelkasten/歷史解釋_認同問題.md",
+    "Zettelkasten/台灣史料.md",
     "Zettelkasten/花岡一郎與花岡二郎.md",
     "Zettelkasten/高砂義勇隊.md",
     "Zettelkasten/Untitled.md",
