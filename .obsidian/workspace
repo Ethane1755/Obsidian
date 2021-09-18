@@ -4,89 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "f5110529406ce557",
+        "id": "11fa81c6d3fea060",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/必麒麟事件.md",
+            "file": "Zettelkasten/自主學習計畫討論.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "b79fca760067b2e8",
+        "id": "c7de253f848277cf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/生物演替.md",
+            "file": "Zettelkasten/自用標例表.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "0764643a331ddfd4",
+        "id": "64a6aa9f22c43695",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/立法院.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "efb4429ab85b54ba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/光子能量.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "36f077977bd9d42d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/光合作用.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "726e5f86d76620bf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/光球層.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "dbff2e7da2b62010",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/地科隨堂.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e553604d769ccda6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/地圖投影.md",
+            "file": "Zettelkasten/行星風系與地方風系.md",
             "mode": "source"
           }
         }
@@ -147,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地圖投影.md",
+                "file": "Zettelkasten/行星風系與地方風系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e553604d769ccda6",
+  "active": "64a6aa9f22c43695",
   "lastOpenFiles": [
+    "Zettelkasten/行星風系與地方風系.md",
+    "Zettelkasten/色球層.md",
+    "Zettelkasten/自用標例表.md",
+    "Zettelkasten/自主學習計畫討論.md",
+    "Zettelkasten/立法院.md",
+    "Zettelkasten/自主學習計畫-塞車模型.md",
     "Zettelkasten/地圖投影.md",
-    "Zettelkasten/地圖本質.md",
-    "Zettelkasten/地理觀念（高中地理主軸）.md",
-    "Zettelkasten/地理學研究傳統.md",
-    "Zettelkasten/地理資訊系統.md",
-    "Zettelkasten/地理素養.md",
-    "Zettelkasten/地球利生物生存之原因.md",
-    "Zettelkasten/地球五大炭庫.md",
-    "Zettelkasten/地科B1L1.md",
-    "Zettelkasten/地科隨堂.md"
+    "Zettelkasten/地科隨堂.md",
+    "Zettelkasten/光球層.md",
+    "Zettelkasten/光合作用.md"
   ]
 }
