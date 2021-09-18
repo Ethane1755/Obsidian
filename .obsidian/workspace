@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/新北市人口變化.md",
+            "file": "Zettelkasten/赫羅圖（Hertzsprung-Russell diagram_ HRD).md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/新北市人口變化.md",
+                "file": "Zettelkasten/赫羅圖（Hertzsprung-Russell diagram_ HRD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "64a6aa9f22c43695",
   "lastOpenFiles": [
-    "Zettelkasten/新北市人口變化.md",
-    "Zettelkasten/愛爾蘭獨立戰爭.md",
-    "Zettelkasten/愛爾蘭獨立宣言全文.md",
-    "Zettelkasten/黑矮星.md",
-    "Zettelkasten/統計學.md",
-    "Zettelkasten/絕對值.md",
-    "Zettelkasten/普朗克常數.md",
-    "Zettelkasten/普朗克-愛因斯坦關係式.md",
-    "Zettelkasten/富拉尼人.md",
-    "Zettelkasten/荷蘭東印度公司.md"
+    "Zettelkasten/赫羅圖（Hertzsprung-Russell diagram_ HRD).md",
+    "Zettelkasten/算幾不等式.md",
+    "Zettelkasten/磁暴.md",
+    "Zettelkasten/演替.md",
+    "Zettelkasten/圖阿雷格人.md",
+    "Zettelkasten/資料分析.md",
+    "Zettelkasten/解題背後的心理學心得.md",
+    "Zettelkasten/矮行星與小行星.md",
+    "Zettelkasten/準平原.md",
+    "Zettelkasten/新北市人口變化.md"
   ]
 }

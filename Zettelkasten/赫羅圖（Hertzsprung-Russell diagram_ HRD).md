@@ -1,5 +1,5 @@
 # 赫羅圖（Hertzsprung-Russell diagram_ HRD)
-
+#地科 #天文
 ![[440px-HRDiagram.png]]
 
 
