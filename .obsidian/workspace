@@ -35,6 +35,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "a6b66c6f2371995d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/香料貿易.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/荷蘭東印度公司.md",
+                "file": "Zettelkasten/香料貿易.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/荷蘭東印度公司.md",
+                "file": "Zettelkasten/香料貿易.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,12 +148,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb98b10c3c717d2b",
+  "active": "a6b66c6f2371995d",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/荷蘭東印度公司.md",
     "Zettelkasten/普朗克-愛因斯坦關係式.md",
     "Zettelkasten/光子能量.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/普朗克常數.md",
     "Zettelkasten/數線區間.md",
     "Zettelkasten/絕對值.md",
