@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "944b2a67df71766f",
+        "id": "b4d5480dbe52b194",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/台灣史料.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "dea6c2e5fc7e84c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/歷史解釋_認同問題.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -21,7 +35,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 27.80487804878049,
+        "dimension": 32.5609756097561,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -44,7 +58,7 @@
       {
         "id": "fe636a731191f1cb",
         "type": "tabs",
-        "dimension": 72.1951219512195,
+        "dimension": 67.4390243902439,
         "children": [
           {
             "id": "57eb9b56099ae3b1",
@@ -67,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/歷史解釋_認同問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -93,8 +107,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "944b2a67df71766f",
+  "active": "dea6c2e5fc7e84c2",
   "lastOpenFiles": [
+    "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/自主學習計畫討論.md",
     "Zettelkasten/自用標例表.md",
     "Zettelkasten/Intermediate English Learning.md",
@@ -103,7 +118,6 @@
     "Zettelkasten/Coursera Application.md",
     "Zettelkasten/Blockly.md",
     "Zettelkasten/黨團.md",
-    "Zettelkasten/蘇丹草原.md",
-    "Zettelkasten/關鍵字.md"
+    "Zettelkasten/蘇丹草原.md"
   ]
 }
