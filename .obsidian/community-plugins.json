@@ -11,5 +11,14 @@
   "obsidian-git",
   "obsidian-auto-link-title",
   "obsidian-auto-pair-chinese-symbol",
-  "obsidian-banners"
+  "obsidian-banners",
+  "code-block-copy",
+  "dataview",
+  "obsidian-enhancing-mindmap",
+  "obsidian-fullscreen-plugin",
+  "obsidian-map-view",
+  "media-extended",
+  "obsidian-charts",
+  "obsidian-pandoc",
+  "obsidian-style-settings"
 ]
