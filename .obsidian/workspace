@@ -24,6 +24,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "eb98b10c3c717d2b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/荷蘭東印度公司.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/普朗克-愛因斯坦關係式.md",
+                "file": "Zettelkasten/荷蘭東印度公司.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/普朗克-愛因斯坦關係式.md",
+                "file": "Zettelkasten/荷蘭東印度公司.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +137,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c03096aca69f4ba",
+  "active": "eb98b10c3c717d2b",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/光子能量.md",
     "Zettelkasten/普朗克-愛因斯坦關係式.md",
     "Zettelkasten/普朗克常數.md",
-    "Zettelkasten/光子能量.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/數線區間.md",
     "Zettelkasten/絕對值.md",
     "Zettelkasten/三角不等式.md",
