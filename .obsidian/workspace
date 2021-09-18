@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/簡報設計.md",
+            "file": "Zettelkasten/Intermediate English Learning.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/簡報設計.md",
+                "file": "Zettelkasten/Intermediate English Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "64a6aa9f22c43695",
   "lastOpenFiles": [
-    "Zettelkasten/簡報設計.md",
-    "Zettelkasten/縮尺係數.md",
-    "Zettelkasten/輻射層.md",
-    "Zettelkasten/濁大計畫.md",
-    "Zettelkasten/歷史解釋_認同問題.md",
-    "Zettelkasten/歐特雲.md",
-    "Zettelkasten/歐拉公式.md",
-    "Zettelkasten/標準時間.md",
-    "Zettelkasten/數學符號表.md",
-    "Zettelkasten/數學計畫.md"
+    "Zettelkasten/Intermediate English Learning.md",
+    "Zettelkasten/Git Commands.md",
+    "Zettelkasten/HTML 語法.md",
+    "Zettelkasten/Coursera Application.md",
+    "Zettelkasten/Blockly.md",
+    "Zettelkasten/黨團.md",
+    "Zettelkasten/蘇丹草原.md",
+    "Zettelkasten/關鍵字.md",
+    "Zettelkasten/羅妹(發)號事件.md",
+    "Zettelkasten/覆議、附議與復議.md"
   ]
 }

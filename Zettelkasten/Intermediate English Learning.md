@@ -6,7 +6,7 @@ Course: English for Career Development
 Class: Course Overview: Introduction to the Career Development Process
 Speaker(s): Robyn Turner/ Brian McManus (University of Pennsylvania)
 #coursera 
----
+***
 ### Questions/Cues
 - Do you want to find a job but do not knoe where to begin?
 - Do you want to learn the necessary skills to help you find and apply for a job?

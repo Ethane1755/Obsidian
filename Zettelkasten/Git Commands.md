@@ -1,5 +1,5 @@
 # Git Commands
-
+#git
 - git init
 	- 把一般資料夾變成git資料夾(加入.git資料夾)
 - git add
