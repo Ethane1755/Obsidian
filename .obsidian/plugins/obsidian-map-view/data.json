@@ -26,5 +26,11 @@
   "markerClickBehavior": "alwaysNew",
   "newNoteNameFormat": "Location added on {{date:YYYY-MM-DD}}T{{date:HH-mm}}",
   "snippetLines": 3,
-  "debug": false
+  "debug": false,
+  "defaultZoom": 1,
+  "defaultMapCenter": {
+    "lat": 40.44694705960048,
+    "lng": -180.70312500000003
+  },
+  "defaultTags": []
 }
