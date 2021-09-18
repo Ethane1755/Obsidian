@@ -37,6 +37,28 @@
         }
       },
       {
+        "id": "20d45d6a14e1f693",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/哈囉.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c155a533ec63f4aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/你說.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "a6b66c6f2371995d",
         "type": "leaf",
         "state": {
@@ -106,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/荷蘭東印度公司.md",
+                "file": "Zettelkasten/你說.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/荷蘭東印度公司.md",
+                "file": "Zettelkasten/你說.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb98b10c3c717d2b",
+  "active": "c155a533ec63f4aa",
   "lastOpenFiles": [
-    "Zettelkasten/荷蘭東印度公司.md",
+    "Zettelkasten/你說.md",
     "Zettelkasten/Untitled.md",
+    "Zettelkasten/荷蘭東印度公司.md",
     "Zettelkasten/普朗克-愛因斯坦關係式.md",
     "Zettelkasten/光子能量.md",
     "Zettelkasten/普朗克常數.md",
     "Zettelkasten/數線區間.md",
     "Zettelkasten/絕對值.md",
     "Zettelkasten/三角不等式.md",
-    "Zettelkasten/數學符號表.md",
-    "Zettelkasten/算幾不等式.md"
+    "Zettelkasten/數學符號表.md"
   ]
 }
