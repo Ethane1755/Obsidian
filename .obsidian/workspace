@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/赫羅圖（Hertzsprung-Russell diagram_ HRD).md",
+            "file": "Zettelkasten/歷史解釋_認同問題.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/赫羅圖（Hertzsprung-Russell diagram_ HRD).md",
+                "file": "Zettelkasten/歷史解釋_認同問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "64a6aa9f22c43695",
   "lastOpenFiles": [
+    "Zettelkasten/歷史解釋_認同問題.md",
+    "Zettelkasten/歐特雲.md",
+    "Zettelkasten/歐拉公式.md",
+    "Zettelkasten/標準時間.md",
+    "Zettelkasten/數學符號表.md",
+    "Zettelkasten/數學計畫.md",
+    "Zettelkasten/數學科新舊課綱差異.md",
+    "Zettelkasten/數線區間.md",
     "Zettelkasten/赫羅圖（Hertzsprung-Russell diagram_ HRD).md",
-    "Zettelkasten/算幾不等式.md",
-    "Zettelkasten/磁暴.md",
-    "Zettelkasten/演替.md",
-    "Zettelkasten/圖阿雷格人.md",
-    "Zettelkasten/資料分析.md",
-    "Zettelkasten/解題背後的心理學心得.md",
-    "Zettelkasten/矮行星與小行星.md",
-    "Zettelkasten/準平原.md",
-    "Zettelkasten/新北市人口變化.md"
+    "Zettelkasten/算幾不等式.md"
   ]
 }
