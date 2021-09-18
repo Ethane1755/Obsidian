@@ -114,5 +114,14 @@
       ],
       "key": "H"
     }
+  ],
+  "workspaces:load": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
   ]
 }

@@ -1,0 +1,125 @@
+{
+  "workspaces": {
+    "History": {
+      "main": {
+        "id": "48a1a04b7f764229",
+        "type": "split",
+        "children": [
+          {
+            "id": "b4d5480dbe52b194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/台灣史料.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9c33f4af5fdf53f",
+        "type": "split",
+        "children": [
+          {
+            "id": "fe636a731191f1cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ce124a85989e51ed",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "57eb9b56099ae3b1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "不等式",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "76dfb9428beed156",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c7d8a1fcfd493bba",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Zettelkasten/台灣史料.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "6b84faf83a99a6bc",
+        "type": "split",
+        "children": [
+          {
+            "id": "4ac617b3e0acbe3f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "33b1ef87fcced71e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0ff5d162a1d8b604",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Zettelkasten/台灣史料.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "b4d5480dbe52b194"
+    }
+  },
+  "active": "History"
+}

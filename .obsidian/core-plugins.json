@@ -8,5 +8,6 @@
   "templates",
   "note-composer",
   "command-palette",
-  "slides"
+  "slides",
+  "workspaces"
 ]
