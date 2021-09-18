@@ -35,6 +35,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "b4d5480dbe52b194",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/香料群島.md",
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -125,28 +135,29 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/香料群島.md",
+                "file": "Zettelkasten/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "2356133828e9f9c4",
+  "active": "b4d5480dbe52b194",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/香料群島.md",
     "Zettelkasten/香料貿易.md",
     "Zettelkasten/荷蘭東印度公司.md",
     "Zettelkasten/光子能量.md",
     "Zettelkasten/普朗克-愛因斯坦關係式.md",
     "Zettelkasten/你說.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/普朗克常數.md",
     "Zettelkasten/數線區間.md",
     "Zettelkasten/絕對值.md"
