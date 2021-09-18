@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/臭氧.md",
+            "file": "Zettelkasten/畢達哥拉斯恆等式.md",
             "mode": "source"
           }
         }
@@ -46,7 +46,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 32.5609756097561,
+        "dimension": 75.60975609756098,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -69,7 +69,7 @@
       {
         "id": "fe636a731191f1cb",
         "type": "tabs",
-        "dimension": 67.4390243902439,
+        "dimension": 24.390243902439025,
         "children": [
           {
             "id": "57eb9b56099ae3b1",
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/臭氧.md",
+                "file": "Zettelkasten/畢達哥拉斯恆等式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "64a6aa9f22c43695",
   "lastOpenFiles": [
+    "Zettelkasten/畢達哥拉斯恆等式.md",
+    "Zettelkasten/區間.md",
+    "Zettelkasten/高砂義勇隊.md",
+    "Zettelkasten/馬克士威方程組.md",
+    "Zettelkasten/閃焰.md",
     "Zettelkasten/臭氧.md",
     "Zettelkasten/核融合.md",
     "Zettelkasten/香料群島.md",
     "Zettelkasten/香料貿易.md",
-    "Zettelkasten/食租國 rentier states.md",
-    "Zettelkasten/范艾倫輻射帶.md",
-    "Zettelkasten/英文自我介紹.md",
-    "Zettelkasten/美國擴張史.md",
-    "Zettelkasten/美國各州加入聯邦順序.md",
-    "Zettelkasten/美利堅聯盟國.md"
+    "Zettelkasten/食租國 rentier states.md"
   ]
 }
