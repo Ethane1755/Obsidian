@@ -6,18 +6,10 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "不等式",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.22990790111488,
   "lineSizeMultiplier": 2.06550561797753,
   "collapse-forces": false,
@@ -25,6 +17,6 @@
   "repelStrength": 17.8202247191011,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8137713085498721,
+  "scale": 0.34965970272166297,
   "close": true
 }

@@ -48,6 +48,14 @@
         }
       },
       {
+        "id": "b539e6e7f86f537f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
         "id": "3ace36a822de2349",
         "type": "leaf",
         "state": {
@@ -111,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/花岡一郎與花岡二郎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,10 +144,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6bf17e852ef7959",
+  "active": "b539e6e7f86f537f",
   "lastOpenFiles": [
-    "Zettelkasten/花岡一郎與花岡二郎.md",
     "Zettelkasten/Untitled.md",
+    "Zettelkasten/花岡一郎與花岡二郎.md",
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/台灣史料.md",
     "Zettelkasten/高砂義勇隊.md",
