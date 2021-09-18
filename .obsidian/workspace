@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/行星風系與地方風系.md",
+            "file": "Zettelkasten/南北戰爭.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/行星風系與地方風系.md",
+                "file": "Zettelkasten/南北戰爭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "64a6aa9f22c43695",
   "lastOpenFiles": [
+    "Zettelkasten/南北戰爭.md",
+    "Zettelkasten/侵蝕輪迴論.md",
+    "Zettelkasten/花岡一郎與花岡二郎.md",
+    "Zettelkasten/法律解釋與適用.md",
+    "Zettelkasten/法治意涵、法律制定.md",
+    "Zettelkasten/河川襲奪.md",
+    "Zettelkasten/底索曲線.md",
+    "Zettelkasten/西北航道.md",
     "Zettelkasten/行星風系與地方風系.md",
-    "Zettelkasten/色球層.md",
-    "Zettelkasten/自用標例表.md",
-    "Zettelkasten/自主學習計畫討論.md",
-    "Zettelkasten/立法院.md",
-    "Zettelkasten/自主學習計畫-塞車模型.md",
-    "Zettelkasten/地圖投影.md",
-    "Zettelkasten/地科隨堂.md",
-    "Zettelkasten/光球層.md",
-    "Zettelkasten/光合作用.md"
+    "Zettelkasten/色球層.md"
   ]
 }
