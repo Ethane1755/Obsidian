@@ -35,8 +35,9 @@
         "type": "split",
         "children": [
           {
-            "id": "fe636a731191f1cb",
+            "id": "4cbb1f4015750da1",
             "type": "tabs",
+            "dimension": 32.5609756097561,
             "children": [
               {
                 "id": "ce124a85989e51ed",
@@ -47,12 +48,27 @@
                 }
               },
               {
+                "id": "33b1ef87fcced71e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "fe636a731191f1cb",
+            "type": "tabs",
+            "dimension": 67.4390243902439,
+            "children": [
+              {
                 "id": "57eb9b56099ae3b1",
                 "type": "leaf",
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "不等式",
+                    "query": "",
                     "matchingCase": true,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -62,20 +78,12 @@
                 }
               },
               {
-                "id": "76dfb9428beed156",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
                 "id": "c7d8a1fcfd493bba",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Zettelkasten/台灣史料.md",
+                    "file": "Zettelkasten/歷史解釋_認同問題.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -87,7 +95,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
@@ -96,40 +104,12 @@
       "right": {
         "id": "6b84faf83a99a6bc",
         "type": "split",
-        "children": [
-          {
-            "id": "4ac617b3e0acbe3f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "33b1ef87fcced71e",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              },
-              {
-                "id": "0ff5d162a1d8b604",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Zettelkasten/台灣史料.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
+        "children": [],
         "direction": "horizontal",
         "width": 300,
         "collapsed": true
       },
-      "active": "b4d5480dbe52b194"
+      "active": "dea6c2e5fc7e84c2"
     }
   },
   "active": "History"
