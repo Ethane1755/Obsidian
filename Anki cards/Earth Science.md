@@ -27,7 +27,7 @@ TARGET DECK: Earth Science
 太陽上層大氣射出之超高速電漿流
 <!--ID: 1627891411941-->
 
-太陽核心能量來源? #flashcard 
+[[太陽核心]]能量來源? #flashcard 
 核融合
 <!--ID: 1627891442314-->
 
