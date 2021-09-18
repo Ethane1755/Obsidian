@@ -1,0 +1,30 @@
+{
+  "darkMode": false,
+  "markerIcons": {
+    "default": {
+      "prefix": "fas",
+      "icon": "fa-circle",
+      "markerColor": "blue"
+    },
+    "#trip": {
+      "prefix": "fas",
+      "icon": "fa-hiking",
+      "markerColor": "green"
+    },
+    "#trip-water": {
+      "prefix": "fas",
+      "markerColor": "blue"
+    },
+    "#dogs": {
+      "prefix": "fas",
+      "icon": "fa-paw"
+    }
+  },
+  "zoomOnGoFromNote": 15,
+  "tilesUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "autoZoom": true,
+  "markerClickBehavior": "alwaysNew",
+  "newNoteNameFormat": "Location added on {{date:YYYY-MM-DD}}T{{date:HH-mm}}",
+  "snippetLines": 3,
+  "debug": false
+}
