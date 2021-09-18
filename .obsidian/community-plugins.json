@@ -8,5 +8,8 @@
   "obsidian-filename-heading-sync",
   "sliding-panes-obsidian",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-auto-link-title",
+  "obsidian-auto-pair-chinese-symbol",
+  "obsidian-banners"
 ]
