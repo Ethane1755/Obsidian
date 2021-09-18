@@ -4,57 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6c03096aca69f4ba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/普朗克-愛因斯坦關係式.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "7bd8123113dfc8e7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/光子能量.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "eb98b10c3c717d2b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/荷蘭東印度公司.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "20d45d6a14e1f693",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/哈囉.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c155a533ec63f4aa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/你說.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -66,17 +22,6 @@
           "state": {
             "file": "Zettelkasten/香料貿易.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "fa6c10ba337b0d36",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/香料群島.md",
-            "mode": "source"
           }
         }
       }
@@ -128,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/你說.md",
+                "file": "Zettelkasten/荷蘭東印度公司.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,11 +84,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -167,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/你說.md",
+                "file": "Zettelkasten/荷蘭東印度公司.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c155a533ec63f4aa",
+  "active": "eb98b10c3c717d2b",
   "lastOpenFiles": [
+    "Zettelkasten/荷蘭東印度公司.md",
+    "Zettelkasten/香料貿易.md",
+    "Zettelkasten/光子能量.md",
+    "Zettelkasten/香料群島.md",
+    "Zettelkasten/普朗克-愛因斯坦關係式.md",
     "Zettelkasten/你說.md",
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/荷蘭東印度公司.md",
-    "Zettelkasten/普朗克-愛因斯坦關係式.md",
-    "Zettelkasten/光子能量.md",
     "Zettelkasten/普朗克常數.md",
     "Zettelkasten/數線區間.md",
-    "Zettelkasten/絕對值.md",
-    "Zettelkasten/三角不等式.md",
-    "Zettelkasten/數學符號表.md"
+    "Zettelkasten/絕對值.md"
   ]
 }
