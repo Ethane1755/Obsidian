@@ -99,7 +99,7 @@
 .graph-view.color-circle
 {
 	color: var(--light0)
-},
+}
 .graph-view.color-fill-highlight
 {
 	color: var(--red)
