@@ -26,13 +26,24 @@
         }
       },
       {
+        "id": "f084c5284f42ca40",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/高砂義勇隊.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "dea6c2e5fc7e84c2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/歷史解釋_認同問題.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -141,8 +152,8 @@
   "active": "dea6c2e5fc7e84c2",
   "lastOpenFiles": [
     "Zettelkasten/歷史解釋_認同問題.md",
-    "Zettelkasten/花岡一郎與花岡二郎.md",
     "Zettelkasten/Untitled.md",
+    "Zettelkasten/花岡一郎與花岡二郎.md",
     "Zettelkasten/台灣史料.md",
     "Zettelkasten/公聽會.md",
     "Zettelkasten/三角函數.md",
