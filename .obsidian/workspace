@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/歷史解釋_認同問題.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -32,6 +32,20 @@
     "id": "b9c33f4af5fdf53f",
     "type": "split",
     "children": [
+      {
+        "id": "4cbb1f4015750da1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b1ef87fcced71e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "fe636a731191f1cb",
         "type": "tabs",
@@ -94,35 +108,7 @@
   "right": {
     "id": "6b84faf83a99a6bc",
     "type": "split",
-    "children": [
-      {
-        "id": "4ac617b3e0acbe3f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "33b1ef87fcced71e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0ff5d162a1d8b604",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Zettelkasten/歷史解釋_認同問題.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
