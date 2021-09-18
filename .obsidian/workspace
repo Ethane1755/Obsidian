@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/普朗克-愛因斯坦關係式.md",
+                "file": "Zettelkasten/普朗克常數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/普朗克-愛因斯坦關係式.md",
+                "file": "Zettelkasten/普朗克常數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,10 +144,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c03096aca69f4ba",
+  "active": "5380acfdf85b6098",
   "lastOpenFiles": [
-    "Zettelkasten/普朗克-愛因斯坦關係式.md",
     "Zettelkasten/普朗克常數.md",
+    "Zettelkasten/普朗克-愛因斯坦關係式.md",
     "Zettelkasten/光子能量.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/數線區間.md",
