@@ -26,6 +26,28 @@
         }
       },
       {
+        "id": "d6bf17e852ef7959",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/花岡一郎與花岡二郎.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "39fe3808c92bc8cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "3ace36a822de2349",
         "type": "leaf",
         "state": {
@@ -89,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/歷史解釋_認同問題.md",
+                "file": "Zettelkasten/花岡一郎與花岡二郎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,12 +137,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dea6c2e5fc7e84c2",
+  "active": "d6bf17e852ef7959",
   "lastOpenFiles": [
+    "Zettelkasten/花岡一郎與花岡二郎.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/台灣史料.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/花岡一郎與花岡二郎.md",
     "Zettelkasten/高砂義勇隊.md",
     "Zettelkasten/公聽會.md",
     "Zettelkasten/三角函數.md",
