@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/歷史解釋_認同問題.md",
+            "file": "Zettelkasten/簡報設計.md",
             "mode": "source"
           }
         }
@@ -46,7 +46,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 75.60975609756098,
+        "dimension": 27.80487804878049,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -69,7 +69,7 @@
       {
         "id": "fe636a731191f1cb",
         "type": "tabs",
-        "dimension": 24.390243902439025,
+        "dimension": 72.1951219512195,
         "children": [
           {
             "id": "57eb9b56099ae3b1",
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/歷史解釋_認同問題.md",
+                "file": "Zettelkasten/簡報設計.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "64a6aa9f22c43695",
   "lastOpenFiles": [
+    "Zettelkasten/簡報設計.md",
+    "Zettelkasten/縮尺係數.md",
+    "Zettelkasten/輻射層.md",
+    "Zettelkasten/濁大計畫.md",
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/歐特雲.md",
     "Zettelkasten/歐拉公式.md",
     "Zettelkasten/標準時間.md",
     "Zettelkasten/數學符號表.md",
-    "Zettelkasten/數學計畫.md",
-    "Zettelkasten/數學科新舊課綱差異.md",
-    "Zettelkasten/數線區間.md",
-    "Zettelkasten/赫羅圖（Hertzsprung-Russell diagram_ HRD).md",
-    "Zettelkasten/算幾不等式.md"
+    "Zettelkasten/數學計畫.md"
   ]
 }
