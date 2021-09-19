@@ -153,7 +153,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/黑體輻射.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/波茲曼常數.md",
+                "file": "Zettelkasten/黑體輻射.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/波茲曼常數.md",
+                "file": "Zettelkasten/黑體輻射.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -282,8 +282,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea7e9b9f6776d8d0",
+  "active": "9fbed2bf6ac9fc59",
   "lastOpenFiles": [
+    "Zettelkasten/黑體輻射.md",
     "Zettelkasten/波茲曼常數.md",
     "Zettelkasten/普朗克黑體輻射定律.md",
     "Zettelkasten/波耳氫原子模型.md",
@@ -292,7 +293,6 @@
     "Zettelkasten/距離模數公式.md",
     "Zettelkasten/恆星亮度.md",
     "Zettelkasten/星等.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/斯特凡–波茲曼定律.md"
+    "Zettelkasten/Untitled.md"
   ]
 }
