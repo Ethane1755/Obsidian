@@ -65,6 +65,17 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/熱輻射.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "502a065a550a0a6e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/普朗克黑體輻射定律.md",
             "mode": "source"
           }
         }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/熱輻射.md",
+                "file": "Zettelkasten/普朗克黑體輻射定律.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/熱輻射.md",
+                "file": "Zettelkasten/普朗克黑體輻射定律.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -170,11 +182,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71671e0208117d67",
+  "active": "502a065a550a0a6e",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/熱輻射.md",
     "Zettelkasten/黑體輻射.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/電子軌域.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/原子光譜.md",
