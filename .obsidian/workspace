@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/光速公式.md",
+            "file": "Zettelkasten/電磁波速公式.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/光速公式.md",
+                "file": "Zettelkasten/電磁波速公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/光速公式.md",
+                "file": "Zettelkasten/電磁波速公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
