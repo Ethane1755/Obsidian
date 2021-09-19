@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "48a1a04b7f764229",
+    "type": "split",
+    "children": [
+      {
+        "id": "583a7cc09e1d8d77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/波耳氫原子模型.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "3f727106dcd77ad9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/主量子數.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "edb0558afe0fc278",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/電子軌域.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "f5e0129e9e274872",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/原子光譜.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "d29a338ac69e6f57",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/黑體輻射.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "71671e0208117d67",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/熱輻射.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "ea7e9b9f6776d8d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/瑞立-金斯定律.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9c33f4af5fdf53f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cbb1f4015750da1",
+        "type": "tabs",
+        "dimension": 36.46341463414634,
+        "children": [
+          {
+            "id": "ce124a85989e51ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "57eb9b56099ae3b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33b1ef87fcced71e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a5a892a2c7f80c6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "18d8fb9879b88a20",
+        "type": "tabs",
+        "dimension": 63.53658536585366,
+        "children": [
+          {
+            "id": "bb348a5fe3eda7d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/瑞立-金斯定律.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c7d8a1fcfd493bba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten/瑞立-金斯定律.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6b84faf83a99a6bc",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ea7e9b9f6776d8d0",
+  "lastOpenFiles": [
+    "Zettelkasten/瑞立-金斯定律.md",
+    "Zettelkasten/熱輻射.md",
+    "Zettelkasten/維恩定律.md",
+    "Zettelkasten/普朗克黑體輻射定律.md",
+    "Zettelkasten/普朗克[[黑體輻射]]定律.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/黑體輻射.md",
+    "Zettelkasten/電子軌域.md",
+    "Zettelkasten/主量子數.md",
+    "Zettelkasten/原子光譜.md"
+  ]
+}
