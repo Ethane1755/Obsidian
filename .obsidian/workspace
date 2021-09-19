@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/波茲曼常數.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/恆星光度.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/波茲曼常數.md",
+                "file": "Zettelkasten/恆星光度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/波茲曼常數.md",
+                "file": "Zettelkasten/恆星光度.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea7e9b9f6776d8d0",
+  "active": "4dead0e3fdd4f9ab",
   "lastOpenFiles": [
+    "Zettelkasten/恆星光度.md",
     "Zettelkasten/波茲曼常數.md",
     "Zettelkasten/斯特凡–波茲曼定律.md",
     "Zettelkasten/熱輻射.md",
@@ -170,7 +171,6 @@
     "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/電子軌域.md",
-    "Zettelkasten/黑體輻射.md",
-    "Zettelkasten/原子光譜.md"
+    "Zettelkasten/黑體輻射.md"
   ]
 }
