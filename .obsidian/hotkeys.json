@@ -132,5 +132,14 @@
       ],
       "key": "F"
     }
+  ],
+  "mrj-text-expand:editor-expand-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
