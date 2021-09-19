@@ -54,7 +54,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/恆星亮度.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/星等.md",
+                "file": "Zettelkasten/恆星亮度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/星等.md",
+                "file": "Zettelkasten/恆星亮度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,10 +204,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9094c380805af214",
+  "active": "295865d3e63a1416",
   "lastOpenFiles": [
-    "Zettelkasten/星等.md",
     "Zettelkasten/恆星亮度.md",
+    "Zettelkasten/星等.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/距離模數公式.md",
     "Zettelkasten/波茲曼常數.md",
