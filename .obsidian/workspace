@@ -4,36 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b5042938adbbf1a",
-        "type": "split",
-        "children": [
-          {
-            "id": "03451b59cc16defb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/黑矮星.md",
-                "mode": "preview"
-              }
-            },
-            "group": "936966e8f570b9dc"
-          },
-          {
-            "id": "407fb22ae9b3b081",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Zettelkasten/黑矮星.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            },
-            "group": "936966e8f570b9dc"
+        "id": "03451b59cc16defb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/黑矮星.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
