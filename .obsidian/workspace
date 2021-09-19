@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/電子軌域.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/電子軌域.md",
+                "file": "Zettelkasten/波耳氫原子模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/電子軌域.md",
+                "file": "Zettelkasten/波耳氫原子模型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/電子軌域.md",
+                "file": "Zettelkasten/波耳氫原子模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,12 +155,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "edb0558afe0fc278",
+  "active": "583a7cc09e1d8d77",
   "lastOpenFiles": [
+    "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/電子軌域.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/Titles.md",
-    "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/9_1~9_11.md",
