@@ -59,6 +59,17 @@
         }
       },
       {
+        "id": "9094c380805af214",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/星等.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "8a135c2a913ccb38",
         "type": "leaf",
         "state": {
@@ -196,14 +207,14 @@
   "active": "295865d3e63a1416",
   "lastOpenFiles": [
     "Zettelkasten/恆星亮度.md",
-    "Zettelkasten/距離模數公式.md",
+    "Zettelkasten/星等.md",
     "Zettelkasten/Untitled.md",
+    "Zettelkasten/距離模數公式.md",
     "Zettelkasten/波茲曼常數.md",
     "Zettelkasten/斯特凡–波茲曼定律.md",
     "Zettelkasten/恆星光度.md",
     "Zettelkasten/赫羅圖（Hertzsprung-Russell diagram_ HRD).md",
     "Zettelkasten/主量子數.md",
-    "Zettelkasten/熱輻射.md",
-    "Zettelkasten/瑞立-金斯定律.md"
+    "Zettelkasten/熱輻射.md"
   ]
 }
