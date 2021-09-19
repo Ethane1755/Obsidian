@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/恆星光度.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -43,7 +43,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/赫羅圖.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -90,7 +90,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 67.19512195121952,
+        "dimension": 53.04878048780488,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/赫羅圖.md",
+                "file": "Zettelkasten/恆星光度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 32.80487804878049,
+        "dimension": 46.95121951219512,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/赫羅圖.md",
+                "file": "Zettelkasten/恆星光度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,10 +182,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5566f70941b128f",
+  "active": "4dead0e3fdd4f9ab",
   "lastOpenFiles": [
-    "Zettelkasten/赫羅圖（Hertzsprung-Russell diagram_ HRD).md",
     "Zettelkasten/恆星光度.md",
+    "Zettelkasten/赫羅圖（Hertzsprung-Russell diagram_ HRD).md",
     "Zettelkasten/恆星亮度.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/熱輻射.md",
