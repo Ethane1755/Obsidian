@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/波耳氫原子模型.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/主量子數.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/電子軌域.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -43,7 +43,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/原子光譜.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/原子光譜.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/原子光譜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f727106dcd77ad9",
+  "active": "f5e0129e9e274872",
   "lastOpenFiles": [
+    "Zettelkasten/原子光譜.md",
     "Zettelkasten/主量子數.md",
-    "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/電子軌域.md",
+    "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Titles.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/9_1~9_11.md",
     "Zettelkasten/黑矮星.md",
-    "unresolved links output.md",
-    "unlinked files output.md"
+    "unresolved links output.md"
   ]
 }
