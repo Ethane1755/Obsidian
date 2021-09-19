@@ -90,6 +90,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "7f6823c884e5dc1e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/普朗克黑體輻射定律.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -142,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "18d8fb9879b88a20",
