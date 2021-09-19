@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/電子軌域.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/電子軌域.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/電子軌域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f727106dcd77ad9",
+  "active": "edb0558afe0fc278",
   "lastOpenFiles": [
+    "Zettelkasten/電子軌域.md",
+    "Zettelkasten/黑體輻射.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/原子光譜.md",
-    "Zettelkasten/電子軌域.md",
     "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/Titles.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/9_1~9_11.md",
-    "Zettelkasten/黑矮星.md",
-    "unresolved links output.md"
+    "Zettelkasten/黑矮星.md"
   ]
 }
