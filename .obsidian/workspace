@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b4d5480dbe52b194",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/台灣史料.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "dea6c2e5fc7e84c2",
         "type": "leaf",
         "state": {
@@ -129,6 +118,7 @@
   "active": "dea6c2e5fc7e84c2",
   "lastOpenFiles": [
     "Zettelkasten/歷史解釋_認同問題.md",
+    "Zettelkasten/台灣史料.md",
     "Zettelkasten/自主學習計畫討論.md",
     "Zettelkasten/自用標例表.md",
     "Zettelkasten/Intermediate English Learning.md",
@@ -136,7 +126,6 @@
     "Zettelkasten/HTML 語法.md",
     "Zettelkasten/Coursera Application.md",
     "Zettelkasten/Blockly.md",
-    "Zettelkasten/黨團.md",
-    "Zettelkasten/蘇丹草原.md"
+    "Zettelkasten/黨團.md"
   ]
 }
