@@ -87,7 +87,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/維恩定律.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -179,7 +179,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
