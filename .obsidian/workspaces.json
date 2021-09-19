@@ -110,7 +110,155 @@
         "collapsed": true
       },
       "active": "dea6c2e5fc7e84c2"
+    },
+    "Astronomy": {
+      "main": {
+        "id": "48a1a04b7f764229",
+        "type": "split",
+        "children": [
+          {
+            "id": "583a7cc09e1d8d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/波耳氫原子模型.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "3f727106dcd77ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/主量子數.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9c33f4af5fdf53f",
+        "type": "split",
+        "children": [
+          {
+            "id": "4cbb1f4015750da1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ce124a85989e51ed",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "57eb9b56099ae3b1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "33b1ef87fcced71e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5a5a892a2c7f80c6",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "fe636a731191f1cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c7d8a1fcfd493bba",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Zettelkasten/主量子數.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "bb348a5fe3eda7d7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Zettelkasten/主量子數.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6b84faf83a99a6bc",
+        "type": "split",
+        "children": [
+          {
+            "id": "ae8b6e443fe65004",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "62018bbfa9631569",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Zettelkasten/主量子數.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "3f727106dcd77ad9"
     }
   },
-  "active": "History"
+  "active": "Astronomy"
 }
