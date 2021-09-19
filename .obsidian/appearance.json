@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "theme": "obsidian",
   "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
@@ -7,5 +7,5 @@
     "Bullet Lines"
   ],
   "translucency": true,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": true
 }
