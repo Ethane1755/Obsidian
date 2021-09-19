@@ -87,14 +87,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/波耳氫原子模型.md",
+                "file": "Zettelkasten/電子軌域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/波耳氫原子模型.md",
+                "file": "Zettelkasten/電子軌域.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/波耳氫原子模型.md",
+                "file": "Zettelkasten/電子軌域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,8 +145,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "583a7cc09e1d8d77",
+  "active": "3f727106dcd77ad9",
   "lastOpenFiles": [
+    "Zettelkasten/電子軌域.md",
     "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Untitled 1.md",
@@ -155,7 +156,6 @@
     "unresolved links output.md",
     "unlinked files output.md",
     "Zettelkasten/電磁波速公式.md",
-    "Zettelkasten/歷史解釋_認同問題.md",
-    "Zettelkasten/台灣史料.md"
+    "Zettelkasten/歷史解釋_認同問題.md"
   ]
 }
