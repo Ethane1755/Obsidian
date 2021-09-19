@@ -141,5 +141,14 @@
       ],
       "key": "D"
     }
+  ],
+  "outgoing-links:open-for-current": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
   ]
 }

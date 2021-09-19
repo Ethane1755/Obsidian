@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "47e4c0da210dab67",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled 1.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +99,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "bb348a5fe3eda7d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "583a7cc09e1d8d77",
+  "active": "47e4c0da210dab67",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 1.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/9_1~9_11.md",
     "Zettelkasten/黑矮星.md",
@@ -133,7 +157,6 @@
     "Zettelkasten/電磁波速公式.md",
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/台灣史料.md",
-    "Zettelkasten/自主學習計畫討論.md",
-    "Zettelkasten/自用標例表.md"
+    "Zettelkasten/自主學習計畫討論.md"
   ]
 }
