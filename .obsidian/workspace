@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/恆星亮度.md",
+                "file": "Zettelkasten/距離模數公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/恆星亮度.md",
+                "file": "Zettelkasten/距離模數公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,12 +204,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "295865d3e63a1416",
+  "active": "8a135c2a913ccb38",
   "lastOpenFiles": [
+    "Zettelkasten/距離模數公式.md",
     "Zettelkasten/恆星亮度.md",
     "Zettelkasten/星等.md",
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/距離模數公式.md",
     "Zettelkasten/波茲曼常數.md",
     "Zettelkasten/斯特凡–波茲曼定律.md",
     "Zettelkasten/恆星光度.md",
