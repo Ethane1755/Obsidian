@@ -98,7 +98,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/瑞立-金斯定律.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -189,7 +189,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 53.04878048780488,
+        "dimension": 53.048780487804876,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/瑞立-金斯定律.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 46.95121951219512,
+        "dimension": 46.951219512195124,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/瑞立-金斯定律.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -281,17 +281,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23fda3c21ebc753e",
+  "active": "49461730f80bc3a7",
   "lastOpenFiles": [
+    "Zettelkasten/瑞立-金斯定律.md",
+    "Zettelkasten/原子光譜.md",
+    "Zettelkasten/維恩定律.md",
+    "Zettelkasten/熱輻射.md",
+    "Zettelkasten/恆星光度.md",
+    "Zettelkasten/星等.md",
+    "Zettelkasten/普朗克黑體輻射定律.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/黑體輻射.md",
-    "Zettelkasten/波茲曼常數.md",
-    "Zettelkasten/普朗克黑體輻射定律.md",
-    "Zettelkasten/波耳氫原子模型.md",
-    "Zettelkasten/瑞立-金斯定律.md",
-    "Zettelkasten/熱輻射.md",
-    "Zettelkasten/距離模數公式.md",
-    "Zettelkasten/恆星亮度.md",
-    "Zettelkasten/星等.md"
+    "Zettelkasten/波茲曼常數.md"
   ]
 }
