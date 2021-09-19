@@ -10,6 +10,17 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "4603dd73ccc8d49b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -67,8 +78,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Zettelkasten/Untitled.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -98,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +123,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "76e0d81a2f35a7e5",
+  "active": "4603dd73ccc8d49b",
   "lastOpenFiles": [
     "Zettelkasten/Untitled.md",
     "Zettelkasten/電磁波速公式.md",
