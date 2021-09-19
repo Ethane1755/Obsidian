@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/斯特凡–波茲曼定律（Stefan-Boltzmann law）.md",
+            "file": "Zettelkasten/斯特凡–波茲曼定律.md",
             "mode": "source"
           }
         }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/斯特凡–波茲曼定律（Stefan-Boltzmann law）.md",
+                "file": "Zettelkasten/斯特凡–波茲曼定律.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/斯特凡–波茲曼定律（Stefan-Boltzmann law）.md",
+                "file": "Zettelkasten/斯特凡–波茲曼定律.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
