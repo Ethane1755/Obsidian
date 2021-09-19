@@ -20,7 +20,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Titles.md",
+            "file": "Zettelkasten/主量子數.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "edb0558afe0fc278",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/電子軌域.md",
             "mode": "source"
           }
         }
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Titles.md",
+                "file": "Zettelkasten/電子軌域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Titles.md",
+                "file": "Zettelkasten/電子軌域.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Titles.md",
+                "file": "Zettelkasten/電子軌域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,11 +155,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f727106dcd77ad9",
+  "active": "edb0558afe0fc278",
   "lastOpenFiles": [
-    "Zettelkasten/Titles.md",
-    "Zettelkasten/主量子數.md",
     "Zettelkasten/電子軌域.md",
+    "Zettelkasten/主量子數.md",
+    "Zettelkasten/Titles.md",
     "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Untitled 1.md",
