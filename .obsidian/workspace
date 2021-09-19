@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/恆星光度.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -68,7 +68,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 32.5609756097561,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/恆星光度.md",
+                "file": "Zettelkasten/波茲曼常數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 67.4390243902439,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
@@ -124,9 +124,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/恆星光度.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "file": "Zettelkasten/波茲曼常數.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -160,10 +160,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4dead0e3fdd4f9ab",
+  "active": "ea7e9b9f6776d8d0",
   "lastOpenFiles": [
-    "Zettelkasten/恆星光度.md",
     "Zettelkasten/波茲曼常數.md",
+    "Zettelkasten/恆星光度.md",
     "Zettelkasten/斯特凡–波茲曼定律.md",
     "Zettelkasten/熱輻射.md",
     "Zettelkasten/Untitled.md",
