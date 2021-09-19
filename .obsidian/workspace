@@ -102,7 +102,26 @@
   "right": {
     "id": "6b84faf83a99a6bc",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "ae8b6e443fe65004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62018bbfa9631569",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/歷史解釋_認同問題.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
