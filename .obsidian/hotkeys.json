@@ -123,5 +123,14 @@
       ],
       "key": "W"
     }
+  ],
+  "find-unlinked-files:find-unlinked-files": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
   ]
 }
