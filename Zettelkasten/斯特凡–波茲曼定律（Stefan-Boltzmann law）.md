@@ -1,0 +1,15 @@
+# 斯特凡–波茲曼定律（Stefan-Boltzmann law）
+
+   
+
+j*=eσT4
+
+•j*：單位面積輻射功率(J/s⋅m2)
+
+•e：黑體的發射率，理想黑體為1，故 j*=σT4
+
+•σ：斯特凡─波茲曼常數 (Stefan-Boltzmann constant)
+
+•T：絕對溫度(K)
+
+•

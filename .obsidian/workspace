@@ -10,7 +10,18 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/波茲曼常數.md",
-            "mode": "preview"
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c37cd3925b744339",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/斯特凡–波茲曼定律（Stefan-Boltzmann law）.md",
+            "mode": "source"
           }
         }
       },
@@ -101,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/波茲曼常數.md",
+                "file": "Zettelkasten/斯特凡–波茲曼定律（Stefan-Boltzmann law）.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/波茲曼常數.md",
+                "file": "Zettelkasten/斯特凡–波茲曼定律（Stefan-Boltzmann law）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea7e9b9f6776d8d0",
+  "active": "c37cd3925b744339",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/波茲曼常數.md",
+    "Zettelkasten/熱輻射.md",
     "Zettelkasten/瑞立-金斯定律.md",
     "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/主量子數.md",
-    "Zettelkasten/熱輻射.md",
     "Zettelkasten/電子軌域.md",
     "Zettelkasten/黑體輻射.md",
     "Zettelkasten/原子光譜.md",
-    "Zettelkasten/維恩定律.md",
-    "Zettelkasten/普朗克黑體輻射定律.md"
+    "Zettelkasten/維恩定律.md"
   ]
 }
