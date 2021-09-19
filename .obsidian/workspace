@@ -34,17 +34,6 @@
         }
       },
       {
-        "id": "f5dc161fc1b4e2a5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "unlinked files output.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "03451b59cc16defb",
         "type": "leaf",
         "state": {
@@ -111,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unlinked files output.md",
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unlinked files output.md",
+                "file": "Zettelkasten/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5dc161fc1b4e2a5",
+  "active": "b97348934cd6a5f2",
   "lastOpenFiles": [
-    "unlinked files output.md",
     "Zettelkasten/Untitled.md",
+    "unresolved links output.md",
+    "unlinked files output.md",
     "Zettelkasten/黑矮星.md",
     "Zettelkasten/電磁波速公式.md",
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/台灣史料.md",
     "Zettelkasten/自主學習計畫討論.md",
     "Zettelkasten/自用標例表.md",
-    "Zettelkasten/Intermediate English Learning.md",
-    "Zettelkasten/Git Commands.md"
+    "Zettelkasten/Intermediate English Learning.md"
   ]
 }

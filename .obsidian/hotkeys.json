@@ -124,7 +124,7 @@
       "key": "W"
     }
   ],
-  "find-unlinked-files:find-unlinked-files": [
+  "find-unlinked-files:find-unresolved-link": [
     {
       "modifiers": [
         "Alt",
