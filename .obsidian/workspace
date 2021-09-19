@@ -131,26 +131,7 @@
   "right": {
     "id": "6b84faf83a99a6bc",
     "type": "split",
-    "children": [
-      {
-        "id": "ae8b6e443fe65004",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62018bbfa9631569",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Zettelkasten/波耳氫原子模型.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
