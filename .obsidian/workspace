@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/電子軌域.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/電子軌域.md",
+                "file": "Zettelkasten/黑體輻射.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/電子軌域.md",
+                "file": "Zettelkasten/黑體輻射.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,10 +159,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "edb0558afe0fc278",
+  "active": "d29a338ac69e6f57",
   "lastOpenFiles": [
-    "Zettelkasten/電子軌域.md",
     "Zettelkasten/黑體輻射.md",
+    "Zettelkasten/電子軌域.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/原子光譜.md",
