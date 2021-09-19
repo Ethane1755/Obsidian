@@ -12,28 +12,6 @@
         }
       },
       {
-        "id": "4603dd73ccc8d49b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Untitled.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b97348934cd6a5f2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Untitled.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "03451b59cc16defb",
         "type": "leaf",
         "state": {
@@ -100,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/黑矮星.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/黑矮星.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,12 +123,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4603dd73ccc8d49b",
+  "active": "03451b59cc16defb",
   "lastOpenFiles": [
+    "Zettelkasten/黑矮星.md",
     "Zettelkasten/Untitled.md",
     "unresolved links output.md",
     "unlinked files output.md",
-    "Zettelkasten/黑矮星.md",
     "Zettelkasten/電磁波速公式.md",
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/台灣史料.md",
