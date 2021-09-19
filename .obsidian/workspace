@@ -76,7 +76,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/距離模數公式.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -87,7 +87,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/熱輻射.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -109,7 +109,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/波耳氫原子模型.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -120,7 +120,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/普朗克黑體輻射定律.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/距離模數公式.md",
+                "file": "Zettelkasten/波茲曼常數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/距離模數公式.md",
+                "file": "Zettelkasten/波茲曼常數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -282,17 +282,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a135c2a913ccb38",
+  "active": "ea7e9b9f6776d8d0",
   "lastOpenFiles": [
+    "Zettelkasten/波茲曼常數.md",
+    "Zettelkasten/普朗克黑體輻射定律.md",
+    "Zettelkasten/波耳氫原子模型.md",
+    "Zettelkasten/瑞立-金斯定律.md",
+    "Zettelkasten/熱輻射.md",
     "Zettelkasten/距離模數公式.md",
     "Zettelkasten/恆星亮度.md",
     "Zettelkasten/星等.md",
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/波茲曼常數.md",
-    "Zettelkasten/斯特凡–波茲曼定律.md",
-    "Zettelkasten/恆星光度.md",
-    "Zettelkasten/赫羅圖（Hertzsprung-Russell diagram_ HRD).md",
-    "Zettelkasten/主量子數.md",
-    "Zettelkasten/熱輻射.md"
+    "Zettelkasten/斯特凡–波茲曼定律.md"
   ]
 }
