@@ -24,7 +24,6 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 32.5609756097561,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -32,6 +31,21 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            }
+          },
+          {
+            "id": "57eb9b56099ae3b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -55,23 +69,7 @@
       {
         "id": "fe636a731191f1cb",
         "type": "tabs",
-        "dimension": 67.4390243902439,
         "children": [
-          {
-            "id": "57eb9b56099ae3b1",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "c7d8a1fcfd493bba",
             "type": "leaf",
@@ -96,18 +94,17 @@
               "type": "outgoing-link",
               "state": {
                 "file": "Zettelkasten/波耳氫原子模型.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
