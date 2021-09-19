@@ -1,3 +1,7 @@
-    {
-    font-family: 'Sarasa Mono TC'serif !important;
-    }
+.cm-s-obsidian {
+    font-family: "Sarasa Mono TC";
+}
+
+.cm-header-1,.cm-header-2,.cm-header-3 {
+    font-family: "Sarasa Mono TC";
+}
