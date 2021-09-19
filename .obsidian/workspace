@@ -86,7 +86,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/普朗克黑體輻射定律.md",
+            "file": "Zettelkasten/維恩定律.md",
             "mode": "source"
           }
         }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/普朗克黑體輻射定律.md",
+                "file": "Zettelkasten/維恩定律.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/普朗克黑體輻射定律.md",
+                "file": "Zettelkasten/維恩定律.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "2920025a6fbbf4e0",
   "lastOpenFiles": [
-    "Zettelkasten/普朗克[[黑體輻射]]定律.md",
+    "Zettelkasten/維恩定律.md",
     "Zettelkasten/瑞立-金斯定律.md",
+    "Zettelkasten/普朗克黑體輻射定律.md",
+    "Zettelkasten/普朗克[[黑體輻射]]定律.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/熱輻射.md",
     "Zettelkasten/黑體輻射.md",
     "Zettelkasten/電子軌域.md",
     "Zettelkasten/主量子數.md",
-    "Zettelkasten/原子光譜.md",
-    "Zettelkasten/波耳氫原子模型.md",
-    "Zettelkasten/Titles.md"
+    "Zettelkasten/原子光譜.md"
   ]
 }
