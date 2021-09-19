@@ -75,8 +75,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/普朗克黑體輻射定律.md",
-            "mode": "preview"
+            "file": "Zettelkasten/普朗克[[黑體輻射]]定律.md",
+            "mode": "source"
           }
         }
       }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/普朗克黑體輻射定律.md",
+                "file": "Zettelkasten/普朗克[[黑體輻射]]定律.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/普朗克黑體輻射定律.md",
+                "file": "Zettelkasten/普朗克[[黑體輻射]]定律.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
