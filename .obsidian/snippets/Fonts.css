@@ -1,4 +1,5 @@
-.cm-s-obsidian {
+.cm-s-obsidian,
+	.markdown-preview-view{
     font-family: "Sarasa Mono TC";
 }
 
