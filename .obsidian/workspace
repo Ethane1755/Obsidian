@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/主量子數.md",
-            "mode": "preview"
+            "file": "Zettelkasten/Titles.md",
+            "mode": "source"
           }
         }
       }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/Titles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/Titles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/Titles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +145,7 @@
   },
   "active": "3f727106dcd77ad9",
   "lastOpenFiles": [
+    "Zettelkasten/Titles.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/電子軌域.md",
     "Zettelkasten/波耳氫原子模型.md",
@@ -154,7 +154,6 @@
     "Zettelkasten/9_1~9_11.md",
     "Zettelkasten/黑矮星.md",
     "unresolved links output.md",
-    "unlinked files output.md",
-    "Zettelkasten/電磁波速公式.md"
+    "unlinked files output.md"
   ]
 }
