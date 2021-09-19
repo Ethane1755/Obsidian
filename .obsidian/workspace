@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/瑞立-金斯定律.md",
-            "mode": "source"
+            "file": "Zettelkasten/波耳氫原子模型.md",
+            "mode": "preview"
           }
         }
       },
@@ -32,17 +32,6 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/主量子數.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "03a15c62487b98c2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/波耳氫原子模型.md",
             "mode": "source"
           }
         }
@@ -112,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/瑞立-金斯定律.md",
+                "file": "Zettelkasten/波耳氫原子模型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/瑞立-金斯定律.md",
+                "file": "Zettelkasten/波耳氫原子模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +140,8 @@
   },
   "active": "ea7e9b9f6776d8d0",
   "lastOpenFiles": [
-    "Zettelkasten/瑞立-金斯定律.md",
     "Zettelkasten/波耳氫原子模型.md",
+    "Zettelkasten/瑞立-金斯定律.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/熱輻射.md",
     "Zettelkasten/電子軌域.md",
