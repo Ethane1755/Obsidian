@@ -68,7 +68,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 36.46341463414634,
+        "dimension": 50,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -94,42 +94,6 @@
             }
           },
           {
-            "id": "33b1ef87fcced71e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a5a892a2c7f80c6",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "18d8fb9879b88a20",
-        "type": "tabs",
-        "dimension": 63.53658536585366,
-        "children": [
-          {
-            "id": "bb348a5fe3eda7d7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Zettelkasten/波茲曼常數.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "c7d8a1fcfd493bba",
             "type": "leaf",
             "state": {
@@ -147,7 +111,42 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "18d8fb9879b88a20",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "bb348a5fe3eda7d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/波茲曼常數.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33b1ef87fcced71e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a5a892a2c7f80c6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
