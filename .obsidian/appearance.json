@@ -4,7 +4,8 @@
   "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "新文字文件",
-    "Bullet Lines"
+    "Bullet Lines",
+    "Fonts"
   ],
   "translucency": true,
   "baseFontSizeAction": true
