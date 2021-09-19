@@ -151,7 +151,7 @@ a:hover,
 
 mark
 {
-    background-color: var(--yellow) !important;
+    background-color: rgba(224, 172, 68,0.6) !important;
 }
 
 .view-actions a
