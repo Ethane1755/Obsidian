@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/波耳氫原子模型.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -89,9 +89,21 @@
         ]
       },
       {
-        "id": "fe636a731191f1cb",
+        "id": "18d8fb9879b88a20",
         "type": "tabs",
         "children": [
+          {
+            "id": "bb348a5fe3eda7d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/波耳氫原子模型.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
           {
             "id": "c7d8a1fcfd493bba",
             "type": "leaf",
@@ -105,18 +117,6 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "bb348a5fe3eda7d7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Zettelkasten/波耳氫原子模型.md",
-                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
