@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/原子光譜.md",
+                "file": "Zettelkasten/主量子數.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/原子光譜.md",
+                "file": "Zettelkasten/主量子數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -147,12 +146,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5e0129e9e274872",
+  "active": "3f727106dcd77ad9",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/電子軌域.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/波耳氫原子模型.md",
+    "Zettelkasten/電子軌域.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/Titles.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/9_1~9_11.md",
