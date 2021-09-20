@@ -4,11 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "421736519ccbec1b",
+        "id": "73715b196bef46d8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/豬背嶺.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "65056c7d541371db",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "25d80483d80f5689",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/差異侵蝕.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -21,7 +46,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 53.048780487804876,
+        "dimension": 47.80487804878049,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -37,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "差異",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -62,12 +88,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 46.951219512195124,
+        "dimension": 52.19512195121951,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
@@ -75,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -96,8 +124,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "421736519ccbec1b",
+  "active": "65056c7d541371db",
   "lastOpenFiles": [
-    "Zettelkasten/褶曲作用.md",
-    "Zettelkasten/內營力.md",
-    "Zettelkasten/地形系統.md",
-    "Zettelkasten/地壘.md",
-    "Zettelkasten/太陽風.md",
-    "Zettelkasten/河川襲奪.md",
-    "Zettelkasten/美利堅聯盟國.md",
-    "Zettelkasten/公聽會.md",
-    "Zettelkasten/太陽核心.md",
-    "Zettelkasten/豬背嶺.md"
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/豬背嶺.md",
+    "Zettelkasten/差異侵蝕.md",
+    "Zettelkasten/主量子數.md",
+    "Zettelkasten/熱輻射.md",
+    "Zettelkasten/黑體輻射.md",
+    "Zettelkasten/維恩定律.md",
+    "Zettelkasten/波耳氫原子模型.md",
+    "Zettelkasten/赫羅圖.md",
+    "Zettelkasten/波茲曼常數.md"
   ]
 }
