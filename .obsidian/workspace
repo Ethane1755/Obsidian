@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_resources/環流系統.jpg",
+                "file": "Zettelkasten/豬背嶺.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_resources/環流系統.jpg",
+                "file": "Zettelkasten/豬背嶺.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,11 +180,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "141595533a430498",
+  "active": "d9d6373dfac2b61a",
   "lastOpenFiles": [
+    "Zettelkasten/豬背嶺.md",
     "_resources/環流系統.jpg",
     "Zettelkasten/半邊山.md",
-    "Zettelkasten/豬背嶺.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/差異侵蝕.md",
     "Zettelkasten/地壘.md",
