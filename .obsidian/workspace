@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/內營力.md",
+            "file": "Zettelkasten/褶曲作用.md",
             "mode": "source"
           }
         }
@@ -66,7 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地形系統.md",
+                "file": "Zettelkasten/褶曲作用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地形系統.md",
+                "file": "Zettelkasten/褶曲作用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,8 +127,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7072f4025efc131",
+  "active": "7ad5861e93d1095f",
   "lastOpenFiles": [
+    "Zettelkasten/褶曲作用.md",
+    "Zettelkasten/內營力.md",
     "Zettelkasten/地形系統.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/大南澳事件.md",
@@ -136,8 +138,6 @@
     "Zettelkasten/距離模數公式.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/熱輻射.md",
-    "Zettelkasten/黑體輻射.md",
-    "Zettelkasten/原子光譜.md",
-    "Zettelkasten/維恩定律.md"
+    "Zettelkasten/黑體輻射.md"
   ]
 }
