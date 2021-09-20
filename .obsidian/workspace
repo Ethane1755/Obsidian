@@ -59,14 +59,6 @@
         }
       },
       {
-        "id": "2d809d92133dad16",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
         "id": "afcf5e5fd147c0ed",
         "type": "leaf",
         "state": {
@@ -129,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/地形系統.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/地形系統.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,8 +182,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d809d92133dad16",
+  "active": "d7072f4025efc131",
   "lastOpenFiles": [
+    "Zettelkasten/地形系統.md",
     "Zettelkasten/地塹.md",
     "Zettelkasten/斷層作用.md",
     "Zettelkasten/地壘.md",
@@ -197,7 +192,6 @@
     "Zettelkasten/褶曲作用.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/古老結晶陸塊.md",
-    "Zettelkasten/地形系統.md",
     "Zettelkasten/大南澳事件.md",
     "Zettelkasten/三角不等式.md"
   ]
