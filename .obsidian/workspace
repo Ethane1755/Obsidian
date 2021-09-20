@@ -54,8 +54,16 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/地塹.md",
-            "mode": "source"
+            "mode": "preview"
           }
+        }
+      },
+      {
+        "id": "2d809d92133dad16",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -121,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地塹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地塹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +188,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9dbf667aadedf315",
+  "active": "2d809d92133dad16",
   "lastOpenFiles": [
     "Zettelkasten/地塹.md",
     "Zettelkasten/斷層作用.md",
