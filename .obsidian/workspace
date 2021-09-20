@@ -65,7 +65,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/豬背嶺.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/半邊山.md",
+                "file": "Zettelkasten/豬背嶺.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +132,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/半邊山.md",
+                "file": "Zettelkasten/豬背嶺.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,10 +181,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "141595533a430498",
+  "active": "d9d6373dfac2b61a",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/豬背嶺.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/差異侵蝕.md",
     "Zettelkasten/地壘.md",
     "Zettelkasten/古老結晶陸塊.md",
