@@ -54,7 +54,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/地塹.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地形系統.md",
+                "file": "Zettelkasten/地壘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地形系統.md",
+                "file": "Zettelkasten/地壘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,12 +182,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7072f4025efc131",
+  "active": "afcf5e5fd147c0ed",
   "lastOpenFiles": [
-    "Zettelkasten/地形系統.md",
-    "Zettelkasten/地塹.md",
-    "Zettelkasten/斷層作用.md",
     "Zettelkasten/地壘.md",
+    "Zettelkasten/地塹.md",
+    "Zettelkasten/地形系統.md",
+    "Zettelkasten/斷層作用.md",
     "Zettelkasten/內營力.md",
     "Zettelkasten/褶曲作用.md",
     "Zettelkasten/Untitled.md",
