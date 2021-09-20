@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/地形系統.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -119,6 +118,7 @@
   "active": "d7072f4025efc131",
   "lastOpenFiles": [
     "Zettelkasten/地形系統.md",
+    "Zettelkasten/三角不等式.md",
     "Zettelkasten/距離模數公式.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/主量子數.md",
@@ -126,7 +126,6 @@
     "Zettelkasten/黑體輻射.md",
     "Zettelkasten/原子光譜.md",
     "Zettelkasten/維恩定律.md",
-    "Zettelkasten/普朗克黑體輻射定律.md",
-    "Zettelkasten/波耳氫原子模型.md"
+    "Zettelkasten/普朗克黑體輻射定律.md"
   ]
 }
