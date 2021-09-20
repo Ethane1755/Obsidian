@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/豬背嶺.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/黑體輻射.md",
+                "file": "Zettelkasten/豬背嶺.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/黑體輻射.md",
+                "file": "Zettelkasten/豬背嶺.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,11 +138,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65056c7d541371db",
+  "active": "73715b196bef46d8",
   "lastOpenFiles": [
+    "Zettelkasten/豬背嶺.md",
     "Zettelkasten/黑體輻射.md",
     "Zettelkasten/單面山.md",
-    "Zettelkasten/豬背嶺.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/差異侵蝕.md",
     "Zettelkasten/主量子數.md",
