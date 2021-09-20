@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/單面山.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/豬背嶺.md",
+                "file": "Zettelkasten/單面山.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/豬背嶺.md",
+                "file": "Zettelkasten/單面山.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,10 +160,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73715b196bef46d8",
+  "active": "120ff4b8a4b38811",
   "lastOpenFiles": [
-    "Zettelkasten/豬背嶺.md",
     "Zettelkasten/單面山.md",
+    "Zettelkasten/豬背嶺.md",
     "Zettelkasten/差異侵蝕.md",
     "Zettelkasten/斷層作用.md",
     "Zettelkasten/波耳氫原子模型.md",
