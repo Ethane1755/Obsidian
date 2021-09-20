@@ -460,3 +460,6 @@ input.task-list-item-checkbox:checked {
     fill: var(--frost3) !important;
 }
 
+mermaid.flowchartConfig = {
+    width: 50%
+}
