@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/斷層崖.md",
+                "file": "Zettelkasten/斷層作用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/斷層崖.md",
+                "file": "Zettelkasten/斷層作用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,10 +193,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "931a4b19b61de181",
+  "active": "a2eec0561eb04791",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/斷層作用.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/地壘.md",
     "Zettelkasten/地塹.md",
     "Zettelkasten/地形系統.md",
