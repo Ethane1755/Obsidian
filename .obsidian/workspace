@@ -21,17 +21,6 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/差異侵蝕.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c886a6f4a1d2fe66",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/斷層作用.md",
             "mode": "preview"
           }
         }
@@ -95,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "斷層",
+                "query": "光譜",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/斷層作用.md",
+                "file": "Zettelkasten/差異侵蝕.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
@@ -135,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/斷層作用.md",
+                "file": "Zettelkasten/差異侵蝕.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c886a6f4a1d2fe66",
+  "active": "17437a0e856f6a90",
   "lastOpenFiles": [
-    "Zettelkasten/斷層作用.md",
     "Zettelkasten/差異侵蝕.md",
+    "Zettelkasten/斷層作用.md",
+    "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/豬背嶺.md",
     "Zettelkasten/黑體輻射.md",
     "Zettelkasten/單面山.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/熱輻射.md",
-    "Zettelkasten/維恩定律.md",
-    "Zettelkasten/波耳氫原子模型.md"
+    "Zettelkasten/維恩定律.md"
   ]
 }
