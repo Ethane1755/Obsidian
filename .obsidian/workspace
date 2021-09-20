@@ -13,17 +13,6 @@
             "mode": "preview"
           }
         }
-      },
-      {
-        "id": "6a17139e541aa948",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/大南澳事件.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -66,7 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/大南澳事件.md",
+                "file": "Zettelkasten/地形系統.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/大南澳事件.md",
+                "file": "Zettelkasten/地形系統.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,10 +115,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a17139e541aa948",
+  "active": "d7072f4025efc131",
   "lastOpenFiles": [
-    "Zettelkasten/大南澳事件.md",
     "Zettelkasten/地形系統.md",
+    "Zettelkasten/大南澳事件.md",
     "Zettelkasten/三角不等式.md",
     "Zettelkasten/距離模數公式.md",
     "Zettelkasten/Untitled.md",
