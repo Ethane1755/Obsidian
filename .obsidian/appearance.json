@@ -7,6 +7,6 @@
     "Bullet Lines",
     "Fonts"
   ],
-  "translucency": true,
+  "translucency": false,
   "baseFontSizeAction": true
 }
