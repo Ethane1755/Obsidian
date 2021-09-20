@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/單面山.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -104,7 +104,7 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "斷層",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
