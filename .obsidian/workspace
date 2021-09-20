@@ -53,8 +53,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/差異侵蝕.md",
-            "mode": "preview"
+            "file": "Zettelkasten/豬背嶺.md",
+            "mode": "source"
           }
         }
       }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/差異侵蝕.md",
+                "file": "Zettelkasten/豬背嶺.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/差異侵蝕.md",
+                "file": "Zettelkasten/豬背嶺.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -161,8 +162,8 @@
   },
   "active": "17b6f2892b7b7125",
   "lastOpenFiles": [
-    "Zettelkasten/差異侵蝕.md",
     "Zettelkasten/豬背嶺.md",
+    "Zettelkasten/差異侵蝕.md",
     "Zettelkasten/美國擴張史.md",
     "_resources/環流系統.jpg",
     "Zettelkasten/半邊山.md",
