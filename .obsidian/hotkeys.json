@@ -85,15 +85,6 @@
     }
   ],
   "obsidian-hider:toggle-app-ribbon": [],
-  "workspaces:load": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "W"
-    }
-  ],
   "find-unlinked-files:find-unresolved-link": [],
   "mrj-text-expand:editor-expand-all": [
     {
@@ -164,5 +155,14 @@
       "key": "L"
     }
   ],
-  "editor:toggle-bold": []
+  "editor:toggle-bold": [],
+  "workspaces:load": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ]
 }
