@@ -153,5 +153,13 @@
       "key": "A"
     }
   ],
-  "obsidian-markmind:Create New MindMap": []
+  "obsidian-markmind:Create New MindMap": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ]
 }
