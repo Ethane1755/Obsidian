@@ -94,7 +94,8 @@
   "obsidian-fullscreen-plugin:fullscreen-focus": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod"
       ],
       "key": "F"
     }
@@ -116,15 +117,7 @@
       "key": "W"
     }
   ],
-  "find-unlinked-files:find-unresolved-link": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
+  "find-unlinked-files:find-unresolved-link": [],
   "mrj-text-expand:editor-expand-all": [
     {
       "modifiers": [
@@ -161,5 +154,6 @@
     }
   ],
   "obsidian-auto-link-title:enhance-url-with-title": [],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "editor:follow-link": []
 }
