@@ -69,7 +69,8 @@
   "obsidian-pandoc:pandoc-export-docx": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod"
       ],
       "key": "D"
     }
