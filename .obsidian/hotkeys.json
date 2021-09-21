@@ -55,15 +55,7 @@
       "key": "L"
     }
   ],
-  "obsidian-git:push": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "="
-    }
-  ],
+  "obsidian-git:push": [],
   "app:open-vault": [
     {
       "modifiers": [
@@ -149,5 +141,16 @@
   "obsidian-auto-link-title:enhance-url-with-title": [],
   "editor:delete-paragraph": [],
   "editor:follow-link": [],
-  "editor:insert-link": []
+  "editor:insert-link": [],
+  "app:go-back": [],
+  "app:go-forward": [],
+  "obsidian-charts:creation-helper": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ]
 }
