@@ -82,14 +82,6 @@
     }
   ],
   "workspace:edit-file-title": [],
-  "workspace:export-pdf": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "P"
-    }
-  ],
   "obsidian-pandoc:pandoc-export-docx": [
     {
       "modifiers": [
@@ -158,5 +150,16 @@
       ],
       "key": "5"
     }
-  ]
+  ],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "editor:delete-paragraph": []
 }
