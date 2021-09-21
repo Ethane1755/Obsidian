@@ -4,29 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "73715b196bef46d8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/豬背嶺.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "17437a0e856f6a90",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/差異侵蝕.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "6a7f76c977c5ed13",
+        "id": "d07bac5e188381d0",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -35,91 +13,25 @@
             "mode": "preview"
           }
         },
-        "group": "46163c286bc812e3"
+        "group": "a8c007ec6f7080d9"
       },
       {
-        "id": "6fa45c830fc07dd4",
+        "id": "ec868497e7469aed",
         "type": "leaf",
         "state": {
           "type": "media-view",
           "state": {
             "info": {
               "host": 0,
-              "id": "Q_cAU3i-JRY",
-              "iframe": "https://www.youtube.com/embed/Q_cAU3i-JRY",
-              "src": "https://www.youtube.com/watch?v=Q_cAU3i-JRY&ab_channel=%E6%AD%B2%E6%9C%88%E5%A6%82%E6%AD%8C%E2%80%A2%E2%80%A2%E2%80%A2",
+              "id": "fcjwUFIDpag",
+              "iframe": "https://www.youtube.com/embed/fcjwUFIDpag",
+              "src": "https://www.youtube.com/watch?v=fcjwUFIDpag&ab_channel=%E5%B1%B1%E5%90%B9%E8%8F%8C",
               "hash": ""
             },
-            "currentTime": 0
+            "currentTime": null
           }
         },
-        "group": "46163c286bc812e3"
-      },
-      {
-        "id": "96e3af37783f67b5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/彗星.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "15e36e6a32bed3a6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/歐特雲.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "dc8dc12b24d03978",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/柯伊伯帶.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "120ff4b8a4b38811",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/單面山.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "65056c7d541371db",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/黑體輻射.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "25d80483d80f5689",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/差異侵蝕.md",
-            "mode": "preview"
-          }
-        }
+        "group": "a8c007ec6f7080d9"
       }
     ],
     "direction": "vertical"
@@ -222,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a7f76c977c5ed13",
+  "active": "d07bac5e188381d0",
   "lastOpenFiles": [
     "Zettelkasten/Untitled.md",
     "Zettelkasten/差異侵蝕.md",
-    "Zettelkasten/歐特雲.md",
-    "Zettelkasten/柯伊伯帶.md",
-    "Zettelkasten/彗星.md",
+    "Zettelkasten/黑體輻射.md",
     "Zettelkasten/單面山.md",
+    "Zettelkasten/柯伊伯帶.md",
+    "Zettelkasten/歐特雲.md",
     "Zettelkasten/豬背嶺.md",
+    "Zettelkasten/彗星.md",
     "Zettelkasten/斷層作用.md",
-    "Zettelkasten/波耳氫原子模型.md",
-    "Zettelkasten/黑體輻射.md"
+    "Zettelkasten/波耳氫原子模型.md"
   ]
 }
