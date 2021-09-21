@@ -7,10 +7,9 @@
         "id": "d07bac5e188381d0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "mindmapview",
           "state": {
-            "file": "Zettelkasten/Untitled.md",
-            "mode": "source"
+            "file": "Zettelkasten/Untitled mindmap.md"
           }
         }
       }
@@ -55,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Untitled mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Untitled mindmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,6 +117,7 @@
   },
   "active": "d07bac5e188381d0",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled mindmap.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/差異侵蝕.md",
     "Zettelkasten/黑體輻射.md",
@@ -126,7 +126,6 @@
     "Zettelkasten/歐特雲.md",
     "Zettelkasten/豬背嶺.md",
     "Zettelkasten/彗星.md",
-    "Zettelkasten/斷層作用.md",
-    "Zettelkasten/波耳氫原子模型.md"
+    "Zettelkasten/斷層作用.md"
   ]
 }
