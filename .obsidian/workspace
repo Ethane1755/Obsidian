@@ -32,17 +32,17 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/彗星.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "7c997d58d3242642",
+        "id": "15e36e6a32bed3a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Untitled.md",
+            "file": "Zettelkasten/歐特雲.md",
             "mode": "source"
           }
         }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/歐特雲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +132,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/歐特雲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,8 +181,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c997d58d3242642",
+  "active": "15e36e6a32bed3a6",
   "lastOpenFiles": [
+    "Zettelkasten/歐特雲.md",
+    "Zettelkasten/彗星.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/差異侵蝕.md",
     "Zettelkasten/單面山.md",
@@ -191,8 +192,6 @@
     "Zettelkasten/斷層作用.md",
     "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/黑體輻射.md",
-    "Zettelkasten/主量子數.md",
-    "Zettelkasten/熱輻射.md",
-    "Zettelkasten/維恩定律.md"
+    "Zettelkasten/主量子數.md"
   ]
 }
