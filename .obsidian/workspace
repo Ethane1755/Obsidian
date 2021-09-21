@@ -4,34 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "d07bac5e188381d0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Untitled.md",
-            "mode": "preview"
-          }
-        },
-        "group": "fa8b54696665b22d"
-      },
-      {
-        "id": "c251f4380f53cf7c",
-        "type": "leaf",
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "host": 0,
-              "id": "DDs5bXh4erM",
-              "iframe": "https://www.youtube.com/embed/DDs5bXh4erM",
-              "src": "https://www.youtube.com/watch?v=DDs5bXh4erM&ab_channel=%E7%9B%B8%E4%BF%A1%E9%9F%B3%E6%A8%82BinMusic",
-              "hash": ""
+        "id": "7f81729fdd916418",
+        "type": "split",
+        "children": [
+          {
+            "id": "c251f4380f53cf7c",
+            "type": "leaf",
+            "dimension": 75.60975609756098,
+            "state": {
+              "type": "media-view",
+              "state": {
+                "info": {
+                  "host": 0,
+                  "id": "AV_CAHWGsuw",
+                  "iframe": "https://www.youtube.com/embed/AV_CAHWGsuw",
+                  "src": "https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar",
+                  "hash": ""
+                },
+                "currentTime": 0
+              }
             },
-            "currentTime": null
+            "group": "fa8b54696665b22d"
+          },
+          {
+            "id": "d07bac5e188381d0",
+            "type": "leaf",
+            "dimension": 24.390243902439025,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Untitled.md",
+                "mode": "source"
+              }
+            },
+            "group": "fa8b54696665b22d"
           }
-        },
-        "group": "fa8b54696665b22d"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
