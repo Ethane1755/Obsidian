@@ -1,4 +1,0 @@
-# Untitled
----
-markmind-plugin:rich
----
