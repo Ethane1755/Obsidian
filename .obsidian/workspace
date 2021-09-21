@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Titles.md",
-            "mode": "preview"
+            "file": "Zettelkasten/IG Titles.md",
+            "mode": "source"
           }
         }
       }
@@ -55,7 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Titles.md",
+                "file": "Zettelkasten/IG Titles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Titles.md",
+                "file": "Zettelkasten/IG Titles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
