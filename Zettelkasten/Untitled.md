@@ -26,3 +26,5 @@
 
 [08:02](https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar#t=482.1872836986389)
 淪陷區到底?
+[08:36](https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar#t=516.0045161602172)
+

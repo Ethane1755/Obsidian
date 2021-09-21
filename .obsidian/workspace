@@ -10,7 +10,7 @@
           {
             "id": "c251f4380f53cf7c",
             "type": "leaf",
-            "dimension": 75.60975609756098,
+            "dimension": 58.17073170731707,
             "state": {
               "type": "media-view",
               "state": {
@@ -21,7 +21,7 @@
                   "src": "https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar",
                   "hash": ""
                 },
-                "currentTime": 0
+                "currentTime": 590.2039619694824
               }
             },
             "group": "fa8b54696665b22d"
@@ -29,12 +29,12 @@
           {
             "id": "d07bac5e188381d0",
             "type": "leaf",
-            "dimension": 24.390243902439025,
+            "dimension": 41.829268292682926,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Zettelkasten/Untitled.md",
-                "mode": "source"
+                "mode": "preview"
               }
             },
             "group": "fa8b54696665b22d"
