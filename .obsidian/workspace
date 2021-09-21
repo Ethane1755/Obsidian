@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7f81729fdd916418",
-        "type": "split",
-        "children": [
-          {
-            "id": "c251f4380f53cf7c",
-            "type": "leaf",
-            "dimension": 58.17073170731707,
-            "state": {
-              "type": "media-view",
-              "state": {
-                "info": {
-                  "host": 0,
-                  "id": "AV_CAHWGsuw",
-                  "iframe": "https://www.youtube.com/embed/AV_CAHWGsuw",
-                  "src": "https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar",
-                  "hash": ""
-                },
-                "currentTime": 659.021
-              }
-            },
-            "group": "fa8b54696665b22d"
-          },
-          {
-            "id": "d07bac5e188381d0",
-            "type": "leaf",
-            "dimension": 41.829268292682926,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Untitled.md",
-                "mode": "preview"
-              }
-            },
-            "group": "fa8b54696665b22d"
+        "id": "d07bac5e188381d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -133,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
