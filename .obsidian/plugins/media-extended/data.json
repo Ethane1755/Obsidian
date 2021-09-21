@@ -1,7 +1,7 @@
 {
   "mediaFragmentsEmbed": true,
   "timestampLink": true,
-  "extendedImageEmbedSyntax": true,
+  "extendedImageEmbedSyntax": false,
   "thumbnailPlaceholder": true,
   "useYoutubeControls": true,
   "interalBiliPlayback": true,
