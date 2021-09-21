@@ -10,28 +10,28 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Untitled.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
-        "group": "a8c007ec6f7080d9"
+        "group": "fa8b54696665b22d"
       },
       {
-        "id": "ec868497e7469aed",
+        "id": "c251f4380f53cf7c",
         "type": "leaf",
         "state": {
           "type": "media-view",
           "state": {
             "info": {
               "host": 0,
-              "id": "YQA8OKwATHI",
-              "iframe": "https://www.youtube.com/embed/YQA8OKwATHI",
-              "src": "https://www.youtube.com/watch?v=YQA8OKwATHI&ab_channel=FredLai",
+              "id": "DDs5bXh4erM",
+              "iframe": "https://www.youtube.com/embed/DDs5bXh4erM",
+              "src": "https://www.youtube.com/watch?v=DDs5bXh4erM&ab_channel=%E7%9B%B8%E4%BF%A1%E9%9F%B3%E6%A8%82BinMusic",
               "hash": ""
             },
-            "currentTime": 0
+            "currentTime": null
           }
         },
-        "group": "a8c007ec6f7080d9"
+        "group": "fa8b54696665b22d"
       }
     ],
     "direction": "vertical"
