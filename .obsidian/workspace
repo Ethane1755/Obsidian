@@ -43,7 +43,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/歐特雲.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/柯伊伯帶.md",
+                "file": "Zettelkasten/歐特雲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/柯伊伯帶.md",
+                "file": "Zettelkasten/歐特雲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,10 +192,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc8dc12b24d03978",
+  "active": "15e36e6a32bed3a6",
   "lastOpenFiles": [
-    "Zettelkasten/柯伊伯帶.md",
     "Zettelkasten/歐特雲.md",
+    "Zettelkasten/柯伊伯帶.md",
     "Zettelkasten/彗星.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/差異侵蝕.md",
