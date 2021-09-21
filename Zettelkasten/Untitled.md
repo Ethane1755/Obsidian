@@ -14,4 +14,12 @@
 [02:09](https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar#t=129.73658803433227)
 最後關頭
 
+[02:50](https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar#t=170.2098180114441)
+南京大屠殺
+
+[04:18](https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar#t=258.00428268338015)
+
+[04:13](https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar#t=253.71343305340577)
+
+
 [02:20](https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar#t=140.9482974043579)
