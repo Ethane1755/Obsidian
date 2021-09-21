@@ -18,19 +18,10 @@
         "id": "3d1284285482c49d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "mindmapview",
           "state": {
-            "file": "Zettelkasten/Obsidian 快速鍵.md",
-            "mode": "preview"
+            "file": "Zettelkasten/Untitled mindmap.md"
           }
-        }
-      },
-      {
-        "id": "f59665e4e197ab59",
-        "type": "leaf",
-        "state": {
-          "type": "mindmap",
-          "state": {}
         }
       }
     ],
@@ -74,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Obsidian 快速鍵.md",
+                "file": "Zettelkasten/Untitled mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Obsidian 快速鍵.md",
+                "file": "Zettelkasten/Untitled mindmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,15 +128,15 @@
   },
   "active": "3d1284285482c49d",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled mindmap.md",
+    "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Titles.md",
-    "Zettelkasten/Untitled mindmap.md",
     "Zettelkasten/差異侵蝕.md",
     "Zettelkasten/黑體輻射.md",
     "Zettelkasten/單面山.md",
     "Zettelkasten/柯伊伯帶.md",
     "Zettelkasten/歐特雲.md",
-    "Zettelkasten/豬背嶺.md",
-    "Zettelkasten/彗星.md"
+    "Zettelkasten/豬背嶺.md"
   ]
 }
