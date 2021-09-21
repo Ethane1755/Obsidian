@@ -10,17 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/IG Titles.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3d1284285482c49d",
-        "type": "leaf",
-        "state": {
-          "type": "mindmapview",
-          "state": {
-            "file": "Zettelkasten/Untitled mindmap.md"
+            "mode": "preview"
           }
         }
       }
@@ -65,7 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled mindmap.md",
+                "file": "Zettelkasten/IG Titles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled mindmap.md",
+                "file": "Zettelkasten/IG Titles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,8 +115,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d1284285482c49d",
+  "active": "f5a0f6ee47f410f7",
   "lastOpenFiles": [
+    "Zettelkasten/IG Titles.md",
     "Zettelkasten/Untitled mindmap.md",
     "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/Untitled.md",
@@ -135,7 +126,6 @@
     "Zettelkasten/黑體輻射.md",
     "Zettelkasten/單面山.md",
     "Zettelkasten/柯伊伯帶.md",
-    "Zettelkasten/歐特雲.md",
-    "Zettelkasten/豬背嶺.md"
+    "Zettelkasten/歐特雲.md"
   ]
 }
