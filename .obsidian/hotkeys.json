@@ -69,8 +69,7 @@
   "obsidian-pandoc:pandoc-export-docx": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "D"
     }
@@ -104,15 +103,7 @@
       "key": "D"
     }
   ],
-  "outgoing-links:open-for-current": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "O"
-    }
-  ],
+  "outgoing-links:open-for-current": [],
   "media-extended:get-timestamp": [
     {
       "modifiers": [
@@ -160,6 +151,16 @@
         "Shift"
       ],
       "key": "M"
+    }
+  ],
+  "app:open-help": [],
+  "editor:open-link-in-new-leaf": [],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }
