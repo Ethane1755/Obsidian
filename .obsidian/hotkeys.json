@@ -1,12 +1,4 @@
 {
-  "obsidian-to-anki-plugin:anki-scan-vault": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "A"
-    }
-  ],
   "insert-template": [
     {
       "modifiers": [
@@ -152,5 +144,14 @@
       ],
       "key": "C"
     }
-  ]
+  ],
+  "obsidian-to-anki-plugin:anki-scan-vault": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "obsidian-markmind:Create New MindMap": []
 }
