@@ -100,14 +100,7 @@
       "key": "F"
     }
   ],
-  "obsidian-hider:toggle-app-ribbon": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "H"
-    }
-  ],
+  "obsidian-hider:toggle-app-ribbon": [],
   "workspaces:load": [
     {
       "modifiers": [
@@ -139,9 +132,9 @@
   "media-extended:get-timestamp": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
-      "key": "5"
+      "key": "T"
     }
   ],
   "workspace:export-pdf": [
@@ -155,5 +148,6 @@
   ],
   "obsidian-auto-link-title:enhance-url-with-title": [],
   "editor:delete-paragraph": [],
-  "editor:follow-link": []
+  "editor:follow-link": [],
+  "editor:insert-link": []
 }
