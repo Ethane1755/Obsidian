@@ -3,7 +3,9 @@
 >But that's why we exists  
 >-- to solve them.
 
->Live is a box of chocolates.
->*-Forrest Gump
+>Live is like a box of chocolates.
+>*-Forrest Gump*
 >But I'a allergic.
->
+>*-Ethane*
+>人生就像一盒巧克力 -*阿甘正傳*
+>但我過敏ㄚㄚㄚ
