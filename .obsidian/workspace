@@ -7,8 +7,11 @@
         "id": "f5a0f6ee47f410f7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Titles.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -52,6 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Titles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -75,6 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Titles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,15 +117,15 @@
   },
   "active": "f5a0f6ee47f410f7",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled mindmap.md",
+    "Zettelkasten/Titles.md",
     "Zettelkasten/Untitled.md",
+    "Zettelkasten/Untitled mindmap.md",
     "Zettelkasten/差異侵蝕.md",
     "Zettelkasten/黑體輻射.md",
     "Zettelkasten/單面山.md",
     "Zettelkasten/柯伊伯帶.md",
     "Zettelkasten/歐特雲.md",
     "Zettelkasten/豬背嶺.md",
-    "Zettelkasten/彗星.md",
-    "Zettelkasten/斷層作用.md"
+    "Zettelkasten/彗星.md"
   ]
 }
