@@ -28,3 +28,4 @@
 淪陷區到底?
 [08:36](https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar#t=516.0045161602172)
 
+[15分鐘講完二次世界大戰 【搞歷史007】 - YouTube](https://www.youtube.com/watch?v=TqHD3Qo0Qec&ab_channel=%E8%92%9F%E8%92%BB%E8%AC%9B%E5%B9%B9%E8%A9%B1)
