@@ -22,4 +22,7 @@
 蘇州
 
 [06:08](https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar#t=368.4643291983643)
-思辨(通敵
+思辨(通敵?)
+
+[08:02](https://www.youtube.com/watch?v=AV_CAHWGsuw&ab_channel=TaiwanBar#t=482.1872836986389)
+淪陷區到底?
