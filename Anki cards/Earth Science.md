@@ -81,7 +81,8 @@ TARGET DECK: Earth Science
 距地表50-500km處
 <!--ID: 1632315649899-->
 
-
+相對定年四大定理? #flashcard 
+原始水ㄆㄧ
 
 
 
