@@ -23,13 +23,36 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 44.26829268292683,
+        "dimension": 36.09958506224066,
         "children": [
           {
             "id": "ce124a85989e51ed",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "57eb9b56099ae3b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "自然探究",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a5a892a2c7f80c6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           },
@@ -53,25 +76,10 @@
         ]
       },
       {
-        "id": "651fcb9e33957262",
+        "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 55.73170731707317,
+        "dimension": 63.90041493775934,
         "children": [
-          {
-            "id": "1863504b9d528dab",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "bb348a5fe3eda7d7",
             "type": "leaf",
@@ -84,8 +92,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,14 +112,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a5a892a2c7f80c6",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
               "state": {}
             }
           }
@@ -140,6 +139,7 @@
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
     "Kanban/Kanban.md",
+    "Zettelkasten/瑞立-金斯定律.md",
     "Kanban/testtest.md",
     "Zettelkasten/太陽核心.md",
     "Zettelkasten/巴黎分區.md",
@@ -147,7 +147,6 @@
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Kanban!.md",
     "Anki cards/Earth Science.md",
-    "Zettelkasten/半邊山.md",
-    "Zettelkasten/水密度測量流程表.md"
+    "Zettelkasten/半邊山.md"
   ]
 }

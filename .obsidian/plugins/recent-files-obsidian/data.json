@@ -5,6 +5,10 @@
       "path": "Kanban/Kanban.md"
     },
     {
+      "basename": "瑞立-金斯定律",
+      "path": "Zettelkasten/瑞立-金斯定律.md"
+    },
+    {
       "basename": "太陽核心",
       "path": "Zettelkasten/太陽核心.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "斯特凡–波茲曼定律",
       "path": "Zettelkasten/斯特凡–波茲曼定律.md"
-    },
-    {
-      "basename": "瑞立-金斯定律",
-      "path": "Zettelkasten/瑞立-金斯定律.md"
     },
     {
       "basename": "原子光譜",
