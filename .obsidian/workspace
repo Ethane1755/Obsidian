@@ -4,39 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d4e5e7d2596364d5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Anki cards/Earth Science.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "90b16790a7e01385",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/半邊山.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4c116afbb008c91e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/水密度測量流程表.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "ccf31205f6ad7f7b",
         "type": "leaf",
         "state": {
@@ -151,9 +118,9 @@
   "active": "ccf31205f6ad7f7b",
   "lastOpenFiles": [
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/水密度測量流程表.md",
-    "Zettelkasten/半邊山.md",
     "Anki cards/Earth Science.md",
+    "Zettelkasten/半邊山.md",
+    "Zettelkasten/水密度測量流程表.md",
     "Zettelkasten/絕對定年法.md",
     "Zettelkasten/地球歷史氣體成分.md",
     "Zettelkasten/碳-14.md",
