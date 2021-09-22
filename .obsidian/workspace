@@ -24,7 +24,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 53.048780487804876,
+        "dimension": 36.09958506224067,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -50,6 +50,14 @@
             }
           },
           {
+            "id": "5a5a892a2c7f80c6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
             "id": "c7d8a1fcfd493bba",
             "type": "leaf",
             "state": {
@@ -61,17 +69,18 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 46.951219512195124,
+        "dimension": 63.900414937759344,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
@@ -80,21 +89,12 @@
               "type": "outgoing-link",
               "state": {
                 "file": "Kanban/Kanban.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "33b1ef87fcced71e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,14 +105,15 @@
     "type": "split",
     "children": [
       {
-        "id": "027677cf441fe93b",
+        "id": "4f13afb779b3672f",
         "type": "tabs",
+        "dimension": 40.36585365853659,
         "children": [
           {
-            "id": "5a5a892a2c7f80c6",
+            "id": "33b1ef87fcced71e",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "calendar",
               "state": {}
             }
           }
@@ -121,6 +122,7 @@
       {
         "id": "f4ddd2c006121db9",
         "type": "tabs",
+        "dimension": 59.63414634146341,
         "children": [
           {
             "id": "6e4f8f338038e457",

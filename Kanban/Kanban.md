@@ -1,1 +1,4 @@
+---
+kanban-plugin: basic
+---
 # Kanban
