@@ -96,8 +96,6 @@ TARGET DECK: Earth Science
 
 
 
-[Fetching Title#vbkw](https://zhuanlan.zhihu.com/p/366622911)
-
 
 
 
