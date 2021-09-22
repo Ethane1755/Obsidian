@@ -9,6 +9,6 @@ kanban-plugin: basic
 - [ ] 哈囉你是誰
 - [ ] 我很好
 - [ ] 你好屁
-- [ ] ![[440px-HRDiagram.png
+- [ ] ![[440px-HRDiagram.png]]
 
 
