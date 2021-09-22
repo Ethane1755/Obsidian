@@ -7,9 +7,10 @@
         "id": "ccf31205f6ad7f7b",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Untitled.md"
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
           }
         }
       }

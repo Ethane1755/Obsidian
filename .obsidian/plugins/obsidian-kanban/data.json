@@ -3,5 +3,8 @@
   "new-line-trigger": "enter",
   "show-checkboxes": true,
   "hide-tags-in-title": true,
-  "date-trigger": "@"
+  "date-trigger": "@",
+  "show-relative-date": true,
+  "hide-date-in-title": true,
+  "prepend-archive-format": "YYYYMMDDHHmmss"
 }
