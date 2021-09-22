@@ -2,5 +2,6 @@
 
 ```chart
 	type: line
-	labels: []
+	labels: [45,40,35,30,25,20,15,10,5,0]
+	serie
 ```
