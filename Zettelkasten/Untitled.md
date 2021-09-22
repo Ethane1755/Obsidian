@@ -6,5 +6,7 @@
 	series:
 		- title: 氮氣
 		  data: [5,42,67,77,80,80,80,80,80,80]
-	tension: .7
+		- title: 二氧化碳
+		  data: [80,28,16,12,10,]
+	tension: .3
 ```
