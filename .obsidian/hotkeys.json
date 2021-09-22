@@ -174,19 +174,10 @@
       "key": "I"
     }
   ],
-  "obsidian-kanban:convert-to-kanban": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "K"
-    }
-  ],
   "obsidian-kanban:toggle-kanban-view": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "K"
     }
