@@ -5,7 +5,7 @@
   "renderExcalidraw": false,
   "renderTransclusion": false,
   "renderAdmonition": false,
-  "renderMermaid": false,
+  "renderMermaid": true,
   "refreshImagesAfterChange": false,
-  "WYSIWYG": false
+  "WYSIWYG": true
 }
