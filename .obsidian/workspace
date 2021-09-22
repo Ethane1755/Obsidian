@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/絕對定年法.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/放射性同位素定年法.md",
+                "file": "Zettelkasten/絕對定年法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/放射性同位素定年法.md",
+                "file": "Zettelkasten/絕對定年法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,10 +138,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c0bb003a6b93a52d",
+  "active": "4cfb18affbabf6ed",
   "lastOpenFiles": [
-    "Zettelkasten/放射性同位素定年法.md",
     "Zettelkasten/絕對定年法.md",
+    "Zettelkasten/放射性同位素定年法.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/熱輻射.md",
