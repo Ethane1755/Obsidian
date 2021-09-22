@@ -21,7 +21,7 @@
   "obsidian-pandoc",
   "obsidian-markmind",
   "obsidian-kanban",
-  "convert-url-to-iframe",
   "oz-image-plugin",
-  "obsidian-icons-plugin"
+  "obsidian-icons-plugin",
+  "convert-url-to-iframe"
 ]
