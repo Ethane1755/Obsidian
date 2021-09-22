@@ -5,6 +5,18 @@
       "path": "Kanban/Kanban.md"
     },
     {
+      "basename": "太陽核心",
+      "path": "Zettelkasten/太陽核心.md"
+    },
+    {
+      "basename": "巴黎分區",
+      "path": "Zettelkasten/巴黎分區.md"
+    },
+    {
+      "basename": "太陽黑子（日斑）",
+      "path": "Zettelkasten/太陽黑子（日斑）.md"
+    },
+    {
       "basename": "Earth Science",
       "path": "Anki cards/Earth Science.md"
     },
@@ -157,10 +169,6 @@
       "path": "Zettelkasten/公聽會.md"
     },
     {
-      "basename": "太陽核心",
-      "path": "Zettelkasten/太陽核心.md"
-    },
-    {
       "basename": "美國擴張史",
       "path": "Zettelkasten/美國擴張史.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "恆星光度",
       "path": "Zettelkasten/恆星光度.md"
-    },
-    {
-      "basename": "電子軌域",
-      "path": "Zettelkasten/電子軌域.md"
-    },
-    {
-      "basename": "9_1~9_11",
-      "path": "Zettelkasten/9_1~9_11.md"
     }
   ],
   "omittedPaths": [

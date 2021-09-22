@@ -395,7 +395,147 @@
         "collapsed": true
       },
       "active": "49461730f80bc3a7"
+    },
+    "Kanban_Homepage": {
+      "main": {
+        "id": "48a1a04b7f764229",
+        "type": "split",
+        "children": [
+          {
+            "id": "6f7f80b7b9434bc7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Kanban.md"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b9c33f4af5fdf53f",
+        "type": "split",
+        "children": [
+          {
+            "id": "4cbb1f4015750da1",
+            "type": "tabs",
+            "dimension": 36.09958506224067,
+            "children": [
+              {
+                "id": "ce124a85989e51ed",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "57eb9b56099ae3b1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "自然探究",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5a5a892a2c7f80c6",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c7d8a1fcfd493bba",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Kanban/Kanban.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "18d8fb9879b88a20",
+            "type": "tabs",
+            "dimension": 63.900414937759344,
+            "children": [
+              {
+                "id": "bb348a5fe3eda7d7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Kanban/Kanban.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 234.5
+      },
+      "right": {
+        "id": "6b84faf83a99a6bc",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f13afb779b3672f",
+            "type": "tabs",
+            "dimension": 40.36585365853659,
+            "children": [
+              {
+                "id": "33b1ef87fcced71e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "f4ddd2c006121db9",
+            "type": "tabs",
+            "dimension": 59.63414634146341,
+            "children": [
+              {
+                "id": "6e4f8f338038e457",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 244.5
+      },
+      "active": "6f7f80b7b9434bc7"
     }
   },
-  "active": "Astronomy"
+  "active": "Kanban_Homepage"
 }

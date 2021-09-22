@@ -23,7 +23,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 36.09958506224067,
+        "dimension": 36.09958506224066,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -78,7 +78,7 @@
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 63.900414937759344,
+        "dimension": 63.90041493775934,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
@@ -138,15 +138,15 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/太陽核心.md",
+    "Zettelkasten/巴黎分區.md",
+    "Zettelkasten/太陽黑子（日斑）.md",
     "Kanban/Kanban.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Kanban!.md",
     "Anki cards/Earth Science.md",
     "Zettelkasten/半邊山.md",
     "Zettelkasten/水密度測量流程表.md",
-    "Zettelkasten/絕對定年法.md",
-    "Zettelkasten/地球歷史氣體成分.md",
-    "Zettelkasten/碳-14.md",
-    "Zettelkasten/放射性同位素定年法.md"
+    "Zettelkasten/絕對定年法.md"
   ]
 }
