@@ -21,7 +21,7 @@
 .theme-dark .ct-grid {
     stroke: rgba(255, 255, 255, .9);
     stroke-width: 5px;
-    stroke-dasharray: 2px
+    stroke-dasharray: 10px
 }
 
 .ct-series-a .ct-bar,
