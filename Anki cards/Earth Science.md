@@ -40,6 +40,8 @@ TARGET DECK: Earth Science
 范艾倫輻射帶
 <!--ID: 1627891572632-->
 
+太陽系之「霜線」位於? #flashcard 
+火星與木星之間
 
 
 
