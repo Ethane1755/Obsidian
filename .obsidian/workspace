@@ -7,9 +7,10 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "Kanban/Kanban.md",
+            "mode": "source"
           }
         }
       }
@@ -138,10 +139,10 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Kanban/Kanban.md",
     "Zettelkasten/太陽核心.md",
     "Zettelkasten/巴黎分區.md",
     "Zettelkasten/太陽黑子（日斑）.md",
-    "Kanban/Kanban.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Kanban!.md",
     "Anki cards/Earth Science.md",
