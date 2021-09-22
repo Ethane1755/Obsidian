@@ -23,7 +23,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 53.170731707317074,
+        "dimension": 44.26829268292683,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -55,16 +55,16 @@
       {
         "id": "651fcb9e33957262",
         "type": "tabs",
-        "dimension": 46.82926829268293,
+        "dimension": 55.73170731707317,
         "children": [
           {
-            "id": "57eb9b56099ae3b1",
+            "id": "1863504b9d528dab",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
