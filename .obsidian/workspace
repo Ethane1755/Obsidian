@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a4d71d0ff5dfc64b",
+        "id": "0b3a0f6d63a5d5dc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/水密度測量流程表.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b5f2927ce9fd092c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/自然探究.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -66,7 +52,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自然探究.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +76,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/自然探究.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,10 +113,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b5f2927ce9fd092c",
+  "active": "0b3a0f6d63a5d5dc",
   "lastOpenFiles": [
-    "Zettelkasten/自然探究.md",
     "Zettelkasten/水密度測量流程表.md",
+    "Zettelkasten/自然探究.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/IG Titles.md",
     "Zettelkasten/Untitled mindmap.md",
