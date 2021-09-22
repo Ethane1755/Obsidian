@@ -70,6 +70,10 @@ TARGET DECK: Earth Science
 <!--ID: 1632315480588-->
 
 地球臭氧層完整形成 #flashcard 
+4億年前
+<!--ID: 1632315509337-->
+
+板塊運動是行星的? #flashcard 
 
 
 
