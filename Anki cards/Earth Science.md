@@ -63,6 +63,14 @@ TARGET DECK: Earth Science
 
 藍綠菌存在於? #flashcard 
 疊層石
+<!--ID: 1632315453465-->
+
+地球氧氣突然增多 #flashcard 
+20億年前
+<!--ID: 1632315480588-->
+
+地球臭氧層完整形成 #flashcard 
+
 
 
 
