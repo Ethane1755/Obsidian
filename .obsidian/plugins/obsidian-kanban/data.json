@@ -1,3 +1,7 @@
 {
-  "new-note-folder": "Kanban"
+  "new-note-folder": "Kanban",
+  "new-line-trigger": "enter",
+  "show-checkboxes": true,
+  "hide-tags-in-title": true,
+  "date-trigger": "@"
 }
