@@ -164,5 +164,14 @@
       ],
       "key": "W"
     }
+  ],
+  "obsidian-icons-plugin:open-icons-plugin-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
   ]
 }
