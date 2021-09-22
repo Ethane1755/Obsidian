@@ -1,4 +1,9 @@
+---
+kanban-plugin: basic
+---
+
 # Untitled
-c8 xji 
-dkjsad
+
+- [ ] dkjsad
 sdkja
+c8 xji 
