@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Untitled.md",
+            "file": "Zettelkasten/Kanban!.md",
             "mode": "source"
           }
         }
@@ -55,7 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Kanban!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Kanban!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -117,6 +118,7 @@
   },
   "active": "ccf31205f6ad7f7b",
   "lastOpenFiles": [
+    "Zettelkasten/Kanban!.md",
     "Zettelkasten/Untitled.md",
     "Anki cards/Earth Science.md",
     "Zettelkasten/半邊山.md",
@@ -125,7 +127,6 @@
     "Zettelkasten/地球歷史氣體成分.md",
     "Zettelkasten/碳-14.md",
     "Zettelkasten/放射性同位素定年法.md",
-    "Zettelkasten/主量子數.md",
-    "Zettelkasten/熱輻射.md"
+    "Zettelkasten/主量子數.md"
   ]
 }

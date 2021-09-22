@@ -6,5 +6,6 @@
   "date-trigger": "@",
   "show-relative-date": true,
   "hide-date-in-title": true,
-  "prepend-archive-format": "YYYYMMDDHHmmss"
+  "prepend-archive-format": "YYYYMMDDHHmmss",
+  "hide-date-display": true
 }
