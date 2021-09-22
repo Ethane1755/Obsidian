@@ -4,11 +4,179 @@
     "type": "split",
     "children": [
       {
-        "id": "0b3a0f6d63a5d5dc",
+        "id": "ea7e9b9f6776d8d0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/波茲曼常數.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "c37cd3925b744339",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/斯特凡–波茲曼定律.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "4dead0e3fdd4f9ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/恆星光度.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "f5566f70941b128f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/赫羅圖.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "295865d3e63a1416",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/恆星亮度.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "9094c380805af214",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/星等.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "8a135c2a913ccb38",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/距離模數公式.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "01b98efbf29a87b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/熱輻射.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "49461730f80bc3a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/瑞立-金斯定律.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "6f0ea495688c0dbb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/波耳氫原子模型.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "5acea741dbafbbb8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/普朗克黑體輻射定律.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "96998680a1a8dd55",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/維恩定律.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "74e8dab373ebab4d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/原子光譜.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "9fbed2bf6ac9fc59",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/黑體輻射.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "488301f785da6498",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/熱輻射.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "23fda3c21ebc753e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/主量子數.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -21,7 +189,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 47.80487804878048,
+        "dimension": 53.048780487804876,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -37,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自然探究",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,10 +220,11 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/赫羅圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
@@ -63,12 +232,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 52.19512195121952,
+        "dimension": 46.951219512195124,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
@@ -76,6 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/赫羅圖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -97,13 +267,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -113,17 +281,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b3a0f6d63a5d5dc",
+  "active": "f5566f70941b128f",
   "lastOpenFiles": [
+    "Zettelkasten/赫羅圖.md",
+    "Zettelkasten/原子光譜.md",
+    "Zettelkasten/距離模數公式.md",
+    "Zettelkasten/瑞立-金斯定律.md",
     "Zettelkasten/水密度測量流程表.md",
     "Zettelkasten/自然探究.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/IG Titles.md",
     "Zettelkasten/Untitled mindmap.md",
-    "Zettelkasten/Obsidian 快速鍵.md",
-    "Zettelkasten/Titles.md",
-    "Zettelkasten/差異侵蝕.md",
-    "Zettelkasten/黑體輻射.md",
-    "Zettelkasten/單面山.md"
+    "Zettelkasten/Obsidian 快速鍵.md"
   ]
 }
