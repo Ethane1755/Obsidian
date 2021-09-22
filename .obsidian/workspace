@@ -10,18 +10,18 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/絕對定年法.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
-        "id": "c0bb003a6b93a52d",
+        "id": "d4e5e7d2596364d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/放射性同位素定年法.md",
-            "mode": "preview"
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
           }
         }
       },
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/絕對定年法.md",
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/絕對定年法.md",
+                "file": "Zettelkasten/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,11 +138,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4cfb18affbabf6ed",
+  "active": "d4e5e7d2596364d5",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/絕對定年法.md",
     "Zettelkasten/放射性同位素定年法.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/熱輻射.md",
     "Zettelkasten/黑體輻射.md",
