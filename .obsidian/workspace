@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "33ec268f7085c8f8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Kanban/Kanban.md",
-            "mode": "source"
+            "file": "Kanban/Kanban.md"
           }
         }
       }
@@ -137,9 +136,10 @@
     "direction": "horizontal",
     "width": 244.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "33ec268f7085c8f8",
   "lastOpenFiles": [
     "Kanban/Kanban.md",
+    "Kanban/testtest.md",
     "Zettelkasten/太陽核心.md",
     "Zettelkasten/巴黎分區.md",
     "Zettelkasten/太陽黑子（日斑）.md",
@@ -147,7 +147,6 @@
     "Zettelkasten/Kanban!.md",
     "Anki cards/Earth Science.md",
     "Zettelkasten/半邊山.md",
-    "Zettelkasten/水密度測量流程表.md",
-    "Zettelkasten/絕對定年法.md"
+    "Zettelkasten/水密度測量流程表.md"
   ]
 }
