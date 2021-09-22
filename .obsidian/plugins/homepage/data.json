@@ -1,6 +1,6 @@
 {
   "defaultNote": "Kan",
-  "workspaceEnabled": false,
+  "workspaceEnabled": true,
   "hasRibbonIcon": true,
   "openMode": "Replace all open notes"
 }
