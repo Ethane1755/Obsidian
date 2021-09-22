@@ -4,11 +4,9 @@ kanban-plugin: basic
 
 ---
 
-# Kanban
-
 ## Kanban
 
-- [ ] hello
-- [ ] hi
+- [x] This is the default deck
+- [x] DONT MOVE!!!
 
 
