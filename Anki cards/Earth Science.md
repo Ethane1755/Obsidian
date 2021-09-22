@@ -74,7 +74,10 @@ TARGET DECK: Earth Science
 <!--ID: 1632315509337-->
 
 板塊運動是行星的? #flashcard 
+自動調溫器
+<!--ID: 1632315574120-->
 
+ㄍㄦ
 
 
 
