@@ -1,5 +1,5 @@
 {
-  "renderAll": true,
+  "renderAll": false,
   "renderPDF": true,
   "renderIframe": true,
   "renderExcalidraw": false,
@@ -7,5 +7,5 @@
   "renderAdmonition": false,
   "renderMermaid": true,
   "refreshImagesAfterChange": false,
-  "WYSIWYG": true
+  "WYSIWYG": false
 }
