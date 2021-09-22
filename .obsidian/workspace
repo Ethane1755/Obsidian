@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "33ec268f7085c8f8",
+        "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -23,36 +23,13 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 36.09958506224066,
+        "dimension": 53.170731707317074,
         "children": [
           {
             "id": "ce124a85989e51ed",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "57eb9b56099ae3b1",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "自然探究",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "5a5a892a2c7f80c6",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
               "state": {}
             }
           },
@@ -76,10 +53,25 @@
         ]
       },
       {
-        "id": "18d8fb9879b88a20",
+        "id": "651fcb9e33957262",
         "type": "tabs",
-        "dimension": 63.90041493775934,
+        "dimension": 46.82926829268293,
         "children": [
+          {
+            "id": "57eb9b56099ae3b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
           {
             "id": "bb348a5fe3eda7d7",
             "type": "leaf",
@@ -92,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,6 +105,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a5a892a2c7f80c6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -134,9 +135,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 244.5
   },
-  "active": "33ec268f7085c8f8",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
     "Kanban/Kanban.md",
     "Kanban/testtest.md",
