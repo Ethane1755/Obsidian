@@ -181,5 +181,14 @@
       ],
       "key": "K"
     }
+  ],
+  "obsidian-filename-heading-sync:page-heading-sync-ignore-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "I"
+    }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "userIllegalSymbols": [
+    "Kanban"
+  ],
+  "ignoredFiles": {
+    "Kanban/Kanban.md": null
+  },
+  "ignoreRegex": ""
+}
