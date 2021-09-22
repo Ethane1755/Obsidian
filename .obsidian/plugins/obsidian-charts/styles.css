@@ -19,7 +19,7 @@
 }
 
 .theme-dark .ct-grid {
-    stroke: rgba(255, 255, 255, 1.0);
+    stroke: rgba(255, 255, 255, .9);
     stroke-width: 5px;
     stroke-dasharray: 2px
 }
