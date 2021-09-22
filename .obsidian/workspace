@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/地球歷史氣體.md",
-            "mode": "source"
+            "file": "Zettelkasten/地球歷史氣體成分.md",
+            "mode": "preview"
           }
         }
       }
@@ -66,7 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地球歷史氣體.md",
+                "file": "Zettelkasten/地球歷史氣體成分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地球歷史氣體.md",
+                "file": "Zettelkasten/地球歷史氣體成分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
