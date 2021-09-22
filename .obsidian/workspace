@@ -10,6 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/絕對定年法.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "a0ede351e6d339f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/放射性同位素定年法.md",
             "mode": "source"
           }
         }
@@ -21,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/碳-14.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -66,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/碳-14.md",
+                "file": "Zettelkasten/放射性同位素定年法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/碳-14.md",
+                "file": "Zettelkasten/放射性同位素定年法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf2f1db095fd85a6",
+  "active": "a0ede351e6d339f6",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled.md",
+    "Zettelkasten/放射性同位素定年法.md",
     "Zettelkasten/絕對定年法.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/熱輻射.md",
     "Zettelkasten/黑體輻射.md",
     "Zettelkasten/普朗克黑體輻射定律.md",
     "Zettelkasten/恆星亮度.md",
     "Zettelkasten/斯特凡–波茲曼定律.md",
-    "Zettelkasten/瑞立-金斯定律.md",
-    "Zettelkasten/原子光譜.md"
+    "Zettelkasten/瑞立-金斯定律.md"
   ]
 }
