@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/自然炭ㄐㄧㄝ.md",
+            "file": "Zettelkasten/自然探究.md",
             "mode": "source"
           }
         }
@@ -55,7 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自然炭ㄐㄧㄝ.md",
+                "file": "Zettelkasten/自然探究.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/自然炭ㄐㄧㄝ.md",
+                "file": "Zettelkasten/自然探究.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
