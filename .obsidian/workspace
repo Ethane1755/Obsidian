@@ -102,6 +102,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "ce799d0b1a7a6fac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
           }
         ]
       }
@@ -124,17 +135,6 @@
             "state": {
               "type": "calendar",
               "state": {}
-            }
-          },
-          {
-            "id": "ce799d0b1a7a6fac",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
             }
           }
         ]
