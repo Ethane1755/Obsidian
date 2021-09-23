@@ -4,7 +4,7 @@ kanban-plugin: basic
 
 ---
 
-## 天文社
+## 天文社微積分社課
 
 - [ ] 廣義三角比
 - [ ] 極座標系統
@@ -20,7 +20,7 @@ kanban-plugin: basic
 - [ ] 切線之斜率
 - [ ] 導數
 - [ ] 微分
-- [ ] $f(x)
+- [ ] $f(x)=x^n, n\in \mathbb{N}$，則$f'(x)=nx^{n-1}$
 
 
 ***
