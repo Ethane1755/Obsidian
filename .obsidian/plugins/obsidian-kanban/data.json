@@ -7,5 +7,6 @@
   "show-relative-date": true,
   "hide-date-in-title": true,
   "prepend-archive-format": "YYYYMMDDHHmmss",
-  "hide-date-display": true
+  "hide-date-display": true,
+  "lane-width": 500
 }
