@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Imaginary Audience.md",
+                "file": "Kanban/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Imaginary Audience.md",
+                "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,10 +158,10 @@
     "direction": "horizontal",
     "width": 244.5
   },
-  "active": "309cd1a0fce84f93",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled.md",
     "Kanban/Kanban.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/食鹽水密度預報.md",
     "Zettelkasten/自然探究實作_紀錄表格.md",
     "Zettelkasten/自然探究.md",
