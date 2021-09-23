@@ -10,5 +10,6 @@ kanban-plugin: basic
 - [ ] 我很好
 - [ ] 你好屁
 - [ ] ![[440px-HRDiagram.png]]
+- [x] lalala
 
 
