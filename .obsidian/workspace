@@ -30,8 +30,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/自然探究.md",
-            "mode": "source"
+            "file": "Zettelkasten/食鹽水密度預報.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自然探究.md",
+                "file": "Zettelkasten/食鹽水密度預報.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/自然探究.md",
+                "file": "Zettelkasten/食鹽水密度預報.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,6 +161,8 @@
   },
   "active": "15be117f80c1c22a",
   "lastOpenFiles": [
+    "Zettelkasten/食鹽水密度預報.md",
+    "Zettelkasten/自然探究實作_紀錄表格.md",
     "Zettelkasten/自然探究.md",
     "Zettelkasten/Untitled.md",
     "Kanban/Kanban.md",
@@ -168,8 +170,6 @@
     "Kanban/testtest.md",
     "Zettelkasten/太陽核心.md",
     "Zettelkasten/巴黎分區.md",
-    "Zettelkasten/太陽黑子（日斑）.md",
-    "Zettelkasten/Kanban!.md",
-    "Anki cards/Earth Science.md"
+    "Zettelkasten/太陽黑子（日斑）.md"
   ]
 }
