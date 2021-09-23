@@ -1,5 +1,5 @@
 {
-  "new-note-folder": "Kanban",
+  "new-note-folder": "Zettelkasten",
   "new-line-trigger": "shift-enter",
   "show-checkboxes": true,
   "hide-tags-in-title": true,
@@ -8,5 +8,5 @@
   "hide-date-in-title": true,
   "prepend-archive-format": "YYYYMMDDHHmmss",
   "hide-date-display": true,
-  "lane-width": 500
+  "lane-width": 350
 }

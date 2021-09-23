@@ -12,17 +12,6 @@
             "file": "Kanban/Kanban.md"
           }
         }
-      },
-      {
-        "id": "309cd1a0fce84f93",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Imaginary Audience.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -100,17 +89,6 @@
                 "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "ce799d0b1a7a6fac",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
               }
             }
           }
