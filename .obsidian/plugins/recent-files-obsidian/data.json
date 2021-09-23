@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Imaginary Audience",
+      "path": "Zettelkasten/Imaginary Audience.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "三角不等式",
       "path": "Zettelkasten/三角不等式.md"
-    },
-    {
-      "basename": "星等",
-      "path": "Zettelkasten/星等.md"
     }
   ],
   "omittedPaths": [
