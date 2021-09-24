@@ -12,6 +12,17 @@
             "file": "Kanban/Kanban.md"
           }
         }
+      },
+      {
+        "id": "54a089b8be2014f1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/極座標系統.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -62,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/極座標系統.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/極座標系統.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,11 +147,11 @@
     "direction": "horizontal",
     "width": 244.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "54a089b8be2014f1",
   "lastOpenFiles": [
+    "Zettelkasten/極座標系統.md",
     "Kanban/Kanban.md",
     "Kanban/Kanban (conflict 2021-09-24-17-50-02).md",
-    "Zettelkasten/極座標系統.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/斯特凡–波茲曼定律.md",
     "Zettelkasten/食鹽水密度預報.md",
