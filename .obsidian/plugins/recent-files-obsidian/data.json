@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "極座標系統",
-      "path": "Zettelkasten/極座標系統.md"
-    },
-    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
+    },
+    {
+      "basename": "極座標系統",
+      "path": "Zettelkasten/極座標系統.md"
     },
     {
       "basename": "食鹽水密度測量_結報",
@@ -195,10 +195,6 @@
     {
       "basename": "地塹",
       "path": "Zettelkasten/地塹.md"
-    },
-    {
-      "basename": "斷層崖",
-      "path": "Zettelkasten/斷層崖.md"
     }
   ],
   "omittedPaths": [
