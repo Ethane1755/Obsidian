@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Zettelkasten/Untitled.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "大南澳事件",
       "path": "Zettelkasten/大南澳事件.md"
-    },
-    {
-      "basename": "三角不等式",
-      "path": "Zettelkasten/三角不等式.md"
     }
   ],
   "omittedPaths": [
