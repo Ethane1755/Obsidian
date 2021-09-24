@@ -24,5 +24,6 @@
   "oz-image-plugin",
   "obsidian-icons-plugin",
   "convert-url-to-iframe",
-  "homepage"
+  "homepage",
+  "pdf-to-markdown-plugin"
 ]
