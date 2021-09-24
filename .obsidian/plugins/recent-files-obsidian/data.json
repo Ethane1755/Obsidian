@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "極座標系統",
+      "path": "Zettelkasten/極座標系統.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "斷層崖",
       "path": "Zettelkasten/斷層崖.md"
-    },
-    {
-      "basename": "大南澳事件",
-      "path": "Zettelkasten/大南澳事件.md"
     }
   ],
   "omittedPaths": [
