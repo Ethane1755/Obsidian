@@ -119,7 +119,7 @@
 }
 .graph-view.color-line
 {
-  color: var(--light0);
+    color: var(--light0);
 }
 .theme-dark .graph-view.color-fill-tag 
 {
@@ -128,13 +128,9 @@
 
 .theme-dark .graph-view.color-fill-attachment 
 {
-    color: #d669bc;
+    color: var(--red);
 }
     
-.graph-view.color-fill 
-{
-    color: var(--frost1);
-}
 
 html,
 body
