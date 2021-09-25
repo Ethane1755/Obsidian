@@ -11,7 +11,10 @@ h1:after {
  vertical-align: middle;
  width: 50%;
  content: '';
-
+ background: gray;
+ height: .1em;
+ margin: .2em;
+ flex: 1;
 }
 h1:before {
  right: 0.5em;
@@ -19,10 +22,7 @@ h1:before {
 }
 h1:after {
  left: 0.5em;
- margin-right: -50%; background: gray;
- height: .1em;
- margin: .2em;
- flex: 1;
+ margin-right: -50%;
 }
 
 h1 {
@@ -90,15 +90,15 @@ h3:after {
  content: '';
  background: gray;
  height: .1em;
- margin: .2em;
+ margin: .1em;
  flex: 1;
 }
 h3:before {
- right: 0.1em;
+ right: 0.5em;
  margin-left: -50%;
 }
 h3:after {
- left: 0.1em;
+ left: 0.5em;
  margin-right: -50%;
 }
 
