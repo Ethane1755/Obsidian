@@ -464,3 +464,10 @@ input.task-list-item-checkbox:checked {
     color: var(--yellow);
     }
 
+.theme-dark .graph-view.color-fill-attachment {
+        color: #d669bc;
+        }
+    
+.graph-view.color-fill {
+            color: var(--frost1);
+            }
