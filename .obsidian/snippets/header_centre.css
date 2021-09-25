@@ -90,7 +90,7 @@ h3:after {
  content: '';
  background: rgba(255,255,255,.5);
  height: .01em;
- margin: .2em;
+ margin: 1.2em;
  flex: 1;
 }
 h3:before {
