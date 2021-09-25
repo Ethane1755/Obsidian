@@ -1,5 +1,7 @@
 {
   "Zettelkasten": "RiWindowsFill",
   "Kanban": "RiImageFill",
-  "_resources": "RiImageFill"
+  "_resources": "RiImageFill",
+  "_Templates": "RiBookReadFill",
+  "_resources/Past": "RiTimeLine"
 }
