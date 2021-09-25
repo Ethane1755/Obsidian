@@ -122,4 +122,16 @@ over and over again
 一方面...另一方面... #flashcard 
 for one thing...for another thing...
 
-簡單ㄌㄞ
+簡單來說 #flashcard 
+at its simplest level
+
+發現 #flashcard 
+discover
+
+跑者 #flashcard 
+runner
+
+完美的 #flashcard 
+perfect
+
+距離 
