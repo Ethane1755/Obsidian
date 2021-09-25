@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "[三角函數",
+      "path": "Zettelkasten/[三角函數.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "內營力",
       "path": "Zettelkasten/內營力.md"
-    },
-    {
-      "basename": "地形系統",
-      "path": "Zettelkasten/地形系統.md"
     }
   ],
   "omittedPaths": [
