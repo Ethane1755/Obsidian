@@ -85,7 +85,7 @@ h3:after {
  display: inline-block;
  height: 1px;
  position: relative;
- vertical-align: bottom;
+ vertical-align: middle;
  width: 50%;
  content: '';
  background: rgba(255,255,255,.5);
