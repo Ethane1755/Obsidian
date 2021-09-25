@@ -95,11 +95,11 @@ h3:after {
 }
 h3:before {
  right: 0.5em;
- margin-left: -50%;
+ margin-left: -85%;
 }
 h3:after {
- left: 0em;
- margin-right: -50%;
+ left: 0.5em;
+ margin-right: 0%;
 }
 
 h3 {
