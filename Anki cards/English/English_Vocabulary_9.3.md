@@ -169,3 +169,17 @@ in charge
 
 民兵組織 #flashcard 
 militia
+
+立刻展開行動 #flashcard 
+jump into action
+
+大屠殺 #flashcard 
+massacre
+
+緊張局勢 #flashcard 
+tension
+
+種族滅絕 #flashcard 
+genocide
+
+發聲 #flashcard 
