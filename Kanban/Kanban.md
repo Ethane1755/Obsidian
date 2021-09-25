@@ -22,10 +22,6 @@ kanban-plugin: basic
 - [ ] $f(x)=x^n, n\in \mathbb{N}$，則$f'(x)=nx^{n-1}$
 
 
-## 建立
-
-
-
 ## 完成
 
 - [x] [[極座標系統]]
