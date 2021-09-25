@@ -54,4 +54,19 @@ mess
 carpet
 
 合情合理的 #flashcard 
-obc
+obvious
+
+禁止 #flashcard 
+ban
+
+娛樂 #flashcard 
+entertainment
+
+結合 #flashcard 
+combine + with
+
+舒適 #flashcard 
+comfort
+
+最近 #flashcard 
+r
