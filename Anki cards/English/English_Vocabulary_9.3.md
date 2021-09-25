@@ -69,4 +69,19 @@ combine + with
 comfort
 
 最近 #flashcard 
-r
+recent
+
+提供 #flashcard 
+provide
+
+經典的 #flashcard 
+classic
+
+發行 #flashcard 
+release
+
+獨立公司製作的 #flashcard 
+indie
+
+想出、提出 #flashcard 
+come 
