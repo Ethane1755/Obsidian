@@ -134,4 +134,22 @@ runner
 完美的 #flashcard 
 perfect
 
-距離 
+距離 #flashcard 
+distance
+
+公里 #flashcard 
+kilometer
+
+組織 #flashcard 
+organize
+
+稠密 #flashcard 
+dense
+
+專業的 #flashcard 
+professional
+
+激勵 #flashcard 
+inspire
+
+網站 #flashcard 
