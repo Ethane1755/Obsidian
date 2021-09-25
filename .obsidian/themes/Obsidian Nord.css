@@ -460,3 +460,7 @@ input.task-list-item-checkbox:checked {
     fill: var(--frost3) !important;
 }
 
+.theme-dark .graph-view.color-fill-tag {
+    color: var(--yellow);
+    }
+
