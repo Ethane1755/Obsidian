@@ -153,3 +153,19 @@ professional
 inspire
 
 網站 #flashcard 
+website
+
+穿上某物 #flashcard 
+put on sth
+
+悲劇性事件 #flashcard 
+tragedy
+
+民族的 #flashcard 
+ethnic
+
+負責 #flashcard 
+in charge
+
+民兵組織 #flashcard 
+militia
