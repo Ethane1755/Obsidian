@@ -20,13 +20,17 @@ h1 {
 }
 h1:before,
 h1:after {
- background-color: #333;
  content: "";
  display: inline-block;
  height: 1px;
  position: relative;
  vertical-align: middle;
  width: 50%;
+ content: '';
+ background: gray;
+ height: .1em;
+ margin: .2em;
+ flex: 1;
 }
 h1:before {
  right: 0.5em;
@@ -35,4 +39,14 @@ h1:before {
 h1:after {
  left: 0.5em;
  margin-right: -50%;
+}
+
+h1 {
+	display: flex;
+	width: 100%;
+	align-items: center;
+}
+h1:before,
+h1:after{
+	
 }
