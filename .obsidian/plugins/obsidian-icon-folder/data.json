@@ -4,5 +4,6 @@
   "_resources": "RiImageLine",
   "_Templates": "RiBookReadLine",
   "_resources/Past": "RiTimeLine",
-  "Anki cards": "RiSdCardLine"
+  "Anki cards": "RiSdCardLine",
+  "Zettelkasten/9_1~9_11.md": "RiAccountPinBoxLine"
 }
