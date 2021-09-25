@@ -5,6 +5,14 @@
       "path": "Zettelkasten/古老結晶陸塊.md"
     },
     {
+      "basename": "卡爾文循環",
+      "path": "Zettelkasten/卡爾文循環.md"
+    },
+    {
+      "basename": "主量子數",
+      "path": "Zettelkasten/主量子數.md"
+    },
+    {
       "basename": "日冕物質拋射(CME)",
       "path": "Zettelkasten/日冕物質拋射(CME).md"
     },
@@ -137,10 +145,6 @@
       "path": "Zettelkasten/放射性同位素定年法.md"
     },
     {
-      "basename": "主量子數",
-      "path": "Zettelkasten/主量子數.md"
-    },
-    {
       "basename": "熱輻射",
       "path": "Zettelkasten/熱輻射.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "豬背嶺",
       "path": "Zettelkasten/豬背嶺.md"
-    },
-    {
-      "basename": "斷層作用",
-      "path": "Zettelkasten/斷層作用.md"
     }
   ],
   "omittedPaths": [
