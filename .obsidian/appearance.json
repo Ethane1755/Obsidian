@@ -5,7 +5,8 @@
   "enabledCssSnippets": [
     "新文字文件",
     "Bullet Lines",
-    "Fonts"
+    "Fonts",
+    "auto_fade"
   ],
   "translucency": true,
   "baseFontSizeAction": true
