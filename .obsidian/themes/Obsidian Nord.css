@@ -471,3 +471,7 @@ input.task-list-item-checkbox:checked {
 .graph-view.color-fill {
             color: var(--frost1);
             }
+
+.graph-view.color-text {
+                color: var(--light1);
+                }
