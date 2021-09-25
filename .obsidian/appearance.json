@@ -6,7 +6,11 @@
     "新文字文件",
     "Bullet Lines",
     "Fonts",
-    "auto_fade"
+    "auto_fade",
+    "better_quote",
+    "cards",
+    "enlarge_fold",
+    "enlarge_pic"
   ],
   "translucency": true,
   "baseFontSizeAction": true
