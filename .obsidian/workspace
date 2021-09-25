@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a4884708179d7b8c",
+        "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Zettelkasten/愛爾蘭獨立戰爭.md",
-            "mode": "preview"
+            "file": "Kanban/Kanban.md"
           }
         }
       }
@@ -24,7 +23,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 42.80487804878049,
+        "dimension": 36.09958506224066,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -50,12 +49,20 @@
             }
           },
           {
+            "id": "5a5a892a2c7f80c6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
             "id": "c7d8a1fcfd493bba",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/愛爾蘭獨立戰爭.md",
+                "file": "Kanban/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -66,36 +73,26 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "2ecbd1b106490daf",
+        "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 57.195121951219505,
+        "dimension": 63.90041493775934,
         "children": [
-          {
-            "id": "5a5a892a2c7f80c6",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
           {
             "id": "bb348a5fe3eda7d7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/愛爾蘭獨立戰爭.md",
+                "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +105,7 @@
       {
         "id": "4f13afb779b3672f",
         "type": "tabs",
-        "dimension": 48.41463414634146,
+        "dimension": 40.36585365853659,
         "children": [
           {
             "id": "33b1ef87fcced71e",
@@ -123,7 +120,7 @@
       {
         "id": "f4ddd2c006121db9",
         "type": "tabs",
-        "dimension": 51.58536585365854,
+        "dimension": 59.63414634146341,
         "children": [
           {
             "id": "6e4f8f338038e457",
@@ -139,8 +136,9 @@
     "direction": "horizontal",
     "width": 244.5
   },
-  "active": "a4884708179d7b8c",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Kanban/Kanban.md",
     "Zettelkasten/愛爾蘭獨立戰爭.md",
     "Zettelkasten/絕對值.md",
     "Zettelkasten/細胞與能量.md",
@@ -149,7 +147,6 @@
     "Zettelkasten/星等.md",
     "Zettelkasten/地理觀念（高中地理主軸）.md",
     "Zettelkasten/台灣考古學發展.md",
-    "Zettelkasten/分層作用.md",
-    "Kanban/Kanban.md"
+    "Zettelkasten/分層作用.md"
   ]
 }

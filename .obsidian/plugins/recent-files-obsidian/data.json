@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "愛爾蘭獨立戰爭",
       "path": "Zettelkasten/愛爾蘭獨立戰爭.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "分層作用",
       "path": "Zettelkasten/分層作用.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "極座標系統",
