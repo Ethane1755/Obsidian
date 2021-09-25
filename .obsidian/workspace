@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/主量子數.md",
+            "file": "Zettelkasten/新北市人口變化.md",
             "mode": "preview"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/新北市人口變化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/新北市人口變化.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -172,15 +171,15 @@
   },
   "active": "03b2be9e7aff7aa1",
   "lastOpenFiles": [
-    "Zettelkasten/主量子數.md",
-    "Zettelkasten/古老結晶陸塊.md",
+    "Zettelkasten/新北市人口變化.md",
+    "Zettelkasten/彗星.md",
+    "Zettelkasten/區間.md",
+    "Zettelkasten/柯伊伯帶.md",
+    "Zettelkasten/柯本氣候分類法.md",
+    "Zettelkasten/星等.md",
+    "Zettelkasten/波茲曼常數.md",
+    "Zettelkasten/地形系統.md",
     "Zettelkasten/卡爾文循環.md",
-    "Zettelkasten/日冕物質拋射(CME).md",
-    "Zettelkasten/太陽星雲說.md",
-    "Zettelkasten/分層作用.md",
-    "Zettelkasten/公聽會.md",
-    "Zettelkasten/內營力.md",
-    "Zettelkasten/三角不等式.md",
-    "Kanban/Kanban.md"
+    "Zettelkasten/半邊山.md"
   ]
 }
