@@ -89,8 +89,8 @@ h3:after {
  width: 50%;
  content: '';
  background: gray;
- height: .1em;
- margin: .1em;
+ height: .01em;
+ margin: .2em;
  flex: 1;
 }
 h3:before {
