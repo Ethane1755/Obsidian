@@ -467,7 +467,3 @@ input.task-list-item-checkbox:checked {
 {
     fill: var(--frost3) !important;
 }
-
-.nav-folder.mod-root>.nav-folder-children>.nav-folder>.nav-folder-title[data-path="FOLDER"] + .nav-folder-children .nav-file-title-content::before{
-    content: "› ";
-}
