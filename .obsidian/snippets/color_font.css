@@ -1,7 +1,15 @@
 em {
-    color: red;
+    color: #e0ac44;
 }
 
 .cm-em{
-    color: green;
+    color: #e0ac44;
+}
+
+cm-strong {
+    color: #5e81ac;
+}
+
+.cm-strong{
+    color: #5e81ac;
 }
