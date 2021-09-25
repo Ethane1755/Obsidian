@@ -31,3 +31,12 @@ one's fair share of sth
 
 近距離的 #flashcard 
 up close
+
+組裝 #flashcard 
+put sth together
+
+比如 #flashcard 
+such as
+
+爆炸 #flashcard 
+ex
