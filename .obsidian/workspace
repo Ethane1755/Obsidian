@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/新北市人口變化.md",
+            "file": "Zettelkasten/法治意涵、法律制定.md",
             "mode": "preview"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/新北市人口變化.md",
+                "file": "Zettelkasten/法治意涵、法律制定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/新北市人口變化.md",
+                "file": "Zettelkasten/法治意涵、法律制定.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,15 +171,15 @@
   },
   "active": "03b2be9e7aff7aa1",
   "lastOpenFiles": [
+    "Zettelkasten/法治意涵、法律制定.md",
+    "Zettelkasten/黨團.md",
+    "Zettelkasten/Blockly.md",
+    "Zettelkasten/熱輻射.md",
+    "Zettelkasten/歐特雲.md",
+    "Zettelkasten/愛爾蘭獨立宣言全文.md",
+    "Zettelkasten/愛爾蘭獨立戰爭.md",
     "Zettelkasten/新北市人口變化.md",
     "Zettelkasten/彗星.md",
-    "Zettelkasten/區間.md",
-    "Zettelkasten/柯伊伯帶.md",
-    "Zettelkasten/柯本氣候分類法.md",
-    "Zettelkasten/星等.md",
-    "Zettelkasten/波茲曼常數.md",
-    "Zettelkasten/地形系統.md",
-    "Zettelkasten/卡爾文循環.md",
-    "Zettelkasten/半邊山.md"
+    "Zettelkasten/區間.md"
   ]
 }
