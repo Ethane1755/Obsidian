@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/古老結晶陸塊.md",
+                "file": "Zettelkasten/主量子數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/古老結晶陸塊.md",
+                "file": "Zettelkasten/主量子數.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,11 +170,11 @@
     "width": 244.5,
     "collapsed": true
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "03b2be9e7aff7aa1",
   "lastOpenFiles": [
+    "Zettelkasten/主量子數.md",
     "Zettelkasten/古老結晶陸塊.md",
     "Zettelkasten/卡爾文循環.md",
-    "Zettelkasten/主量子數.md",
     "Zettelkasten/日冕物質拋射(CME).md",
     "Zettelkasten/太陽星雲說.md",
     "Zettelkasten/分層作用.md",

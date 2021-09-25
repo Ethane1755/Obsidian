@@ -87,7 +87,7 @@ h3:after {
  position: relative;
  vertical-align: middle;
  width: 50%;
- content: 'lalala';
+ content: '';
  background: rgba(255,255,255,.5);
  height: .01em;
  margin: .2em;
@@ -95,12 +95,12 @@ h3:after {
 }
 h3:before {
  right: 0.5em;
- margin-left: -85%;
+ margin-left: -50%;
  
 }
 h3:after {
  left: 0.5em;
- margin-right: 0%;
+ margin-right: -50%;
 }
 
 h3 {
