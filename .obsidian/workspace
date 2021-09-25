@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "a4884708179d7b8c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "Kanban/Kanban.md"
+          }
         }
       }
     ],
@@ -134,7 +136,7 @@
     "direction": "horizontal",
     "width": 244.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "a4884708179d7b8c",
   "lastOpenFiles": [
     "Kanban/Kanban.md",
     "Zettelkasten/極座標系統.md",
