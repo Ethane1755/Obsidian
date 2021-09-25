@@ -85,10 +85,10 @@ h3:after {
  display: inline-block;
  height: 1px;
  position: relative;
- vertical-align: middle;
+ vertical-align: under;
  width: 50%;
  content: '';
- background: gray;
+ background: rgba(255,255,255,.5);
  height: .01em;
  margin: .2em;
  flex: 1;
