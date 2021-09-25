@@ -12,17 +12,6 @@
             "file": "Kanban/Kanban.md"
           }
         }
-      },
-      {
-        "id": "72033fbdd6883a6c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/極座標系統.md",
-            "mode": "preview"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/極座標系統.md",
+                "file": "Kanban/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/極座標系統.md",
+                "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,10 +136,10 @@
     "direction": "horizontal",
     "width": 244.5
   },
-  "active": "72033fbdd6883a6c",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Zettelkasten/極座標系統.md",
     "Kanban/Kanban.md",
+    "Zettelkasten/極座標系統.md",
     "Zettelkasten/[[三角函數]]關係.md",
     "Kanban/Kanban (conflict 2021-09-24-17-50-02).md",
     "Zettelkasten/Untitled.md",
