@@ -110,18 +110,31 @@
 }
 .graph-view.color-text
 {
-    color: var(--text-a-hover) !important;
+    color: var(--light1) !important;
 }
 
 .graph-view.color-fill
 {
-    color: var(--frost0);
+    color: var(--frost1);
 }
 .graph-view.color-line
 {
   color: var(--light0);
 }
+.theme-dark .graph-view.color-fill-tag 
+{
+    color: var(--yellow);
+}
 
+.theme-dark .graph-view.color-fill-attachment 
+{
+    color: #d669bc;
+}
+    
+.graph-view.color-fill 
+{
+    color: var(--frost1);
+}
 
 html,
 body
@@ -460,22 +473,4 @@ input.task-list-item-checkbox:checked {
     fill: var(--frost3) !important;
 }
 
-.theme-dark .graph-view.color-fill-tag 
-{
-    color: var(--yellow);
-}
 
-.theme-dark .graph-view.color-fill-attachment 
-{
-    color: #d669bc;
-}
-    
-.graph-view.color-fill 
-{
-    color: var(--frost1);
-}
-
-.graph-view.color-text 
-{
-    color: var(--light1);
-}
