@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/三角不等[[Kanban]]式.md",
+            "file": "Zettelkasten/古老結晶陸塊.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/三角不等[[Kanban]]式.md",
+                "file": "Zettelkasten/古老結晶陸塊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/三角不等[[Kanban]]式.md",
+                "file": "Zettelkasten/古老結晶陸塊.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,15 +137,15 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/古老結晶陸塊.md",
+    "Zettelkasten/日冕物質拋射(CME).md",
+    "Zettelkasten/太陽星雲說.md",
+    "Zettelkasten/分層作用.md",
+    "Zettelkasten/公聽會.md",
+    "Zettelkasten/內營力.md",
     "Zettelkasten/三角不等式.md",
     "Kanban/Kanban.md",
     "Zettelkasten/[三角函數.md",
-    "Zettelkasten/愛爾蘭獨立戰爭.md",
-    "Zettelkasten/絕對值.md",
-    "Zettelkasten/細胞與能量.md",
-    "Zettelkasten/畢達哥拉斯恆等式.md",
-    "Zettelkasten/彗星.md",
-    "Zettelkasten/星等.md",
-    "Zettelkasten/地理觀念（高中地理主軸）.md"
+    "Zettelkasten/愛爾蘭獨立戰爭.md"
   ]
 }

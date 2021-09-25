@@ -11,7 +11,8 @@
     "cards",
     "enlarge_fold",
     "enlarge_pic",
-    "color_font"
+    "color_font",
+    "header_centre"
   ],
   "translucency": false,
   "baseFontSizeAction": true
