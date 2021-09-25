@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/古老結晶陸塊.md",
+            "file": "Anki cards/English_Vocabulary_L1.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/古老結晶陸塊.md",
+                "file": "Anki cards/English_Vocabulary_L1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/古老結晶陸塊.md",
+                "file": "Anki cards/English_Vocabulary_L1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,6 +171,7 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Anki cards/English_Vocabulary_L1.md",
     "Zettelkasten/古老結晶陸塊.md",
     "Zettelkasten/法治意涵、法律制定.md",
     "Zettelkasten/黨團.md",
@@ -179,7 +180,6 @@
     "Zettelkasten/歐特雲.md",
     "Zettelkasten/愛爾蘭獨立宣言全文.md",
     "Zettelkasten/愛爾蘭獨立戰爭.md",
-    "Zettelkasten/新北市人口變化.md",
-    "Zettelkasten/彗星.md"
+    "Zettelkasten/新北市人口變化.md"
   ]
 }

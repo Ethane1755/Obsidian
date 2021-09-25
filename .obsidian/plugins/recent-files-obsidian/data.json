@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "English_Vocabulary_L1",
+      "path": "Anki cards/English_Vocabulary_L1.md"
+    },
+    {
       "basename": "古老結晶陸塊",
       "path": "Zettelkasten/古老結晶陸塊.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "黑體輻射",
       "path": "Zettelkasten/黑體輻射.md"
-    },
-    {
-      "basename": "普朗克黑體輻射定律",
-      "path": "Zettelkasten/普朗克黑體輻射定律.md"
     }
   ],
   "omittedPaths": [
