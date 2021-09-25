@@ -84,4 +84,25 @@ release
 indie
 
 想出、提出 #flashcard 
-come 
+come up with sth
+
+導致 #flashcard 
+result in sth
+
+健身房 #flashcard 
+gym
+
+探索 #flashcard 
+explore
+
+大自然的 #flashcard 
+natural
+
+小路 #flashcard 
+path
+
+而且 #flashcard 
+besides
+
+運氣 #flashcard 
+
