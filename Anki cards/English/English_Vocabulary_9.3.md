@@ -39,4 +39,19 @@ put sth together
 such as
 
 爆炸 #flashcard 
-ex
+explode
+
+蒸氣 #flashcard 
+steam
+
+傳統的 #flashcard 
+traditional
+
+髒亂 #flashcard 
+mess
+
+地毯 #flashcard 
+carpet
+
+合情合理的 #flashcard 
+obc
