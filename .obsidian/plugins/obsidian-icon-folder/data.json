@@ -1,8 +1,8 @@
 {
   "Zettelkasten": "RiCommandFill",
-  "Kanban": "RiAppleFill",
-  "_resources": "RiImageFill",
-  "_Templates": "RiBookReadFill",
+  "Kanban": "RiAppleLine",
+  "_resources": "RiImageLine",
+  "_Templates": "RiBookReadLine",
   "_resources/Past": "RiTimeLine",
-  "Anki cards": "RiSdCardFill"
+  "Anki cards": "RiSdCardLine"
 }
