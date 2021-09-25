@@ -114,4 +114,12 @@ scenery
 injure
 
 對...感到厭倦 #flashcard 
-get/beV tired of V-ing
+get/beV tired of V-ing/sth
+
+一再的 #flashcard 
+over and over again
+
+一方面...另一方面... #flashcard 
+for one thing...for another thing...
+
+簡單ㄌㄞ
