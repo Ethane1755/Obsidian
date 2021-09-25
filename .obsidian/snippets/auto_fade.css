@@ -5,6 +5,6 @@
 }
 
 .status-bar:not(:hover) .status-bar-item {
-  opacity: 0.25;
+  opacity: 0.9;
   transition: opacity 0.25s ease-in-out;
 }

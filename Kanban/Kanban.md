@@ -21,7 +21,7 @@ kanban-plugin: basic
 - [ ] 導數
 - [ ] 微分
 - [ ] $f(x)=x^n, n\in \mathbb{N}$，則$f'(x)=nx^{n-1}$
-
+## 
 
 ***
 
