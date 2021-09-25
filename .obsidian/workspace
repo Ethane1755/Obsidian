@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/三角不等式.md",
+            "file": "Zettelkasten/三角不等[[Kanban]]式.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/三角不等式.md",
+                "file": "Zettelkasten/三角不等[[Kanban]]式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/三角不等式.md",
+                "file": "Zettelkasten/三角不等[[Kanban]]式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
