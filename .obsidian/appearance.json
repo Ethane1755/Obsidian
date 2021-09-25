@@ -12,7 +12,8 @@
     "enlarge_fold",
     "enlarge_pic",
     "color_font",
-    "header_centre"
+    "header_centre",
+    "tags align"
   ],
   "translucency": false,
   "baseFontSizeAction": true
