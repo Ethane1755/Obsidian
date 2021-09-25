@@ -183,3 +183,20 @@ tension
 genocide
 
 發聲 #flashcard 
+speak out
+
+種族主義的 #flashcard 
+racist
+
+表示歉意的 #flashcard 
+apologetic
+
+調查 #flashcard 
+investigation
+
+文件 #flashcard 
+document
+
+檔案 #flashcard 
+archive
+
