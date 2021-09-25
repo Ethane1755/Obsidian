@@ -7,10 +7,8 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban/Kanban.md"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
