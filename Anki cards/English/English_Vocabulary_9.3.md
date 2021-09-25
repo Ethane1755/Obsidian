@@ -27,3 +27,7 @@ damper
 strengthen
 
 某人經歷了太多... #flashcard 
+one's fair share of sth
+
+近距離的 #flashcard 
+up close
