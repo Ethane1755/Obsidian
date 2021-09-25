@@ -10,8 +10,9 @@
     "better_quote",
     "cards",
     "enlarge_fold",
-    "enlarge_pic"
+    "enlarge_pic",
+    "color_font"
   ],
-  "translucency": true,
+  "translucency": false,
   "baseFontSizeAction": true
 }
