@@ -14,4 +14,16 @@ force
 抵銷 #flashcard 
 balance
 
-ㄐㄞ
+建築物 #flashcard 
+structure
+
+洪水 #flashcard 
+flood
+
+阻尼器 #flashcard 
+damper
+
+加固 #flashcard 
+strengthen
+
+某人經歷了太多... #flashcard 
