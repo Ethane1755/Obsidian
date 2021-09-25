@@ -130,7 +130,9 @@
 {
     color: var(--red);
 }
-    
+.graph-view.color-line-highlight {
+    color: var(--red);
+}
 
 html,
 body
