@@ -105,4 +105,13 @@ path
 besides
 
 運氣 #flashcard 
+luck
 
+風景 #flashcard 
+scenery
+
+傷害 #flashcard 
+injure
+
+對...感到厭倦 #flashcard 
+get/beV tired of V-ing
