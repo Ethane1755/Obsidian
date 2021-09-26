@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "English_Vocabulary_9.3",
       "path": "Anki cards/English/English_Vocabulary_9.3.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "三角不等式",
       "path": "Zettelkasten/三角不等式.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "絕對值",
