@@ -7,8 +7,11 @@
         "id": "8940a8514d57ef99",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,6 +139,7 @@
   },
   "active": "8940a8514d57ef99",
   "lastOpenFiles": [
+    "README.md",
     "Zettelkasten/CKHS_Backup/README.md",
     "Zettelkasten/9_1~9_11.md",
     "Kanban/Kanban.md",
@@ -142,7 +148,6 @@
     "Anki cards/English/English_Vocabulary_9.3.md",
     "Anki cards/English/English_Vocabulary_9.1.md",
     "Anki cards/English_Vocabulary_9.3.md",
-    "Zettelkasten/Untitled.md",
-    "Anki cards/English_Vocabulary_L1.md"
+    "Zettelkasten/Untitled.md"
   ]
 }
