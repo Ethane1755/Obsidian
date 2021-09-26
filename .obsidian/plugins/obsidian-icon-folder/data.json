@@ -7,10 +7,5 @@
   "Anki cards": "RiSdCardLine",
   "Anki cards/English": "RiCpuLine",
   "Zettelkasten/自然探究實作": "RiLeafLine",
-  "Zettelkasten/CKHS_Backup": "RiHome2Line",
-  "Zettelkasten/CKHS_Backup/天文社資料": "RiStarLine",
-  "Zettelkasten/CKHS_Backup/地理報告": "RiMap2Line",
-  "Zettelkasten/CKHS_Backup/英文報告": "RiWindowsLine",
-  "Zettelkasten/CKHS_Backup/探究實作": "RiCodeSSlashLine",
-  "Zettelkasten/CKHS_Backup/讀書心得": "RiBook2Line"
+  "CKHS_Backup": "RiAppStoreLine"
 }
