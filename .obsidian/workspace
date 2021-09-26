@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/多筆資料比對.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/咖啡因是非_專題摘要.md",
+                "file": "Zettelkasten/多筆資料比對.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/咖啡因是非_專題摘要.md",
+                "file": "Zettelkasten/多筆資料比對.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,10 +150,10 @@
     "width": 244.5,
     "collapsed": true
   },
-  "active": "c288e3b12cdbc5ec",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Zettelkasten/咖啡因是非_專題摘要.md",
     "Zettelkasten/多筆資料比對.md",
+    "Zettelkasten/咖啡因是非_專題摘要.md",
     "Zettelkasten/Untitled.md",
     "Kanban/Kanban.md",
     "Zettelkasten/專題寫作.md",
