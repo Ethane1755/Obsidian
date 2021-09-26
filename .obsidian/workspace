@@ -12,6 +12,17 @@
             "file": "Kanban/Kanban.md"
           }
         }
+      },
+      {
+        "id": "45dae34b32baa4b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/The Boys in The Boat.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
