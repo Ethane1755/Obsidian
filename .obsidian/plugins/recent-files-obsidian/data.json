@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "分層作用",
+      "path": "Zettelkasten/分層作用.md"
+    },
+    {
+      "basename": "輕便鐵路(單_雙軌)",
+      "path": "_resources/Past/ANKI/輕便鐵路(單_雙軌).jpg"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -105,10 +113,6 @@
       "path": "Zettelkasten/太陽星雲說.md"
     },
     {
-      "basename": "分層作用",
-      "path": "Zettelkasten/分層作用.md"
-    },
-    {
       "basename": "公聽會",
       "path": "Zettelkasten/公聽會.md"
     },
@@ -149,20 +153,12 @@
       "path": "Zettelkasten/三角函數關係.md"
     },
     {
-      "basename": "食鹽水密度測量_結報",
-      "path": "Zettelkasten/食鹽水密度測量_結報.md"
-    },
-    {
       "basename": "斯特凡–波茲曼定律",
       "path": "Zettelkasten/斯特凡–波茲曼定律.md"
     },
     {
       "basename": "Imaginary Audience",
       "path": "Zettelkasten/Imaginary Audience.md"
-    },
-    {
-      "basename": "食鹽水密度預報",
-      "path": "Zettelkasten/食鹽水密度預報.md"
     },
     {
       "basename": "自然探究實作_紀錄表格",
@@ -195,10 +191,6 @@
     {
       "basename": "絕對定年法",
       "path": "Zettelkasten/絕對定年法.md"
-    },
-    {
-      "basename": "地球歷史氣體成分",
-      "path": "Zettelkasten/地球歷史氣體成分.md"
     }
   ],
   "omittedPaths": [
