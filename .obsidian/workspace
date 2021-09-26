@@ -7,8 +7,11 @@
         "id": "2d52db5ed7c5e172",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/The Boys in The Boat.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/The Boys in The Boat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -70,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
@@ -83,6 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/The Boys in The Boat.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,8 +140,8 @@
   },
   "active": "2d52db5ed7c5e172",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled mindmap.md",
     "Zettelkasten/The Boys in The Boat.md",
+    "Zettelkasten/Untitled mindmap.md",
     "Kanban/Kanban.md",
     "_resources/Past/ANKI/輕便鐵路(單_雙軌).jpg",
     "Anki cards/English/English_Vocabulary_L1.md",
