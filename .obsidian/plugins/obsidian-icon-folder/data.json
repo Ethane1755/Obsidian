@@ -5,6 +5,7 @@
   "_Templates": "RiBookReadLine",
   "_resources/Past": "RiTimeLine",
   "Anki cards": "RiSdCardLine",
-  "Zettelkasten/9_1~9_11.md": "RiAccountPinBoxLine",
-  "Anki cards/English": "RiCpuLine"
+  "Anki cards/English": "RiCpuLine",
+  "Zettelkasten/自然探究實作": "RiLeafLine",
+  "Zettelkasten/CKHS_Backup": "RiHome2Line"
 }
