@@ -199,5 +199,21 @@
       ],
       "key": "L"
     }
+  ],
+  "find-unlinked-files:delete-unlinked-files": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "find-unlinked-files:find-unlinked-files": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }
