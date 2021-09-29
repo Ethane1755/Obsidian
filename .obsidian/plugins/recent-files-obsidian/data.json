@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hider Plugin",
+      "path": "Zettelkasten/Hider Plugin.md"
+    },
+    {
       "basename": "Grandfather Plugin",
       "path": "Zettelkasten/Grandfather Plugin.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "細胞與能量",
       "path": "Zettelkasten/細胞與能量.md"
-    },
-    {
-      "basename": "畢達哥拉斯恆等式",
-      "path": "Zettelkasten/畢達哥拉斯恆等式.md"
     }
   ],
   "omittedPaths": [

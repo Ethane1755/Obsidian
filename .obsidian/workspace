@@ -59,6 +59,17 @@
         }
       },
       {
+        "id": "011e0ca9d03d04bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Hider Plugin.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "694de32d15129c1d",
         "type": "leaf",
         "state": {
@@ -151,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Grandfather Plugin.md",
+                "file": "Zettelkasten/Hider Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Grandfather Plugin.md",
+                "file": "Zettelkasten/Hider Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +237,7 @@
     "width": 280.5,
     "collapsed": true
   },
-  "active": "1efa35385fe8acd2",
+  "active": "011e0ca9d03d04bd",
   "lastOpenFiles": [
     "Zettelkasten/Untitled.md",
     "Zettelkasten/外掛/Auto Link Title Plugin.md",
