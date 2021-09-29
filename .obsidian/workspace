@@ -9,6 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Anki cards/English/English_Vocabulary_9.3.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7f3bff9bdc6621c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Zettelkasten/English_Vocabulary_9.4.md",
             "mode": "source"
           }
@@ -74,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
@@ -137,17 +149,17 @@
     "direction": "horizontal",
     "width": 280.5
   },
-  "active": "9319ede3236ee81a",
+  "active": "7f3bff9bdc6621c7",
   "lastOpenFiles": [
+    "Zettelkasten/English_Vocabulary_9.4.md",
+    "Anki cards/English/English_Vocabulary_9.3.md",
+    "Anki cards/English/English_Vocabulary_9.1.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/SQL Test.md",
     "Zettelkasten/The Boys in The Boat.md",
     "Zettelkasten/VS  Code 小技巧.md",
     "Zettelkasten/簡報設計.md",
-    "Zettelkasten/普朗克-愛因斯坦關係式.md",
-    "Zettelkasten/富拉尼人.md",
-    "Zettelkasten/食租國 rentier states.md",
-    "Zettelkasten/The Boys in The Boat (與 MSI 衝突的複本 2021-09-26).md"
+    "Zettelkasten/普朗克-愛因斯坦關係式.md"
   ]
 }
