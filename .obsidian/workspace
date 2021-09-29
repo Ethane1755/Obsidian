@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/食租國.md",
+            "file": "Zettelkasten/普朗克-愛因斯坦關係式.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/食租國.md",
+                "file": "Zettelkasten/普朗克-愛因斯坦關係式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/食租國.md",
+                "file": "Zettelkasten/普朗克-愛因斯坦關係式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,10 +135,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 280.5
   },
   "active": "9319ede3236ee81a",
   "lastOpenFiles": [
+    "Zettelkasten/普朗克-愛因斯坦關係式.md",
+    "Zettelkasten/富拉尼人.md",
     "Zettelkasten/食租國 rentier states.md",
     "Zettelkasten/The Boys in The Boat (與 MSI 衝突的複本 2021-09-26).md",
     "Kanban/Kanban.md",
@@ -146,8 +148,6 @@
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/多筆資料比對.md",
     "Zettelkasten/咖啡因是非_專題摘要.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/專題寫作.md",
-    "Zettelkasten/The Boys in The Boat.md"
+    "Zettelkasten/Untitled.md"
   ]
 }
