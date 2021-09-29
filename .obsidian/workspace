@@ -76,7 +76,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Obsidian 快速鍵.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Grandfather Plugin.md",
+                "file": "Zettelkasten/Obsidian 快速鍵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Grandfather Plugin.md",
+                "file": "Zettelkasten/Obsidian 快速鍵.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -237,14 +237,14 @@
     "width": 280.5,
     "collapsed": true
   },
-  "active": "1efa35385fe8acd2",
+  "active": "694de32d15129c1d",
   "lastOpenFiles": [
+    "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/Grandfather Plugin.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/外掛/Auto Link Title Plugin.md",
     "Zettelkasten/Better Word Count Plugin.md",
     "Zettelkasten/Calendar Plugin.md",
-    "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/Auto Pair Chinese Symbol Plugin.md",
     "Zettelkasten/外掛/Kanban Plugin.md",
     "Zettelkasten/Filename Headings Sync Plugin.md",
