@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Better Word Count Plugin.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -43,18 +43,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Calendar Plugin.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ab9091dd957dcdcb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Obsidian 快速鍵.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -107,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Obsidian 快速鍵.md",
+                "file": "Zettelkasten/外掛/Auto Link Title Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Obsidian 快速鍵.md",
+                "file": "Zettelkasten/外掛/Auto Link Title Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -182,14 +171,14 @@
     "width": 280.5,
     "collapsed": true
   },
-  "active": "ab9091dd957dcdcb",
+  "active": "15c547b2e110d3a9",
   "lastOpenFiles": [
-    "Zettelkasten/Obsidian 快速鍵.md",
-    "Zettelkasten/Calendar Plugin.md",
+    "Zettelkasten/外掛/Auto Link Title Plugin.md",
     "Zettelkasten/Better Word Count Plugin.md",
+    "Zettelkasten/Calendar Plugin.md",
+    "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Auto Pair Chinese Symbol Plugin.md",
-    "Zettelkasten/外掛/Auto Link Title Plugin.md",
     "Zettelkasten/外掛/Kanban Plugin.md",
     "Zettelkasten/Filename Headings Sync Plugin.md",
     "conflict-files-obsidian-git.md",
