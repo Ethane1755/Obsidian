@@ -24,6 +24,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "3961da885c47b279",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "_resources/Past/民主原則與治國原則.jpg"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -74,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Recent Files Plugin.md",
+                "file": "_resources/Past/民主原則與治國原則.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Recent Files Plugin.md",
+                "file": "_resources/Past/民主原則與治國原則.jpg",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,8 +159,10 @@
     "direction": "horizontal",
     "width": 244.5
   },
-  "active": "913e16a1c3e15dff",
+  "active": "3961da885c47b279",
   "lastOpenFiles": [
+    "_resources/Past/民主原則與治國原則.jpg",
+    "unlinked files output.md",
     "Zettelkasten/Recent Files Plugin.md",
     "Zettelkasten/Homepage Plugin.md",
     "Kanban/Kanban.md",
@@ -158,8 +170,6 @@
     "Zettelkasten/外掛/Better Word Count Plugin.md",
     "Zettelkasten/Better Word Count Plugin.md",
     "Zettelkasten/Obsidian 快速鍵.md",
-    "Zettelkasten/Grandfather Plugin.md",
-    "Zettelkasten/外掛/Auto Link Title Plugin.md",
-    "Zettelkasten/Calendar Plugin.md"
+    "Zettelkasten/Grandfather Plugin.md"
   ]
 }
