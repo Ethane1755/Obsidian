@@ -6,7 +6,7 @@
 ### 用法:
 自己到設定裡設定
 ### 我的用法:
-把我的Kanban([[Kanban Plugin]])當作首頁，當工作表用
-
+- 把我的Kanban([[Kanban Plugin]])當作首頁，當工作表用
+- 跟[[Recent Files Plugin]]合作，減少找不到之前開ㄉㄜ
 
 #### 202109291429
