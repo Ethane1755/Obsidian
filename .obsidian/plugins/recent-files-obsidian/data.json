@@ -2,6 +2,10 @@
   "recentFiles": [
     {
       "basename": "Better Word Count Plugin",
+      "path": "Zettelkasten/外掛/Better Word Count Plugin.md"
+    },
+    {
+      "basename": "Better Word Count Plugin",
       "path": "Zettelkasten/Better Word Count Plugin.md"
     },
     {
@@ -195,10 +199,6 @@
     {
       "basename": "絕對值",
       "path": "Zettelkasten/絕對值.md"
-    },
-    {
-      "basename": "細胞與能量",
-      "path": "Zettelkasten/細胞與能量.md"
     }
   ],
   "omittedPaths": [
