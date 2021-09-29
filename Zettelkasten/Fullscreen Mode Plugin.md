@@ -1,0 +1,3 @@
+# Fullscreen Mode Plugin
+#obsidian 
+

@@ -32,6 +32,17 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Editor Syntax Highlight Plugin.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "5b263f68df6c73b2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Fullscreen Mode Plugin.md",
             "mode": "source"
           }
         }
@@ -118,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Editor Syntax Highlight Plugin.md",
+                "file": "Zettelkasten/Fullscreen Mode Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Editor Syntax Highlight Plugin.md",
+                "file": "Zettelkasten/Fullscreen Mode Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +204,7 @@
     "width": 280.5,
     "collapsed": true
   },
-  "active": "e0db0ae83d6b34a3",
+  "active": "5b263f68df6c73b2",
   "lastOpenFiles": [
     "Zettelkasten/Untitled.md",
     "Zettelkasten/外掛/Auto Link Title Plugin.md",
