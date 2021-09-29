@@ -95,4 +95,18 @@ to one's surprise
 讓人印象深刻/極度興奮 #flashcard 
 blow one's mind
 
+複雜的 #flashcard 
+complex
+
+氣泡 #flashcard 
+bubble
+
+技法 #flashcard 
+technique
+
+取代 #flashcard 
+replace
+
+有助於 #flashcard 
+aid
 
