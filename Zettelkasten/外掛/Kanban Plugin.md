@@ -26,7 +26,7 @@ kanban-plugin: basic
 因為我有另外加一個很好用但在這裡會衝突的外掛filename headings sync
 所以你在快速鍵那邊打filename headings sync
 幫跑出來的那個選項隨便設定一個
-回到你的Kanban板(要在markdown模式)
+回到你的[[Kanban]]板(要在markdown模式)
 按下快速鍵
 然後就好了
 

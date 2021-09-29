@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7f3bff9bdc6621c7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Filename Headings Sync Plugin.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "435a45987dc1c362",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/外掛/Kanban Plugin.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -74,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Filename Headings Sync Plugin.md",
+                "file": "Zettelkasten/外掛/Kanban Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Filename Headings Sync Plugin.md",
+                "file": "Zettelkasten/外掛/Kanban Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,11 +137,11 @@
     "direction": "horizontal",
     "width": 280.5
   },
-  "active": "7f3bff9bdc6621c7",
+  "active": "435a45987dc1c362",
   "lastOpenFiles": [
+    "Zettelkasten/外掛/Kanban Plugin.md",
     "Zettelkasten/Filename Headings Sync Plugin.md",
     "conflict-files-obsidian-git.md",
-    "Zettelkasten/外掛/Kanban Plugin.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/English_Vocabulary_9.4.md",
     "Anki cards/English/English_Vocabulary_9.3.md",
