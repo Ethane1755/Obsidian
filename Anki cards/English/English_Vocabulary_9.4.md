@@ -32,5 +32,20 @@ specification
 製造商 #flashcard 
 manufacturer
 
-展
+展示 #flashcard 
+show off
+
+抱歉 #flashcard 
+I'm afraid that...
+
+應對 #flashcard 
+address
+
+接下來的 #flashcard 
+following
+
+強調 #flashcard 
+stress
+
+錯
 
