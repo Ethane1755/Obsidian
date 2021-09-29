@@ -1,4 +1,4 @@
-# Better Word Count Plugin
+# [[Zettelkasten/Better Word Count Plugin|Better Word Count Plugin]]
 #obsidian 
 
 ### 用途:

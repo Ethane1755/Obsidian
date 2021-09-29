@@ -97,7 +97,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/外掛/Better Word Count Plugin.md",
+            "file": "Zettelkasten/Better Word Count Plugin.md",
             "mode": "preview"
           }
         }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/外掛/Better Word Count Plugin.md",
+                "file": "Zettelkasten/Better Word Count Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/外掛/Better Word Count Plugin.md",
+                "file": "Zettelkasten/Better Word Count Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 284.5
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -239,8 +239,8 @@
   },
   "active": "95d752a003843209",
   "lastOpenFiles": [
-    "Zettelkasten/外掛/Better Word Count Plugin.md",
     "Zettelkasten/Better Word Count Plugin.md",
+    "Zettelkasten/外掛/Better Word Count Plugin.md",
     "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/Grandfather Plugin.md",
     "Zettelkasten/Untitled.md",
