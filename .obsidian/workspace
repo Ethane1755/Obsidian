@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/English_Vocabulary_9.4.md",
+            "file": "Anki cards/English/English_Vocabulary_9.4.md",
             "mode": "source"
           }
         }
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/English_Vocabulary_9.4.md",
+                "file": "Anki cards/English/English_Vocabulary_9.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/English_Vocabulary_9.4.md",
+                "file": "Anki cards/English/English_Vocabulary_9.4.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
