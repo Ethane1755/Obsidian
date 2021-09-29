@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "English_Vocabulary_9.4",
+      "path": "Zettelkasten/English_Vocabulary_9.4.md"
+    },
+    {
+      "basename": "Obsidian 快速鍵",
+      "path": "Zettelkasten/Obsidian 快速鍵.md"
+    },
+    {
+      "basename": "SQL Test",
+      "path": "Zettelkasten/SQL Test.md"
+    },
+    {
+      "basename": "The Boys in The Boat",
+      "path": "Zettelkasten/The Boys in The Boat.md"
+    },
+    {
+      "basename": "VS  Code 小技巧",
+      "path": "Zettelkasten/VS  Code 小技巧.md"
+    },
+    {
       "basename": "簡報設計",
       "path": "Zettelkasten/簡報設計.md"
     },
@@ -35,10 +55,6 @@
     {
       "basename": "咖啡因是非_專題摘要",
       "path": "Zettelkasten/咖啡因是非_專題摘要.md"
-    },
-    {
-      "basename": "The Boys in The Boat",
-      "path": "Zettelkasten/The Boys in The Boat.md"
     },
     {
       "basename": "輕便鐵路(單_雙軌)",
@@ -183,22 +199,6 @@
     {
       "basename": "極座標系統",
       "path": "Zettelkasten/極座標系統.md"
-    },
-    {
-      "basename": "三角函數關係",
-      "path": "Zettelkasten/三角函數關係.md"
-    },
-    {
-      "basename": "斯特凡–波茲曼定律",
-      "path": "Zettelkasten/斯特凡–波茲曼定律.md"
-    },
-    {
-      "basename": "Imaginary Audience",
-      "path": "Zettelkasten/Imaginary Audience.md"
-    },
-    {
-      "basename": "自然探究實作_紀錄表格",
-      "path": "Zettelkasten/自然探究實作_紀錄表格.md"
     }
   ],
   "omittedPaths": [
