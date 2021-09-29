@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4d5480dbe52b194",
+        "id": "9319ede3236ee81a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/台灣史料.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "dea6c2e5fc7e84c2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/歷史解釋_認同問題.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -35,7 +21,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 32.5609756097561,
+        "dimension": 75.60975609756098,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -46,40 +32,12 @@
             }
           },
           {
-            "id": "33b1ef87fcced71e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "09de258e6a8c23e4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Zettelkasten/台灣史料.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "fe636a731191f1cb",
-        "type": "tabs",
-        "dimension": 67.4390243902439,
-        "children": [
-          {
             "id": "57eb9b56099ae3b1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "自然探究",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,48 +47,102 @@
             }
           },
           {
+            "id": "5a5a892a2c7f80c6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
             "id": "c7d8a1fcfd493bba",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/台灣史料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "18d8fb9879b88a20",
+        "type": "tabs",
+        "dimension": 24.390243902439025,
+        "children": [
+          {
+            "id": "bb348a5fe3eda7d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
     "id": "6b84faf83a99a6bc",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "4f13afb779b3672f",
+        "type": "tabs",
+        "dimension": 40.36585365853659,
+        "children": [
+          {
+            "id": "33b1ef87fcced71e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f4ddd2c006121db9",
+        "type": "tabs",
+        "dimension": 59.63414634146341,
+        "children": [
+          {
+            "id": "6e4f8f338038e457",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 244.5
   },
-  "active": "b4d5480dbe52b194",
+  "active": "9319ede3236ee81a",
   "lastOpenFiles": [
+    "Zettelkasten/The Boys in The Boat (與 MSI 衝突的複本 2021-09-26).md",
+    "Kanban/Kanban.md",
     "Zettelkasten/台灣史料.md",
     "Zettelkasten/歷史解釋_認同問題.md",
-    "Kanban/Kanban.md",
     "Zettelkasten/多筆資料比對.md",
     "Zettelkasten/咖啡因是非_專題摘要.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/專題寫作.md",
     "Zettelkasten/The Boys in The Boat.md",
-    "Zettelkasten/Untitled mindmap.md",
-    "_resources/Past/ANKI/輕便鐵路(單_雙軌).jpg"
+    "Zettelkasten/Untitled mindmap.md"
   ]
 }
