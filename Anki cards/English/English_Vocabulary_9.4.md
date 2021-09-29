@@ -83,4 +83,16 @@ vomit
 分子料理 #flashcard 
 molecular gastronomy
 
+可食用的 #flashcard 
+edible
+
+口感 #flashcard 
+texture
+
+令某人驚奇的是 #flashcard 
+to one's surprise
+
+讓人印象深刻/極度興奮 #flashcard 
+blow one's mind
+
 
