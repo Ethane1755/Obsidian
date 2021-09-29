@@ -1,0 +1,49 @@
+# Obsidian 快速鍵
+自己把alt改成option，或者你要自己設也行
+反正我覺得這些比較常用
+- 關閉當前頁面
+	- ctrl+W
+- 打開命令列
+	- ctrl+P
+- 新增筆記
+	- ctrl+N
+- 匯出至PDF
+	- ctrl+alt+P
+- 打開全螢幕專注模式
+	-  ctrl+alt+F
+ - 打開網狀圖
+	 - ctrl+G
+- Youtube 影片時間戳
+	- ctrl+T
+- 開啟本頁心智圖
+	- alt+M
+- 新增圖表
+	- ctrl+alt+C
+- 新增心智圖
+	- ctrl+shift+M
+-  同步至Anki
+	-  alt+A
+- 開啟設定
+	- ctrl+L
+- 輸出為docx
+	- ctrl+alt+D
+- 取代
+	- ctrl+H
+- 尋找(文件內)
+	- ctrl+F
+- 尋找(整個資料庫)
+	- ctrl+shift+F
+- 插入日期
+	- alt+1
+- 插入時間
+	- alt+2
+- 插入模板
+	- alt+T
+- 插入列表
+	- ctrl+enter
+- 打開工作區
+	- ctrl+shift+W
+- 轉亮
+	- alt+L
+- 轉暗
+	- alt+D

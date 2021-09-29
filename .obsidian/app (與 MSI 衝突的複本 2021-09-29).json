@@ -1,0 +1,29 @@
+{
+  "obsidianCss": true,
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_resources",
+  "promptDelete": false,
+  "newFileFolderPath": "Zettelkasten",
+  "foldHeading": false,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showFrontmatter": false,
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "sth",
+    "beV",
+    "ing",
+    "kilometer",
+    "rentier",
+    "sb",
+    "Kanban"
+  ]
+}

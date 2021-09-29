@@ -4,6 +4,17 @@
     "type": "split",
     "children": [
       {
+        "id": "9319ede3236ee81a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Anki cards/English/English_Vocabulary_9.3.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "7f3bff9bdc6621c7",
         "type": "leaf",
         "state": {
@@ -35,7 +46,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 46.707317073170735,
+        "dimension": 75.60975609756098,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -90,7 +101,7 @@
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 53.29268292682927,
+        "dimension": 24.390243902439025,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
