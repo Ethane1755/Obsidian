@@ -68,7 +68,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 46.707317073170735,
+        "dimension": 75.60975609756098,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自然探究",
+                "query": "plugin",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,12 +118,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 53.29268292682927,
+        "dimension": 24.390243902439025,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
