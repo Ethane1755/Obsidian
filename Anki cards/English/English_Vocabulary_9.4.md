@@ -110,3 +110,22 @@ replace
 有助於 #flashcard 
 aid
 
+認為 #flashcard 
+consider
+
+廚師 #flashcard 
+chef
+
+作品 #flashcard 
+creation
+
+粥 #flashcard 
+porridge
+
+新奇的事物 #flashcard 
+novelty
+
+嘗試 #flashcard 
+give sth a go
+
+由...製成
