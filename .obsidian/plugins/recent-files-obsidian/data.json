@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Better Word Count Plugin",
+      "path": "Zettelkasten/Better Word Count Plugin.md"
+    },
+    {
       "basename": "Obsidian 快速鍵",
       "path": "Zettelkasten/Obsidian 快速鍵.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Auto Link Title Plugin",
       "path": "Zettelkasten/外掛/Auto Link Title Plugin.md"
-    },
-    {
-      "basename": "Better Word Count Plugin",
-      "path": "Zettelkasten/Better Word Count Plugin.md"
     },
     {
       "basename": "Calendar Plugin",

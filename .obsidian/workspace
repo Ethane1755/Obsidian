@@ -98,7 +98,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Better Word Count Plugin.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Obsidian 快速鍵.md",
+                "file": "Zettelkasten/Better Word Count Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Obsidian 快速鍵.md",
+                "file": "Zettelkasten/Better Word Count Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -237,13 +237,13 @@
     "width": 280.5,
     "collapsed": true
   },
-  "active": "694de32d15129c1d",
+  "active": "95d752a003843209",
   "lastOpenFiles": [
+    "Zettelkasten/Better Word Count Plugin.md",
     "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/Grandfather Plugin.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/外掛/Auto Link Title Plugin.md",
-    "Zettelkasten/Better Word Count Plugin.md",
     "Zettelkasten/Calendar Plugin.md",
     "Zettelkasten/Auto Pair Chinese Symbol Plugin.md",
     "Zettelkasten/外掛/Kanban Plugin.md",
