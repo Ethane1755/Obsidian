@@ -7,8 +7,11 @@
         "id": "15c547b2e110d3a9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Auto Link TItle Plugin.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Auto Link TItle Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Auto Link TItle Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -130,14 +135,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "active": "15c547b2e110d3a9",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/外掛/Kanban Plugin.md",
     "Zettelkasten/Filename Headings Sync Plugin.md",
     "conflict-files-obsidian-git.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/English_Vocabulary_9.4.md",
     "Anki cards/English/English_Vocabulary_9.3.md",
     "Anki cards/English/English_Vocabulary_9.1.md",
