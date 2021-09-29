@@ -30,6 +30,14 @@
   --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
+body{font-family:Sarasa Mono TC!important;}
+h1{font-family:Sarasa Mono TC!important;}
+h2{font-family:Sarasa Mono TC!important;}
+h3{font-family:Sarasa Mono TC!important;}
+h4{font-family:Sarasa Mono TC!important;}
+h5{font-family:Sarasa Mono TC!important;}
+h6{font-family:Sarasa Mono TC!important;}
+a{font-family:Sarasa Mono TC!important;}
 
 *,
 *::before,
