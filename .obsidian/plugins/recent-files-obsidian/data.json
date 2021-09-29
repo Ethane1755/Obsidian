@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Zettelkasten/Untitled.md"
+    },
+    {
       "basename": "English_Vocabulary_9.4",
       "path": "Anki cards/English/English_Vocabulary_9.4.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "台灣考古學發展",
       "path": "Zettelkasten/台灣考古學發展.md"
-    },
-    {
-      "basename": "極座標系統",
-      "path": "Zettelkasten/極座標系統.md"
     }
   ],
   "omittedPaths": [

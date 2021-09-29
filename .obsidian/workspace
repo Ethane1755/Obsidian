@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anki cards/English/English_Vocabulary_9.4.md",
+            "file": "Zettelkasten/Untitled.md",
             "mode": "source"
           }
         }
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki cards/English/English_Vocabulary_9.4.md",
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki cards/English/English_Vocabulary_9.4.md",
+                "file": "Zettelkasten/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,10 +150,10 @@
   },
   "active": "7f3bff9bdc6621c7",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/English_Vocabulary_9.4.md",
     "Anki cards/English/English_Vocabulary_9.3.md",
     "Anki cards/English/English_Vocabulary_9.1.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/SQL Test.md",
     "Zettelkasten/The Boys in The Boat.md",
