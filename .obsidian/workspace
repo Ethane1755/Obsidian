@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Better Word Count Plugin.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -185,6 +185,7 @@
   "active": "291abccd2e355a82",
   "lastOpenFiles": [
     "Zettelkasten/Calendar Plugin.md",
+    "Zettelkasten/Better Word Count Plugin.md",
     "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Auto Pair Chinese Symbol Plugin.md",
@@ -192,7 +193,6 @@
     "Zettelkasten/外掛/Kanban Plugin.md",
     "Zettelkasten/Filename Headings Sync Plugin.md",
     "conflict-files-obsidian-git.md",
-    "Zettelkasten/English_Vocabulary_9.4.md",
-    "Anki cards/English/English_Vocabulary_9.3.md"
+    "Zettelkasten/English_Vocabulary_9.4.md"
   ]
 }
