@@ -54,8 +54,21 @@
                   "type": "calendar",
                   "state": {}
                 }
+              },
+              {
+                "id": "09de258e6a8c23e4",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Zettelkasten/歷史解釋_認同問題.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "fe636a731191f1cb",
@@ -537,5 +550,5 @@
       "active": "6f7f80b7b9434bc7"
     }
   },
-  "active": "Kanban_Homepage"
+  "active": "History"
 }

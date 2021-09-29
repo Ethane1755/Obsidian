@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "台灣史料",
+      "path": "Zettelkasten/台灣史料.md"
+    },
+    {
+      "basename": "歷史解釋_認同問題",
+      "path": "Zettelkasten/歷史解釋_認同問題.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "太陽黑子（日斑）",
       "path": "Zettelkasten/太陽黑子（日斑）.md"
-    },
-    {
-      "basename": "Earth Science",
-      "path": "Anki cards/Earth Science.md"
-    },
-    {
-      "basename": "水密度測量流程表",
-      "path": "Zettelkasten/水密度測量流程表.md"
     }
   ],
   "omittedPaths": [
