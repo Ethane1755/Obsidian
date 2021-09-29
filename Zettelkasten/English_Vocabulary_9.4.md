@@ -3,7 +3,10 @@
 TARGET DECK: English_Vocabulary_9.4
 
 test #flashcard 
-hi
+hihisfsldfj
 DELETE
-<!--ID: 1632891757859-->
+<!--ID: 1632891851673-->
+
+
+
 
