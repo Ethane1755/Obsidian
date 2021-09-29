@@ -2,9 +2,10 @@
 
 TARGET DECK: English_Vocabulary_9.4
 
- #flashcard 
+代表 #flashcard 
+representative
 
-
+比
 
 
 
