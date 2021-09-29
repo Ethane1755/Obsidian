@@ -43,7 +43,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Calendar Plugin.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Calendar Plugin.md",
+                "file": "Zettelkasten/Obsidian 快速鍵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Calendar Plugin.md",
+                "file": "Zettelkasten/Obsidian 快速鍵.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -182,11 +182,11 @@
     "width": 280.5,
     "collapsed": true
   },
-  "active": "291abccd2e355a82",
+  "active": "ab9091dd957dcdcb",
   "lastOpenFiles": [
+    "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/Calendar Plugin.md",
     "Zettelkasten/Better Word Count Plugin.md",
-    "Zettelkasten/Obsidian 快速鍵.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Auto Pair Chinese Symbol Plugin.md",
     "Zettelkasten/外掛/Auto Link Title Plugin.md",

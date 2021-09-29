@@ -12,7 +12,7 @@
 	-  ctrl+alt+F
  - 打開網狀圖
 	 - ctrl+G
-- Youtube 影片時間戳
+- YouTube 影片時間戳
 	- ctrl+T
 - 開啟本頁心智圖
 	- alt+M
