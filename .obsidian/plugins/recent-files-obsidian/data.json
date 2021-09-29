@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Zettelkasten/Untitled.md"
+      "basename": "Filename Headings Sync Plugin",
+      "path": "Zettelkasten/Filename Headings Sync Plugin.md"
+    },
+    {
+      "basename": "Kanban Plugin",
+      "path": "Zettelkasten/外掛/Kanban Plugin.md"
     },
     {
       "basename": "English_Vocabulary_9.4",
@@ -195,10 +199,6 @@
     {
       "basename": "地理觀念（高中地理主軸）",
       "path": "Zettelkasten/地理觀念（高中地理主軸）.md"
-    },
-    {
-      "basename": "台灣考古學發展",
-      "path": "Zettelkasten/台灣考古學發展.md"
     }
   ],
   "omittedPaths": [
