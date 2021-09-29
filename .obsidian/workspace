@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Auto Link Title Plugin.md",
+            "file": "Zettelkasten/外掛/Auto Link Title Plugin.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "494644b1e983c9bf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Auto Pair Chinese Symbol Plugin.md",
             "mode": "source"
           }
         }
@@ -63,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Auto Link Title Plugin.md",
+                "file": "Zettelkasten/Auto Pair Chinese Symbol Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Auto Link Title Plugin.md",
+                "file": "Zettelkasten/Auto Pair Chinese Symbol Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +149,7 @@
     "width": 280.5,
     "collapsed": true
   },
-  "active": "15c547b2e110d3a9",
+  "active": "494644b1e983c9bf",
   "lastOpenFiles": [
     "Zettelkasten/Untitled.md",
     "Zettelkasten/外掛/Kanban Plugin.md",
