@@ -68,5 +68,19 @@ flavor
 發明 #flashcard 
 invent
 
-科學家
+科學家 #flashcard 
+scientist
+
+決定 #flashcard 
+determine
+
+化學反應 #flashcard 
+reaction
+
+嘔吐 #flashcard 
+vomit
+
+分子料理 #flashcard 
+molecular gastronomy
+
 
