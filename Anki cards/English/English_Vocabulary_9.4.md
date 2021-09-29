@@ -47,5 +47,26 @@ following
 強調 #flashcard 
 stress
 
-錯
+措施 #flashcard 
+measure
+
+十年 #flashcard 
+decade
+
+針對 #flashcard 
+direct
+
+因此 #flashcard 
+as a result 
+
+化學物質 #flashcard 
+chemical
+
+味道 #flashcard 
+flavor
+
+發明 #flashcard 
+invent
+
+科學家
 
