@@ -43,6 +43,28 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Fullscreen Mode Plugin.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "1efa35385fe8acd2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "694de32d15129c1d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Obsidian 快速鍵.md",
             "mode": "source"
           }
         }
@@ -129,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Fullscreen Mode Plugin.md",
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +162,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -154,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Fullscreen Mode Plugin.md",
+                "file": "Zettelkasten/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +226,7 @@
     "width": 280.5,
     "collapsed": true
   },
-  "active": "5b263f68df6c73b2",
+  "active": "1efa35385fe8acd2",
   "lastOpenFiles": [
     "Zettelkasten/Untitled.md",
     "Zettelkasten/外掛/Auto Link Title Plugin.md",
