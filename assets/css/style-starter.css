@@ -1,15 +1,5 @@
 @charset "UTF-8";
 
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
---*/
-/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -14046,7 +14036,7 @@ a.text-dark:focus {
   --bg-light: #f9f9f9;
   --bg-dark-color: #fff;
   --quote-text-color: #1d2c4c;
-  --icon-gra-color: linear-gradient(75deg, #1c2e7b 10%, #e60264);
+  --icon-gra-color: linear-gradient(75deg, #72EFDD 10%, #7400B8);
   --bg-light-blog: rgba(0, 0, 0, 0.03);
 }
 
@@ -15584,7 +15574,7 @@ h4.search-pop-text-w3 {
 
 /* banner */
 .w3l-banner {
-  background: url(../images/banner1.jpg) no-repeat center;
+  background: url(../images/1.jpg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
