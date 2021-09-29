@@ -23,7 +23,14 @@ quality
 發表 #flashcard 
 launch
 
+前身 #flashcard 
+predecessor
 
+規格 #flashcard 
+specification
 
+製造商 #flashcard 
+manufacturer
 
+展
 
