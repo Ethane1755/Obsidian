@@ -54,7 +54,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Grandfather Plugin.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -65,7 +65,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Hider Plugin.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Hider Plugin.md",
+                "file": "Zettelkasten/Grandfather Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Hider Plugin.md",
+                "file": "Zettelkasten/Grandfather Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -237,8 +237,9 @@
     "width": 280.5,
     "collapsed": true
   },
-  "active": "011e0ca9d03d04bd",
+  "active": "1efa35385fe8acd2",
   "lastOpenFiles": [
+    "Zettelkasten/Grandfather Plugin.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/外掛/Auto Link Title Plugin.md",
     "Zettelkasten/Better Word Count Plugin.md",
@@ -247,7 +248,6 @@
     "Zettelkasten/Auto Pair Chinese Symbol Plugin.md",
     "Zettelkasten/外掛/Kanban Plugin.md",
     "Zettelkasten/Filename Headings Sync Plugin.md",
-    "conflict-files-obsidian-git.md",
-    "Zettelkasten/English_Vocabulary_9.4.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
