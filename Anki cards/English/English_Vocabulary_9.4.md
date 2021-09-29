@@ -128,4 +128,14 @@ novelty
 嘗試 #flashcard 
 give sth a go
 
-由...製成
+由...製成 #flashcard 
+out of sth
+
+由某人自由選擇的 #flashcard 
+of one's choice
+
+幾乎 #flashcard 
+pretty much
+
+由某人決定 #flashcard 
+be-V up to sb
