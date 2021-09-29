@@ -4,21 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c68ad09fe3592b29",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "4a4a3356f20a708c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Homepage Plugin.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -32,7 +24,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 36.09958506224066,
+        "dimension": 41.21951219512195,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -87,7 +79,7 @@
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 63.90041493775934,
+        "dimension": 58.78048780487804,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
