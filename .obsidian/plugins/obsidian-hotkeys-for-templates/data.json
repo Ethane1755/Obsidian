@@ -1,5 +1,7 @@
 {
-  "files": [],
+  "files": [
+    "Always.md"
+  ],
   "templaterFiles": [],
   "newFileTemplates": [],
   "openNewFileTemplateInNewPane": true,

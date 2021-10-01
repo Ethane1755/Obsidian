@@ -215,5 +215,13 @@
       ],
       "key": "W"
     }
+  ],
+  "obsidian-hotkeys-for-templates:Always.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
   ]
 }

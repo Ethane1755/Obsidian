@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/自主學習計畫-塞車模型.md",
+            "file": "Zettelkasten/太陽星雲說.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自主學習計畫-塞車模型.md",
+                "file": "Zettelkasten/太陽星雲說.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/自主學習計畫-塞車模型.md",
+                "file": "Zettelkasten/太陽星雲說.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,15 +140,15 @@
   },
   "active": "1584338643a0f5d3",
   "lastOpenFiles": [
-    "Zettelkasten/自主學習計畫-塞車模型.md",
-    "Zettelkasten/地壘.md",
-    "Zettelkasten/Untitled.md",
-    "_Templates/Notes (conflict 2021-09-27-16-10-15).md",
-    "_Templates/Code (conflict 2021-09-27-16-10-15).md",
-    "README.md",
-    "palette.pdf",
-    "Kanban/Kanban.md",
-    "Kanban/Kanban (conflict 2021-09-27-16-10-15).md",
-    "Kanban/Kanban (conflict 2021-09-24-17-50-02).md"
+    "Zettelkasten/太陽星雲說.md",
+    "Zettelkasten/分層作用.md",
+    "Zettelkasten/公聽會.md",
+    "Zettelkasten/內營力.md",
+    "Zettelkasten/大南澳事件.md",
+    "Zettelkasten/三角函數.md",
+    "Zettelkasten/三角不等式.md",
+    "Zettelkasten/2021-09-30-三角函數.md",
+    "Zettelkasten/2018-07-01-welcome.md",
+    "Zettelkasten/2018-06-01-header-image.md"
   ]
 }
