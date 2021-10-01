@@ -1,3 +1,9 @@
+---
+title: POPCAT plugin
+tags: #obsidian 
+toc: true
+season: winter
+---
 # POPCAT plugin
 
 ```JS

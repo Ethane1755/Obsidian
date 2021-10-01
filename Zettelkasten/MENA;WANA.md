@@ -1,3 +1,9 @@
+---
+title: MENA;WANA
+tags: #obsidian 
+toc: true
+season: winter
+---
 # MENA;WANA
 
 >**Middle East North Africa** or much commonly known as **MENA** is a transcontinental region. It is alternatively called **WANA** (West Asia and North Africa).

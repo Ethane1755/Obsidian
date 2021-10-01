@@ -1,3 +1,9 @@
+---
+title: WLOG
+tags: #obsidian 
+toc: true
+season: winter
+---
 # WLOG
 #數學 
 ### 定義

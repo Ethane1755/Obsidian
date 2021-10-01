@@ -1,3 +1,9 @@
+---
+title: Plt.pie 餅圖繪製
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Plt.pie 餅圖繪製
 #python #Matplotlib 
 

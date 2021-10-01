@@ -1,3 +1,9 @@
+---
+title: ndarray
+tags: #obsidian 
+toc: true
+season: winter
+---
 # ndarray
 #python #NumPy
 

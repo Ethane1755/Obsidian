@@ -1,3 +1,9 @@
+---
+title: Recent Files Plugin
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Recent Files Plugin
 #obsidian 
 

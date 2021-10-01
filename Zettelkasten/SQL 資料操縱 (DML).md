@@ -1,3 +1,9 @@
+---
+title: SQL 資料操縱 (DML)
+tags: #obsidian 
+toc: true
+season: winter
+---
 # SQL 資料操縱 (DML)
 #SQL 
 - INSERT INTO 新增資料

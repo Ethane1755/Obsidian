@@ -1,3 +1,9 @@
+---
+title: Python 變數
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Python 變數
 #python 
 視為一個容器(把A置換成B)，能更好的管理程式碼(統一處理)

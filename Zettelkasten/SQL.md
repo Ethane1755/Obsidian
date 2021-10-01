@@ -1,3 +1,9 @@
+---
+title: SQL
+tags: #obsidian 
+toc: true
+season: winter
+---
 # SQL
 #SQL 
 

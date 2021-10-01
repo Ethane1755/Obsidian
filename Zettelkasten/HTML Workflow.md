@@ -1,3 +1,9 @@
+---
+title: HTML Workflow
+tags: #obsidian 
+toc: true
+season: winter
+---
 # HTML Workflow
 #html 
 ```mermaid

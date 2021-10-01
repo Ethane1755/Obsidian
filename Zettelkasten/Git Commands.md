@@ -1,3 +1,9 @@
+---
+title: Git Commands
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Git Commands
 #git
 - git init

@@ -1,3 +1,9 @@
+---
+title: Python 基本資料型態
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Python 基本資料型態
 #python
 1. 字串(單/雙引號)

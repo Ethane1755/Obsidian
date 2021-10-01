@@ -1,3 +1,9 @@
+---
+title: SQL 資料查詢(DQL)
+tags: #obsidian 
+toc: true
+season: winter
+---
 # SQL 資料查詢(DQL)
 #SQL 
 - SELECT

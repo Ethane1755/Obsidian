@@ -1,3 +1,9 @@
+---
+title: Imaginary Audience
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Imaginary Audience
 #建中 
 

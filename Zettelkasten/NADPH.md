@@ -1,3 +1,9 @@
+---
+title: NADPH
+tags: #obsidian 
+toc: true
+season: winter
+---
 # NADPH
 
 定義: 最終電子受體NADP<sup>+</sup>接受電子後的產物

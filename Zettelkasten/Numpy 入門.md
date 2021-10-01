@@ -1,3 +1,9 @@
+---
+title: Numpy 入門
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Numpy 入門
 #python #NumPy 
 - 數組對象可以去掉"循環"之步驟，使一維向量更像一個數據

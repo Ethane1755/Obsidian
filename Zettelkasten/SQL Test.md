@@ -1,3 +1,9 @@
+---
+title: SQL Test
+tags: #obsidian 
+toc: true
+season: winter
+---
 # SQL Test
 #SQL
 ```SQL

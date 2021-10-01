@@ -1,3 +1,9 @@
+---
+title: Python 字串
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Python 字串
 #python 
 

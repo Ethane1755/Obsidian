@@ -1,3 +1,9 @@
+---
+title: Matplotlib 入門
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Matplotlib 入門
 #python #Matplotlib
 - 引用Matplotlib: import matplotlib.pyplot as plt

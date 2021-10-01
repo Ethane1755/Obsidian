@@ -1,3 +1,9 @@
+---
+title: Python 指令
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Python 指令
 #python 
 input：輸入

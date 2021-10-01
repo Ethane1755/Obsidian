@@ -1,3 +1,9 @@
+---
+title: Folium 入門
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Folium 入門
 #python #Folium
 

@@ -1,3 +1,9 @@
+---
+title: 薩赫爾地區(Sahel)
+tags: #obsidian 
+toc: true
+season: winter
+---
 # 薩赫爾地區(Sahel)
 #地理
 ![[800px-Map_of_the_Sahel.png]]

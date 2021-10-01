@@ -1,3 +1,9 @@
+---
+title: SQL 運算子
+tags: #obsidian 
+toc: true
+season: winter
+---
 # SQL 運算子
 #SQL
 

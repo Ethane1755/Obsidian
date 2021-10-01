@@ -1,3 +1,9 @@
+---
+title: SQL  資料定義(DDL)
+tags: #obsidian 
+toc: true
+season: winter
+---
 # SQL  資料定義(DDL)
 #SQL 
 

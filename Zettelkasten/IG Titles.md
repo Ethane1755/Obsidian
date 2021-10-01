@@ -1,3 +1,9 @@
+---
+title: IG Titles
+tags: #obsidian 
+toc: true
+season: winter
+---
 # IG Titles
 >Live is a f**king hell of problems.  
 >But that's why we exists  

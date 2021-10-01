@@ -1,3 +1,9 @@
+---
+title: Python 數據分析
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Python 數據分析
 #python 
 

@@ -1,3 +1,9 @@
+---
+title: Coursera Application
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Coursera Application
 #coursera
 To whom it may concern:

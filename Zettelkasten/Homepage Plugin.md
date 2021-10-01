@@ -1,3 +1,9 @@
+---
+title: Homepage Plugin
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Homepage Plugin
 #obsidian 
 

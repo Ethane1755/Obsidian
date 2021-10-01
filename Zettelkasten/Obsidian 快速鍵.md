@@ -1,3 +1,9 @@
+---
+title: Obsidian 快速鍵
+tags: #obsidian 
+toc: true
+season: winter
+---
 # Obsidian 快速鍵
 
 - 關閉當前頁面
