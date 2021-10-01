@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "Recent Files Plugin",
       "path": "Zettelkasten/Recent Files Plugin.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "unlinked files output",
       "path": "unlinked files output.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "Obsidian 快速鍵",
