@@ -1,8 +1,0 @@
-2021-09-30 21:32:24: -- Analysis Started by On File Change, After Delay
-2021-09-30 21:32:28: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 208
-2021-09-30 21:32:28: Right to Left: Delete File: 2 
-2021-09-30 21:32:28: == Sync Started by On File Change, After Delay
-2021-09-30 21:32:32: Delete File dropbox://api.dropbox.com/Obsidian/Zettelkasten/普朗克常數.docx
-2021-09-30 21:32:34: Delete File dropbox://api.dropbox.com/Obsidian/Zettelkasten/轉檔.py
-2021-09-30 21:32:34: Start only 0 threads, limited by tasks to run
-2021-09-30 21:32:37: == Sync Complete. Time: 00:00:15, Speed: 4.37 KB/s, OK: 2, Errors: 0

@@ -1,8 +1,0 @@
-2021-09-30 21:37:04: -- Analysis Started by On File Change, After Delay
-2021-09-30 21:37:08: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 209
-2021-09-30 21:37:08: Right to Left: Copy File: 1 Delete File: 1 
-2021-09-30 21:37:08: == Sync Started by On File Change, After Delay
-2021-09-30 21:37:11: Delete File dropbox://api.dropbox.com/Obsidian/Zettelkasten/三角函數.md
-2021-09-30 21:37:11: Start only 1 threads, limited by tasks to run
-2021-09-30 21:37:12: Copy New 'D:/Database/Website/Blog/_posts/2021-09-30-三角函數.md' -> 'dropbox://api.dropbox.com/Obsidian/Zettelkasten/2021-09-30-三角函數.md' (1,829)
-2021-09-30 21:37:16: == Sync Complete. Time: 00:00:15, Speed: 4.81 KB/s, OK: 2, Errors: 0
