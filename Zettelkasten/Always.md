@@ -1,2 +1,5 @@
 ---
-title: 
+title: {{title}}
+tags: 
+toc: true
+
