@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2018-06-01-header-image",
-      "path": "Zettelkasten/2018-06-01-header-image.md"
+      "basename": "日珥",
+      "path": "Zettelkasten/日珥.md"
+    },
+    {
+      "basename": "三角函數",
+      "path": "Zettelkasten/三角函數.md"
     },
     {
       "basename": "9_1to9_11",
@@ -195,10 +199,6 @@
     {
       "basename": "輻射層",
       "path": "Zettelkasten/輻射層.md"
-    },
-    {
-      "basename": "濁大計畫",
-      "path": "Zettelkasten/濁大計畫.md"
     }
   ],
   "omittedPaths": [
