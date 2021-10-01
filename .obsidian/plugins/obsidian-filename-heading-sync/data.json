@@ -3,7 +3,8 @@
     ""
   ],
   "ignoredFiles": {
-    "Kanban/Kanban.md": null
+    "Kanban/Kanban.md": null,
+    "Zettelkasten/Always.md": null
   },
   "ignoreRegex": ""
 }

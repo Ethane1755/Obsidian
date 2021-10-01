@@ -7,8 +7,11 @@
         "id": "1584338643a0f5d3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Always.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Always.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Always.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,6 +139,7 @@
   },
   "active": "1584338643a0f5d3",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "_Templates/Notes (conflict 2021-09-27-16-10-15).md",
     "_Templates/Code (conflict 2021-09-27-16-10-15).md",
     "README.md",
@@ -142,7 +148,6 @@
     "Kanban/Kanban (conflict 2021-09-27-16-10-15).md",
     "Kanban/Kanban (conflict 2021-09-24-17-50-02).md",
     "Zettelkasten/自然探究_改正.md",
-    "Zettelkasten/Recent Files Plugin.md",
-    "Zettelkasten/Homepage Plugin.md"
+    "Zettelkasten/Recent Files Plugin.md"
   ]
 }
