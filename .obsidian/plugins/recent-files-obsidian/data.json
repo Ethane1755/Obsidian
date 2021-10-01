@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "自主學習計畫-塞車模型",
+      "path": "Zettelkasten/自主學習計畫-塞車模型.md"
+    },
+    {
+      "basename": "地壘",
+      "path": "Zettelkasten/地壘.md"
+    },
+    {
       "basename": "Always",
-      "path": "Zettelkasten/Always.md"
+      "path": "_Templates/Always.md"
     },
     {
       "basename": "README",
@@ -191,10 +199,6 @@
     {
       "basename": "三角不等式",
       "path": "Zettelkasten/三角不等式.md"
-    },
-    {
-      "basename": "絕對值",
-      "path": "Zettelkasten/絕對值.md"
     }
   ],
   "omittedPaths": [
