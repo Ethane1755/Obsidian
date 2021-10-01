@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "d945ae8e6f18be55",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/自然探究_改正.md",
+            "file": "_Templates/Code (conflict 2021-09-27-16-10-15).md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自然探究_改正.md",
+                "file": "_Templates/Code (conflict 2021-09-27-16-10-15).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/自然探究_改正.md",
+                "file": "_Templates/Code (conflict 2021-09-27-16-10-15).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,17 +137,17 @@
     "direction": "horizontal",
     "width": 244.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "d945ae8e6f18be55",
   "lastOpenFiles": [
-    "Zettelkasten/自然探究_改正.md",
+    "_Templates/Code (conflict 2021-09-27-16-10-15).md",
+    "README.md",
+    "palette.pdf",
     "Kanban/Kanban.md",
+    "Kanban/Kanban (conflict 2021-09-27-16-10-15).md",
+    "Kanban/Kanban (conflict 2021-09-24-17-50-02).md",
+    "Zettelkasten/自然探究_改正.md",
     "Zettelkasten/Recent Files Plugin.md",
     "Zettelkasten/Homepage Plugin.md",
-    "_resources/Past/民主原則與治國原則.jpg",
-    "unlinked files output.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/外掛/Better Word Count Plugin.md",
-    "Zettelkasten/Better Word Count Plugin.md",
-    "Zettelkasten/Obsidian 快速鍵.md"
+    "_resources/Past/民主原則與治國原則.jpg"
   ]
 }
