@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "三角函數",
       "path": "Zettelkasten/三角函數.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "斷層崖",
       "path": "Zettelkasten/斷層崖.md"
-    },
-    {
-      "basename": "斷層作用",
-      "path": "Zettelkasten/斷層作用.md"
     }
   ],
   "omittedPaths": [
