@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Zettelkasten/大南澳事件.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Zettelkasten/大南澳事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Zettelkasten/大南澳事件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,6 +139,7 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/大南澳事件.md",
     "README.md",
     "Kanban/Kanban.md",
     "_resources/Past/s.png",
@@ -147,7 +148,6 @@
     "Zettelkasten/日冕物質拋射(CME).md",
     "Zettelkasten/水密度分析.md",
     "Zettelkasten/日冕.md",
-    "Zettelkasten/日珥.md",
-    "Zettelkasten/2018-06-01-header-image.md"
+    "Zettelkasten/日珥.md"
   ]
 }
