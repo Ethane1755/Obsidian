@@ -28,5 +28,6 @@
     "ctrl+P",
     "alt+k",
     "Fullscreen"
-  ]
+  ],
+  "newLinkFormat": "relative"
 }
