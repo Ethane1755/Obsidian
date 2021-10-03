@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "s",
+      "path": "_resources/Past/s.png"
+    },
+    {
+      "basename": "巴黎分區",
+      "path": "Zettelkasten/巴黎分區.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "薩赫爾地區(Sahel)",
       "path": "Zettelkasten/薩赫爾地區(Sahel).md"
-    },
-    {
-      "basename": "簡報設計",
-      "path": "Zettelkasten/簡報設計.md"
-    },
-    {
-      "basename": "斷層崖",
-      "path": "Zettelkasten/斷層崖.md"
     }
   ],
   "omittedPaths": [

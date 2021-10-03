@@ -7,9 +7,9 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "image",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "_resources/Past/s.png"
           }
         }
       }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "_resources/Past/s.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "_resources/Past/s.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,6 +138,8 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "_resources/Past/s.png",
+    "Zettelkasten/巴黎分區.md",
     "Kanban/Kanban.md",
     "Zettelkasten/三角函數.md",
     "Zettelkasten/日冕物質拋射(CME).md",
@@ -145,8 +147,6 @@
     "Zettelkasten/日冕.md",
     "Zettelkasten/日珥.md",
     "Zettelkasten/2018-06-01-header-image.md",
-    "Zettelkasten/2021-09-30-三角函數.md",
-    "Zettelkasten/2018-07-01-welcome.md",
-    "Zettelkasten/9_1to9_11.md"
+    "Zettelkasten/2021-09-30-三角函數.md"
   ]
 }
