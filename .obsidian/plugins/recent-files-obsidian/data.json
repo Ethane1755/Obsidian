@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "s",
       "path": "_resources/Past/s.png"
     },
     {
       "basename": "巴黎分區",
       "path": "Zettelkasten/巴黎分區.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "三角函數",
@@ -195,10 +199,6 @@
     {
       "basename": "覆議、附議與復議",
       "path": "Zettelkasten/覆議、附議與復議.md"
-    },
-    {
-      "basename": "薩赫爾地區(Sahel)",
-      "path": "Zettelkasten/薩赫爾地區(Sahel).md"
     }
   ],
   "omittedPaths": [
