@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "自主學習計畫-塞車模型",
+      "path": "Zettelkasten/自主學習計畫-塞車模型.md"
+    },
+    {
+      "basename": "地圖本質",
+      "path": "Zettelkasten/地圖本質.md"
+    },
+    {
+      "basename": "地理學研究傳統",
+      "path": "Zettelkasten/地理學研究傳統.md"
+    },
+    {
+      "basename": "地球歷史氣體成分",
+      "path": "Zettelkasten/地球歷史氣體成分.md"
+    },
+    {
+      "basename": "大南澳事件",
+      "path": "Zettelkasten/大南澳事件.md"
+    },
+    {
+      "basename": "三角函數",
+      "path": "Zettelkasten/三角函數.md"
+    },
+    {
+      "basename": "三角不等式",
+      "path": "Zettelkasten/三角不等式.md"
+    },
+    {
+      "basename": "食鹽水密度測量_結報",
+      "path": "Zettelkasten/自然探究實作/食鹽水密度測量_結報.md"
+    },
+    {
+      "basename": "必麒麟事件",
+      "path": "Zettelkasten/必麒麟事件.md"
+    },
+    {
       "basename": "9_1~9_11",
       "path": "Zettelkasten/9_1~9_11.md"
     },
@@ -13,10 +49,6 @@
       "path": "Zettelkasten/內營力.md"
     },
     {
-      "basename": "大南澳事件",
-      "path": "Zettelkasten/大南澳事件.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -27,10 +59,6 @@
     {
       "basename": "巴黎分區",
       "path": "Zettelkasten/巴黎分區.md"
-    },
-    {
-      "basename": "三角函數",
-      "path": "Zettelkasten/三角函數.md"
     },
     {
       "basename": "日冕物質拋射(CME)",
@@ -171,34 +199,6 @@
     {
       "basename": "Homepage Plugin",
       "path": "Zettelkasten/Homepage Plugin.md"
-    },
-    {
-      "basename": "Git Commands",
-      "path": "Zettelkasten/Git Commands.md"
-    },
-    {
-      "basename": "Folium 入門",
-      "path": "Zettelkasten/Folium 入門.md"
-    },
-    {
-      "basename": "Coursera Application",
-      "path": "Zettelkasten/Coursera Application.md"
-    },
-    {
-      "basename": "Blockly",
-      "path": "Zettelkasten/Blockly.md"
-    },
-    {
-      "basename": "黨團",
-      "path": "Zettelkasten/黨團.md"
-    },
-    {
-      "basename": "蘇丹草原",
-      "path": "Zettelkasten/蘇丹草原.md"
-    },
-    {
-      "basename": "關鍵字",
-      "path": "Zettelkasten/關鍵字.md"
     }
   ],
   "omittedPaths": [

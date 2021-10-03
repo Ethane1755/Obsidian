@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/9_1~9_11.md",
-            "mode": "preview"
+            "file": "Zettelkasten/自主學習計畫-塞車模型.md",
+            "mode": "source"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/9_1~9_11.md",
+                "file": "Zettelkasten/自主學習計畫-塞車模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/9_1~9_11.md",
+                "file": "Zettelkasten/自主學習計畫-塞車模型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Zettelkasten/9_1~9_11.md",
-    "Kanban/Kanban.md",
-    "Zettelkasten/內營力.md",
+    "Zettelkasten/自主學習計畫-塞車模型.md",
+    "Zettelkasten/地圖本質.md",
+    "Zettelkasten/地理學研究傳統.md",
+    "Zettelkasten/地球歷史氣體成分.md",
     "Zettelkasten/大南澳事件.md",
-    "README.md",
-    "_resources/Past/s.png",
-    "Zettelkasten/巴黎分區.md",
     "Zettelkasten/三角函數.md",
-    "Zettelkasten/日冕物質拋射(CME).md",
-    "Zettelkasten/水密度分析.md"
+    "Zettelkasten/三角不等式.md",
+    "Zettelkasten/自然探究實作/食鹽水密度測量_結報.md",
+    "Zettelkasten/必麒麟事件.md",
+    "Zettelkasten/9_1~9_11.md"
   ]
 }
