@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "內營力",
       "path": "Zettelkasten/內營力.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "s",
