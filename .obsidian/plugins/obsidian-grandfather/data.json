@@ -1,4 +1,4 @@
 {
-  "format": "12h",
-  "customFormat": ""
+  "format": "custom",
+  "customFormat": "MMDD, "
 }
