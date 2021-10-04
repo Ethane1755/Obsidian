@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "自主學習計畫-塞車模型",
       "path": "Zettelkasten/自主學習計畫-塞車模型.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "9_1~9_11",
       "path": "Zettelkasten/9_1~9_11.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "內營力",
