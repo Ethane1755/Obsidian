@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自然探究",
+                "query": "#英文",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "18d8fb9879b88a20",
