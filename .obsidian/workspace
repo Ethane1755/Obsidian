@@ -42,7 +42,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/實數.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 270.5
   },
   "active": "2b8b11e99873e6b0",
   "lastOpenFiles": [
