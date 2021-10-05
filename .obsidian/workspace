@@ -4,23 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8099727e691bc7ce",
-        "type": "leaf",
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "host": 0,
-              "id": "J7267qevvJE",
-              "iframe": "https://www.youtube.com/embed/J7267qevvJE",
-              "src": "https://www.youtube.com/watch?v=J7267qevvJE&list=PLggQDlmnRsqC-IMQjcSuUr79szMafEznb&index=11",
-              "hash": ""
-            },
-            "currentTime": 0
-          }
-        }
-      },
-      {
         "id": "c9350987538719ba",
         "type": "leaf",
         "state": {
@@ -159,6 +142,7 @@
   },
   "active": "c9350987538719ba",
   "lastOpenFiles": [
+    "Zettelkasten/循環小數化成分數.md",
     "Zettelkasten/Untitled.md",
     "Kanban/Kanban.md",
     "Zettelkasten/無理數.md",
@@ -167,7 +151,6 @@
     "Zettelkasten/分點公式.md",
     "Zettelkasten/三次乘法公式.md",
     "Zettelkasten/算幾不等式.md",
-    "Zettelkasten/絕對值.md",
-    "Zettelkasten/多重根號.md"
+    "Zettelkasten/絕對值.md"
   ]
 }
