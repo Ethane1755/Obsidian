@@ -41,7 +41,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/無理數特性.md",
+            "file": "Zettelkasten/無理數.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/無理數特性.md",
+                "file": "Zettelkasten/無理數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/無理數特性.md",
+                "file": "Zettelkasten/無理數.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
