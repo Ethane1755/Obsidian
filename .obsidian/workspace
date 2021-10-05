@@ -100,6 +100,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "f6d54249f728f4e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/分點公式.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -150,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/三次乘法公式.md",
+                "file": "Zettelkasten/分點公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/三次乘法公式.md",
+                "file": "Zettelkasten/分點公式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -225,14 +236,14 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "d8f23372368af82a",
+  "active": "f6d54249f728f4e2",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/三次乘法公式.md",
     "Zettelkasten/算幾不等式.md",
     "Zettelkasten/絕對值.md",
     "Zettelkasten/絕對56.md",
     "Zettelkasten/絕對ㄓ.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/多重根號.md",
     "Zettelkasten/算.md",
     "_resources/算幾.png",
