@@ -1,4 +1,4 @@
 {
   "format": "custom",
-  "customFormat": "MM/DD, hh:mm a"
+  "customFormat": "h:mm a MM/DD"
 }
