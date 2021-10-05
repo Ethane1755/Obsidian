@@ -25,6 +25,17 @@
         }
       },
       {
+        "id": "65338c6491d987d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/無理數.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
         "id": "2b8b11e99873e6b0",
         "type": "leaf",
         "state": {
@@ -32,16 +43,6 @@
           "state": {
             "file": "Zettelkasten/9_1to9_11.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "e3e2a65ab86030bc",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "_resources/1633434074721.png"
           }
         }
       }
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_resources/1633434074721.png",
+                "file": "Zettelkasten/無理數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_resources/1633434074721.png",
+                "file": "Zettelkasten/無理數.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -168,17 +169,17 @@
     "direction": "horizontal",
     "width": 244.5
   },
-  "active": "e3e2a65ab86030bc",
+  "active": "65338c6491d987d5",
   "lastOpenFiles": [
+    "Zettelkasten/無理數.md",
+    "Zettelkasten/有理數.md",
     "_resources/1633434074721.png",
     "_resources/1633434074721.jpg",
     "Zettelkasten/無理數特性.md",
-    "Zettelkasten/有理數.md",
     "Zettelkasten/9_1to9_11.md",
     "Zettelkasten/有理數特性.md",
     "Zettelkasten/Untitled.md",
     "Kanban/Kanban.md",
-    "Zettelkasten/自主學習計畫-塞車模型.md",
-    "Zettelkasten/地圖本質.md"
+    "Zettelkasten/自主學習計畫-塞車模型.md"
   ]
 }
