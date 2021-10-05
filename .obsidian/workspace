@@ -52,7 +52,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/根號.md",
+            "file": "Zettelkasten/多重根號.md",
             "mode": "source"
           }
         }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/根號.md",
+                "file": "Zettelkasten/多重根號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/根號.md",
+                "file": "Zettelkasten/多重根號.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
