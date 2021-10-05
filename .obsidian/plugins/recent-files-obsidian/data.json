@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "有理數特性",
+      "path": "Zettelkasten/有理數特性.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "HTML Workflow",
       "path": "Zettelkasten/HTML Workflow.md"
-    },
-    {
-      "basename": "HTML 語法",
-      "path": "Zettelkasten/HTML 語法.md"
     }
   ],
   "omittedPaths": [
