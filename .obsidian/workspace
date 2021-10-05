@@ -4,110 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "8099727e691bc7ce",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "media-view",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "info": {
+              "host": 0,
+              "id": "J7267qevvJE",
+              "iframe": "https://www.youtube.com/embed/J7267qevvJE",
+              "src": "https://www.youtube.com/watch?v=J7267qevvJE&list=PLggQDlmnRsqC-IMQjcSuUr79szMafEznb&index=11",
+              "hash": ""
+            },
+            "currentTime": 0
           }
         }
       },
       {
-        "id": "49130c691b29f766",
+        "id": "c9350987538719ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/有理數.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "65338c6491d987d5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/無理數.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "2b8b11e99873e6b0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/實數.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "9a436bcbe7225398",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/多重根號.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "ac7a3fcff9bb5b43",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/算幾不等式.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "deb777fe4ad01d10",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/絕對值.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "f45791ebb86f580b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/算幾不等式.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "d8f23372368af82a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/三次乘法公式.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "f6d54249f728f4e2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/分點公式.md",
+            "file": "Zettelkasten/循環小數化成分數.md",
             "mode": "source"
           }
         }
@@ -161,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/分點公式.md",
+                "file": "Zettelkasten/循環小數化成分數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/分點公式.md",
+                "file": "Zettelkasten/循環小數化成分數.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -234,19 +154,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
-  "active": "f6d54249f728f4e2",
+  "active": "c9350987538719ba",
   "lastOpenFiles": [
     "Zettelkasten/Untitled.md",
+    "Kanban/Kanban.md",
+    "Zettelkasten/無理數.md",
+    "Zettelkasten/有理數.md",
+    "Zettelkasten/實數.md",
+    "Zettelkasten/分點公式.md",
     "Zettelkasten/三次乘法公式.md",
     "Zettelkasten/算幾不等式.md",
     "Zettelkasten/絕對值.md",
-    "Zettelkasten/絕對56.md",
-    "Zettelkasten/絕對ㄓ.md",
-    "Zettelkasten/多重根號.md",
-    "Zettelkasten/算.md",
-    "_resources/算幾.png",
-    "Zettelkasten/實數.md"
+    "Zettelkasten/多重根號.md"
   ]
 }

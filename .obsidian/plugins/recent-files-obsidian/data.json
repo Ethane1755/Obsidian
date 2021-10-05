@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "循環小數化成分數",
+      "path": "Zettelkasten/循環小數化成分數.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
+      "basename": "無理數",
+      "path": "Zettelkasten/無理數.md"
+    },
+    {
+      "basename": "有理數",
+      "path": "Zettelkasten/有理數.md"
+    },
+    {
+      "basename": "實數",
+      "path": "Zettelkasten/實數.md"
+    },
+    {
       "basename": "分點公式",
       "path": "Zettelkasten/分點公式.md"
     },
@@ -19,22 +39,6 @@
     {
       "basename": "多重根號",
       "path": "Zettelkasten/多重根號.md"
-    },
-    {
-      "basename": "實數",
-      "path": "Zettelkasten/實數.md"
-    },
-    {
-      "basename": "有理數",
-      "path": "Zettelkasten/有理數.md"
-    },
-    {
-      "basename": "無理數",
-      "path": "Zettelkasten/無理數.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "英文作文_2",
@@ -195,10 +199,6 @@
     {
       "basename": "ndarray",
       "path": "Zettelkasten/ndarray.md"
-    },
-    {
-      "basename": "NADPH",
-      "path": "Zettelkasten/NADPH.md"
     }
   ],
   "omittedPaths": [
