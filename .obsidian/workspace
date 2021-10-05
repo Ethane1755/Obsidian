@@ -58,17 +58,6 @@
         }
       },
       {
-        "id": "959799b6da207df1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/算幾不等式.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "d8f23372368af82a",
         "type": "leaf",
         "state": {
@@ -105,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "算幾",
+                "query": "算",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/算幾不等式.md",
+                "file": "Zettelkasten/多重根號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/算幾不等式.md",
+                "file": "Zettelkasten/多重根號.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -202,12 +191,12 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "959799b6da207df1",
+  "active": "9a436bcbe7225398",
   "lastOpenFiles": [
-    "Zettelkasten/算幾不等式.md",
-    "_resources/算幾.png",
     "Zettelkasten/多重根號.md",
     "Zettelkasten/算.md",
+    "Zettelkasten/算幾不等式.md",
+    "_resources/算幾.png",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/實數.md",
     "Zettelkasten/三次乘法公式.md",
