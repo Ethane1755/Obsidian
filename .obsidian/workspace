@@ -42,7 +42,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/實數.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -53,7 +53,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/三次乘法公式.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -183,6 +183,7 @@
   "active": "2b8b11e99873e6b0",
   "lastOpenFiles": [
     "Zettelkasten/實數.md",
+    "Zettelkasten/三次乘法公式.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/有理數.md",
     "Zettelkasten/無理數.md",
@@ -190,7 +191,6 @@
     "_resources/1633434074721.png",
     "_resources/1633434074721.jpg",
     "Zettelkasten/無理數特性.md",
-    "Zettelkasten/有理數特性.md",
-    "Kanban/Kanban.md"
+    "Zettelkasten/有理數特性.md"
   ]
 }
