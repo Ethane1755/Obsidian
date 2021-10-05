@@ -53,7 +53,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/多重根號.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -205,6 +205,7 @@
   "active": "959799b6da207df1",
   "lastOpenFiles": [
     "Zettelkasten/算幾不等式.md",
+    "Zettelkasten/多重根號.md",
     "Zettelkasten/算.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/實數.md",
@@ -212,7 +213,6 @@
     "Zettelkasten/有理數.md",
     "Zettelkasten/無理數.md",
     "Zettelkasten/9_1to9_11.md",
-    "_resources/1633434074721.png",
-    "_resources/1633434074721.jpg"
+    "_resources/1633434074721.png"
   ]
 }
