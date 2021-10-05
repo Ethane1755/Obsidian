@@ -69,6 +69,28 @@
         }
       },
       {
+        "id": "b46747014afba20c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/絕對ㄓ.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "efe3ec19a49fd91b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/絕對ㄓ.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "d8f23372368af82a",
         "type": "leaf",
         "state": {
@@ -128,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/算幾不等式.md",
+                "file": "Zettelkasten/絕對ㄓ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/算幾不等式.md",
+                "file": "Zettelkasten/絕對ㄓ.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -202,17 +224,17 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "ac7a3fcff9bb5b43",
+  "active": "efe3ec19a49fd91b",
   "lastOpenFiles": [
+    "Zettelkasten/絕對ㄓ.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/算幾不等式.md",
     "Zettelkasten/多重根號.md",
     "Zettelkasten/算.md",
     "_resources/算幾.png",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/實數.md",
     "Zettelkasten/三次乘法公式.md",
     "Zettelkasten/有理數.md",
-    "Zettelkasten/無理數.md",
-    "Zettelkasten/9_1to9_11.md"
+    "Zettelkasten/無理數.md"
   ]
 }
