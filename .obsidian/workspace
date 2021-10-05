@@ -47,6 +47,17 @@
         }
       },
       {
+        "id": "9a436bcbe7225398",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/根號.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "d8f23372368af82a",
         "type": "leaf",
         "state": {
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/實數.md",
+                "file": "Zettelkasten/根號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/實數.md",
+                "file": "Zettelkasten/根號.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -180,12 +191,12 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "2b8b11e99873e6b0",
+  "active": "9a436bcbe7225398",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/實數.md",
     "Zettelkasten/三次乘法公式.md",
     "Zettelkasten/有理數.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/無理數.md",
     "Zettelkasten/9_1to9_11.md",
     "_resources/1633434074721.png",
