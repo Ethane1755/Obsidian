@@ -41,8 +41,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/9_1to9_11.md",
-            "mode": "preview"
+            "file": "Zettelkasten/實數.md",
+            "mode": "source"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/無理數.md",
+                "file": "Zettelkasten/實數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/無理數.md",
+                "file": "Zettelkasten/實數.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -169,17 +169,17 @@
     "direction": "horizontal",
     "width": 244.5
   },
-  "active": "65338c6491d987d5",
+  "active": "2b8b11e99873e6b0",
   "lastOpenFiles": [
+    "Zettelkasten/實數.md",
     "Zettelkasten/無理數.md",
     "Zettelkasten/有理數.md",
+    "Zettelkasten/9_1to9_11.md",
     "_resources/1633434074721.png",
     "_resources/1633434074721.jpg",
     "Zettelkasten/無理數特性.md",
-    "Zettelkasten/9_1to9_11.md",
     "Zettelkasten/有理數特性.md",
     "Zettelkasten/Untitled.md",
-    "Kanban/Kanban.md",
-    "Zettelkasten/自主學習計畫-塞車模型.md"
+    "Kanban/Kanban.md"
   ]
 }
