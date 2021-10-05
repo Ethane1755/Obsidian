@@ -69,6 +69,16 @@
         }
       },
       {
+        "id": "404fffd51f42cde8",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "_resources/算幾.png"
+          }
+        }
+      },
+      {
         "id": "d8f23372368af82a",
         "type": "leaf",
         "state": {
@@ -128,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/算幾不等式.md",
+                "file": "_resources/算幾.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/算幾不等式.md",
+                "file": "_resources/算幾.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -202,8 +212,9 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "959799b6da207df1",
+  "active": "404fffd51f42cde8",
   "lastOpenFiles": [
+    "_resources/算幾.png",
     "Zettelkasten/算幾不等式.md",
     "Zettelkasten/多重根號.md",
     "Zettelkasten/算.md",
@@ -212,7 +223,6 @@
     "Zettelkasten/三次乘法公式.md",
     "Zettelkasten/有理數.md",
     "Zettelkasten/無理數.md",
-    "Zettelkasten/9_1to9_11.md",
-    "_resources/1633434074721.png"
+    "Zettelkasten/9_1to9_11.md"
   ]
 }
