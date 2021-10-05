@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "算幾不等式",
+      "path": "Zettelkasten/算幾不等式.md"
+    },
+    {
       "basename": "多重根號",
       "path": "Zettelkasten/多重根號.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "MENA;WANA",
       "path": "Zettelkasten/MENA;WANA.md"
-    },
-    {
-      "basename": "Matplotlib 入門",
-      "path": "Zettelkasten/Matplotlib 入門.md"
-    },
-    {
-      "basename": "Intermediate English Learning",
-      "path": "Zettelkasten/Intermediate English Learning.md"
     }
   ],
   "omittedPaths": [
