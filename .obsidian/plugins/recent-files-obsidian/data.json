@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "有理數特性",
-      "path": "Zettelkasten/有理數特性.md"
+      "basename": "無理數特性",
+      "path": "Zettelkasten/無理數特性.md"
+    },
+    {
+      "basename": "有理數",
+      "path": "Zettelkasten/有理數.md"
+    },
+    {
+      "basename": "9_1to9_11",
+      "path": "Zettelkasten/9_1to9_11.md"
     },
     {
       "basename": "Kanban",
@@ -83,10 +91,6 @@
     {
       "basename": "日珥",
       "path": "Zettelkasten/日珥.md"
-    },
-    {
-      "basename": "9_1to9_11",
-      "path": "Zettelkasten/9_1to9_11.md"
     },
     {
       "basename": "WLOG",
@@ -195,10 +199,6 @@
     {
       "basename": "IG Titles",
       "path": "Zettelkasten/IG Titles.md"
-    },
-    {
-      "basename": "HTML Workflow",
-      "path": "Zettelkasten/HTML Workflow.md"
     }
   ],
   "omittedPaths": [
