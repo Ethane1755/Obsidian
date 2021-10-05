@@ -467,3 +467,8 @@ input.task-list-item-checkbox:checked {
 {
     fill: var(--frost3) !important;
 }
+
+.cm-strong,
+.markdown-preview-section strong {
+    color: var(--frost2) !important;
+}
