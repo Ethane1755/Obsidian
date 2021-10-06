@@ -34,7 +34,7 @@
     --background-secondary-alt:   var(--dark2);
     --text-normal:                var(--light2);
     --text-faint:                 var(--light0);
-    --text-muted:                 var(--light1);
+    --text-muted:                 #332133;
     --text-title-h1:              var(--red);
     --text-title-h2:              var(--orange);
     --text-title-h3:              var(--yellow);
