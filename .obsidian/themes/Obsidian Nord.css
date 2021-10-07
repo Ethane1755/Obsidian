@@ -226,7 +226,7 @@ thead
 
 .nav-file-tag
 {
-    color: var(--text-a) !important;
+    color: var(--light1) !important;
 }
 
 .is-active .nav-file-title
