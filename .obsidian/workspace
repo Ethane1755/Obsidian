@@ -12,6 +12,17 @@
             "file": "Kanban/Kanban.md"
           }
         }
+      },
+      {
+        "id": "38c9173e3fbee046",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Study BGM.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -62,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,8 +147,9 @@
     "direction": "horizontal",
     "width": 244.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 1.md",
     "Kanban/Kanban.md",
     "Zettelkasten/大南澳事件.md",
     "Zettelkasten/三角函數.md",
@@ -146,7 +158,6 @@
     "Zettelkasten/無理數.md",
     "Zettelkasten/有理數.md",
     "Zettelkasten/實數.md",
-    "Zettelkasten/分點公式.md",
-    "Zettelkasten/三次乘法公式.md"
+    "Zettelkasten/分點公式.md"
   ]
 }

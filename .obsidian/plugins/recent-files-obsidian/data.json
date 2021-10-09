@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Study BGM",
+      "path": "Zettelkasten/Study BGM.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Numpy 入門",
       "path": "Zettelkasten/Numpy 入門.md"
-    },
-    {
-      "basename": "ndarray",
-      "path": "Zettelkasten/ndarray.md"
     }
   ],
   "omittedPaths": [
