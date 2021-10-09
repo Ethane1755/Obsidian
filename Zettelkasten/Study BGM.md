@@ -20,5 +20,5 @@
 
 
 <audio controls="controls" autoplay="autoplay">
-  <source src="../_resources/Music/忘川彼岸.mp3" type="audio/mpeg" />
+  <source src="_resources/Music/忘川彼岸.mp3" type="audio/mpeg" />
 </audio>
