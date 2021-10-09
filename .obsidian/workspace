@@ -23,14 +23,6 @@
             "mode": "preview"
           }
         }
-      },
-      {
-        "id": "de51346093c0a251",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -81,6 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +147,7 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "de51346093c0a251",
+  "active": "38c9173e3fbee046",
   "lastOpenFiles": [
     "Zettelkasten/Study BGM.md",
     "Kanban/Kanban.md",
