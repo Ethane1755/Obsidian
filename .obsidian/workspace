@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/民國時期來台人流.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/民國時期來台人流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/民國時期來台人流.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,10 +160,10 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "38c9173e3fbee046",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Zettelkasten/Study BGM.md",
     "Zettelkasten/民國時期來台人流.md",
+    "Zettelkasten/Study BGM.md",
     "Zettelkasten/台灣史料.md",
     "Kanban/Kanban.md",
     "Zettelkasten/Untitled 1.md",
