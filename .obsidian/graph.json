@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Stu",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 5.95505617977528,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.09848280266864437,
-  "close": true
+  "scale": 0.1787452186040196,
+  "close": false
 }

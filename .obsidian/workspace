@@ -23,6 +23,14 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "de51346093c0a251",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -34,7 +42,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 36.09958506224066,
+        "dimension": 42.4390243902439,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -73,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +96,7 @@
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 63.90041493775934,
+        "dimension": 57.560975609756085,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
@@ -97,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -145,19 +151,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 273.5
   },
-  "active": "38c9173e3fbee046",
+  "active": "de51346093c0a251",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/Study BGM.md",
     "Kanban/Kanban.md",
+    "Zettelkasten/Untitled 1.md",
     "Zettelkasten/大南澳事件.md",
     "Zettelkasten/三角函數.md",
     "Zettelkasten/循環小數化成分數.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/無理數.md",
     "Zettelkasten/有理數.md",
-    "Zettelkasten/實數.md",
-    "Zettelkasten/分點公式.md"
+    "Zettelkasten/實數.md"
   ]
 }
