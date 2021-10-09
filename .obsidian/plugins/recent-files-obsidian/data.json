@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "民國時期來台人流",
+      "path": "Zettelkasten/民國時期來台人流.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian 快速鍵",
       "path": "Zettelkasten/Obsidian 快速鍵.md"
-    },
-    {
-      "basename": "Numpy 入門",
-      "path": "Zettelkasten/Numpy 入門.md"
     }
   ],
   "omittedPaths": [
