@@ -16,3 +16,8 @@
 忘川彼岸(鋼琴)
 
 ![[../_resources/Music/忘川彼岸.mp3]]
+
+<audio controls autoplay>  
+ <source src="../_resources/Music/忘川彼岸.mp3" type="audio/mpeg">   
+ Your browser does not support the audio element.  
+</audio>
