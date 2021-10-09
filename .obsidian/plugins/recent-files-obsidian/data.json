@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "Zettelkasten/Untitled 1.md"
+    },
+    {
       "basename": "民國時期來台人流",
       "path": "Zettelkasten/民國時期來台人流.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "POPCAT plugin",
       "path": "Zettelkasten/POPCAT plugin.md"
-    },
-    {
-      "basename": "Plt.pie 餅圖繪製",
-      "path": "Zettelkasten/Plt.pie 餅圖繪製.md"
     }
   ],
   "omittedPaths": [
