@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Untitled 1.md",
+            "file": "Zettelkasten/台灣人移居圖.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled 1.md",
+                "file": "Zettelkasten/台灣人移居圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled 1.md",
+                "file": "Zettelkasten/台灣人移居圖.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -169,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "active": "69bb6a61a2fbca86",
   "lastOpenFiles": [
