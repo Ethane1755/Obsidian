@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "Zettelkasten/Untitled 1.md"
+    },
+    {
       "basename": "原住民名稱分類",
       "path": "Zettelkasten/原住民名稱分類.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "日珥",
       "path": "Zettelkasten/日珥.md"
-    },
-    {
-      "basename": "WLOG",
-      "path": "Zettelkasten/WLOG.md"
     }
   ],
   "omittedPaths": [
