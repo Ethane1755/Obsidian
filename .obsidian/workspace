@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/9_1~9_11.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/9_1~9_11.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,10 +159,10 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "38c9173e3fbee046",
+  "active": "1c3627b1d39edc39",
   "lastOpenFiles": [
-    "Zettelkasten/9_1~9_11.md",
     "Zettelkasten/Study BGM.md",
+    "Zettelkasten/9_1~9_11.md",
     "Zettelkasten/日冕物質拋射(CME).md",
     "Zettelkasten/民國時期來台人流.md",
     "Zettelkasten/歷史解釋_認同問題.md",
