@@ -19,8 +19,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Study BGM.md",
-            "mode": "preview"
+            "file": "Zettelkasten/太陽星雲說.md",
+            "mode": "source"
           }
         }
       }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/太陽星雲說.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/太陽星雲說.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/太陽星雲說.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/9_1~9_11.md",
     "Kanban/Kanban.md",
@@ -157,7 +158,6 @@
     "Zettelkasten/民國時期來台人流.md",
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/台灣原住民概述.md",
-    "Zettelkasten/原住民名稱分類.md",
-    "Zettelkasten/歷代原住民政策.md"
+    "Zettelkasten/原住民名稱分類.md"
   ]
 }

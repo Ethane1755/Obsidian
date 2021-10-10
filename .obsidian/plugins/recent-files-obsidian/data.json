@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "太陽星雲說",
+      "path": "Zettelkasten/太陽星雲說.md"
+    },
+    {
       "basename": "Study BGM",
       "path": "Zettelkasten/Study BGM.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "水密度分析",
       "path": "Zettelkasten/水密度分析.md"
-    },
-    {
-      "basename": "日冕",
-      "path": "Zettelkasten/日冕.md"
     }
   ],
   "omittedPaths": [
