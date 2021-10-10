@@ -23,6 +23,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "8d47cce7bd902a83",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled 1.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/羅妹(發)號事件.md",
+                "file": "Zettelkasten/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +95,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
@@ -97,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/羅妹(發)號事件.md",
+                "file": "Zettelkasten/Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,8 +159,9 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "38c9173e3fbee046",
+  "active": "8d47cce7bd902a83",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 1.md",
     "Zettelkasten/羅妹(發)號事件.md",
     "Zettelkasten/覆議、附議與復議.md",
     "Zettelkasten/歐特雲.md",
@@ -157,7 +170,6 @@
     "Zettelkasten/黑體輻射.md",
     "Zettelkasten/細胞與能量.md",
     "Zettelkasten/香料群島.md",
-    "Zettelkasten/英文自我介紹.md",
-    "Zettelkasten/底索曲線.md"
+    "Zettelkasten/英文自我介紹.md"
   ]
 }
