@@ -47,17 +47,6 @@
         }
       },
       {
-        "id": "dc1a3541bdb8dafe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/歷史解釋_認同問題.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "7cf5a649af2cc58d",
         "type": "leaf",
         "state": {
@@ -105,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "日治",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/歷史解釋_認同問題.md",
+                "file": "Zettelkasten/歷代原住民政策.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/歷史解釋_認同問題.md",
+                "file": "Zettelkasten/歷代原住民政策.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -204,8 +193,9 @@
     "width": 273.5,
     "collapsed": true
   },
-  "active": "7cf5a649af2cc58d",
+  "active": "235cde6b50266390",
   "lastOpenFiles": [
+    "Zettelkasten/歷代原住民政策.md",
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/原住民名稱分類.md",
@@ -214,7 +204,6 @@
     "Zettelkasten/覆議、附議與復議.md",
     "Zettelkasten/歐特雲.md",
     "Zettelkasten/歐拉公式.md",
-    "Zettelkasten/圖阿雷格人.md",
-    "Zettelkasten/黑體輻射.md"
+    "Zettelkasten/圖阿雷格人.md"
   ]
 }
