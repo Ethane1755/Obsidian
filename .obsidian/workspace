@@ -31,7 +31,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/原住民名稱分類.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -42,7 +42,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Study BGM.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/原住民名稱分類.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/原住民名稱分類.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,8 +170,9 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "758c4e6740739f7f",
+  "active": "8d47cce7bd902a83",
   "lastOpenFiles": [
+    "Zettelkasten/原住民名稱分類.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/羅妹(發)號事件.md",
@@ -180,7 +181,6 @@
     "Zettelkasten/歐拉公式.md",
     "Zettelkasten/圖阿雷格人.md",
     "Zettelkasten/黑體輻射.md",
-    "Zettelkasten/細胞與能量.md",
-    "Zettelkasten/香料群島.md"
+    "Zettelkasten/細胞與能量.md"
   ]
 }
