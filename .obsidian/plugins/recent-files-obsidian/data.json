@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "香料群島",
+      "path": "Zettelkasten/香料群島.md"
+    },
+    {
+      "basename": "英文自我介紹",
+      "path": "Zettelkasten/英文自我介紹.md"
+    },
+    {
+      "basename": "底索曲線",
+      "path": "Zettelkasten/底索曲線.md"
+    },
+    {
+      "basename": "自主學習計畫討論",
+      "path": "Zettelkasten/自主學習計畫討論.md"
+    },
+    {
+      "basename": "地圖本質",
+      "path": "Zettelkasten/地圖本質.md"
+    },
+    {
+      "basename": "地形系統",
+      "path": "Zettelkasten/地形系統.md"
+    },
+    {
+      "basename": "名言錦句",
+      "path": "Zettelkasten/名言錦句.md"
+    },
+    {
+      "basename": "台灣考古學發展",
+      "path": "Zettelkasten/台灣考古學發展.md"
+    },
+    {
+      "basename": "巴黎分區",
+      "path": "Zettelkasten/巴黎分區.md"
+    },
+    {
+      "basename": "公聽會",
+      "path": "Zettelkasten/公聽會.md"
+    },
+    {
       "basename": "Study BGM",
       "path": "Zettelkasten/Study BGM.md"
     },
@@ -73,10 +113,6 @@
       "path": "Zettelkasten/自主學習計畫-塞車模型.md"
     },
     {
-      "basename": "地圖本質",
-      "path": "Zettelkasten/地圖本質.md"
-    },
-    {
       "basename": "地理學研究傳統",
       "path": "Zettelkasten/地理學研究傳統.md"
     },
@@ -111,10 +147,6 @@
     {
       "basename": "s",
       "path": "_resources/Past/s.png"
-    },
-    {
-      "basename": "巴黎分區",
-      "path": "Zettelkasten/巴黎分區.md"
     },
     {
       "basename": "日冕物質拋射(CME)",
@@ -167,38 +199,6 @@
     {
       "basename": "SQL",
       "path": "Zettelkasten/SQL.md"
-    },
-    {
-      "basename": "Recent Files Plugin",
-      "path": "Zettelkasten/Recent Files Plugin.md"
-    },
-    {
-      "basename": "Python 變數",
-      "path": "Zettelkasten/Python 變數.md"
-    },
-    {
-      "basename": "Python 數據分析",
-      "path": "Zettelkasten/Python 數據分析.md"
-    },
-    {
-      "basename": "Python 資料定義",
-      "path": "Zettelkasten/Python 資料定義.md"
-    },
-    {
-      "basename": "Python 基本資料型態",
-      "path": "Zettelkasten/Python 基本資料型態.md"
-    },
-    {
-      "basename": "Python 指令",
-      "path": "Zettelkasten/Python 指令.md"
-    },
-    {
-      "basename": "Python 字串",
-      "path": "Zettelkasten/Python 字串.md"
-    },
-    {
-      "basename": "POPCAT plugin",
-      "path": "Zettelkasten/POPCAT plugin.md"
     }
   ],
   "omittedPaths": [
