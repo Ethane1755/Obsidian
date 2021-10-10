@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/香料群島.md",
+            "file": "Zettelkasten/歐特雲.md",
             "mode": "preview"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/香料群島.md",
+                "file": "Zettelkasten/歐特雲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/香料群島.md",
+                "file": "Zettelkasten/歐特雲.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,15 +149,15 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/歐特雲.md",
+    "Zettelkasten/歐拉公式.md",
+    "Zettelkasten/圖阿雷格人.md",
+    "Zettelkasten/黑體輻射.md",
+    "Zettelkasten/細胞與能量.md",
     "Zettelkasten/香料群島.md",
     "Zettelkasten/英文自我介紹.md",
     "Zettelkasten/底索曲線.md",
     "Zettelkasten/自主學習計畫討論.md",
-    "Zettelkasten/地圖本質.md",
-    "Zettelkasten/地形系統.md",
-    "Zettelkasten/名言錦句.md",
-    "Zettelkasten/台灣考古學發展.md",
-    "Zettelkasten/巴黎分區.md",
-    "Zettelkasten/公聽會.md"
+    "Zettelkasten/地圖本質.md"
   ]
 }

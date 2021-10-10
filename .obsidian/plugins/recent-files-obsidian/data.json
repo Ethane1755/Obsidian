@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "覆議、附議與復議",
+      "path": "Zettelkasten/覆議、附議與復議.md"
+    },
+    {
+      "basename": "歐特雲",
+      "path": "Zettelkasten/歐特雲.md"
+    },
+    {
+      "basename": "歐拉公式",
+      "path": "Zettelkasten/歐拉公式.md"
+    },
+    {
+      "basename": "圖阿雷格人",
+      "path": "Zettelkasten/圖阿雷格人.md"
+    },
+    {
+      "basename": "黑體輻射",
+      "path": "Zettelkasten/黑體輻射.md"
+    },
+    {
+      "basename": "細胞與能量",
+      "path": "Zettelkasten/細胞與能量.md"
+    },
+    {
       "basename": "香料群島",
       "path": "Zettelkasten/香料群島.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "The Boys in The Boat",
       "path": "Zettelkasten/The Boys in The Boat.md"
-    },
-    {
-      "basename": "SQL Test",
-      "path": "Zettelkasten/SQL Test.md"
-    },
-    {
-      "basename": "SQL 運算子",
-      "path": "Zettelkasten/SQL 運算子.md"
-    },
-    {
-      "basename": "SQL 資料操縱 (DML)",
-      "path": "Zettelkasten/SQL 資料操縱 (DML).md"
-    },
-    {
-      "basename": "SQL 資料查詢(DQL)",
-      "path": "Zettelkasten/SQL 資料查詢(DQL).md"
-    },
-    {
-      "basename": "SQL  資料定義(DDL)",
-      "path": "Zettelkasten/SQL  資料定義(DDL).md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Zettelkasten/SQL.md"
     }
   ],
   "omittedPaths": [
