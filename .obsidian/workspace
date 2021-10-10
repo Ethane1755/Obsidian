@@ -64,7 +64,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/民國時期來台人流.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/歷史解釋_認同問題.md",
+                "file": "Zettelkasten/民國時期來台人流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/歷史解釋_認同問題.md",
+                "file": "Zettelkasten/民國時期來台人流.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,10 +216,10 @@
     "width": 273.5,
     "collapsed": true
   },
-  "active": "f62b68befe0d0d21",
+  "active": "bdf2ace7c6a08596",
   "lastOpenFiles": [
-    "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/民國時期來台人流.md",
+    "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/台灣人移居圖.md",
     "Zettelkasten/台灣原住民概述.md",
     "Zettelkasten/Study BGM.md",
