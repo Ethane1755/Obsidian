@@ -41,7 +41,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/歷代原住民政策.md",
+            "file": "Zettelkasten/台灣原住民概述.md",
             "mode": "source"
           }
         }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/歷代原住民政策.md",
+                "file": "Zettelkasten/台灣原住民概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/歷代原住民政策.md",
+                "file": "Zettelkasten/台灣原住民概述.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
