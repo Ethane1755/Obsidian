@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Study BGM",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 5.95505617977528,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.9681619554185495,
-  "close": false
+  "scale": 0.11716719648998362,
+  "close": true
 }
