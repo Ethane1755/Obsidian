@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "有理數",
+      "path": "Zettelkasten/有理數.md"
+    },
+    {
+      "basename": "多重根號",
+      "path": "Zettelkasten/多重根號.md"
+    },
+    {
+      "basename": "濁大計畫",
+      "path": "Zettelkasten/濁大計畫.md"
+    },
+    {
       "basename": "台灣考古學發展",
       "path": "Zettelkasten/台灣考古學發展.md"
     },
@@ -145,10 +157,6 @@
       "path": "Zettelkasten/無理數.md"
     },
     {
-      "basename": "有理數",
-      "path": "Zettelkasten/有理數.md"
-    },
-    {
       "basename": "實數",
       "path": "Zettelkasten/實數.md"
     },
@@ -167,10 +175,6 @@
     {
       "basename": "絕對值",
       "path": "Zettelkasten/絕對值.md"
-    },
-    {
-      "basename": "多重根號",
-      "path": "Zettelkasten/多重根號.md"
     },
     {
       "basename": "英文作文_2",
@@ -195,10 +199,6 @@
     {
       "basename": "食鹽水密度測量_結報",
       "path": "Zettelkasten/自然探究實作/食鹽水密度測量_結報.md"
-    },
-    {
-      "basename": "必麒麟事件",
-      "path": "Zettelkasten/必麒麟事件.md"
     }
   ],
   "omittedPaths": [

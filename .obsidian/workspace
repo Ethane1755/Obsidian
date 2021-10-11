@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/台灣考古學發展.md",
+            "file": "Zettelkasten/有理數.md",
             "mode": "preview"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/台灣考古學發展.md",
+                "file": "Zettelkasten/有理數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/台灣考古學發展.md",
+                "file": "Zettelkasten/有理數.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,15 +149,15 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/有理數.md",
+    "Zettelkasten/多重根號.md",
+    "Zettelkasten/濁大計畫.md",
     "Zettelkasten/台灣考古學發展.md",
     "Zettelkasten/台灣史料.md",
     "Zettelkasten/日冕.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/范艾倫輻射帶.md",
     "Zettelkasten/哈伯望遠鏡.md",
-    "Zettelkasten/地科隨堂.md",
-    "Zettelkasten/第二課_再別康橋.md",
-    "Zettelkasten/太陽星雲說.md",
-    "Zettelkasten/9_1~9_11.md"
+    "Zettelkasten/地科隨堂.md"
   ]
 }
