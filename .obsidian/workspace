@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/范艾倫輻射帶.md",
+            "file": "Zettelkasten/Study BGM.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "第二課",
+                "query": "自然探究",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/范艾倫輻射帶.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/范艾倫輻射帶.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,10 +149,10 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/Study BGM.md",
     "Zettelkasten/范艾倫輻射帶.md",
     "Zettelkasten/哈伯望遠鏡.md",
     "Zettelkasten/地科隨堂.md",
-    "Zettelkasten/Study BGM.md",
     "Zettelkasten/第二課_再別康橋.md",
     "Zettelkasten/太陽星雲說.md",
     "Zettelkasten/9_1~9_11.md",
