@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/民國時期來台人流.md",
+            "file": "Zettelkasten/歷史解釋_認同問題.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自然探究",
+                "query": "#歷史",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/民國時期來台人流.md",
+                "file": "Zettelkasten/歷史解釋_認同問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "18d8fb9879b88a20",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/民國時期來台人流.md",
+                "file": "Zettelkasten/歷史解釋_認同問題.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,15 +140,15 @@
   },
   "active": "daebedc9b3a2da8a",
   "lastOpenFiles": [
+    "Zettelkasten/歷史解釋_認同問題.md",
+    "Zettelkasten/羅妹(發)號事件.md",
+    "Zettelkasten/原住民名稱分類.md",
+    "Zettelkasten/大南澳事件.md",
+    "Zettelkasten/濁大計畫.md",
+    "Zettelkasten/台灣考古學發展.md",
     "Zettelkasten/民國時期來台人流.md",
     "Kanban/Kanban.md",
     "Zettelkasten/香料群島.md",
-    "Zettelkasten/台灣原住民概述.md",
-    "Zettelkasten/Study BGM.md",
-    "Zettelkasten/古老結晶陸塊.md",
-    "Zettelkasten/有理數.md",
-    "Zettelkasten/多重根號.md",
-    "Zettelkasten/濁大計畫.md",
-    "Zettelkasten/台灣考古學發展.md"
+    "Zettelkasten/台灣原住民概述.md"
   ]
 }
