@@ -5,6 +5,14 @@
       "path": "Zettelkasten/民國時期來台人流.md"
     },
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
+      "basename": "香料群島",
+      "path": "Zettelkasten/香料群島.md"
+    },
+    {
       "basename": "台灣原住民概述",
       "path": "Zettelkasten/台灣原住民概述.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "古老結晶陸塊",
       "path": "Zettelkasten/古老結晶陸塊.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "有理數",
@@ -107,10 +111,6 @@
     {
       "basename": "細胞與能量",
       "path": "Zettelkasten/細胞與能量.md"
-    },
-    {
-      "basename": "香料群島",
-      "path": "Zettelkasten/香料群島.md"
     },
     {
       "basename": "英文自我介紹",
