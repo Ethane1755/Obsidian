@@ -4,13 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "daebedc9b3a2da8a",
+        "id": "6f7f80b7b9434bc7",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Kanban/Kanban.md"
+          }
+        }
+      },
+      {
+        "id": "38c9173e3fbee046",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/歷史解釋_認同問題.md",
+            "file": "Zettelkasten/Study BGM.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "d8b57b0a241dae8a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled 1.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#歷史",
+                "query": "自然探究",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/歷史解釋_認同問題.md",
+                "file": "Zettelkasten/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,8 +95,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -88,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/歷史解釋_認同問題.md",
+                "file": "Zettelkasten/Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -136,10 +157,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
-  "active": "daebedc9b3a2da8a",
+  "active": "d8b57b0a241dae8a",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/Study BGM.md",
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/羅妹(發)號事件.md",
     "Zettelkasten/原住民名稱分類.md",
@@ -147,8 +171,6 @@
     "Zettelkasten/濁大計畫.md",
     "Zettelkasten/台灣考古學發展.md",
     "Zettelkasten/民國時期來台人流.md",
-    "Kanban/Kanban.md",
-    "Zettelkasten/香料群島.md",
-    "Zettelkasten/台灣原住民概述.md"
+    "Kanban/Kanban.md"
   ]
 }

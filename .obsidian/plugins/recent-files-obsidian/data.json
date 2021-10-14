@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "Zettelkasten/Untitled 1.md"
+    },
+    {
+      "basename": "Study BGM",
+      "path": "Zettelkasten/Study BGM.md"
+    },
+    {
       "basename": "歷史解釋_認同問題",
       "path": "Zettelkasten/歷史解釋_認同問題.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "台灣原住民概述",
       "path": "Zettelkasten/台灣原住民概述.md"
-    },
-    {
-      "basename": "Study BGM",
-      "path": "Zettelkasten/Study BGM.md"
     },
     {
       "basename": "古老結晶陸塊",
@@ -195,10 +199,6 @@
     {
       "basename": "地球歷史氣體成分",
       "path": "Zettelkasten/地球歷史氣體成分.md"
-    },
-    {
-      "basename": "三角不等式",
-      "path": "Zettelkasten/三角不等式.md"
     }
   ],
   "omittedPaths": [
