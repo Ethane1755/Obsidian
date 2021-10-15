@@ -4,34 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban/Kanban.md"
-          }
-        }
-      },
-      {
-        "id": "38c9173e3fbee046",
+        "id": "5a5eaf2087a1199f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Study BGM.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "d7d4656873e9d31f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Untitled 2.md",
-            "mode": "source"
           }
         }
       }
@@ -61,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自然探究",
+                "query": "BGM",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled 2.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "18d8fb9879b88a20",
@@ -108,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled 2.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,17 +139,17 @@
     "width": 273.5,
     "collapsed": true
   },
-  "active": "d7d4656873e9d31f",
+  "active": "5a5eaf2087a1199f",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled 2.md",
     "Zettelkasten/Study BGM.md",
+    "Zettelkasten/Untitled 2.md",
+    "Kanban/Kanban.md",
     "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/羅妹(發)號事件.md",
     "Zettelkasten/原住民名稱分類.md",
     "Zettelkasten/大南澳事件.md",
-    "Zettelkasten/濁大計畫.md",
-    "Zettelkasten/台灣考古學發展.md",
-    "Zettelkasten/民國時期來台人流.md"
+    "Zettelkasten/濁大計畫.md"
   ]
 }

@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 2",
-      "path": "Zettelkasten/Untitled 2.md"
-    },
-    {
       "basename": "Study BGM",
       "path": "Zettelkasten/Study BGM.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "Zettelkasten/Untitled 1.md"
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "歷史解釋_認同問題",
@@ -39,10 +35,6 @@
     {
       "basename": "民國時期來台人流",
       "path": "Zettelkasten/民國時期來台人流.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "香料群島",
@@ -195,10 +187,6 @@
     {
       "basename": "自主學習計畫-塞車模型",
       "path": "Zettelkasten/自主學習計畫-塞車模型.md"
-    },
-    {
-      "basename": "地理學研究傳統",
-      "path": "Zettelkasten/地理學研究傳統.md"
     }
   ],
   "omittedPaths": [
