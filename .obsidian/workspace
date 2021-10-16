@@ -31,7 +31,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/公共政策網路參與平台.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -157,19 +158,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "active": "be5a81a5486c84d9",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled.md",
+    "Zettelkasten/公共政策網路參與平台.md",
     "Zettelkasten/簡報設計.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/Untitled 2.md",
     "Kanban/Kanban.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/羅妹(發)號事件.md",
-    "Zettelkasten/原住民名稱分類.md",
-    "Zettelkasten/大南澳事件.md"
+    "Zettelkasten/原住民名稱分類.md"
   ]
 }
