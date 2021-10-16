@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Study BGM.md",
+            "file": "Zettelkasten/簡報設計.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自然探究",
+                "query": "簡報",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/簡報設計.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "18d8fb9879b88a20",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/簡報設計.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +150,7 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/簡報設計.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/Untitled 2.md",
     "Kanban/Kanban.md",
@@ -157,7 +159,6 @@
     "Zettelkasten/歷史解釋_認同問題.md",
     "Zettelkasten/羅妹(發)號事件.md",
     "Zettelkasten/原住民名稱分類.md",
-    "Zettelkasten/大南澳事件.md",
-    "Zettelkasten/濁大計畫.md"
+    "Zettelkasten/大南澳事件.md"
   ]
 }
