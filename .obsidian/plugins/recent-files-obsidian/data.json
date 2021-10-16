@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "自主學習計畫-塞車模型",
+      "path": "Zettelkasten/自主學習計畫-塞車模型.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Zettelkasten/Untitled.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "Study BGM",
       "path": "Zettelkasten/Study BGM.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "簡報設計",
       "path": "Zettelkasten/簡報設計.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "歷史解釋_認同問題",
@@ -191,10 +199,6 @@
     {
       "basename": "英文作文_2",
       "path": "Zettelkasten/英文作文_2.md"
-    },
-    {
-      "basename": "自主學習計畫-塞車模型",
-      "path": "Zettelkasten/自主學習計畫-塞車模型.md"
     }
   ],
   "omittedPaths": [
