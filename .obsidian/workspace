@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "簡報",
+                "query": "自然探究",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
