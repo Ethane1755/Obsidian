@@ -7,8 +7,11 @@
         "id": "0dfc7f0b7cb0c6ab",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/地形系統.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/地形系統.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/地形系統.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,6 +139,8 @@
   },
   "active": "0dfc7f0b7cb0c6ab",
   "lastOpenFiles": [
+    "Zettelkasten/地形系統.md",
+    "Zettelkasten/甲必丹.md",
     "Kanban/Kanban.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/Untitled.md",
@@ -141,8 +148,6 @@
     "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
-    "Zettelkasten/公共政策網路參與平台.md",
-    "Zettelkasten/簡報設計.md",
-    "Zettelkasten/Untitled 2.md"
+    "Zettelkasten/公共政策網路參與平台.md"
   ]
 }

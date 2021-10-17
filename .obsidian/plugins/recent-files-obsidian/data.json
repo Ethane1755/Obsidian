@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "地形系統",
+      "path": "Zettelkasten/地形系統.md"
+    },
+    {
+      "basename": "甲必丹",
+      "path": "Zettelkasten/甲必丹.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -161,10 +169,6 @@
       "path": "Zettelkasten/地圖本質.md"
     },
     {
-      "basename": "地形系統",
-      "path": "Zettelkasten/地形系統.md"
-    },
-    {
       "basename": "名言錦句",
       "path": "Zettelkasten/名言錦句.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "分點公式",
       "path": "Zettelkasten/分點公式.md"
-    },
-    {
-      "basename": "三次乘法公式",
-      "path": "Zettelkasten/三次乘法公式.md"
     }
   ],
   "omittedPaths": [
