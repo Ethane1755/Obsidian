@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian 快速鍵",
+      "path": "Zettelkasten/Obsidian 快速鍵.md"
+    },
+    {
+      "basename": "Python 字串",
+      "path": "Zettelkasten/Python 字串.md"
+    },
+    {
+      "basename": "SQL 運算子",
+      "path": "Zettelkasten/SQL 運算子.md"
+    },
+    {
+      "basename": "SQL 資料操縱 (DML)",
+      "path": "Zettelkasten/SQL 資料操縱 (DML).md"
+    },
+    {
+      "basename": "Study BGM",
+      "path": "Zettelkasten/Study BGM.md"
+    },
+    {
+      "basename": "WLOG",
+      "path": "Zettelkasten/WLOG.md"
+    },
+    {
+      "basename": "The Boys in The Boat",
+      "path": "Zettelkasten/The Boys in The Boat.md"
+    },
+    {
       "basename": "英文口說筆記",
       "path": "Zettelkasten/英文口說筆記.md"
     },
@@ -19,10 +47,6 @@
     {
       "basename": "磁暴",
       "path": "Zettelkasten/磁暴.md"
-    },
-    {
-      "basename": "Study BGM",
-      "path": "Zettelkasten/Study BGM.md"
     },
     {
       "basename": "算幾不等式",
@@ -175,26 +199,6 @@
     {
       "basename": "台灣史料",
       "path": "Zettelkasten/台灣史料.md"
-    },
-    {
-      "basename": "日冕",
-      "path": "Zettelkasten/日冕.md"
-    },
-    {
-      "basename": "地科隨堂",
-      "path": "Zettelkasten/地科隨堂.md"
-    },
-    {
-      "basename": "太陽星雲說",
-      "path": "Zettelkasten/太陽星雲說.md"
-    },
-    {
-      "basename": "9_1~9_11",
-      "path": "Zettelkasten/9_1~9_11.md"
-    },
-    {
-      "basename": "台灣人移居圖",
-      "path": "Zettelkasten/台灣人移居圖.md"
     }
   ],
   "omittedPaths": [

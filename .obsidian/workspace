@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/英文口說筆記.md",
-            "mode": "source"
+            "file": "Zettelkasten/Obsidian 快速鍵.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/英文口說筆記.md",
+                "file": "Zettelkasten/Obsidian 快速鍵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/英文口說筆記.md",
+                "file": "Zettelkasten/Obsidian 快速鍵.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/Obsidian 快速鍵.md",
+    "Zettelkasten/Python 字串.md",
+    "Zettelkasten/SQL 運算子.md",
+    "Zettelkasten/SQL 資料操縱 (DML).md",
+    "Zettelkasten/Study BGM.md",
+    "Zettelkasten/WLOG.md",
+    "Zettelkasten/The Boys in The Boat.md",
     "Zettelkasten/Untitled.md",
     "Kanban/Kanban.md",
-    "Zettelkasten/Untitled 1.md",
-    "Zettelkasten/地形系統.md",
-    "Zettelkasten/波耳氫原子模型.md",
-    "Zettelkasten/磁暴.md",
-    "Zettelkasten/Study BGM.md",
-    "Zettelkasten/算幾不等式.md",
-    "Zettelkasten/資料分析.md",
-    "Zettelkasten/黑矮星.md"
+    "Zettelkasten/Untitled 1.md"
   ]
 }
