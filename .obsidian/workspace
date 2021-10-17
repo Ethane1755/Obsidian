@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled 1.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled 1.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,10 +158,10 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "1365aec988d79737",
+  "active": "38c9173e3fbee046",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled 1.md",
     "Zettelkasten/Study BGM.md",
+    "Zettelkasten/Untitled 1.md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
     "Zettelkasten/Untitled.md",
     "Kanban/Kanban.md",
