@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0dfc7f0b7cb0c6ab",
+        "id": "46832c3f0142d863",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/星等.md",
+            "file": "Zettelkasten/算幾不等式.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/星等.md",
+                "file": "Zettelkasten/算幾不等式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/星等.md",
+                "file": "Zettelkasten/算幾不等式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,17 +137,17 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "0dfc7f0b7cb0c6ab",
+  "active": "46832c3f0142d863",
   "lastOpenFiles": [
-    "Zettelkasten/星等.md",
-    "Zettelkasten/哈伯望遠鏡.md",
-    "Zettelkasten/南北戰爭.md",
-    "Zettelkasten/侵蝕輪迴論.md",
-    "Zettelkasten/花岡一郎與花岡二郎.md",
-    "Zettelkasten/波茲曼常數.md",
-    "Zettelkasten/放射性同位素定年法.md",
-    "Zettelkasten/自用標例表.md",
-    "Zettelkasten/自主學習計畫討論.md",
-    "Zettelkasten/自主學習計畫-塞車模型.md"
+    "Zettelkasten/算幾不等式.md",
+    "Zettelkasten/資料分析.md",
+    "Zettelkasten/黑矮星.md",
+    "Zettelkasten/無理數.md",
+    "Zettelkasten/普朗克黑體輻射定律.md",
+    "Zettelkasten/普朗克常數.md",
+    "Zettelkasten/普朗克-愛因斯坦關係式.md",
+    "Zettelkasten/斯特凡–波茲曼定律.md",
+    "Zettelkasten/循環小數化成分數.md",
+    "Zettelkasten/范艾倫輻射帶.md"
   ]
 }
