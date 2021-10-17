@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "星等",
+      "path": "Zettelkasten/星等.md"
+    },
+    {
+      "basename": "哈伯望遠鏡",
+      "path": "Zettelkasten/哈伯望遠鏡.md"
+    },
+    {
+      "basename": "南北戰爭",
+      "path": "Zettelkasten/南北戰爭.md"
+    },
+    {
+      "basename": "侵蝕輪迴論",
+      "path": "Zettelkasten/侵蝕輪迴論.md"
+    },
+    {
+      "basename": "花岡一郎與花岡二郎",
+      "path": "Zettelkasten/花岡一郎與花岡二郎.md"
+    },
+    {
+      "basename": "波茲曼常數",
+      "path": "Zettelkasten/波茲曼常數.md"
+    },
+    {
       "basename": "放射性同位素定年法",
       "path": "Zettelkasten/放射性同位素定年法.md"
     },
@@ -121,10 +145,6 @@
       "path": "Zettelkasten/范艾倫輻射帶.md"
     },
     {
-      "basename": "哈伯望遠鏡",
-      "path": "Zettelkasten/哈伯望遠鏡.md"
-    },
-    {
       "basename": "地科隨堂",
       "path": "Zettelkasten/地科隨堂.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "地圖本質",
       "path": "Zettelkasten/地圖本質.md"
-    },
-    {
-      "basename": "名言錦句",
-      "path": "Zettelkasten/名言錦句.md"
-    },
-    {
-      "basename": "巴黎分區",
-      "path": "Zettelkasten/巴黎分區.md"
-    },
-    {
-      "basename": "公聽會",
-      "path": "Zettelkasten/公聽會.md"
-    },
-    {
-      "basename": "三角函數",
-      "path": "Zettelkasten/三角函數.md"
-    },
-    {
-      "basename": "循環小數化成分數",
-      "path": "Zettelkasten/循環小數化成分數.md"
     }
   ],
   "omittedPaths": [
