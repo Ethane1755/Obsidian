@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/算幾不等式.md",
+            "file": "Zettelkasten/磁暴.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/算幾不等式.md",
+                "file": "Zettelkasten/磁暴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/算幾不等式.md",
+                "file": "Zettelkasten/磁暴.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,6 +139,7 @@
   },
   "active": "46832c3f0142d863",
   "lastOpenFiles": [
+    "Zettelkasten/磁暴.md",
     "Zettelkasten/算幾不等式.md",
     "Zettelkasten/資料分析.md",
     "Zettelkasten/黑矮星.md",
@@ -147,7 +148,6 @@
     "Zettelkasten/普朗克常數.md",
     "Zettelkasten/普朗克-愛因斯坦關係式.md",
     "Zettelkasten/斯特凡–波茲曼定律.md",
-    "Zettelkasten/循環小數化成分數.md",
-    "Zettelkasten/范艾倫輻射帶.md"
+    "Zettelkasten/循環小數化成分數.md"
   ]
 }

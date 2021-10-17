@@ -10,6 +10,6 @@
 }
 
 .markdown-preview-view img:hover {
-  -webkit-transform: scale(1.05); /* experiment with values */
+  -webkit-transform: scale(2); /* experiment with values */
   transform: scale(1.1);
 }
