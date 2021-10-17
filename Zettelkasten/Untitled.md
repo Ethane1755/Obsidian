@@ -1,3 +1,5 @@
 # Untitled
-The words I have difficulty pronouncing mostly have multiple syllables, lots of consonants mashed together.
+The words I have difficulty pronouncing mostly have multiple syllables, lots of consonants mashed together, and they usually occurs in the first of a sentence.
+
+What I can do to 
 
