@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "食鹽水密度預報",
+      "path": "Zettelkasten/食鹽水密度預報.md"
+    },
+    {
+      "basename": "波耳氫原子模型",
+      "path": "Zettelkasten/波耳氫原子模型.md"
+    },
+    {
       "basename": "Study BGM",
       "path": "Zettelkasten/Study BGM.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "三次乘法公式",
       "path": "Zettelkasten/三次乘法公式.md"
-    },
-    {
-      "basename": "算幾不等式",
-      "path": "Zettelkasten/算幾不等式.md"
-    },
-    {
-      "basename": "絕對值",
-      "path": "Zettelkasten/絕對值.md"
     }
   ],
   "omittedPaths": [
