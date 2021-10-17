@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/波耳氫原子模型.md",
+            "file": "Zettelkasten/食鹽水密度預報.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/波耳氫原子模型.md",
+                "file": "Zettelkasten/食鹽水密度預報.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/波耳氫原子模型.md",
+                "file": "Zettelkasten/食鹽水密度預報.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,6 +160,7 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/食鹽水密度預報.md",
     "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/Untitled 1.md",
@@ -168,7 +169,6 @@
     "Kanban/Kanban.md",
     "Zettelkasten/公共政策網路參與平台.md",
     "Zettelkasten/簡報設計.md",
-    "Zettelkasten/Untitled 2.md",
-    "Zettelkasten/歷史解釋_認同問題.md"
+    "Zettelkasten/Untitled 2.md"
   ]
 }
