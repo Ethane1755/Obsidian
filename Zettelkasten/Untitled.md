@@ -3,3 +3,4 @@ The words I have difficulty pronouncing mostly have multiple syllables, lots of 
 
 What I can do to conquer the difficulties is "Be more confident during reading." and "practice more before the final result." To be more confident in myself can let me read the sentences more fluently. By practicing more before the end result, I can be more familiar with the passage, therefore having a better audio file to hand in.
 
+jjj
