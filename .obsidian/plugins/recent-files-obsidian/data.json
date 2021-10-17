@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "放射性同位素定年法",
+      "path": "Zettelkasten/放射性同位素定年法.md"
+    },
+    {
+      "basename": "自用標例表",
+      "path": "Zettelkasten/自用標例表.md"
+    },
+    {
+      "basename": "自主學習計畫討論",
+      "path": "Zettelkasten/自主學習計畫討論.md"
+    },
+    {
+      "basename": "自主學習計畫-塞車模型",
+      "path": "Zettelkasten/自主學習計畫-塞車模型.md"
+    },
+    {
+      "basename": "地理資訊系統",
+      "path": "Zettelkasten/地理資訊系統.md"
+    },
+    {
       "basename": "地形系統",
       "path": "Zettelkasten/地形系統.md"
     },
@@ -31,10 +51,6 @@
     {
       "basename": "Untitled 1",
       "path": "Zettelkasten/Untitled 1.md"
-    },
-    {
-      "basename": "自主學習計畫-塞車模型",
-      "path": "Zettelkasten/自主學習計畫-塞車模型.md"
     },
     {
       "basename": "公共政策網路參與平台",
@@ -161,10 +177,6 @@
       "path": "Zettelkasten/底索曲線.md"
     },
     {
-      "basename": "自主學習計畫討論",
-      "path": "Zettelkasten/自主學習計畫討論.md"
-    },
-    {
       "basename": "地圖本質",
       "path": "Zettelkasten/地圖本質.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "循環小數化成分數",
       "path": "Zettelkasten/循環小數化成分數.md"
-    },
-    {
-      "basename": "無理數",
-      "path": "Zettelkasten/無理數.md"
-    },
-    {
-      "basename": "實數",
-      "path": "Zettelkasten/實數.md"
-    },
-    {
-      "basename": "分點公式",
-      "path": "Zettelkasten/分點公式.md"
     }
   ],
   "omittedPaths": [
