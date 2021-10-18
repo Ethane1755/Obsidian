@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Zettelkasten/Untitled.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
+      "basename": "Study BGM",
+      "path": "Zettelkasten/Study BGM.md"
+    },
+    {
       "basename": "Obsidian 快速鍵",
       "path": "Zettelkasten/Obsidian 快速鍵.md"
     },
@@ -17,10 +29,6 @@
       "path": "Zettelkasten/SQL 資料操縱 (DML).md"
     },
     {
-      "basename": "Study BGM",
-      "path": "Zettelkasten/Study BGM.md"
-    },
-    {
       "basename": "WLOG",
       "path": "Zettelkasten/WLOG.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "英文口說筆記",
       "path": "Zettelkasten/英文口說筆記.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "地形系統",
@@ -195,10 +199,6 @@
     {
       "basename": "多重根號",
       "path": "Zettelkasten/多重根號.md"
-    },
-    {
-      "basename": "台灣史料",
-      "path": "Zettelkasten/台灣史料.md"
     }
   ],
   "omittedPaths": [
