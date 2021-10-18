@@ -7,16 +7,6 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban/Kanban.md"
-          }
-        }
-      },
-      {
-        "id": "38c9173e3fbee046",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/專寫表達_動機與目的.md",
@@ -84,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -148,7 +137,7 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "38c9173e3fbee046",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
     "Zettelkasten/專寫表達_動機與目的.md",
     "Kanban/Kanban.md",
