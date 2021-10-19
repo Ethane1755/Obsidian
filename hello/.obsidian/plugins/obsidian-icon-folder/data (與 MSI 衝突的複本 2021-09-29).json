@@ -1,0 +1,12 @@
+{
+  "Zettelkasten": "RiCommandFill",
+  "Kanban": "RiAppleLine",
+  "_resources": "RiImageLine",
+  "_Templates": "RiBookReadLine",
+  "_resources/Past": "RiTimeLine",
+  "Anki cards": "RiSdCardLine",
+  "Anki cards/English": "RiCpuLine",
+  "Zettelkasten/自然探究實作": "RiLeafLine",
+  "CKHS_Backup": "RiAppStoreLine",
+  "Zettelkasten/外掛": "RiPlugLine"
+}

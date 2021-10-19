@@ -1,0 +1,13 @@
+{
+  "commitMessage": "Obsidian Backup {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm",
+  "autoSaveInterval": 1,
+  "autoPullInterval": 0,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": true,
+  "listChangedFilesInMessageBody": true,
+  "showStatusBar": false,
+  "updateSubmodules": false
+}
