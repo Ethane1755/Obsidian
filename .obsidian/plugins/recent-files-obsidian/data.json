@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "絕對值",
+      "path": "Zettelkasten/絕對值.md"
+    },
+    {
+      "basename": "無理數",
+      "path": "Zettelkasten/無理數.md"
+    },
+    {
       "basename": "三角函數",
       "path": "Zettelkasten/三角函數.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "黑矮星",
       "path": "Zettelkasten/黑矮星.md"
-    },
-    {
-      "basename": "無理數",
-      "path": "Zettelkasten/無理數.md"
     },
     {
       "basename": "普朗克黑體輻射定律",
@@ -195,10 +199,6 @@
     {
       "basename": "香料群島",
       "path": "Zettelkasten/香料群島.md"
-    },
-    {
-      "basename": "台灣原住民概述",
-      "path": "Zettelkasten/台灣原住民概述.md"
     }
   ],
   "omittedPaths": [
