@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "三角函數",
+      "path": "Zettelkasten/三角函數.md"
+    },
+    {
+      "basename": "分點公式",
+      "path": "Zettelkasten/分點公式.md"
+    },
+    {
+      "basename": "三角不等式",
+      "path": "Zettelkasten/三角不等式.md"
+    },
+    {
+      "basename": "Study BGM",
+      "path": "Zettelkasten/Study BGM.md"
+    },
+    {
       "basename": "專題研究_環保素食",
       "path": "Zettelkasten/專題研究_環保素食.md"
     },
     {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
-    },
-    {
-      "basename": "Study BGM",
-      "path": "Zettelkasten/Study BGM.md"
     },
     {
       "basename": "Obsidian 快速鍵",
@@ -187,18 +199,6 @@
     {
       "basename": "台灣原住民概述",
       "path": "Zettelkasten/台灣原住民概述.md"
-    },
-    {
-      "basename": "古老結晶陸塊",
-      "path": "Zettelkasten/古老結晶陸塊.md"
-    },
-    {
-      "basename": "有理數",
-      "path": "Zettelkasten/有理數.md"
-    },
-    {
-      "basename": "多重根號",
-      "path": "Zettelkasten/多重根號.md"
     }
   ],
   "omittedPaths": [
