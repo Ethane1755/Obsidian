@@ -5,7 +5,7 @@
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "displaySVGInPreview": true,
   "width": "400",
-  "matchTheme": false,
+  "matchTheme": true,
   "zoomToFitOnResize": true,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
