@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/斯特凡–波茲曼定律.md",
+            "file": "Zettelkasten/赫羅圖.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/斯特凡–波茲曼定律.md",
+                "file": "Zettelkasten/赫羅圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/斯特凡–波茲曼定律.md",
+                "file": "Zettelkasten/赫羅圖.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "a4effef71f432a41",
   "lastOpenFiles": [
+    "Zettelkasten/赫羅圖.md",
+    "Zettelkasten/維恩定律.md",
+    "Zettelkasten/解題背後的心理學心得.md",
+    "Zettelkasten/瑞立-金斯定律.md",
+    "Zettelkasten/黑體輻射.md",
     "Zettelkasten/斯特凡–波茲曼定律.md",
     "Zettelkasten/專題研究_環保素食.md",
     "Zettelkasten/香料群島.md",
     "Zettelkasten/美國各州加入聯邦順序.md",
-    "Zettelkasten/建中學習單心得.md",
-    "Zettelkasten/咖啡因是非_專題摘要.md",
-    "Zettelkasten/公聽會.md",
-    "Kanban/Kanban.md",
-    "Zettelkasten/Study BGM.md",
-    "Zettelkasten/Untitled.md"
+    "Zettelkasten/建中學習單心得.md"
   ]
 }
