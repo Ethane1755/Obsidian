@@ -20,7 +20,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/地球歷史氣體成分.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md",
+                "file": "Zettelkasten/地球歷史氣體成分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md",
+                "file": "Zettelkasten/地球歷史氣體成分.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -157,10 +157,10 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "f4cd3c65777ce19e",
+  "active": "38c9173e3fbee046",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md",
     "Zettelkasten/地球歷史氣體成分.md",
+    "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md",
     "Zettelkasten/富拉尼人.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/閃焰.md",
