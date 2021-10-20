@@ -30,7 +30,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md"
+            "file": "Excalidraw/test.excalidraw.md"
           }
         }
       }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md",
+                "file": "Excalidraw/test.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md",
+                "file": "Excalidraw/test.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,8 @@
   },
   "active": "f4cd3c65777ce19e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md",
+    "Excalidraw/test.excalidraw.md",
+    "Zettelkasten/內營力.md",
     "Zettelkasten/地球歷史氣體成分.md",
     "Zettelkasten/富拉尼人.md",
     "Zettelkasten/Study BGM.md",
@@ -167,7 +168,6 @@
     "Zettelkasten/核融合.md",
     "Zettelkasten/臭氧.md",
     "Zettelkasten/馬克士威方程組.md",
-    "Zettelkasten/英文五大句型.md",
-    "Zettelkasten/英文口說筆記.md"
+    "Zettelkasten/英文五大句型.md"
   ]
 }

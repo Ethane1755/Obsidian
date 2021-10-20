@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2021-10-20 22.48.27.excalidraw",
-      "path": "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md"
+      "basename": "test.excalidraw",
+      "path": "Excalidraw/test.excalidraw.md"
+    },
+    {
+      "basename": "內營力",
+      "path": "Zettelkasten/內營力.md"
     },
     {
       "basename": "地球歷史氣體成分",
@@ -195,10 +199,6 @@
     {
       "basename": "維恩定律",
       "path": "Zettelkasten/維恩定律.md"
-    },
-    {
-      "basename": "解題背後的心理學心得",
-      "path": "Zettelkasten/解題背後的心理學心得.md"
     }
   ],
   "omittedPaths": [
