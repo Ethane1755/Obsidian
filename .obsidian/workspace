@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/西北航道.md",
+            "file": "Zettelkasten/閃焰.md",
             "mode": "preview"
           }
         }
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/西北航道.md",
+                "file": "Zettelkasten/閃焰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/西北航道.md",
+                "file": "Zettelkasten/閃焰.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,15 +150,15 @@
   },
   "active": "b06c619586ebcc3d",
   "lastOpenFiles": [
-    "Zettelkasten/西北航道.md",
-    "Zettelkasten/行星風系與地方風系.md",
-    "Zettelkasten/李仙得.md",
-    "Zettelkasten/自用標例表.md",
-    "Zettelkasten/有理數.md",
-    "Zettelkasten/自主學習計畫-塞車模型.md",
-    "Zettelkasten/多重根號.md",
-    "Zettelkasten/地壘.md",
-    "Zettelkasten/地理素養.md",
-    "Zettelkasten/地球歷史氣體成分.md"
+    "Zettelkasten/閃焰.md",
+    "Zettelkasten/核融合.md",
+    "Zettelkasten/臭氧.md",
+    "Zettelkasten/馬克士威方程組.md",
+    "Zettelkasten/英文五大句型.md",
+    "Zettelkasten/英文口說筆記.md",
+    "Zettelkasten/美國擴張史.md",
+    "Zettelkasten/南北戰爭.md",
+    "Zettelkasten/哈伯望遠鏡.md",
+    "Zettelkasten/底索曲線.md"
   ]
 }

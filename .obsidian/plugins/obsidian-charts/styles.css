@@ -251,12 +251,12 @@
     display: -moz-box;
     display: -ms-flexbox;
     display: -webkit-flex;
-    display: flex
+    display: flex;
 }
 
 .ct-chart-donut .ct-label,
 .ct-chart-pie .ct-label {
-    dominant-baseline: central
+    dominant-baseline: central;
 }
 
 .ct-label.ct-horizontal.ct-start {
