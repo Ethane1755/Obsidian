@@ -1,8 +1,8 @@
 {
   "folder": "Excalidraw",
   "templateFilePath": "Excalidraw/Template.excalidraw",
-  "drawingFilenamePrefix": "Drawing ",
-  "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "drawingFilenamePrefix": "",
+  "drawingFilenameDateTime": "YYYY-MM-DD HH",
   "displaySVGInPreview": true,
   "width": "400",
   "matchTheme": true,
