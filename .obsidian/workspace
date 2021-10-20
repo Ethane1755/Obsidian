@@ -13,6 +13,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "b06c619586ebcc3d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/西北航道.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地球歷史氣體成分.md",
+                "file": "Zettelkasten/西北航道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地球歷史氣體成分.md",
+                "file": "Zettelkasten/西北航道.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,17 +148,17 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "a4effef71f432a41",
+  "active": "b06c619586ebcc3d",
   "lastOpenFiles": [
-    "Zettelkasten/地球歷史氣體成分.md",
-    "Zettelkasten/地球利生物生存之原因.md",
-    "Zettelkasten/地球五大炭庫.md",
-    "Zettelkasten/光子能量.md",
-    "Zettelkasten/地理素養.md",
-    "Zettelkasten/地理資訊系統.md",
+    "Zettelkasten/西北航道.md",
+    "Zettelkasten/行星風系與地方風系.md",
+    "Zettelkasten/李仙得.md",
     "Zettelkasten/自用標例表.md",
+    "Zettelkasten/有理數.md",
     "Zettelkasten/自主學習計畫-塞車模型.md",
-    "Zettelkasten/波茲曼常數.md",
-    "Zettelkasten/花岡一郎與花岡二郎.md"
+    "Zettelkasten/多重根號.md",
+    "Zettelkasten/地壘.md",
+    "Zettelkasten/地理素養.md",
+    "Zettelkasten/地球歷史氣體成分.md"
   ]
 }

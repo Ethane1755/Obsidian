@@ -6,8 +6,8 @@
 }
 
 .theme-dark text.ct-label {
-    fill: rgba(255, 255, 255, .7);
-    color: rgba(255, 255, 255, .7);
+    fill: #ffffff;
+    color: #ffffff;
     font-size: .75rem;
     line-height: 1
 }
