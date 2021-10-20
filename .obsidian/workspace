@@ -23,6 +23,16 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "f4cd3c65777ce19e",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地球歷史氣體成分.md",
+                "file": "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地球歷史氣體成分.md",
+                "file": "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,8 +158,9 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "38c9173e3fbee046",
+  "active": "f4cd3c65777ce19e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2021-10-20 22.48.27.excalidraw.md",
     "Zettelkasten/地球歷史氣體成分.md",
     "Zettelkasten/富拉尼人.md",
     "Zettelkasten/Study BGM.md",
@@ -158,7 +169,6 @@
     "Zettelkasten/臭氧.md",
     "Zettelkasten/馬克士威方程組.md",
     "Zettelkasten/英文五大句型.md",
-    "Zettelkasten/英文口說筆記.md",
-    "Zettelkasten/美國擴張史.md"
+    "Zettelkasten/英文口說筆記.md"
   ]
 }
