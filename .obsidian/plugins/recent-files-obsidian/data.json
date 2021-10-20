@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "地理素養",
-      "path": "Zettelkasten/地理素養.md"
-    },
-    {
       "basename": "地球歷史氣體成分",
       "path": "Zettelkasten/地球歷史氣體成分.md"
+    },
+    {
+      "basename": "地球利生物生存之原因",
+      "path": "Zettelkasten/地球利生物生存之原因.md"
+    },
+    {
+      "basename": "地球五大炭庫",
+      "path": "Zettelkasten/地球五大炭庫.md"
+    },
+    {
+      "basename": "光子能量",
+      "path": "Zettelkasten/光子能量.md"
+    },
+    {
+      "basename": "地理素養",
+      "path": "Zettelkasten/地理素養.md"
     },
     {
       "basename": "地理資訊系統",
@@ -187,18 +199,6 @@
     {
       "basename": "三角不等式",
       "path": "Zettelkasten/三角不等式.md"
-    },
-    {
-      "basename": "Obsidian 快速鍵",
-      "path": "Zettelkasten/Obsidian 快速鍵.md"
-    },
-    {
-      "basename": "Python 字串",
-      "path": "Zettelkasten/Python 字串.md"
-    },
-    {
-      "basename": "SQL 運算子",
-      "path": "Zettelkasten/SQL 運算子.md"
     }
   ],
   "omittedPaths": [
