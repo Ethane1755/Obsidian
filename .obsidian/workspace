@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/地球歷史氣體成分.md",
+            "file": "Zettelkasten/富拉尼人.md",
             "mode": "preview"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地球歷史氣體成分.md",
+                "file": "Zettelkasten/富拉尼人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地球歷史氣體成分.md",
+                "file": "Zettelkasten/富拉尼人.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,6 +150,7 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/富拉尼人.md",
     "Zettelkasten/地球歷史氣體成分.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/閃焰.md",
@@ -158,7 +159,6 @@
     "Zettelkasten/馬克士威方程組.md",
     "Zettelkasten/英文五大句型.md",
     "Zettelkasten/英文口說筆記.md",
-    "Zettelkasten/美國擴張史.md",
-    "Zettelkasten/南北戰爭.md"
+    "Zettelkasten/美國擴張史.md"
   ]
 }
