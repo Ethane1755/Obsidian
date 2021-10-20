@@ -25,22 +25,12 @@
         }
       },
       {
-        "id": "804df86895f89675",
+        "id": "f4cd3c65777ce19e",
         "type": "leaf",
         "state": {
           "type": "image",
           "state": {
             "file": "Excalidraw/test.excalidraw.svg"
-          }
-        }
-      },
-      {
-        "id": "f4cd3c65777ce19e",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/test.excalidraw.md"
           }
         }
       }
@@ -93,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地球歷史氣體成分.md",
+                "file": "Excalidraw/test.excalidraw.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地球歷史氣體成分.md",
+                "file": "Excalidraw/test.excalidraw.svg",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -167,17 +157,17 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "38c9173e3fbee046",
+  "active": "f4cd3c65777ce19e",
   "lastOpenFiles": [
-    "Zettelkasten/地球歷史氣體成分.md",
     "Excalidraw/test.excalidraw.svg",
+    "Excalidraw/test.excalidraw.png",
     "Excalidraw/test.excalidraw.md",
+    "Zettelkasten/地球歷史氣體成分.md",
     "Zettelkasten/內營力.md",
     "Zettelkasten/富拉尼人.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/閃焰.md",
     "Zettelkasten/核融合.md",
-    "Zettelkasten/臭氧.md",
-    "Zettelkasten/馬克士威方程組.md"
+    "Zettelkasten/臭氧.md"
   ]
 }

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "地球歷史氣體成分",
-      "path": "Zettelkasten/地球歷史氣體成分.md"
-    },
-    {
       "basename": "test.excalidraw",
       "path": "Excalidraw/test.excalidraw.svg"
     },
     {
       "basename": "test.excalidraw",
+      "path": "Excalidraw/test.excalidraw.png"
+    },
+    {
+      "basename": "test.excalidraw",
       "path": "Excalidraw/test.excalidraw.md"
+    },
+    {
+      "basename": "地球歷史氣體成分",
+      "path": "Zettelkasten/地球歷史氣體成分.md"
     },
     {
       "basename": "內營力",
@@ -195,10 +199,6 @@
     {
       "basename": "濁大計畫",
       "path": "Zettelkasten/濁大計畫.md"
-    },
-    {
-      "basename": "赫羅圖",
-      "path": "Zettelkasten/赫羅圖.md"
     }
   ],
   "omittedPaths": [
