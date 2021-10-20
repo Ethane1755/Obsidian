@@ -21,7 +21,7 @@
   "autoexportSVG": false,
   "autoexportPNG": true,
   "autoexportExcalidraw": false,
-  "embedType": "excalidraw",
+  "embedType": "PNG",
   "syncExcalidraw": false,
   "experimentalFileType": true,
   "experimentalFileTag": "✏️",
