@@ -25,6 +25,16 @@
         }
       },
       {
+        "id": "804df86895f89675",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Excalidraw/test.excalidraw.svg"
+          }
+        }
+      },
+      {
         "id": "f4cd3c65777ce19e",
         "type": "leaf",
         "state": {
@@ -83,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/test.excalidraw.md",
+                "file": "Zettelkasten/地球歷史氣體成分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/test.excalidraw.md",
+                "file": "Zettelkasten/地球歷史氣體成分.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -157,17 +167,17 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "f4cd3c65777ce19e",
+  "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/地球歷史氣體成分.md",
+    "Excalidraw/test.excalidraw.svg",
     "Excalidraw/test.excalidraw.md",
     "Zettelkasten/內營力.md",
-    "Zettelkasten/地球歷史氣體成分.md",
     "Zettelkasten/富拉尼人.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/閃焰.md",
     "Zettelkasten/核融合.md",
     "Zettelkasten/臭氧.md",
-    "Zettelkasten/馬克士威方程組.md",
-    "Zettelkasten/英文五大句型.md"
+    "Zettelkasten/馬克士威方程組.md"
   ]
 }
