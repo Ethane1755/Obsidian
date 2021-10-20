@@ -9,7 +9,7 @@
   "zoomToFitOnResize": true,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
-  "openInAdjacentPane": false,
+  "openInAdjacentPane": true,
   "showLinkBrackets": true,
   "allowCtrlClick": true,
   "forceWrap": false,
