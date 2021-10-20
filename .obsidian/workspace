@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/底索曲線.md",
+            "file": "Zettelkasten/地球歷史氣體成分.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/底索曲線.md",
+                "file": "Zettelkasten/地球歷史氣體成分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/底索曲線.md",
+                "file": "Zettelkasten/地球歷史氣體成分.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "a4effef71f432a41",
   "lastOpenFiles": [
-    "Zettelkasten/底索曲線.md",
-    "Zettelkasten/放射性同位素定年法.md",
-    "Zettelkasten/恆星光度.md",
-    "Zettelkasten/恆星亮度.md",
-    "Zettelkasten/政治光譜.md",
-    "Zettelkasten/富拉尼人.md",
-    "Zettelkasten/Python 變數.md",
-    "Zettelkasten/HTML 語法.md",
-    "Zettelkasten/斷層作用.md",
-    "Zettelkasten/薩赫爾地區(Sahel).md"
+    "Zettelkasten/地球歷史氣體成分.md",
+    "Zettelkasten/地理資訊系統.md",
+    "Zettelkasten/自用標例表.md",
+    "Zettelkasten/自主學習計畫-塞車模型.md",
+    "Zettelkasten/波茲曼常數.md",
+    "Zettelkasten/花岡一郎與花岡二郎.md",
+    "Zettelkasten/南北戰爭.md",
+    "Zettelkasten/美利堅聯盟國.md",
+    "Zettelkasten/香料貿易.md",
+    "Zettelkasten/香料群島.md"
   ]
 }
