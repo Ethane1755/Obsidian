@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "19fc0fc7f6525efb",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/404.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled 1.md",
+                "file": "Excalidraw/404.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled 1.md",
+                "file": "Excalidraw/404.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,8 +147,9 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "aeb327176370973e",
+  "active": "19fc0fc7f6525efb",
   "lastOpenFiles": [
+    "Excalidraw/404.excalidraw.md",
     "Zettelkasten/Untitled 1.md",
     "Excalidraw/hello.md",
     "Excalidraw/hello.png",
@@ -147,7 +158,6 @@
     "Excalidraw/test.excalidraw.md",
     "Excalidraw/test.excalidraw.png",
     "Zettelkasten/Study BGM.md",
-    "Zettelkasten/太陽星雲說.md",
-    "Zettelkasten/地球歷史氣體成分.md"
+    "Zettelkasten/太陽星雲說.md"
   ]
 }
