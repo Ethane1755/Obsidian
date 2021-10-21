@@ -13,6 +13,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "e057fc8952b3a35a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled 2.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/半邊山.md",
+                "file": "Zettelkasten/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/半邊山.md",
+                "file": "Zettelkasten/Untitled 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,8 +148,9 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "e057fc8952b3a35a",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 2.md",
     "Zettelkasten/半邊山.md",
     "Kanban/Kanban.md",
     "Excalidraw/404.excalidraw.md",
@@ -147,7 +159,6 @@
     "Zettelkasten/Untitled 1.md",
     "Excalidraw/hello.md",
     "Excalidraw/hello.png",
-    "Anki cards/English/English_Vocabulary_9.1.md",
-    "Excalidraw/test.excalidraw.md"
+    "Anki cards/English/English_Vocabulary_9.1.md"
   ]
 }
