@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b688f08421b7970d",
+        "id": "aeb327176370973e",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/hello.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -62,7 +60,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/hello.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +132,7 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "b688f08421b7970d",
+  "active": "aeb327176370973e",
   "lastOpenFiles": [
     "Excalidraw/hello.md",
     "Excalidraw/hello.png",
