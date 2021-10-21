@@ -7,8 +7,11 @@
         "id": "aeb327176370973e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled 1.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,6 +139,7 @@
   },
   "active": "aeb327176370973e",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 1.md",
     "Excalidraw/hello.md",
     "Excalidraw/hello.png",
     "Anki cards/English/English_Vocabulary_9.1.md",
@@ -142,7 +148,6 @@
     "Excalidraw/test.excalidraw.png",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/太陽星雲說.md",
-    "Zettelkasten/地球歷史氣體成分.md",
-    "Excalidraw/test.excalidraw.svg"
+    "Zettelkasten/地球歷史氣體成分.md"
   ]
 }

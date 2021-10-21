@@ -5,6 +5,20 @@
       "name": "Emoji Toolbar: Open emoji picker",
       "hotkeys": [],
       "icon": "feather-smile"
+    },
+    {
+      "id": "obsidian-icons-plugin:open-icons-plugin-modal",
+      "name": "Icons: Insert Icon",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Ctrl",
+            "Shift"
+          ],
+          "key": "i"
+        }
+      ],
+      "icon": "feather-hard-drive"
     }
   ],
   "hiddenCommands": [
