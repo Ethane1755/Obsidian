@@ -5,7 +5,7 @@ TARGET DECK: Vocabuary_M1~11
 n, 學生會 #flashcard 
 student association
 <!--ID: 1630675102245-->
-
+[[../../Excalidraw/hello.png]]
 n, 校隊 #flashcard 
 varsity team
 <!--ID: 1630675105837-->

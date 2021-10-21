@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Excalidraw/().excalidraw.md"
+            "file": "Excalidraw/hello.md"
           }
         }
       }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/().excalidraw.md",
+                "file": "Excalidraw/hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/().excalidraw.md",
+                "file": "Excalidraw/hello.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,15 +138,15 @@
   },
   "active": "b688f08421b7970d",
   "lastOpenFiles": [
-    "Excalidraw/().excalidraw.md",
+    "Excalidraw/hello.md",
+    "Excalidraw/hello.png",
+    "Anki cards/English/English_Vocabulary_9.1.md",
+    "Kanban/Kanban.md",
     "Excalidraw/test.excalidraw.md",
     "Excalidraw/test.excalidraw.png",
     "Zettelkasten/Study BGM.md",
-    "Kanban/Kanban.md",
     "Zettelkasten/太陽星雲說.md",
     "Zettelkasten/地球歷史氣體成分.md",
-    "Excalidraw/test.excalidraw.svg",
-    "Zettelkasten/內營力.md",
-    "Zettelkasten/富拉尼人.md"
+    "Excalidraw/test.excalidraw.svg"
   ]
 }

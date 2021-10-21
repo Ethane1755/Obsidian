@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "().excalidraw",
-      "path": "Excalidraw/().excalidraw.md"
+      "basename": "hello",
+      "path": "Excalidraw/hello.md"
     },
     {
-      "basename": "Study BGM",
-      "path": "Zettelkasten/Study BGM.md"
+      "basename": "hello",
+      "path": "Excalidraw/hello.png"
+    },
+    {
+      "basename": "English_Vocabulary_9.1",
+      "path": "Anki cards/English/English_Vocabulary_9.1.md"
     },
     {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
+    },
+    {
+      "basename": "Study BGM",
+      "path": "Zettelkasten/Study BGM.md"
     },
     {
       "basename": "太陽星雲說",
@@ -191,10 +199,6 @@
     {
       "basename": "薩赫爾地區(Sahel)",
       "path": "Zettelkasten/薩赫爾地區(Sahel).md"
-    },
-    {
-      "basename": "覆議、附議與復議",
-      "path": "Zettelkasten/覆議、附議與復議.md"
     }
   ],
   "omittedPaths": [
