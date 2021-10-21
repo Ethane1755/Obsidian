@@ -17,20 +17,10 @@
         "id": "38c9173e3fbee046",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/test.excalidraw.md"
-          }
-        }
-      },
-      {
-        "id": "83a0fc0b2227caf8",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/太陽星雲說.md",
-            "mode": "source"
+            "file": "Zettelkasten/Study BGM.md",
+            "mode": "preview"
           }
         }
       }
@@ -83,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/太陽星雲說.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/太陽星雲說.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -157,8 +147,9 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "83a0fc0b2227caf8",
+  "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/Study BGM.md",
     "Zettelkasten/太陽星雲說.md",
     "Excalidraw/test.excalidraw.md",
     "Zettelkasten/地球歷史氣體成分.md",
@@ -166,7 +157,6 @@
     "Excalidraw/test.excalidraw.png",
     "Zettelkasten/內營力.md",
     "Zettelkasten/富拉尼人.md",
-    "Zettelkasten/Study BGM.md",
     "Zettelkasten/閃焰.md",
     "Zettelkasten/核融合.md"
   ]
