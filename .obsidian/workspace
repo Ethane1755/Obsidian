@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban/Kanban.md"
-          }
-        }
-      },
-      {
         "id": "38c9173e3fbee046",
         "type": "leaf",
         "state": {
@@ -150,6 +140,7 @@
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
     "Zettelkasten/Study BGM.md",
+    "Kanban/Kanban.md",
     "Zettelkasten/太陽星雲說.md",
     "Excalidraw/test.excalidraw.md",
     "Zettelkasten/地球歷史氣體成分.md",
@@ -157,7 +148,6 @@
     "Excalidraw/test.excalidraw.png",
     "Zettelkasten/內營力.md",
     "Zettelkasten/富拉尼人.md",
-    "Zettelkasten/閃焰.md",
-    "Zettelkasten/核融合.md"
+    "Zettelkasten/閃焰.md"
   ]
 }
