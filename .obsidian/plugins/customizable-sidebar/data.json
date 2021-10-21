@@ -1,0 +1,17 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "obsidian-emoji-toolbar:emoji-picker:open-picker",
+      "name": "Emoji Toolbar: Open emoji picker",
+      "hotkeys": [],
+      "icon": "feather-smile"
+    }
+  ],
+  "hiddenCommands": [
+    "Obsidian_to_Anki - Scan Vault",
+    "Open homepage",
+    "Open graph view",
+    "Insert template",
+    "PDF to Markdown"
+  ]
+}
