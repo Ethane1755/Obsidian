@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "().excalidraw",
+      "path": "Excalidraw/().excalidraw.md"
+    },
+    {
       "basename": "Study BGM",
       "path": "Zettelkasten/Study BGM.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "太陽星雲說",
       "path": "Zettelkasten/太陽星雲說.md"
-    },
-    {
-      "basename": "test.excalidraw",
-      "path": "Excalidraw/test.excalidraw.md"
     },
     {
       "basename": "地球歷史氣體成分",
@@ -195,10 +195,6 @@
     {
       "basename": "覆議、附議與復議",
       "path": "Zettelkasten/覆議、附議與復議.md"
-    },
-    {
-      "basename": "濁大計畫",
-      "path": "Zettelkasten/濁大計畫.md"
     }
   ],
   "omittedPaths": [
