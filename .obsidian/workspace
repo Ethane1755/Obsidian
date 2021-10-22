@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/民國時期來台人流.md",
+            "file": "Zettelkasten/圖阿雷格人.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/民國時期來台人流.md",
+                "file": "Zettelkasten/圖阿雷格人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/民國時期來台人流.md",
+                "file": "Zettelkasten/圖阿雷格人.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,15 +160,15 @@
   },
   "active": "315d79e88b30f2cf",
   "lastOpenFiles": [
-    "Zettelkasten/民國時期來台人流.md",
-    "Kanban/Kanban.md",
-    "Zettelkasten/Study BGM.md",
-    "Zettelkasten/Untitled 2.md",
-    "Zettelkasten/半邊山.md",
-    "Excalidraw/404.excalidraw.md",
-    "Excalidraw/404.excalidraw.png",
-    "Zettelkasten/Untitled 1.md",
-    "Excalidraw/hello.md",
-    "Excalidraw/hello.png"
+    "Zettelkasten/圖阿雷格人.md",
+    "Zettelkasten/準平原.md",
+    "Zettelkasten/新北市人口變化.md",
+    "Zettelkasten/普朗克黑體輻射定律.md",
+    "Zettelkasten/荷蘭東印度公司.md",
+    "Zettelkasten/馬克士威方程組.md",
+    "Zettelkasten/香料群島.md",
+    "Zettelkasten/原子光譜.md",
+    "Zettelkasten/柯本氣候分類法.md",
+    "Zettelkasten/政治光譜.md"
   ]
 }
