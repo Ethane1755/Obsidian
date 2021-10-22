@@ -7,20 +7,19 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Zettelkasten/半邊山.md",
-            "mode": "preview"
+            "file": "Kanban/Kanban.md"
           }
         }
       },
       {
-        "id": "e057fc8952b3a35a",
+        "id": "38c9173e3fbee046",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Untitled 2.md",
+            "file": "Zettelkasten/Study BGM.md",
             "mode": "preview"
           }
         }
@@ -74,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled 2.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled 2.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,14 +147,14 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "e057fc8952b3a35a",
+  "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/Study BGM.md",
     "Zettelkasten/Untitled 2.md",
     "Zettelkasten/半邊山.md",
     "Kanban/Kanban.md",
     "Excalidraw/404.excalidraw.md",
     "Excalidraw/404.excalidraw.png",
-    "Zettelkasten/Study BGM.md",
     "Zettelkasten/Untitled 1.md",
     "Excalidraw/hello.md",
     "Excalidraw/hello.png",

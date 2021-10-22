@@ -9,5 +9,6 @@
   "disablePopups": true,
   "listChangedFilesInMessageBody": true,
   "showStatusBar": false,
-  "updateSubmodules": false
+  "updateSubmodules": false,
+  "gitPath": ""
 }
