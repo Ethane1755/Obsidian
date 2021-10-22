@@ -34,5 +34,5 @@
     "Buckminester",
     "Pimentel"
   ],
-  "newLinkFormat": "relative"
+  "newLinkFormat": "shortest"
 }

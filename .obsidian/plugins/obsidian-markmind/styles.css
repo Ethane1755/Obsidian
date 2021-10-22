@@ -26,6 +26,10 @@
    display: none;
 }
 
+.mm-mobile-app .mm-pdf-container{
+  padding-top: 50px;
+}
+
 .mm-pdf-container .pdf-container{
   padding: 0;
 }
@@ -72,9 +76,22 @@
   min-width: 10px;
 }
 
+.mm-node .mm-node-content > p,
+.mm-node .mm-node-content > h1,
+.mm-node .mm-node-content > h2,
+.mm-node .mm-node-content > h3,
+.mm-node .mm-node-content > h4,
+.mm-node .mm-node-content > h5,
+.mm-node .mm-node-content > h6,
+.mm-node .mm-node-content > ol,
+.mm-node .mm-node-content> ul{
+   padding: 0;
+   margin: 0;
+}
+
 .mm-node-edit > p,
-.mm-node-editt > h1,
-.mm-node-editt > h2,
+.mm-node-edit > h1,
+.mm-node-edit > h2,
 .mm-node-edit > h3,
 .mm-node-edit > h4,
 .mm-node-edit > h5,
@@ -361,82 +378,6 @@
 }
 
 
-/* pdf annotate */
-
-.annotate{
-  box-sizing: border-box;
-}
-.annotate.active{
-  border:2px solid blue!important;
-}
-.annotate:hover,
-.annotate.active{
-   z-index: 20;
-}
-
-.annotate .annotate-head{
-  position: absolute;
-  left:0;
-  right: 0;
-  height:24px;
-  background-color: transparent;
-  cursor: move;
-  display: none;
-}
-.annotate .annotate-resize{
-  position: absolute;
-  width: 16px;
-  height: 16px;
-  right:0;
-  bottom: 0;
-  display: none;
-  cursor: se-resize;
-}
-.annotate:hover .annotate-resize,
-.annotate:hover .annotate-head,
-.annotate.active .annotate-resize,
-.annotate-resize .annotate-head{
-   display: block;
-}
-
-.annotate-bar{
-  position: absolute;
-  top:300px;
-  right:16px;
-  background: #fff;
-  font-size: 12px;
-  cursor: pointer;
-  border-radius:3px;
-  border:1px solid #f5f5f5;
-  padding:3px 6px;
-  width:36px;
-  min-height:100px;
-  box-sizing: border-box;
-  z-index:6000;
-  top:300px;
-
-}
-.annotate-bar button{
-  display: block;
-  width:20px;
-  height:20px;
-  border:0;
-  border-radius:3px;
-  margin:  6px auto;
-  padding: 0!important;
-}
-
-.annotate-bar span{
-  color:#666;
-}
-
-.textLayer{
-  opacity: 0.8!important;
-  mix-blend-mode: multiply;
-}
-.textLayer ::selection {
-  background: rgba(0, 0, 255, 0.4)!important;
-}
 
 .mm-node-assist .mm-node-annotate{
   /* float: left; */
@@ -506,6 +447,58 @@
   display: none;
   border-radius: 3px;
   padding: 6px 0;
+}
+
+.mm-assist-board{
+  position:absolute;
+  background:#333;
+  border:1px solid #000;
+  width:180px;
+  border-radius: 0.25rem;
+  z-index: 60;
+  color:#ccc;
+  padding: 4px;
+  box-sizing: border-box;
+}
+.mm-assist-color{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.mm-assist-board svg{
+  fill:#ccc;
+}
+
+.theme-light .mm-assist-board {
+  background:white;
+  border:1px solid #666;
+}
+
+.mm-color-red{
+  background-color:red
+}
+.mm-color-orange{
+  background-color:orange
+}
+.mm-color-yellow{
+  background-color:yellow
+}
+.mm-color-green{
+  background-color:green
+}
+.mm-color-blue{
+  background-color:blue
+}
+.mm-color-indigo{
+  background-color:indigo
+}
+.mm-color-purple{
+  background-color:purple
+}
+.mm-assist-delete{
+  padding: 4px;
 }
 
 
@@ -1005,6 +998,80 @@
 }
 .theme-light  .li-node.node-no-border > ul{
   border-left:0px solid white;
+}
+
+/* mind map theme */
+
+.mm-theme-dark.mm-mindmap {
+   background-color: rgb(35, 39, 62);
+}
+
+.mm-theme-dark .mm-node .mm-node-content  {
+   /* background-color: #282828;  */
+   background-color: transparent; 
+   color:rgb(115, 154, 163)
+}
+
+.mm-theme-dark .mm-node.mm-root .mm-node-content {
+  background-color: rgb(5,196,235);
+  color:rgba(255, 255, 255, .8)
+}
+
+
+.mm-theme-light.mm-mindmap {
+  background-color: #f1f1f1;
+}
+
+.mm-theme-light .mm-node .mm-node-content  {
+  /* background-color: #282828;  */
+  background-color: transparent; 
+  color:#383833
+}
+
+.mm-theme-light .mm-node.mm-root .mm-node-content {
+ background-color: #c31105;
+ color:#fff
+}
+.mm-theme-light .mm-node :focus{
+  color:#666;
+}
+
+.mm-theme-card.mm-mindmap{
+  background-color: #fff;
+}
+
+.mm-theme-card .mm-node .mm-node-content  {
+  /* background-color: #282828;  */
+  background-color: #fff; 
+  color:#333;
+  box-shadow: 0 0 6px #f1f1f1;
+  padding:4px 10px;
+  border-radius: 5px;
+  border:1px solid #f5f5f5;
+  font-size: 14px;
+
+}
+
+.mm-theme-card .mm-node.mm-root .mm-node-content {
+ background-color: #fff;
+ color:#333;
+ font-size: 18px;
+ padding:10px 18px;
+}
+
+.mm-theme-card .mm-node :focus{
+  color:#b1b0b0;
+}
+
+.mm-theme-card .node-relate .mm-node-content{
+  background-color: transparent;
+  color: red;
+  border:0;
+  box-shadow: 0 0 0 #fff;
+}
+
+.mm-mobile-app .mm-node .mm-node-content{
+  max-width: 400px;
 }
 
 
