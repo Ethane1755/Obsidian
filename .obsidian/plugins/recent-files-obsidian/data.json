@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "民國時期來台人流",
+      "path": "Zettelkasten/民國時期來台人流.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "HTML 語法",
       "path": "Zettelkasten/HTML 語法.md"
-    },
-    {
-      "basename": "斷層作用",
-      "path": "Zettelkasten/斷層作用.md"
     }
   ],
   "omittedPaths": [
