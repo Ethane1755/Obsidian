@@ -19,7 +19,7 @@ kanban-plugin: basic
 - [ ] 切線之斜率
 - [ ] 導數
 - [ ] 微分
-- [ ] $f(x)=x^n, n\in \mathbb{N}$，則$f'(x)=nx^{n-1}$
+- [ ] $f(x)=x^n, n\in \mathbb{N}$，則$f'(x)=nx ^{n-1}$
 
 
 ## 完成
@@ -36,3 +36,9 @@ kanban-plugin: basic
 - [x] 你好屁
 - [x] ![[440px-HRDiagram.png]]
 - [x] lalala
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic"}
+```
+%%
