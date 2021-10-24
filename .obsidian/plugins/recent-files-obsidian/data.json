@@ -5,6 +5,10 @@
       "path": "Zettelkasten/季節的感思.md"
     },
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "Study BGM",
       "path": "Zettelkasten/Study BGM.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "民國時期來台人流",
       "path": "Zettelkasten/民國時期來台人流.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "Untitled 2",
