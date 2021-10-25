@@ -7,10 +7,9 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Zettelkasten/愛爾蘭獨立宣言全文.md",
-            "mode": "preview"
+            "file": "Kanban/Kanban.md"
           }
         }
       }
@@ -63,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/愛爾蘭獨立宣言全文.md",
+                "file": "Kanban/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/愛爾蘭獨立宣言全文.md",
+                "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,11 +138,11 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Kanban/Kanban.md",
+    "Zettelkasten/Study BGM.md",
     "Zettelkasten/愛爾蘭獨立宣言全文.md",
     "Zettelkasten/生物演替.md",
     "Zettelkasten/巴黎分區.md",
-    "Kanban/Kanban.md",
-    "Zettelkasten/Study BGM.md",
     "Zettelkasten/Untitled 2.md",
     "Zettelkasten/Untitled 1 (conflict 2021-10-24-23-37-47).md",
     "Zettelkasten/Untitled 1.md",
