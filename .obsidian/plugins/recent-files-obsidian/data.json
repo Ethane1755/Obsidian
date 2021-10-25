@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban Plugin",
+      "path": "Zettelkasten/外掛/Kanban Plugin.md"
+    },
+    {
+      "basename": "Hider Plugin",
+      "path": "Zettelkasten/外掛/Hider Plugin.md"
+    },
+    {
+      "basename": "Grandfather Plugin",
+      "path": "Zettelkasten/外掛/Grandfather Plugin.md"
+    },
+    {
       "basename": "Fullscreen Mode Plugin",
       "path": "Zettelkasten/外掛/Fullscreen Mode Plugin.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "多重根號",
       "path": "Zettelkasten/多重根號.md"
-    },
-    {
-      "basename": "地壘",
-      "path": "Zettelkasten/地壘.md"
-    },
-    {
-      "basename": "地理素養",
-      "path": "Zettelkasten/地理素養.md"
-    },
-    {
-      "basename": "地球利生物生存之原因",
-      "path": "Zettelkasten/地球利生物生存之原因.md"
     }
   ],
   "omittedPaths": [

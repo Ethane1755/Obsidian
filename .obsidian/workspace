@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/外掛/Fullscreen Mode Plugin.md",
+            "file": "Zettelkasten/外掛/Kanban Plugin.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/外掛/Fullscreen Mode Plugin.md",
+                "file": "Zettelkasten/外掛/Kanban Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/外掛/Fullscreen Mode Plugin.md",
+                "file": "Zettelkasten/外掛/Kanban Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/外掛/Kanban Plugin.md",
+    "Zettelkasten/外掛/Hider Plugin.md",
+    "Zettelkasten/外掛/Grandfather Plugin.md",
     "Zettelkasten/外掛/Fullscreen Mode Plugin.md",
     "Zettelkasten/外掛/Filename Headings Sync Plugin.md",
     "Zettelkasten/外掛/Copy Button For Code Block Plugin.md",
     "Zettelkasten/外掛/Calendar Plugin.md",
     "Zettelkasten/外掛/Auto Pair Chinese Symbol Plugin.md",
     "Kanban/Kanban.md",
-    "Zettelkasten/Study BGM.md",
-    "Zettelkasten/愛爾蘭獨立宣言全文.md",
-    "Zettelkasten/生物演替.md",
-    "Zettelkasten/巴黎分區.md"
+    "Zettelkasten/Study BGM.md"
   ]
 }
