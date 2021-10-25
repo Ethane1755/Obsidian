@@ -19,8 +19,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Study BGM.md",
-            "mode": "preview"
+            "file": "Zettelkasten/春風化雨 心得.md",
+            "mode": "source"
           }
         }
       }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/春風化雨 心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/春風化雨 心得.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,8 +150,8 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
-    "Zettelkasten/Study BGM.md",
     "Zettelkasten/春風化雨 心得.md",
+    "Zettelkasten/Study BGM.md",
     "Kanban/Kanban.md",
     "Zettelkasten/季節的感思.md",
     "Zettelkasten/圖阿雷格人.md",
