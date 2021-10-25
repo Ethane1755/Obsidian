@@ -7,8 +7,10 @@
         "id": "e706be73370fde6c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "Kanban/Kanban.md"
+          }
         }
       }
     ],
@@ -60,6 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kanban/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,12 +146,12 @@
   },
   "active": "e706be73370fde6c",
   "lastOpenFiles": [
+    "Kanban/Kanban.md",
     "Zettelkasten/Untitled 2.md",
     "Zettelkasten/Untitled 1 (conflict 2021-10-24-23-37-47).md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/半邊山.md",
-    "Kanban/Kanban.md",
     "Zettelkasten/春風化雨 心得.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/季節的感思.md",
