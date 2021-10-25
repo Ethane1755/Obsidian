@@ -7,9 +7,10 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "Zettelkasten/外掛/Fullscreen Mode Plugin.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/外掛/Fullscreen Mode Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/外掛/Fullscreen Mode Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,15 +139,15 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/外掛/Fullscreen Mode Plugin.md",
+    "Zettelkasten/外掛/Filename Headings Sync Plugin.md",
+    "Zettelkasten/外掛/Copy Button For Code Block Plugin.md",
+    "Zettelkasten/外掛/Calendar Plugin.md",
+    "Zettelkasten/外掛/Auto Pair Chinese Symbol Plugin.md",
     "Kanban/Kanban.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/愛爾蘭獨立宣言全文.md",
     "Zettelkasten/生物演替.md",
-    "Zettelkasten/巴黎分區.md",
-    "Zettelkasten/Untitled 2.md",
-    "Zettelkasten/Untitled 1 (conflict 2021-10-24-23-37-47).md",
-    "Zettelkasten/Untitled 1.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/半邊山.md"
+    "Zettelkasten/巴黎分區.md"
   ]
 }

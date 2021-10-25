@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Fullscreen Mode Plugin",
+      "path": "Zettelkasten/外掛/Fullscreen Mode Plugin.md"
+    },
+    {
+      "basename": "Filename Headings Sync Plugin",
+      "path": "Zettelkasten/外掛/Filename Headings Sync Plugin.md"
+    },
+    {
+      "basename": "Copy Button For Code Block Plugin",
+      "path": "Zettelkasten/外掛/Copy Button For Code Block Plugin.md"
+    },
+    {
+      "basename": "Calendar Plugin",
+      "path": "Zettelkasten/外掛/Calendar Plugin.md"
+    },
+    {
+      "basename": "Auto Pair Chinese Symbol Plugin",
+      "path": "Zettelkasten/外掛/Auto Pair Chinese Symbol Plugin.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "地球利生物生存之原因",
       "path": "Zettelkasten/地球利生物生存之原因.md"
-    },
-    {
-      "basename": "地球五大炭庫",
-      "path": "Zettelkasten/地球五大炭庫.md"
-    },
-    {
-      "basename": "光子能量",
-      "path": "Zettelkasten/光子能量.md"
-    },
-    {
-      "basename": "地理資訊系統",
-      "path": "Zettelkasten/地理資訊系統.md"
-    },
-    {
-      "basename": "波茲曼常數",
-      "path": "Zettelkasten/波茲曼常數.md"
-    },
-    {
-      "basename": "花岡一郎與花岡二郎",
-      "path": "Zettelkasten/花岡一郎與花岡二郎.md"
     }
   ],
   "omittedPaths": [
