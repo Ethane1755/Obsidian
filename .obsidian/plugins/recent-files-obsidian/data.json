@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Kanban Plugin",
-      "path": "Zettelkasten/外掛/Kanban Plugin.md"
-    },
-    {
       "basename": "Hider Plugin",
       "path": "Zettelkasten/外掛/Hider Plugin.md"
+    },
+    {
+      "basename": "Obsidian 快速鍵",
+      "path": "Zettelkasten/外掛/Obsidian 快速鍵.md"
+    },
+    {
+      "basename": "Kanban Plugin",
+      "path": "Zettelkasten/外掛/Kanban Plugin.md"
     },
     {
       "basename": "Grandfather Plugin",
@@ -195,10 +199,6 @@
     {
       "basename": "有理數",
       "path": "Zettelkasten/有理數.md"
-    },
-    {
-      "basename": "多重根號",
-      "path": "Zettelkasten/多重根號.md"
     }
   ],
   "omittedPaths": [
