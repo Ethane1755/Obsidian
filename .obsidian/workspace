@@ -115,6 +115,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "f6e69a43adde491c",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
           }
         ]
       },
