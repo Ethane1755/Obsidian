@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e706be73370fde6c",
+        "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -114,14 +114,6 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "f6e69a43adde491c",
-            "type": "leaf",
-            "state": {
-              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
-            }
           }
         ]
       },
@@ -144,16 +136,16 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "e706be73370fde6c",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
     "Kanban/Kanban.md",
+    "Zettelkasten/Study BGM.md",
     "Zettelkasten/Untitled 2.md",
     "Zettelkasten/Untitled 1 (conflict 2021-10-24-23-37-47).md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/半邊山.md",
     "Zettelkasten/春風化雨 心得.md",
-    "Zettelkasten/Study BGM.md",
     "Zettelkasten/季節的感思.md",
     "Zettelkasten/圖阿雷格人.md"
   ]
