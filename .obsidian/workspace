@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3f2d3ec8c6b435f4",
+        "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "Kanban/Kanban.md"
+          }
         }
       },
       {
-        "id": "487b22ca3a173305",
+        "id": "38c9173e3fbee046",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/春風化雨 心得.md",
-            "mode": "source"
+            "file": "Zettelkasten/Study BGM.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/春風化雨 心得.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/春風化雨 心得.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -145,11 +147,11 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "487b22ca3a173305",
+  "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/Study BGM.md",
     "Zettelkasten/春風化雨 心得.md",
     "Kanban/Kanban.md",
-    "Zettelkasten/Study BGM.md",
     "Zettelkasten/季節的感思.md",
     "Zettelkasten/圖阿雷格人.md",
     "Zettelkasten/準平原.md",
