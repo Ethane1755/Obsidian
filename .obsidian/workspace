@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "e706be73370fde6c",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban/Kanban.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -62,7 +60,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -87,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -145,17 +140,17 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "e706be73370fde6c",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 2.md",
+    "Zettelkasten/Untitled 1 (conflict 2021-10-24-23-37-47).md",
+    "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/半邊山.md",
     "Kanban/Kanban.md",
     "Zettelkasten/春風化雨 心得.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/季節的感思.md",
-    "Zettelkasten/圖阿雷格人.md",
-    "Zettelkasten/準平原.md",
-    "Zettelkasten/新北市人口變化.md",
-    "Zettelkasten/普朗克黑體輻射定律.md",
-    "Zettelkasten/荷蘭東印度公司.md",
-    "Zettelkasten/馬克士威方程組.md"
+    "Zettelkasten/圖阿雷格人.md"
   ]
 }
