@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/實數.md",
+            "file": "Zettelkasten/解題背後的心理學心得.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/實數.md",
+                "file": "Zettelkasten/解題背後的心理學心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/實數.md",
+                "file": "Zettelkasten/解題背後的心理學心得.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "2c14180eaed3911a",
   "lastOpenFiles": [
+    "Zettelkasten/解題背後的心理學心得.md",
+    "Zettelkasten/資料分析.md",
+    "Zettelkasten/電子軌域.md",
+    "Zettelkasten/電磁波速公式.md",
+    "Zettelkasten/圖阿雷格人.md",
     "Zettelkasten/實數.md",
     "Zettelkasten/演替.md",
     "Zettelkasten/碳-14.md",
     "Zettelkasten/磁暴.md",
-    "Zettelkasten/算幾不等式.md",
-    "Zettelkasten/褶曲作用.md",
-    "Zettelkasten/羅妹(發)號事件.md",
-    "Zettelkasten/關鍵字.md",
-    "Zettelkasten/蘇丹草原.md",
-    "Zettelkasten/覆議、附議與復議.md"
+    "Zettelkasten/算幾不等式.md"
   ]
 }

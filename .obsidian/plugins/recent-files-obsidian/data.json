@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "解題背後的心理學心得",
+      "path": "Zettelkasten/解題背後的心理學心得.md"
+    },
+    {
+      "basename": "資料分析",
+      "path": "Zettelkasten/資料分析.md"
+    },
+    {
+      "basename": "電子軌域",
+      "path": "Zettelkasten/電子軌域.md"
+    },
+    {
+      "basename": "電磁波速公式",
+      "path": "Zettelkasten/電磁波速公式.md"
+    },
+    {
+      "basename": "圖阿雷格人",
+      "path": "Zettelkasten/圖阿雷格人.md"
+    },
+    {
       "basename": "實數",
       "path": "Zettelkasten/實數.md"
     },
@@ -93,10 +113,6 @@
       "path": "Zettelkasten/維恩定律.md"
     },
     {
-      "basename": "資料分析",
-      "path": "Zettelkasten/資料分析.md"
-    },
-    {
       "basename": "瑞立-金斯定律",
       "path": "Zettelkasten/瑞立-金斯定律.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "波茲曼常數",
       "path": "Zettelkasten/波茲曼常數.md"
-    },
-    {
-      "basename": "波耳氫原子模型",
-      "path": "Zettelkasten/波耳氫原子模型.md"
-    },
-    {
-      "basename": "法律解釋與適用",
-      "path": "Zettelkasten/法律解釋與適用.md"
-    },
-    {
-      "basename": "河川襲奪",
-      "path": "Zettelkasten/河川襲奪.md"
-    },
-    {
-      "basename": "放射性同位素定年法",
-      "path": "Zettelkasten/放射性同位素定年法.md"
     }
   ],
   "omittedPaths": [
