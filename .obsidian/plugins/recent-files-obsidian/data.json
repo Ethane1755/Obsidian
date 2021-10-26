@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "台灣人移居圖",
+      "path": "Zettelkasten/台灣人移居圖.md"
+    },
+    {
+      "basename": "半邊山",
+      "path": "Zettelkasten/半邊山.md"
+    },
+    {
+      "basename": "太陽風",
+      "path": "Zettelkasten/太陽風.md"
+    },
+    {
+      "basename": "Better Word Count Plugin",
+      "path": "Zettelkasten/外掛/Better Word Count Plugin.md"
+    },
+    {
       "basename": "Study BGM",
       "path": "Zettelkasten/Study BGM.md"
     },
@@ -63,10 +79,6 @@
     {
       "basename": "巴黎分區",
       "path": "Zettelkasten/巴黎分區.md"
-    },
-    {
-      "basename": "半邊山",
-      "path": "Zettelkasten/半邊山.md"
     },
     {
       "basename": "春風化雨 心得",
@@ -187,18 +199,6 @@
     {
       "basename": "哈伯望遠鏡",
       "path": "Zettelkasten/哈伯望遠鏡.md"
-    },
-    {
-      "basename": "底索曲線",
-      "path": "Zettelkasten/底索曲線.md"
-    },
-    {
-      "basename": "李仙得",
-      "path": "Zettelkasten/李仙得.md"
-    },
-    {
-      "basename": "行星風系與地方風系",
-      "path": "Zettelkasten/行星風系與地方風系.md"
     }
   ],
   "omittedPaths": [
