@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/覆議、附議與復議.md",
+            "file": "Zettelkasten/關鍵字.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/覆議、附議與復議.md",
+                "file": "Zettelkasten/關鍵字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/覆議、附議與復議.md",
+                "file": "Zettelkasten/關鍵字.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "2c14180eaed3911a",
   "lastOpenFiles": [
-    "Zettelkasten/覆議、附議與復議.md",
+    "Zettelkasten/關鍵字.md",
+    "Zettelkasten/蘇丹草原.md",
     "Zettelkasten/羅妹(發)號事件.md",
+    "Zettelkasten/覆議、附議與復議.md",
     "Zettelkasten/SQL 運算子.md",
     "Zettelkasten/VS  Code 小技巧.md",
     "Zettelkasten/WLOG.md",
     "Zettelkasten/SQL 資料查詢(DQL).md",
     "Zettelkasten/Python 變數.md",
-    "Zettelkasten/Python 基本資料型態.md",
-    "Zettelkasten/ndarray.md",
-    "Zettelkasten/HTML Workflow.md"
+    "Zettelkasten/Python 基本資料型態.md"
   ]
 }

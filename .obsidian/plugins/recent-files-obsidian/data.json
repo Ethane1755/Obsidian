@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "覆議、附議與復議",
-      "path": "Zettelkasten/覆議、附議與復議.md"
+      "basename": "關鍵字",
+      "path": "Zettelkasten/關鍵字.md"
+    },
+    {
+      "basename": "蘇丹草原",
+      "path": "Zettelkasten/蘇丹草原.md"
     },
     {
       "basename": "羅妹(發)號事件",
       "path": "Zettelkasten/羅妹(發)號事件.md"
+    },
+    {
+      "basename": "覆議、附議與復議",
+      "path": "Zettelkasten/覆議、附議與復議.md"
     },
     {
       "basename": "SQL 運算子",
@@ -191,14 +199,6 @@
     {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
-    },
-    {
-      "basename": "半邊山",
-      "path": "Zettelkasten/半邊山.md"
-    },
-    {
-      "basename": "太陽風",
-      "path": "Zettelkasten/太陽風.md"
     }
   ],
   "omittedPaths": [
