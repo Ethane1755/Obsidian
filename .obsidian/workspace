@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/公共政策網路參與平台.md",
+            "file": "Zettelkasten/內營力.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/公共政策網路參與平台.md",
+                "file": "Zettelkasten/內營力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/公共政策網路參與平台.md",
+                "file": "Zettelkasten/內營力.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "2c14180eaed3911a",
   "lastOpenFiles": [
+    "Zettelkasten/內營力.md",
+    "Zettelkasten/大南澳事件.md",
+    "Zettelkasten/三角函數.md",
     "Zettelkasten/公共政策網路參與平台.md",
     "Zettelkasten/公聽會.md",
     "Zettelkasten/分層作用.md",
     "Zettelkasten/分點公式.md",
     "Zettelkasten/愛爾蘭獨立戰爭.md",
     "Zettelkasten/新北市人口變化.md",
-    "Zettelkasten/極座標系統.md",
-    "Zettelkasten/準平原.md",
-    "Zettelkasten/瑞立-金斯定律.md",
-    "Zettelkasten/矮行星與小行星.md"
+    "Zettelkasten/極座標系統.md"
   ]
 }
