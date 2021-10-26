@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "波茲曼常數",
+      "path": "Zettelkasten/波茲曼常數.md"
+    },
+    {
+      "basename": "波耳氫原子模型",
+      "path": "Zettelkasten/波耳氫原子模型.md"
+    },
+    {
+      "basename": "法律解釋與適用",
+      "path": "Zettelkasten/法律解釋與適用.md"
+    },
+    {
       "basename": "河川襲奪",
       "path": "Zettelkasten/河川襲奪.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "富拉尼人",
       "path": "Zettelkasten/富拉尼人.md"
-    },
-    {
-      "basename": "閃焰",
-      "path": "Zettelkasten/閃焰.md"
-    },
-    {
-      "basename": "核融合",
-      "path": "Zettelkasten/核融合.md"
-    },
-    {
-      "basename": "臭氧",
-      "path": "Zettelkasten/臭氧.md"
     }
   ],
   "omittedPaths": [
