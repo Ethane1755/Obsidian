@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "河川襲奪",
+      "path": "Zettelkasten/河川襲奪.md"
+    },
+    {
+      "basename": "放射性同位素定年法",
+      "path": "Zettelkasten/放射性同位素定年法.md"
+    },
+    {
       "basename": "台灣人移居圖",
       "path": "Zettelkasten/台灣人移居圖.md"
+    },
+    {
+      "basename": "色球層",
+      "path": "Zettelkasten/色球層.md"
+    },
+    {
+      "basename": "多重根號",
+      "path": "Zettelkasten/多重根號.md"
+    },
+    {
+      "basename": "地科隨堂",
+      "path": "Zettelkasten/地科隨堂.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "半邊山",
@@ -63,10 +87,6 @@
     {
       "basename": "Auto Pair Chinese Symbol Plugin",
       "path": "Zettelkasten/外掛/Auto Pair Chinese Symbol Plugin.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "愛爾蘭獨立宣言全文",
@@ -179,26 +199,6 @@
     {
       "basename": "臭氧",
       "path": "Zettelkasten/臭氧.md"
-    },
-    {
-      "basename": "英文五大句型",
-      "path": "Zettelkasten/英文五大句型.md"
-    },
-    {
-      "basename": "英文口說筆記",
-      "path": "Zettelkasten/英文口說筆記.md"
-    },
-    {
-      "basename": "美國擴張史",
-      "path": "Zettelkasten/美國擴張史.md"
-    },
-    {
-      "basename": "南北戰爭",
-      "path": "Zettelkasten/南北戰爭.md"
-    },
-    {
-      "basename": "哈伯望遠鏡",
-      "path": "Zettelkasten/哈伯望遠鏡.md"
     }
   ],
   "omittedPaths": [
