@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "實數",
+      "path": "Zettelkasten/實數.md"
+    },
+    {
+      "basename": "演替",
+      "path": "Zettelkasten/演替.md"
+    },
+    {
+      "basename": "碳-14",
+      "path": "Zettelkasten/碳-14.md"
+    },
+    {
+      "basename": "磁暴",
+      "path": "Zettelkasten/磁暴.md"
+    },
+    {
+      "basename": "算幾不等式",
+      "path": "Zettelkasten/算幾不等式.md"
+    },
+    {
+      "basename": "褶曲作用",
+      "path": "Zettelkasten/褶曲作用.md"
+    },
+    {
+      "basename": "羅妹(發)號事件",
+      "path": "Zettelkasten/羅妹(發)號事件.md"
+    },
+    {
       "basename": "關鍵字",
       "path": "Zettelkasten/關鍵字.md"
     },
     {
       "basename": "蘇丹草原",
       "path": "Zettelkasten/蘇丹草原.md"
-    },
-    {
-      "basename": "羅妹(發)號事件",
-      "path": "Zettelkasten/羅妹(發)號事件.md"
     },
     {
       "basename": "覆議、附議與復議",
@@ -67,10 +91,6 @@
     {
       "basename": "維恩定律",
       "path": "Zettelkasten/維恩定律.md"
-    },
-    {
-      "basename": "磁暴",
-      "path": "Zettelkasten/磁暴.md"
     },
     {
       "basename": "資料分析",
@@ -179,26 +199,6 @@
     {
       "basename": "放射性同位素定年法",
       "path": "Zettelkasten/放射性同位素定年法.md"
-    },
-    {
-      "basename": "台灣人移居圖",
-      "path": "Zettelkasten/台灣人移居圖.md"
-    },
-    {
-      "basename": "色球層",
-      "path": "Zettelkasten/色球層.md"
-    },
-    {
-      "basename": "多重根號",
-      "path": "Zettelkasten/多重根號.md"
-    },
-    {
-      "basename": "地科隨堂",
-      "path": "Zettelkasten/地科隨堂.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     }
   ],
   "omittedPaths": [
