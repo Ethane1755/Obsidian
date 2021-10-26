@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "HTML Workflow",
+      "path": "Zettelkasten/HTML Workflow.md"
+    },
+    {
+      "basename": "IG Titles",
+      "path": "Zettelkasten/IG Titles.md"
+    },
+    {
+      "basename": "羅妹(發)號事件",
+      "path": "Zettelkasten/羅妹(發)號事件.md"
+    },
+    {
+      "basename": "覆議、附議與復議",
+      "path": "Zettelkasten/覆議、附議與復議.md"
+    },
+    {
+      "basename": "輻射層",
+      "path": "Zettelkasten/輻射層.md"
+    },
+    {
+      "basename": "豬背嶺",
+      "path": "Zettelkasten/豬背嶺.md"
+    },
+    {
+      "basename": "數學科新舊課綱差異",
+      "path": "Zettelkasten/數學科新舊課綱差異.md"
+    },
+    {
+      "basename": "維恩定律",
+      "path": "Zettelkasten/維恩定律.md"
+    },
+    {
       "basename": "磁暴",
       "path": "Zettelkasten/磁暴.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Kanban Plugin",
       "path": "Zettelkasten/外掛/Kanban Plugin.md"
-    },
-    {
-      "basename": "Grandfather Plugin",
-      "path": "Zettelkasten/外掛/Grandfather Plugin.md"
-    },
-    {
-      "basename": "Fullscreen Mode Plugin",
-      "path": "Zettelkasten/外掛/Fullscreen Mode Plugin.md"
-    },
-    {
-      "basename": "Filename Headings Sync Plugin",
-      "path": "Zettelkasten/外掛/Filename Headings Sync Plugin.md"
-    },
-    {
-      "basename": "Copy Button For Code Block Plugin",
-      "path": "Zettelkasten/外掛/Copy Button For Code Block Plugin.md"
-    },
-    {
-      "basename": "Calendar Plugin",
-      "path": "Zettelkasten/外掛/Calendar Plugin.md"
-    },
-    {
-      "basename": "Auto Pair Chinese Symbol Plugin",
-      "path": "Zettelkasten/外掛/Auto Pair Chinese Symbol Plugin.md"
-    },
-    {
-      "basename": "愛爾蘭獨立宣言全文",
-      "path": "Zettelkasten/愛爾蘭獨立宣言全文.md"
-    },
-    {
-      "basename": "生物演替",
-      "path": "Zettelkasten/生物演替.md"
     }
   ],
   "omittedPaths": [
