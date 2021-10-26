@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "2c14180eaed3911a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/英文作文_2.md",
+            "file": "Zettelkasten/磁暴.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/英文作文_2.md",
+                "file": "Zettelkasten/磁暴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/英文作文_2.md",
+                "file": "Zettelkasten/磁暴.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,17 +137,17 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "2c14180eaed3911a",
   "lastOpenFiles": [
-    "Zettelkasten/英文作文_2.md",
-    "Zettelkasten/英文五大句型.md",
-    "Zettelkasten/英文自我介紹.md",
-    "Zettelkasten/美利堅聯盟國.md",
-    "Zettelkasten/柯伊伯帶.md",
-    "Zettelkasten/柯本氣候分類法.md",
-    "Zettelkasten/南北戰爭.md",
-    "Zettelkasten/侵蝕輪迴論.md",
-    "Zettelkasten/花岡一郎與花岡二郎.md",
-    "Zettelkasten/波茲曼常數.md"
+    "Zettelkasten/磁暴.md",
+    "Zettelkasten/資料分析.md",
+    "Zettelkasten/瑞立-金斯定律.md",
+    "Zettelkasten/黑矮星.md",
+    "Zettelkasten/無理數.md",
+    "Zettelkasten/閃焰.md",
+    "Zettelkasten/核融合.md",
+    "Zettelkasten/專題研究_環保素食.md",
+    "Zettelkasten/馬克士威方程組.md",
+    "Zettelkasten/原住民名稱分類.md"
   ]
 }
