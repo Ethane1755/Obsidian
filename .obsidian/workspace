@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/VS  Code 小技巧.md",
+            "file": "Zettelkasten/羅妹(發)號事件.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/VS  Code 小技巧.md",
+                "file": "Zettelkasten/羅妹(發)號事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/VS  Code 小技巧.md",
+                "file": "Zettelkasten/羅妹(發)號事件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,6 +139,8 @@
   },
   "active": "2c14180eaed3911a",
   "lastOpenFiles": [
+    "Zettelkasten/羅妹(發)號事件.md",
+    "Zettelkasten/SQL 運算子.md",
     "Zettelkasten/VS  Code 小技巧.md",
     "Zettelkasten/WLOG.md",
     "Zettelkasten/SQL 資料查詢(DQL).md",
@@ -146,8 +148,6 @@
     "Zettelkasten/Python 基本資料型態.md",
     "Zettelkasten/ndarray.md",
     "Zettelkasten/HTML Workflow.md",
-    "Zettelkasten/IG Titles.md",
-    "Zettelkasten/羅妹(發)號事件.md",
-    "Zettelkasten/覆議、附議與復議.md"
+    "Zettelkasten/IG Titles.md"
   ]
 }

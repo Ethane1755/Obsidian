@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "羅妹(發)號事件",
+      "path": "Zettelkasten/羅妹(發)號事件.md"
+    },
+    {
+      "basename": "SQL 運算子",
+      "path": "Zettelkasten/SQL 運算子.md"
+    },
+    {
       "basename": "VS  Code 小技巧",
       "path": "Zettelkasten/VS  Code 小技巧.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "IG Titles",
       "path": "Zettelkasten/IG Titles.md"
-    },
-    {
-      "basename": "羅妹(發)號事件",
-      "path": "Zettelkasten/羅妹(發)號事件.md"
     },
     {
       "basename": "覆議、附議與復議",
@@ -195,10 +199,6 @@
     {
       "basename": "太陽風",
       "path": "Zettelkasten/太陽風.md"
-    },
-    {
-      "basename": "Better Word Count Plugin",
-      "path": "Zettelkasten/外掛/Better Word Count Plugin.md"
     }
   ],
   "omittedPaths": [
