@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/柯本氣候分類法.md",
+            "file": "Zettelkasten/英文作文_2.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/柯本氣候分類法.md",
+                "file": "Zettelkasten/英文作文_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/柯本氣候分類法.md",
+                "file": "Zettelkasten/英文作文_2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/英文作文_2.md",
+    "Zettelkasten/英文五大句型.md",
+    "Zettelkasten/英文自我介紹.md",
+    "Zettelkasten/美利堅聯盟國.md",
+    "Zettelkasten/柯伊伯帶.md",
     "Zettelkasten/柯本氣候分類法.md",
     "Zettelkasten/南北戰爭.md",
     "Zettelkasten/侵蝕輪迴論.md",
     "Zettelkasten/花岡一郎與花岡二郎.md",
-    "Zettelkasten/波茲曼常數.md",
-    "Zettelkasten/波耳氫原子模型.md",
-    "Zettelkasten/法律解釋與適用.md",
-    "Zettelkasten/河川襲奪.md",
-    "Zettelkasten/放射性同位素定年法.md",
-    "Zettelkasten/台灣人移居圖.md"
+    "Zettelkasten/波茲曼常數.md"
   ]
 }
