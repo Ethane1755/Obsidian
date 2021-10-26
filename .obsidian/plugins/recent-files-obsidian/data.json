@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "VS  Code 小技巧",
+      "path": "Zettelkasten/VS  Code 小技巧.md"
+    },
+    {
+      "basename": "WLOG",
+      "path": "Zettelkasten/WLOG.md"
+    },
+    {
+      "basename": "SQL 資料查詢(DQL)",
+      "path": "Zettelkasten/SQL 資料查詢(DQL).md"
+    },
+    {
+      "basename": "Python 變數",
+      "path": "Zettelkasten/Python 變數.md"
+    },
+    {
+      "basename": "Python 基本資料型態",
+      "path": "Zettelkasten/Python 基本資料型態.md"
+    },
+    {
+      "basename": "ndarray",
+      "path": "Zettelkasten/ndarray.md"
+    },
+    {
       "basename": "HTML Workflow",
       "path": "Zettelkasten/HTML Workflow.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Better Word Count Plugin",
       "path": "Zettelkasten/外掛/Better Word Count Plugin.md"
-    },
-    {
-      "basename": "Study BGM",
-      "path": "Zettelkasten/Study BGM.md"
-    },
-    {
-      "basename": "三次乘法公式",
-      "path": "Zettelkasten/三次乘法公式.md"
-    },
-    {
-      "basename": "9_1~9_11",
-      "path": "Zettelkasten/9_1~9_11.md"
-    },
-    {
-      "basename": "Hider Plugin",
-      "path": "Zettelkasten/外掛/Hider Plugin.md"
-    },
-    {
-      "basename": "Obsidian 快速鍵",
-      "path": "Zettelkasten/外掛/Obsidian 快速鍵.md"
-    },
-    {
-      "basename": "Kanban Plugin",
-      "path": "Zettelkasten/外掛/Kanban Plugin.md"
     }
   ],
   "omittedPaths": [
