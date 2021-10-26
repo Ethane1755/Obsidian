@@ -13,14 +13,6 @@
             "mode": "preview"
           }
         }
-      },
-      {
-        "id": "dadeb83ae87749e8",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
