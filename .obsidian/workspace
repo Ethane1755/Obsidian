@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
+        "id": "6f7f80b7b9434bc7",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Kanban/Kanban.md"
+          }
+        }
+      },
+      {
         "id": "38c9173e3fbee046",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/404.excalidraw.md"
+            "file": "Zettelkasten/Study BGM.md",
+            "mode": "preview"
           }
         }
       }
@@ -62,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/404.excalidraw.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/404.excalidraw.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,20 +145,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/Study BGM.md",
+    "Zettelkasten/水密度分析.md",
     "Excalidraw/404.excalidraw.md",
     "Zettelkasten/光子能量.md",
     "Zettelkasten/三角函數.md",
-    "Zettelkasten/Study BGM.md",
     "Zettelkasten/外掛/Auto Link Title Plugin.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/柯本氣候分類法.md",
     "Zettelkasten/花岡一郎與花岡二郎.md",
-    "Zettelkasten/波茲曼常數.md",
-    "Zettelkasten/波耳氫原子模型.md"
+    "Zettelkasten/波茲曼常數.md"
   ]
 }
