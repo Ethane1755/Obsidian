@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Study BGM.md",
+            "file": "Zettelkasten/外掛/Kanban Plugin.md",
             "mode": "preview"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/外掛/Kanban Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/外掛/Kanban Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/外掛/Kanban Plugin.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/水密度分析.md",
     "Excalidraw/404.excalidraw.md",
@@ -157,7 +158,6 @@
     "Zettelkasten/外掛/Auto Link Title Plugin.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/柯本氣候分類法.md",
-    "Zettelkasten/花岡一郎與花岡二郎.md",
-    "Zettelkasten/波茲曼常數.md"
+    "Zettelkasten/花岡一郎與花岡二郎.md"
   ]
 }

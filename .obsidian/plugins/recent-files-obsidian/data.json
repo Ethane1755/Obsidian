@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban Plugin",
+      "path": "Zettelkasten/外掛/Kanban Plugin.md"
+    },
+    {
       "basename": "Study BGM",
       "path": "Zettelkasten/Study BGM.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "WLOG",
       "path": "Zettelkasten/WLOG.md"
-    },
-    {
-      "basename": "SQL 資料查詢(DQL)",
-      "path": "Zettelkasten/SQL 資料查詢(DQL).md"
     }
   ],
   "omittedPaths": [
