@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "巴黎分區",
+      "path": "Zettelkasten/巴黎分區.md"
+    },
+    {
       "basename": "分點公式",
       "path": "Zettelkasten/分點公式.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "VS  Code 小技巧",
       "path": "Zettelkasten/VS  Code 小技巧.md"
-    },
-    {
-      "basename": "WLOG",
-      "path": "Zettelkasten/WLOG.md"
     }
   ],
   "omittedPaths": [

@@ -9,12 +9,12 @@
     "better_quote",
     "cards",
     "enlarge_fold",
-    "enlarge_pic",
     "color_font",
     "header_centre",
     "tags align",
     "Bullet LInes",
-    "auto_fade"
+    "auto_fade",
+    "enlarge_pic"
   ],
   "translucency": true,
   "baseFontSizeAction": true

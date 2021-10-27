@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/分點公式.md",
-            "mode": "source"
+            "file": "Zettelkasten/巴黎分區.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/分點公式.md",
+                "file": "Zettelkasten/巴黎分區.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/分點公式.md",
+                "file": "Zettelkasten/巴黎分區.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,6 +141,7 @@
   },
   "active": "67696d6430f6bea9",
   "lastOpenFiles": [
+    "Zettelkasten/巴黎分區.md",
     "Zettelkasten/分點公式.md",
     "Kanban/Kanban.md",
     "Zettelkasten/外掛/Kanban Plugin.md",
@@ -149,7 +150,6 @@
     "Excalidraw/404.excalidraw.md",
     "Zettelkasten/光子能量.md",
     "Zettelkasten/三角函數.md",
-    "Zettelkasten/外掛/Auto Link Title Plugin.md",
-    "Zettelkasten/Untitled.md"
+    "Zettelkasten/外掛/Auto Link Title Plugin.md"
   ]
 }
