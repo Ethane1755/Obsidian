@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "Kanban Plugin",
       "path": "Zettelkasten/外掛/Kanban Plugin.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "三角不等式",
       "path": "Zettelkasten/三角不等式.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "專題研究_環保素食",
