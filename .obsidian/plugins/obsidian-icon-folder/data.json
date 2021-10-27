@@ -1,4 +1,11 @@
 {
+  "settings": {
+    "enableRemixiconsLine": true,
+    "enableRemixiconsFill": false,
+    "enableFontawesomeFill": false,
+    "enableFontawesomeLine": false,
+    "enableFontawesomeBrands": false
+  },
   "Zettelkasten": "RiCommandFill",
   "Kanban": "RiAppleLine",
   "_resources": "RiImageLine",
@@ -9,6 +16,5 @@
   "Zettelkasten/自然探究實作": "RiLeafLine",
   "CKHS_Backup": "RiAppStoreLine",
   "Zettelkasten/外掛": "RiPlugLine",
-  "README.md": "RiGitPullRequestLine",
-  "Excalidraw": "RiPenNibLine"
+  "README.md": "RiGitPullRequestLine"
 }
