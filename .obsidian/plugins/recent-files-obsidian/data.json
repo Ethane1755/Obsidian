@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "404.excalidraw",
+      "path": "Excalidraw/404.excalidraw.md"
+    },
+    {
       "basename": "光子能量",
       "path": "Zettelkasten/光子能量.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL 資料查詢(DQL)",
       "path": "Zettelkasten/SQL 資料查詢(DQL).md"
-    },
-    {
-      "basename": "Python 變數",
-      "path": "Zettelkasten/Python 變數.md"
     }
   ],
   "omittedPaths": [
