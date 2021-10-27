@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Zettelkasten/Untitled.md"
+    },
+    {
       "basename": "柯本氣候分類法",
       "path": "Zettelkasten/柯本氣候分類法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Python 基本資料型態",
       "path": "Zettelkasten/Python 基本資料型態.md"
-    },
-    {
-      "basename": "ndarray",
-      "path": "Zettelkasten/ndarray.md"
     }
   ],
   "omittedPaths": [
