@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "7079b8e5c306aeab",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/柯本氣候分類法.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +60,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/柯本氣候分類法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/柯本氣候分類法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,9 +130,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 283.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "7079b8e5c306aeab",
   "lastOpenFiles": [
     "Zettelkasten/柯本氣候分類法.md",
     "Zettelkasten/花岡一郎與花岡二郎.md",
