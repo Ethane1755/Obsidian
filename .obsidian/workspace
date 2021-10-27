@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "48a1a04b7f764229",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddeb8e0dde0626e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/三角函數.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9c33f4af5fdf53f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cbb1f4015750da1",
+        "type": "tabs",
+        "dimension": 42.4390243902439,
+        "children": [
+          {
+            "id": "ce124a85989e51ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "57eb9b56099ae3b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "自然探究",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a5a892a2c7f80c6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7d8a1fcfd493bba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten/三角函數.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "18d8fb9879b88a20",
+        "type": "tabs",
+        "dimension": 57.560975609756085,
+        "children": [
+          {
+            "id": "bb348a5fe3eda7d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/三角函數.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "6b84faf83a99a6bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f13afb779b3672f",
+        "type": "tabs",
+        "dimension": 40.36585365853659,
+        "children": [
+          {
+            "id": "33b1ef87fcced71e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f4ddd2c006121db9",
+        "type": "tabs",
+        "dimension": 59.63414634146341,
+        "children": [
+          {
+            "id": "6e4f8f338038e457",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "active": "ddeb8e0dde0626e5",
+  "lastOpenFiles": [
+    "Zettelkasten/三角函數.md",
+    "Zettelkasten/外掛/Auto Link Title Plugin.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/柯本氣候分類法.md",
+    "Zettelkasten/花岡一郎與花岡二郎.md",
+    "Zettelkasten/波茲曼常數.md",
+    "Zettelkasten/波耳氫原子模型.md",
+    "Zettelkasten/法律解釋與適用.md",
+    "Zettelkasten/光子能量.md",
+    "Zettelkasten/石灰岩地形.md"
+  ]
+}
