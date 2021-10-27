@@ -7,8 +7,11 @@
         "id": "6ac3cc35656747c0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/三角函數.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/三角函數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/三角函數.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,6 +139,7 @@
   },
   "active": "6ac3cc35656747c0",
   "lastOpenFiles": [
+    "Zettelkasten/三角函數.md",
     "Zettelkasten/外掛/Auto Link Title Plugin.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/柯本氣候分類法.md",
@@ -142,7 +148,6 @@
     "Zettelkasten/波耳氫原子模型.md",
     "Zettelkasten/法律解釋與適用.md",
     "Zettelkasten/光子能量.md",
-    "Zettelkasten/石灰岩地形.md",
-    "Zettelkasten/甲必丹.md"
+    "Zettelkasten/石灰岩地形.md"
   ]
 }
