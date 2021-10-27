@@ -45,21 +45,6 @@
             }
           },
           {
-            "id": "57eb9b56099ae3b1",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "自然探究",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "5a5a892a2c7f80c6",
             "type": "leaf",
             "state": {
@@ -81,6 +66,21 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "28ac63fffa1df172",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
