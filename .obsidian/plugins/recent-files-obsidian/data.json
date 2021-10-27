@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Auto Link Title Plugin",
+      "path": "Zettelkasten/外掛/Auto Link Title Plugin.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Zettelkasten/Untitled.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Python 變數",
       "path": "Zettelkasten/Python 變數.md"
-    },
-    {
-      "basename": "Python 基本資料型態",
-      "path": "Zettelkasten/Python 基本資料型態.md"
     }
   ],
   "omittedPaths": [
