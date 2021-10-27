@@ -16,6 +16,6 @@
     "tags align",
     "Bullet LInes"
   ],
-  "translucency": false,
+  "translucency": true,
   "baseFontSizeAction": true
 }
