@@ -6,7 +6,6 @@
     "新文字文件",
     "Bullet Lines",
     "Fonts",
-    "auto_fade",
     "better_quote",
     "cards",
     "enlarge_fold",
@@ -14,7 +13,8 @@
     "color_font",
     "header_centre",
     "tags align",
-    "Bullet LInes"
+    "Bullet LInes",
+    "auto_fade"
   ],
   "translucency": true,
   "baseFontSizeAction": true
