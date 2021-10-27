@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/三角函數.md",
+            "file": "Zettelkasten/光子能量.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/三角函數.md",
+                "file": "Zettelkasten/光子能量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/三角函數.md",
+                "file": "Zettelkasten/光子能量.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,6 +141,7 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/光子能量.md",
     "Zettelkasten/三角函數.md",
     "Zettelkasten/Study BGM.md",
     "Zettelkasten/外掛/Auto Link Title Plugin.md",
@@ -149,7 +150,6 @@
     "Zettelkasten/花岡一郎與花岡二郎.md",
     "Zettelkasten/波茲曼常數.md",
     "Zettelkasten/波耳氫原子模型.md",
-    "Zettelkasten/法律解釋與適用.md",
-    "Zettelkasten/光子能量.md"
+    "Zettelkasten/法律解釋與適用.md"
   ]
 }
