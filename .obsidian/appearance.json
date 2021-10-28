@@ -16,6 +16,6 @@
     "auto_fade",
     "enlarge_pic"
   ],
-  "translucency": true,
+  "translucency": false,
   "baseFontSizeAction": true
 }
