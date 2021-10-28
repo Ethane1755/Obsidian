@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "巴黎分區",
       "path": "Zettelkasten/巴黎分區.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL 運算子",
       "path": "Zettelkasten/SQL 運算子.md"
-    },
-    {
-      "basename": "VS  Code 小技巧",
-      "path": "Zettelkasten/VS  Code 小技巧.md"
     }
   ],
   "omittedPaths": [

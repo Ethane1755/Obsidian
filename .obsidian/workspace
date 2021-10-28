@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/巴黎分區.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/巴黎分區.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/巴黎分區.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -141,6 +140,7 @@
   },
   "active": "67696d6430f6bea9",
   "lastOpenFiles": [
+    "README.md",
     "Zettelkasten/巴黎分區.md",
     "Zettelkasten/分點公式.md",
     "Kanban/Kanban.md",
@@ -149,7 +149,6 @@
     "Zettelkasten/水密度分析.md",
     "Excalidraw/404.excalidraw.md",
     "Zettelkasten/光子能量.md",
-    "Zettelkasten/三角函數.md",
-    "Zettelkasten/外掛/Auto Link Title Plugin.md"
+    "Zettelkasten/三角函數.md"
   ]
 }
