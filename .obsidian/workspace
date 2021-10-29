@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/自然探究實作/食鹽水密度預報.md",
+            "file": "Zettelkasten/Study BGM.md",
             "mode": "preview"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自然探究實作/食鹽水密度預報.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/自然探究實作/食鹽水密度預報.md",
+                "file": "Zettelkasten/Study BGM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,9 +149,9 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/Study BGM.md",
     "Zettelkasten/自然探究實作/食鹽水密度預報.md",
     "Zettelkasten/自然探究實作/食鹽水密度測量_結報.md",
-    "Zettelkasten/Study BGM.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/外掛/Grandfather Plugin.md",
     "README.md",
