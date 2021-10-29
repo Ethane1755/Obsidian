@@ -19,8 +19,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Study BGM.md",
-            "mode": "source"
+            "file": "Zettelkasten/主量子數.md",
+            "mode": "preview"
           }
         }
       }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/主量子數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Study BGM.md",
+                "file": "Zettelkasten/主量子數.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,8 @@
   },
   "active": "38c9173e3fbee046",
   "lastOpenFiles": [
+    "Zettelkasten/主量子數.md",
+    "Zettelkasten/外掛/Grandfather Plugin.md",
     "Zettelkasten/Study BGM.md",
     "README.md",
     "Zettelkasten/巴黎分區.md",
@@ -156,8 +158,6 @@
     "Kanban/Kanban.md",
     "Zettelkasten/外掛/Kanban Plugin.md",
     "Zettelkasten/水密度分析.md",
-    "Excalidraw/404.excalidraw.md",
-    "Zettelkasten/光子能量.md",
-    "Zettelkasten/三角函數.md"
+    "Excalidraw/404.excalidraw.md"
   ]
 }

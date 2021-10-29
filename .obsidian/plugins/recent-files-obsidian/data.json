@@ -5,6 +5,14 @@
       "path": "Zettelkasten/Study BGM.md"
     },
     {
+      "basename": "主量子數",
+      "path": "Zettelkasten/主量子數.md"
+    },
+    {
+      "basename": "Grandfather Plugin",
+      "path": "Zettelkasten/外掛/Grandfather Plugin.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "蘇丹草原",
       "path": "Zettelkasten/蘇丹草原.md"
-    },
-    {
-      "basename": "覆議、附議與復議",
-      "path": "Zettelkasten/覆議、附議與復議.md"
-    },
-    {
-      "basename": "SQL 運算子",
-      "path": "Zettelkasten/SQL 運算子.md"
     }
   ],
   "omittedPaths": [
