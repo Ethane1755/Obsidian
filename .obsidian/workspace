@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Excalidraw/404.excalidraw_0.md"
+            "file": "Excalidraw/Text Elements.md"
           }
         }
       }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/404.excalidraw_0.md",
+                "file": "Excalidraw/Text Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/404.excalidraw_0.md",
+                "file": "Excalidraw/Text Elements.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Excalidraw/404.excalidraw_0.md",
+    "Excalidraw/Text Elements.md",
     "Kanban/Kanban.md",
     "Zettelkasten/自然探究期中報告.md",
     "Zettelkasten/三角不等式.md",
