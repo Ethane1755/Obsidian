@@ -1,1 +1,4 @@
-{}
+{
+  "buttons-styles@@button-border@@dark": "#E0AC44",
+  "buttons-styles@@button-border-radius": 20
+}
