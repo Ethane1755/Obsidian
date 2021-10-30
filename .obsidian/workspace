@@ -13,6 +13,14 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "52a388e84517b18f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"

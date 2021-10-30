@@ -1,6 +1,7 @@
 {
   "buttons-styles@@button-border@@dark": "#E0AC44",
-  "buttons-styles@@button-border-radius": 20,
+  "buttons-styles@@button-border-radius": 50,
   "buttons-styles@@button-box-shadow@@dark": "#3B4252",
-  "buttons-styles@@button-text@@dark": "#E0AC44"
+  "buttons-styles@@button-text@@dark": "#ECEFF4",
+  "buttons-styles@@button-background@@dark": "#2E3440"
 }
