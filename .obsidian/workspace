@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/主量子數.md",
-            "mode": "preview"
+            "file": "Zettelkasten/自然探究期中報告.md",
+            "mode": "source"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/自然探究期中報告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/主量子數.md",
+                "file": "Zettelkasten/自然探究期中報告.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -135,17 +137,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "active": "f45defa69cff7dee",
   "lastOpenFiles": [
+    "Zettelkasten/自然探究期中報告.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/The Boys in The Boat.md",
     "Zettelkasten/VS  Code 小技巧.md",
     "Zettelkasten/Untitled.md",
     "Kanban/Kanban.md",
     "Zettelkasten/Study BGM.md",
-    "Zettelkasten/自然探究期中報告.md",
     "Zettelkasten/公共政策網路參與平台.md",
     "Zettelkasten/自然探究實作/食鹽水密度預報.md",
     "Zettelkasten/自然探究實作/食鹽水密度測量_結報.md"
