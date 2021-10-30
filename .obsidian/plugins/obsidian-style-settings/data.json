@@ -1,4 +1,5 @@
 {
   "buttons-styles@@button-border@@dark": "#E0AC44",
-  "buttons-styles@@button-border-radius": 20
+  "buttons-styles@@button-border-radius": 20,
+  "buttons-styles@@button-box-shadow@@dark": "#2E3440"
 }
