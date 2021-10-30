@@ -35,5 +35,7 @@
   "customizable-sidebar",
   "obsidian-excalidraw-plugin",
   "obsidian-emoji-toolbar",
-  "obsidian-statusbar-pomo"
+  "obsidian-statusbar-pomo",
+  "buttons",
+  "obsidian-collapse-all-plugin"
 ]
