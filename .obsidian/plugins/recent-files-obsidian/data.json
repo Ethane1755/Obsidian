@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Study BGM",
-      "path": "Zettelkasten/Study BGM.md"
+      "basename": "主量子數",
+      "path": "Zettelkasten/主量子數.md"
+    },
+    {
+      "basename": "The Boys in The Boat",
+      "path": "Zettelkasten/The Boys in The Boat.md"
+    },
+    {
+      "basename": "VS  Code 小技巧",
+      "path": "Zettelkasten/VS  Code 小技巧.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "自然探究期中報告",
@@ -13,20 +25,12 @@
       "path": "Zettelkasten/公共政策網路參與平台.md"
     },
     {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
-    },
-    {
       "basename": "食鹽水密度預報",
       "path": "Zettelkasten/自然探究實作/食鹽水密度預報.md"
     },
     {
       "basename": "食鹽水密度測量_結報",
       "path": "Zettelkasten/自然探究實作/食鹽水密度測量_結報.md"
-    },
-    {
-      "basename": "主量子數",
-      "path": "Zettelkasten/主量子數.md"
     },
     {
       "basename": "Grandfather Plugin",
@@ -67,10 +71,6 @@
     {
       "basename": "Auto Link Title Plugin",
       "path": "Zettelkasten/外掛/Auto Link Title Plugin.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Zettelkasten/Untitled.md"
     },
     {
       "basename": "柯本氣候分類法",
