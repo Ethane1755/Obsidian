@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "自然探究期中報告",
       "path": "Zettelkasten/自然探究期中報告.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "三角函數",
       "path": "Zettelkasten/三角函數.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "主量子數",
