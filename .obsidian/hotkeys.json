@@ -263,5 +263,13 @@
       ],
       "key": "G"
     }
+  ],
+  "buttons:button-maker": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
   ]
 }
