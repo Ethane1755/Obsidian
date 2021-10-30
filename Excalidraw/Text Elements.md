@@ -7,7 +7,7 @@ excalidraw-plugin: parsed
 
 
 # Text Elements
-Plants Dye Experiment ^Z43h6O50
+Plants Dye Experiment ^IxWHwIkh
 
 %%
 # Drawing
@@ -1773,7 +1773,7 @@ Plants Dye Experiment ^Z43h6O50
 			"boundElementIds": []
 		},
 		{
-			"id": "Z43h6O50",
+			"id": "IxWHwIkh",
 			"type": "text",
 			"x": -162.35530456113878,
 			"y": 87.60709240012247,
