@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/主量子數.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
