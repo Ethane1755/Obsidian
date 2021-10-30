@@ -7,9 +7,9 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "excalidraw",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "Excalidraw/404.excalidraw_0.md"
           }
         }
       }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Excalidraw/404.excalidraw_0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Excalidraw/404.excalidraw_0.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,6 +138,7 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Excalidraw/404.excalidraw_0.md",
     "Kanban/Kanban.md",
     "Zettelkasten/自然探究期中報告.md",
     "Zettelkasten/三角不等式.md",
@@ -146,7 +147,6 @@
     "Zettelkasten/三角函數.md",
     "Zettelkasten/主量子數.md",
     "Zettelkasten/The Boys in The Boat.md",
-    "Zettelkasten/VS  Code 小技巧.md",
-    "Zettelkasten/Untitled.md"
+    "Zettelkasten/VS  Code 小技巧.md"
   ]
 }

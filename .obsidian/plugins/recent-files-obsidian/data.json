@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "404.excalidraw_0",
+      "path": "Excalidraw/404.excalidraw_0.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "算幾不等式",
       "path": "Zettelkasten/算幾不等式.md"
-    },
-    {
-      "basename": "褶曲作用",
-      "path": "Zettelkasten/褶曲作用.md"
     }
   ],
   "omittedPaths": [
