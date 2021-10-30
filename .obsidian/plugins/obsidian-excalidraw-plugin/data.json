@@ -5,7 +5,7 @@
   "drawingFilenameDateTime": "404",
   "width": "400",
   "matchTheme": true,
-  "matchThemeAlways": false,
+  "matchThemeAlways": true,
   "zoomToFitOnResize": true,
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",
