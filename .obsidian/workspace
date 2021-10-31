@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "dda3904233b03ea6",
+        "id": "c7f07ed0dee35066",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Text Elements.md"
+            "file": "Zettelkasten/自然探究期中報告.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Text Elements.md",
+                "file": "Zettelkasten/自然探究期中報告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Text Elements.md",
+                "file": "Zettelkasten/自然探究期中報告.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,10 +140,10 @@
     "width": 273.5,
     "collapsed": true
   },
-  "active": "dda3904233b03ea6",
+  "active": "c7f07ed0dee35066",
   "lastOpenFiles": [
-    "Excalidraw/Text Elements.md",
     "Zettelkasten/自然探究期中報告.md",
+    "Excalidraw/Text Elements.md",
     "Kanban/Kanban.md",
     "Zettelkasten/三角不等式.md",
     "Zettelkasten/大南澳事件.md",
