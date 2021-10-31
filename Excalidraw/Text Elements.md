@@ -1829,7 +1829,7 @@ Plants Dye Experiment ^IxWHwIkh
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "orange",
@@ -1854,7 +1854,7 @@ Plants Dye Experiment ^IxWHwIkh
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012.7536907536888 795.3792318792314" width="1012.7536907536888" height="795.3792318792314" filter="invert(93%) hue-rotate(180deg)">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012.7536907536888 795.3792318792314" width="1012.7536907536888" height="795.3792318792314">
 	<!-- svg-source:excalidraw -->
 
 	<defs>
