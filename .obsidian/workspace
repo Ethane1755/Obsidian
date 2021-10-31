@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "dda3904233b03ea6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/自然探究期中報告.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -140,7 +140,7 @@
     "width": 273.5,
     "collapsed": true
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "dda3904233b03ea6",
   "lastOpenFiles": [
     "Zettelkasten/自然探究期中報告.md",
     "Kanban/Kanban.md",
