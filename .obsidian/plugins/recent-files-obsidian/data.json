@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "自然探究期中報告",
       "path": "Zettelkasten/自然探究期中報告.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "太陽星雲說",
       "path": "Zettelkasten/太陽星雲說.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "Text Elements",
