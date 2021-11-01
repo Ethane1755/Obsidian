@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
-    },
-    {
       "basename": "專題研究_環保素食",
       "path": "Zettelkasten/專題研究_環保素食.md"
     },
     {
       "basename": "自然探究期中報告",
       "path": "Zettelkasten/自然探究期中報告.md"
+    },
+    {
+      "basename": "太陽星雲說",
+      "path": "Zettelkasten/太陽星雲說.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "Text Elements",
@@ -195,10 +199,6 @@
     {
       "basename": "磁暴",
       "path": "Zettelkasten/磁暴.md"
-    },
-    {
-      "basename": "算幾不等式",
-      "path": "Zettelkasten/算幾不等式.md"
     }
   ],
   "omittedPaths": [
