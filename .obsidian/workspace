@@ -7,9 +7,10 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "Zettelkasten/自然探究期中報告.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/自然探究期中報告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
@@ -86,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/自然探究期中報告.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -96,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -134,12 +137,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Kanban/Kanban.md",
     "Zettelkasten/自然探究期中報告.md",
+    "Kanban/Kanban.md",
     "Excalidraw/Text Elements.md",
     "Zettelkasten/三角不等式.md",
     "Zettelkasten/大南澳事件.md",
