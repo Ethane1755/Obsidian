@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "社考",
+      "path": "Zettelkasten/社考.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "演替",
       "path": "Zettelkasten/演替.md"
-    },
-    {
-      "basename": "碳-14",
-      "path": "Zettelkasten/碳-14.md"
     }
   ],
   "omittedPaths": [
