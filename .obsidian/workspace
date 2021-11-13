@@ -7,9 +7,20 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "pdf",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "_resources/第二堂社課-天球座標.pdf"
+          }
+        }
+      },
+      {
+        "id": "d429aec7f5ee4ed4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/社考.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "_resources/第二堂社課-天球座標.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "_resources/第二堂社課-天球座標.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,8 +152,8 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Kanban/Kanban.md",
     "_resources/第二堂社課-天球座標.pdf",
+    "Kanban/Kanban.md",
     "Zettelkasten/社考.md",
     "Zettelkasten/地圖本質.md",
     "Zettelkasten/自然探究期中報告.md",
