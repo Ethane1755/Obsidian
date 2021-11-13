@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
@@ -139,6 +140,7 @@
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
     "Kanban/Kanban.md",
+    "Zettelkasten/地圖本質.md",
     "Zettelkasten/自然探究期中報告.md",
     "Zettelkasten/專題研究_環保素食.md",
     "Zettelkasten/太陽星雲說.md",
@@ -146,7 +148,6 @@
     "Zettelkasten/三角不等式.md",
     "Zettelkasten/大南澳事件.md",
     "Zettelkasten/內營力.md",
-    "Zettelkasten/三角函數.md",
-    "Zettelkasten/主量子數.md"
+    "Zettelkasten/三角函數.md"
   ]
 }

@@ -5,6 +5,10 @@
       "path": "Kanban/Kanban.md"
     },
     {
+      "basename": "地圖本質",
+      "path": "Zettelkasten/地圖本質.md"
+    },
+    {
       "basename": "自然探究期中報告",
       "path": "Zettelkasten/自然探究期中報告.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "碳-14",
       "path": "Zettelkasten/碳-14.md"
-    },
-    {
-      "basename": "磁暴",
-      "path": "Zettelkasten/磁暴.md"
     }
   ],
   "omittedPaths": [
