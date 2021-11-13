@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_resources/第二堂社課-天球座標.pdf",
+                "file": "Zettelkasten/社考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_resources/第二堂社課-天球座標.pdf",
+                "file": "Zettelkasten/社考.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,10 +149,10 @@
     "width": 273.5,
     "collapsed": true
   },
-  "active": "dd41927068954125",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "_resources/第二堂社課-天球座標.pdf",
     "Zettelkasten/社考.md",
+    "_resources/第二堂社課-天球座標.pdf",
     "Kanban/Kanban.md",
     "Zettelkasten/地圖本質.md",
     "Zettelkasten/自然探究期中報告.md",
