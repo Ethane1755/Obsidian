@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "dd41927068954125",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "_resources/第二堂社課-天球座標.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/社考.md",
+                "file": "_resources/第二堂社課-天球座標.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -88,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/社考.md",
+                "file": "_resources/第二堂社課-天球座標.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -136,10 +146,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "dd41927068954125",
   "lastOpenFiles": [
+    "_resources/第二堂社課-天球座標.pdf",
     "Zettelkasten/社考.md",
     "Kanban/Kanban.md",
     "Zettelkasten/地圖本質.md",
@@ -148,7 +160,6 @@
     "Zettelkasten/太陽星雲說.md",
     "Excalidraw/Text Elements.md",
     "Zettelkasten/三角不等式.md",
-    "Zettelkasten/大南澳事件.md",
-    "Zettelkasten/內營力.md"
+    "Zettelkasten/大南澳事件.md"
   ]
 }

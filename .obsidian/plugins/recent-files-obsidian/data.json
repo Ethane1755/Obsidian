@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "第二堂社課-天球座標",
+      "path": "_resources/第二堂社課-天球座標.pdf"
+    },
+    {
       "basename": "社考",
       "path": "Zettelkasten/社考.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "實數",
       "path": "Zettelkasten/實數.md"
-    },
-    {
-      "basename": "演替",
-      "path": "Zettelkasten/演替.md"
     }
   ],
   "omittedPaths": [
