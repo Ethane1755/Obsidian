@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
+      "basename": "課文續寫",
+      "path": "Zettelkasten/課文續寫.md"
+    },
+    {
+      "basename": "IMG_20211005_202341",
+      "path": "_resources/Past/IMG_20211005_202341.png"
     },
     {
       "basename": "第二堂社課-天球座標",
       "path": "_resources/第二堂社課-天球座標.pdf"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "社考",
@@ -191,14 +199,6 @@
     {
       "basename": "電磁波速公式",
       "path": "Zettelkasten/電磁波速公式.md"
-    },
-    {
-      "basename": "圖阿雷格人",
-      "path": "Zettelkasten/圖阿雷格人.md"
-    },
-    {
-      "basename": "實數",
-      "path": "Zettelkasten/實數.md"
     }
   ],
   "omittedPaths": [
