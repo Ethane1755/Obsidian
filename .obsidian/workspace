@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "bc62116b1e084c09",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/課文續寫.md",
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/課文續寫.md",
+                "file": "Zettelkasten/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,8 +149,9 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "1d72f598a760007d",
+  "active": "bc62116b1e084c09",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/課文續寫.md",
     "_resources/Past/IMG_20211005_202341.png",
     "_resources/第二堂社課-天球座標.pdf",
@@ -148,7 +160,6 @@
     "Zettelkasten/地圖本質.md",
     "Zettelkasten/自然探究期中報告.md",
     "Zettelkasten/專題研究_環保素食.md",
-    "Zettelkasten/太陽星雲說.md",
-    "Excalidraw/Text Elements.md"
+    "Zettelkasten/太陽星雲說.md"
   ]
 }

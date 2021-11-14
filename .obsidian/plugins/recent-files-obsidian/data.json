@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Zettelkasten/Untitled.md"
+    },
+    {
       "basename": "課文續寫",
       "path": "Zettelkasten/課文續寫.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "電子軌域",
       "path": "Zettelkasten/電子軌域.md"
-    },
-    {
-      "basename": "電磁波速公式",
-      "path": "Zettelkasten/電磁波速公式.md"
     }
   ],
   "omittedPaths": [
