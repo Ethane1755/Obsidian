@@ -7,20 +7,9 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "kanban",
           "state": {
-            "file": "_resources/第二堂社課-天球座標.pdf"
-          }
-        }
-      },
-      {
-        "id": "d429aec7f5ee4ed4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/社考.md",
-            "mode": "source"
+            "file": "Kanban/Kanban.md"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "社考",
+                "query": "自然探究",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_resources/第二堂社課-天球座標.pdf",
+                "file": "Kanban/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -98,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_resources/第二堂社課-天球座標.pdf",
+                "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -147,13 +134,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "_resources/第二堂社課-天球座標.pdf",
     "Kanban/Kanban.md",
+    "_resources/第二堂社課-天球座標.pdf",
     "Zettelkasten/社考.md",
     "Zettelkasten/地圖本質.md",
     "Zettelkasten/自然探究期中報告.md",
