@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/能讓台灣變更好的一件事.md",
+                "file": "Zettelkasten/課文續寫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/能讓台灣變更好的一件事.md",
+                "file": "Zettelkasten/課文續寫.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,10 +148,10 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "bc62116b1e084c09",
+  "active": "1d72f598a760007d",
   "lastOpenFiles": [
-    "Zettelkasten/能讓台灣變更好的一件事.md",
     "Zettelkasten/課文續寫.md",
+    "Zettelkasten/能讓台灣變更好的一件事.md",
     "_resources/Past/IMG_20211005_202341.png",
     "_resources/第二堂社課-天球座標.pdf",
     "Kanban/Kanban.md",
