@@ -26,7 +26,6 @@ kanban-plugin: basic
 
 ## 已完成
 
-**Complete**
 - [x] 公民報告練習(1)
 - [x] 春風化雨心得
 - [x] 自然探究報告
@@ -35,8 +34,6 @@ kanban-plugin: basic
 - [x] 五味屋資料
 
 
-***
-
 ## Archive
 
 - [x] 哈囉你是誰
@@ -44,6 +41,9 @@ kanban-plugin: basic
 - [x] 你好屁
 - [x] ![[440px-HRDiagram.png]]
 - [x] lalala
+
+
+
 
 %% kanban:settings
 ```
