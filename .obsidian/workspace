@@ -4,35 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1d72f598a760007d",
+        "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Zettelkasten/課文續寫.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "bc62116b1e084c09",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/能讓台灣變更好的一件事.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f3ac69261f7f43f9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Untitled.md",
-            "mode": "source"
+            "file": "Kanban/Kanban.md"
           }
         }
       }
@@ -62,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "自然探究",
                 "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -85,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Kanban/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +105,7 @@
       {
         "id": "4f13afb779b3672f",
         "type": "tabs",
-        "dimension": 45.36585365853659,
+        "dimension": 40.36585365853659,
         "children": [
           {
             "id": "33b1ef87fcced71e",
@@ -143,7 +120,7 @@
       {
         "id": "f4ddd2c006121db9",
         "type": "tabs",
-        "dimension": 54.63414634146342,
+        "dimension": 59.63414634146341,
         "children": [
           {
             "id": "6e4f8f338038e457",
@@ -159,14 +136,14 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "f3ac69261f7f43f9",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Kanban/Kanban.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/能讓台灣變更好的一件事.md",
     "Zettelkasten/課文續寫.md",
     "_resources/Past/IMG_20211005_202341.png",
     "_resources/第二堂社課-天球座標.pdf",
-    "Kanban/Kanban.md",
     "Zettelkasten/社考.md",
     "Zettelkasten/地圖本質.md",
     "Zettelkasten/自然探究期中報告.md",
