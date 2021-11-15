@@ -1,3 +1,4 @@
 import googletrans as gt
+from googletrans.client import Translator
 print(gt.LANGUAGES)
-gt.detect('hello')
+Translator.detect('hello')
