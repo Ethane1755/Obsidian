@@ -1,4 +1,4 @@
-import googletrans as gt
-from googletrans.client import Translator
-print(gt.LANGUAGES)
-print(translator.translate('測試'))
+from googletrans import Translator
+
+translator = Translator(service_urls=['translate.googleapis.com'])
+print(translator.translate('測試').text)
