@@ -7,9 +7,20 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "Zettelkasten/社考.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "975c24d9a00dc0c1",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "_resources/第二堂社課-天球座標.pdf"
           }
         }
       }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自然探究",
+                "query": "社考",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "_resources/第二堂社課-天球座標.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "_resources/第二堂社課-天球座標.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -96,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -134,17 +146,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "975c24d9a00dc0c1",
   "lastOpenFiles": [
+    "_resources/第二堂社課-天球座標.pdf",
+    "Zettelkasten/社考.md",
     "Kanban/Kanban.md",
     "Zettelkasten/能讓台灣變更好的一件事.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/課文續寫.md",
     "_resources/Past/IMG_20211005_202341.png",
-    "_resources/第二堂社課-天球座標.pdf",
-    "Zettelkasten/社考.md",
     "Zettelkasten/地圖本質.md",
     "Zettelkasten/自然探究期中報告.md",
     "Zettelkasten/專題研究_環保素食.md"
