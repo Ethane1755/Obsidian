@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "Zettelkasten/Untitled 1.md"
+    },
+    {
       "basename": "第二堂社課-天球座標",
       "path": "_resources/第二堂社課-天球座標.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "解題背後的心理學心得",
       "path": "Zettelkasten/解題背後的心理學心得.md"
-    },
-    {
-      "basename": "資料分析",
-      "path": "Zettelkasten/資料分析.md"
     }
   ],
   "omittedPaths": [
