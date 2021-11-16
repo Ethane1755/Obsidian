@@ -31,7 +31,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/星際空間的有機物質.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "社考",
+                "query": "helio",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "18d8fb9879b88a20",
