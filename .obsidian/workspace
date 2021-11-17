@@ -7,31 +7,9 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Zettelkasten/社考.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "975c24d9a00dc0c1",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "_resources/第二堂社課-天球座標.pdf"
-          }
-        }
-      },
-      {
-        "id": "23fde8a4cf3565b1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/星際空間的有機物質.md",
-            "mode": "preview"
+            "file": "Kanban/Kanban.md"
           }
         }
       }
@@ -61,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "helio",
+                "query": "自然探究",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/星際空間的有機物質.md",
+                "file": "Kanban/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -109,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/星際空間的有機物質.md",
+                "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -158,15 +134,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
-  "active": "23fde8a4cf3565b1",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Kanban/Kanban.md",
     "Zettelkasten/星際空間的有機物質.md",
     "_resources/第二堂社課-天球座標.pdf",
     "Zettelkasten/社考.md",
-    "Kanban/Kanban.md",
     "Zettelkasten/能讓台灣變更好的一件事.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/課文續寫.md",

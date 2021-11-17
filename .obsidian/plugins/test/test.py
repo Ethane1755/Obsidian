@@ -1,0 +1,5 @@
+print('這是XXXXX作業')
+a=int(input('a='))
+d=int(input('d='))
+n=int(input('n='))
+print(a+(n-1)*d)
