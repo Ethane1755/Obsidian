@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "English_Vocabulary_9.4",
+      "path": "Anki cards/English/English_Vocabulary_9.4.md"
+    },
+    {
+      "basename": "English_Vocabulary_9.3",
+      "path": "Anki cards/English/English_Vocabulary_9.3.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "瑞立-金斯定律",
       "path": "Zettelkasten/瑞立-金斯定律.md"
-    },
-    {
-      "basename": "矮行星與小行星",
-      "path": "Zettelkasten/矮行星與小行星.md"
-    },
-    {
-      "basename": "解題背後的心理學心得",
-      "path": "Zettelkasten/解題背後的心理學心得.md"
     }
   ],
   "omittedPaths": [
