@@ -5,6 +5,10 @@
       "path": "Zettelkasten/地理筆記.md"
     },
     {
+      "basename": "斷層作用",
+      "path": "Zettelkasten/斷層作用.md"
+    },
+    {
       "basename": "豬背嶺",
       "path": "Zettelkasten/豬背嶺.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "公聽會",
       "path": "Zettelkasten/公聽會.md"
-    },
-    {
-      "basename": "愛爾蘭獨立戰爭",
-      "path": "Zettelkasten/愛爾蘭獨立戰爭.md"
     }
   ],
   "omittedPaths": [
