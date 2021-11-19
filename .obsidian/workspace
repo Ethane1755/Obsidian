@@ -7,9 +7,10 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "Zettelkasten/地理觀念（高中地理主軸）.md",
+            "mode": "preview"
           }
         }
       }
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/地理觀念（高中地理主軸）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/地理觀念（高中地理主軸）.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,6 +139,7 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/地理觀念（高中地理主軸）.md",
     "Kanban/Kanban.md",
     "Anki cards/English/English_Vocabulary_9.4.md",
     "Anki cards/English/English_Vocabulary_9.3.md",
@@ -146,7 +148,6 @@
     "Zettelkasten/社考.md",
     "Zettelkasten/能讓台灣變更好的一件事.md",
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/課文續寫.md",
-    "_resources/Past/IMG_20211005_202341.png"
+    "Zettelkasten/課文續寫.md"
   ]
 }
