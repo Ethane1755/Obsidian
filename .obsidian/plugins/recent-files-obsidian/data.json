@@ -5,6 +5,14 @@
       "path": "Zettelkasten/地理筆記.md"
     },
     {
+      "basename": "豬背嶺",
+      "path": "Zettelkasten/豬背嶺.md"
+    },
+    {
+      "basename": "單面山",
+      "path": "Zettelkasten/單面山.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "愛爾蘭獨立戰爭",
       "path": "Zettelkasten/愛爾蘭獨立戰爭.md"
-    },
-    {
-      "basename": "新北市人口變化",
-      "path": "Zettelkasten/新北市人口變化.md"
-    },
-    {
-      "basename": "極座標系統",
-      "path": "Zettelkasten/極座標系統.md"
     }
   ],
   "omittedPaths": [
