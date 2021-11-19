@@ -5,6 +5,18 @@
       "path": "Zettelkasten/地理筆記.md"
     },
     {
+      "basename": "斷層崖",
+      "path": "Zettelkasten/斷層崖.md"
+    },
+    {
+      "basename": "地塹",
+      "path": "Zettelkasten/地塹.md"
+    },
+    {
+      "basename": "地壘",
+      "path": "Zettelkasten/地壘.md"
+    },
+    {
       "basename": "斷層作用",
       "path": "Zettelkasten/斷層作用.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "民國時期來台人流",
       "path": "Zettelkasten/民國時期來台人流.md"
-    },
-    {
-      "basename": "日冕",
-      "path": "Zettelkasten/日冕.md"
-    },
-    {
-      "basename": "分層作用",
-      "path": "Zettelkasten/分層作用.md"
-    },
-    {
-      "basename": "公聽會",
-      "path": "Zettelkasten/公聽會.md"
     }
   ],
   "omittedPaths": [
