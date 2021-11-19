@@ -15,17 +15,6 @@
         }
       },
       {
-        "id": "5eec1b38947f1ca5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/地塹.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "739aa219aa373cb8",
         "type": "leaf",
         "state": {
@@ -85,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地理筆記.md",
+                "file": "Zettelkasten/地壘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地理筆記.md",
+                "file": "Zettelkasten/地壘.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,12 +150,12 @@
     "width": 273.5,
     "collapsed": true
   },
-  "active": "b0bcdfe02b6d94f6",
+  "active": "739aa219aa373cb8",
   "lastOpenFiles": [
+    "Zettelkasten/地壘.md",
     "Zettelkasten/地理筆記.md",
     "Zettelkasten/地塹.md",
     "Zettelkasten/斷層崖.md",
-    "Zettelkasten/地壘.md",
     "Zettelkasten/斷層作用.md",
     "Zettelkasten/豬背嶺.md",
     "Zettelkasten/單面山.md",
