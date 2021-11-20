@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "26c29b8ccf7b9032",
+        "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Text Elements.md"
+            "file": "Zettelkasten/地理筆記.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Text Elements.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Text Elements.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,16 +136,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
-  "active": "26c29b8ccf7b9032",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Excalidraw/Text Elements.md",
     "Zettelkasten/地理筆記.md",
-    "Excalidraw/404.excalidraw_0.md",
     "Excalidraw/Text Elements.png",
+    "Excalidraw/Text Elements.md",
     "Kanban/Kanban.md",
+    "Excalidraw/404.excalidraw_0.md",
     "Zettelkasten/豬背嶺.md",
     "Zettelkasten/地壘.md",
     "Zettelkasten/地塹.md",
