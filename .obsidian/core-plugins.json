@@ -1,6 +1,7 @@
 [
   "file-explorer",
   "global-search",
+  "switcher",
   "graph",
   "backlink",
   "outgoing-link",
@@ -10,5 +11,6 @@
   "note-composer",
   "command-palette",
   "slides",
-  "workspaces"
+  "workspaces",
+  "file-recovery"
 ]

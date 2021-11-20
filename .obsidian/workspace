@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/地理筆記.md",
+            "file": "Zettelkasten/豬背嶺.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地理筆記.md",
+                "file": "Zettelkasten/豬背嶺.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地理筆記.md",
+                "file": "Zettelkasten/豬背嶺.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,6 +139,7 @@
   },
   "active": "213ff807ec3e4468",
   "lastOpenFiles": [
+    "Zettelkasten/豬背嶺.md",
     "Zettelkasten/地理筆記.md",
     "Zettelkasten/地理學研究傳統.md",
     "Zettelkasten/台灣考古學發展.md",
@@ -147,7 +148,6 @@
     "Zettelkasten/河川襲奪.md",
     "Anki cards/Geography.md",
     "Zettelkasten/縮尺係數.md",
-    "_resources/Past/701GrGnvPy.jpg",
-    "Zettelkasten/太陽風.md"
+    "_resources/Past/701GrGnvPy.jpg"
   ]
 }
