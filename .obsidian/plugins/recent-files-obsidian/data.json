@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "柯本氣候分類法",
+      "path": "Zettelkasten/柯本氣候分類法.md"
+    },
+    {
+      "basename": "柯伊伯帶",
+      "path": "Zettelkasten/柯伊伯帶.md"
+    },
+    {
+      "basename": "公共政策網路參與平台",
+      "path": "Zettelkasten/公共政策網路參與平台.md"
+    },
+    {
+      "basename": "ndarray",
+      "path": "Zettelkasten/ndarray.md"
+    },
+    {
+      "basename": "第二堂社課-天球座標",
+      "path": "_resources/第二堂社課-天球座標.pdf"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -109,20 +133,12 @@
       "path": "Zettelkasten/多重根號.md"
     },
     {
-      "basename": "公共政策網路參與平台",
-      "path": "Zettelkasten/公共政策網路參與平台.md"
-    },
-    {
       "basename": "Blockly",
       "path": "Zettelkasten/Blockly.md"
     },
     {
       "basename": "地理筆記",
       "path": "Zettelkasten/地理筆記.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "Text Elements",
@@ -169,10 +185,6 @@
       "path": "Zettelkasten/星際空間的有機物質.md"
     },
     {
-      "basename": "第二堂社課-天球座標",
-      "path": "_resources/第二堂社課-天球座標.pdf"
-    },
-    {
       "basename": "社考",
       "path": "Zettelkasten/社考.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "IMG_20211005_202341",
       "path": "_resources/Past/IMG_20211005_202341.png"
-    },
-    {
-      "basename": "地圖本質",
-      "path": "Zettelkasten/地圖本質.md"
-    },
-    {
-      "basename": "專題研究_環保素食",
-      "path": "Zettelkasten/專題研究_環保素食.md"
-    },
-    {
-      "basename": "太陽星雲說",
-      "path": "Zettelkasten/太陽星雲說.md"
     }
   ],
   "omittedPaths": [
