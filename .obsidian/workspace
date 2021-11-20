@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/豬背嶺.md",
+            "file": "Zettelkasten/地理筆記.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/豬背嶺.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/豬背嶺.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,8 +141,8 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Zettelkasten/豬背嶺.md",
     "Zettelkasten/地理筆記.md",
+    "Zettelkasten/豬背嶺.md",
     "Kanban/Kanban.md",
     "Zettelkasten/地壘.md",
     "Zettelkasten/地塹.md",
