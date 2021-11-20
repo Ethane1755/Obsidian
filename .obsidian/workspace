@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/絕對定年法.md",
+            "file": "Zettelkasten/放射性同位素定年法.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/絕對定年法.md",
+                "file": "Zettelkasten/放射性同位素定年法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/絕對定年法.md",
+                "file": "Zettelkasten/放射性同位素定年法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,6 +140,7 @@
   },
   "active": "213ff807ec3e4468",
   "lastOpenFiles": [
+    "Zettelkasten/放射性同位素定年法.md",
     "Zettelkasten/絕對定年法.md",
     "Zettelkasten/河川襲奪.md",
     "Anki cards/Geography.md",
@@ -148,7 +149,6 @@
     "Zettelkasten/太陽風.md",
     "Zettelkasten/統計學.md",
     "Zettelkasten/絕對值.md",
-    "Zettelkasten/細胞與能量.md",
-    "Zettelkasten/算幾不等式.md"
+    "Zettelkasten/細胞與能量.md"
   ]
 }
