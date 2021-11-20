@@ -16,7 +16,7 @@
   "forceWrap": false,
   "pageTransclusionCharLimit": 200,
   "iframelyAllowed": true,
-  "pngExportScale": 1,
+  "pngExportScale": 3,
   "exportWithTheme": false,
   "exportWithBackground": false,
   "keepInSync": true,
