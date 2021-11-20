@@ -9,47 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/太陽風.md",
+            "file": "Zettelkasten/絕對定年法.md",
             "mode": "preview"
           }
-        },
-        "group": "aadf7007db067b69"
-      },
-      {
-        "id": "126a0b6a03c48e24",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Zettelkasten/太陽風.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.6554983534946917,
-              "close": false
-            }
-          }
-        },
-        "group": "aadf7007db067b69"
+        }
       }
     ],
     "direction": "vertical"
@@ -100,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/太陽風.md",
+                "file": "Zettelkasten/絕對定年法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/太陽風.md",
+                "file": "Zettelkasten/絕對定年法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -175,14 +138,14 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "126a0b6a03c48e24",
+  "active": "213ff807ec3e4468",
   "lastOpenFiles": [
-    "Zettelkasten/太陽風.md",
-    "_resources/Past/701GrGnvPy.jpg",
-    "Zettelkasten/縮尺係數.md",
-    "Anki cards/Geography.md",
-    "Zettelkasten/河川襲奪.md",
     "Zettelkasten/絕對定年法.md",
+    "Zettelkasten/河川襲奪.md",
+    "Anki cards/Geography.md",
+    "Zettelkasten/縮尺係數.md",
+    "_resources/Past/701GrGnvPy.jpg",
+    "Zettelkasten/太陽風.md",
     "Zettelkasten/統計學.md",
     "Zettelkasten/絕對值.md",
     "Zettelkasten/細胞與能量.md",
