@@ -4,7 +4,7 @@
 .picker_editor > input {
   background-color: var(--background-primary);
 }
-div {border-color: #92a8d1;}
+
 .picker_editor > input {
   color: var(--text-normal);
 }
