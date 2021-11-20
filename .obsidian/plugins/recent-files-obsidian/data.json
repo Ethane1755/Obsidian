@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "地理筆記",
+      "path": "Zettelkasten/地理筆記.md"
+    },
+    {
+      "basename": "地理學研究傳統",
+      "path": "Zettelkasten/地理學研究傳統.md"
+    },
+    {
+      "basename": "台灣考古學發展",
+      "path": "Zettelkasten/台灣考古學發展.md"
+    },
+    {
       "basename": "放射性同位素定年法",
       "path": "Zettelkasten/放射性同位素定年法.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "黨團",
       "path": "Zettelkasten/黨團.md"
-    },
-    {
-      "basename": "維恩定律",
-      "path": "Zettelkasten/維恩定律.md"
-    },
-    {
-      "basename": "歷史解釋_認同問題",
-      "path": "Zettelkasten/歷史解釋_認同問題.md"
-    },
-    {
-      "basename": "歐特雲",
-      "path": "Zettelkasten/歐特雲.md"
     }
   ],
   "omittedPaths": [
