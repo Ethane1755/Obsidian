@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "黨團",
+      "path": "Zettelkasten/黨團.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "距離模數公式",
       "path": "Zettelkasten/距離模數公式.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "食鹽水密度測量_結報",
       "path": "Zettelkasten/自然探究實作/食鹽水密度測量_結報.md"
-    },
-    {
-      "basename": "Grandfather Plugin",
-      "path": "Zettelkasten/外掛/Grandfather Plugin.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [

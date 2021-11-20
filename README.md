@@ -1,4 +1,4 @@
-# Welcome to Ethane1755/Obsidian!
+# README
 [![Netlify Status](https://api.netlify.com/api/v1/badges/64482242-2e96-4a65-8116-1c282a99b62c/deploy-status)](https://app.netlify.com/sites/ethane-obsidian/deploys)
 ***
 I'm a student in CKHS, Taipei, Taiwan.  

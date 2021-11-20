@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/距離模數公式.md",
+            "file": "Zettelkasten/黨團.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/距離模數公式.md",
+                "file": "Zettelkasten/黨團.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/距離模數公式.md",
+                "file": "Zettelkasten/黨團.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,6 +139,8 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/黨團.md",
+    "README.md",
     "Zettelkasten/距離模數公式.md",
     "Zettelkasten/赫羅圖.md",
     "Zettelkasten/黑體輻射.md",
@@ -146,8 +148,6 @@
     "Zettelkasten/縮尺係數.md",
     "Zettelkasten/統計學.md",
     "Zettelkasten/絕對定年法.md",
-    "Zettelkasten/水密度分析.md",
-    "Zettelkasten/民國時期來台人流.md",
-    "Zettelkasten/歷史解釋_認同問題.md"
+    "Zettelkasten/水密度分析.md"
   ]
 }
