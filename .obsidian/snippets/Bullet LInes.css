@@ -1,10 +1,10 @@
 /* Bullet point line relationship */
+/*rgba(40,44,52,0.5)*/
 .cm-hmd-list-indent .cm-tab, ul ul { position: relative; }
 .cm-hmd-list-indent .cm-tab::before, ul ul::before {
 content:'';
-border-left: 2px solid rgba(40,44,52,0.5);
+border-left: 2px solid rgba(255, 255, 255, 0.774);
 position: absolute;
-box-shadow: none;
 }
 .cm-hmd-list-indent .cm-tab::before { left: 0; top: -5px; bottom: -4px;
 }
