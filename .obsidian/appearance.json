@@ -8,13 +8,13 @@
     "Fonts",
     "better_quote",
     "cards",
-    "enlarge_fold",
     "color_font",
     "header_centre",
     "tags align",
     "Bullet LInes",
     "auto_fade",
-    "enlarge_pic"
+    "enlarge_pic",
+    "enlarge_fold"
   ],
   "translucency": false,
   "baseFontSizeAction": true
