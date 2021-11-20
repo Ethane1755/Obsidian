@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "普朗克[[黑體輻射]]定律",
-      "path": "Zettelkasten/普朗克[[黑體輻射]]定律.md"
+      "basename": "距離模數公式",
+      "path": "Zettelkasten/距離模數公式.md"
+    },
+    {
+      "basename": "赫羅圖",
+      "path": "Zettelkasten/赫羅圖.md"
+    },
+    {
+      "basename": "黑體輻射",
+      "path": "Zettelkasten/黑體輻射.md"
+    },
+    {
+      "basename": "維恩定律",
+      "path": "Zettelkasten/維恩定律.md"
+    },
+    {
+      "basename": "縮尺係數",
+      "path": "Zettelkasten/縮尺係數.md"
+    },
+    {
+      "basename": "統計學",
+      "path": "Zettelkasten/統計學.md"
+    },
+    {
+      "basename": "絕對定年法",
+      "path": "Zettelkasten/絕對定年法.md"
+    },
+    {
+      "basename": "水密度分析",
+      "path": "Zettelkasten/水密度分析.md"
+    },
+    {
+      "basename": "民國時期來台人流",
+      "path": "Zettelkasten/民國時期來台人流.md"
+    },
+    {
+      "basename": "歷史解釋_認同問題",
+      "path": "Zettelkasten/歷史解釋_認同問題.md"
+    },
+    {
+      "basename": "歐特雲",
+      "path": "Zettelkasten/歐特雲.md"
+    },
+    {
+      "basename": "普朗克黑體輻射定律",
+      "path": "Zettelkasten/普朗克黑體輻射定律.md"
     },
     {
       "basename": "多重根號",
@@ -155,50 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "巴黎分區",
-      "path": "Zettelkasten/巴黎分區.md"
-    },
-    {
-      "basename": "分點公式",
-      "path": "Zettelkasten/分點公式.md"
-    },
-    {
-      "basename": "Kanban Plugin",
-      "path": "Zettelkasten/外掛/Kanban Plugin.md"
-    },
-    {
-      "basename": "水密度分析",
-      "path": "Zettelkasten/水密度分析.md"
-    },
-    {
-      "basename": "光子能量",
-      "path": "Zettelkasten/光子能量.md"
-    },
-    {
-      "basename": "Auto Link Title Plugin",
-      "path": "Zettelkasten/外掛/Auto Link Title Plugin.md"
-    },
-    {
-      "basename": "柯本氣候分類法",
-      "path": "Zettelkasten/柯本氣候分類法.md"
-    },
-    {
-      "basename": "花岡一郎與花岡二郎",
-      "path": "Zettelkasten/花岡一郎與花岡二郎.md"
-    },
-    {
-      "basename": "波茲曼常數",
-      "path": "Zettelkasten/波茲曼常數.md"
-    },
-    {
-      "basename": "波耳氫原子模型",
-      "path": "Zettelkasten/波耳氫原子模型.md"
-    },
-    {
-      "basename": "法律解釋與適用",
-      "path": "Zettelkasten/法律解釋與適用.md"
     }
   ],
   "omittedPaths": [
