@@ -7,8 +7,11 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/普朗克[[黑體輻射]]定律.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/普朗克[[黑體輻射]]定律.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -70,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -84,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/普朗克[[黑體輻射]]定律.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,14 +139,15 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/普朗克[[黑體輻射]]定律.md",
+    "Zettelkasten/多重根號.md",
+    "Zettelkasten/公共政策網路參與平台.md",
+    "Zettelkasten/Blockly.md",
     "Zettelkasten/地理筆記.md",
     "Kanban/Kanban.md",
     "Excalidraw/Text Elements.png",
     "Excalidraw/Text Elements.md",
     "Excalidraw/404.excalidraw_0.md",
-    "Zettelkasten/豬背嶺.md",
-    "Zettelkasten/地壘.md",
-    "Zettelkasten/地塹.md",
-    "Zettelkasten/斷層崖.md"
+    "Zettelkasten/豬背嶺.md"
   ]
 }
