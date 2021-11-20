@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/豬背嶺.md",
-            "mode": "preview"
+            "file": "Zettelkasten/地理筆記.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#物理",
+                "query": "地理筆記",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/豬背嶺.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "18d8fb9879b88a20",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/豬背嶺.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,8 +140,8 @@
   },
   "active": "213ff807ec3e4468",
   "lastOpenFiles": [
-    "Zettelkasten/豬背嶺.md",
     "Zettelkasten/地理筆記.md",
+    "Zettelkasten/豬背嶺.md",
     "Zettelkasten/地理學研究傳統.md",
     "Zettelkasten/台灣考古學發展.md",
     "Zettelkasten/放射性同位素定年法.md",
