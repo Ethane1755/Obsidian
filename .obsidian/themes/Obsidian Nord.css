@@ -74,11 +74,11 @@
 	--text-a:                     var(--frost3);
 	--text-a-hover:               var(--frost1);
 	--text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
-	--pre-code:                   var(--light2);
-	--text-highlight-bg:          var(--yellow);
+	--pre-code:                   var(--dark2);
+	--text-highlight-bg:          rgba(224, 172, 68, 0.6);
 	--interactive-accent:         var(--frost0);
 	--interactive-before:         var(--light0);
-	--background-modifier-border: var(--light1);
+	--background-modifier-border: var(--dark2);
 	--text-accent:                var(--orange);
 	--interactive-accent-rgb:     var(--orange);
 	--inline-code:                var(--dark2);
