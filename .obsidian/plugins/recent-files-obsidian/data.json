@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Notes",
       "path": "_Templates/Notes.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "黨團",
       "path": "Zettelkasten/黨團.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "維恩定律",

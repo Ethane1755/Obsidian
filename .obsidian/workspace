@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Templates/Notes.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Templates/Notes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Templates/Notes.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,6 +139,7 @@
   },
   "active": "9655d929ce3f272b",
   "lastOpenFiles": [
+    "README.md",
     "_Templates/Notes.md",
     "Zettelkasten/絕對定年法.md",
     "Zettelkasten/統計學.md",
@@ -148,7 +148,6 @@
     "Zettelkasten/自主學習計畫討論.md",
     "Zettelkasten/自然探究實作_紀錄表格.md",
     "Zettelkasten/自然探究_改正.md",
-    "Zettelkasten/自然探究期中報告.md",
-    "Zettelkasten/荷蘭東印度公司.md"
+    "Zettelkasten/自然探究期中報告.md"
   ]
 }
