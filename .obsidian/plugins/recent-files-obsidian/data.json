@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "太陽風",
+      "path": "Zettelkasten/太陽風.md"
+    },
+    {
+      "basename": "701GrGnvPy",
+      "path": "_resources/Past/701GrGnvPy.jpg"
+    },
+    {
+      "basename": "縮尺係數",
+      "path": "Zettelkasten/縮尺係數.md"
+    },
+    {
+      "basename": "Geography",
+      "path": "Anki cards/Geography.md"
+    },
+    {
+      "basename": "河川襲奪",
+      "path": "Zettelkasten/河川襲奪.md"
+    },
+    {
       "basename": "絕對定年法",
       "path": "Zettelkasten/絕對定年法.md"
     },
@@ -51,10 +71,6 @@
     {
       "basename": "生物演替",
       "path": "Zettelkasten/生物演替.md"
-    },
-    {
-      "basename": "河川襲奪",
-      "path": "Zettelkasten/河川襲奪.md"
     },
     {
       "basename": "水密度測量流程表",
@@ -173,10 +189,6 @@
       "path": "Zettelkasten/維恩定律.md"
     },
     {
-      "basename": "縮尺係數",
-      "path": "Zettelkasten/縮尺係數.md"
-    },
-    {
       "basename": "歷史解釋_認同問題",
       "path": "Zettelkasten/歷史解釋_認同問題.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "普朗克黑體輻射定律",
       "path": "Zettelkasten/普朗克黑體輻射定律.md"
-    },
-    {
-      "basename": "多重根號",
-      "path": "Zettelkasten/多重根號.md"
-    },
-    {
-      "basename": "Blockly",
-      "path": "Zettelkasten/Blockly.md"
-    },
-    {
-      "basename": "地理筆記",
-      "path": "Zettelkasten/地理筆記.md"
     }
   ],
   "omittedPaths": [

@@ -7,10 +7,9 @@
         "id": "213ff807ec3e4468",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Zettelkasten/絕對定年法.md",
-            "mode": "preview"
+            "file": "_resources/Past/701GrGnvPy.jpg"
           }
         }
       }
@@ -40,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自然探究",
+                "query": "tag:#物理",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/絕對定年法.md",
+                "file": "_resources/Past/701GrGnvPy.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "18d8fb9879b88a20",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/絕對定年法.md",
+                "file": "_resources/Past/701GrGnvPy.jpg",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "213ff807ec3e4468",
   "lastOpenFiles": [
+    "_resources/Past/701GrGnvPy.jpg",
+    "Zettelkasten/縮尺係數.md",
+    "Anki cards/Geography.md",
+    "Zettelkasten/河川襲奪.md",
     "Zettelkasten/絕對定年法.md",
     "Zettelkasten/統計學.md",
     "Zettelkasten/絕對值.md",
     "Zettelkasten/細胞與能量.md",
     "Zettelkasten/算幾不等式.md",
-    "Zettelkasten/立法院.md",
-    "Zettelkasten/社考.md",
-    "Zettelkasten/磁暴.md",
-    "Zettelkasten/碳-14.md",
-    "Zettelkasten/石灰岩地形.md"
+    "Zettelkasten/立法院.md"
   ]
 }
