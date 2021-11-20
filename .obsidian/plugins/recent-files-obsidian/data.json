@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "404.excalidraw",
-      "path": "Excalidraw/404.excalidraw.md"
-    },
-    {
       "basename": "地理筆記",
       "path": "Zettelkasten/地理筆記.md"
+    },
+    {
+      "basename": "404.excalidraw",
+      "path": "Excalidraw/404.excalidraw.png"
+    },
+    {
+      "basename": "404.excalidraw",
+      "path": "Excalidraw/404.excalidraw.md"
     },
     {
       "basename": "豬背嶺",
@@ -195,10 +199,6 @@
     {
       "basename": "黑矮星",
       "path": "Zettelkasten/黑矮星.md"
-    },
-    {
-      "basename": "黑體輻射",
-      "path": "Zettelkasten/黑體輻射.md"
     }
   ],
   "omittedPaths": [
