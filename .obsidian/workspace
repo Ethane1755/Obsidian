@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -137,14 +136,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
     "Zettelkasten/地理筆記.md",
-    "Zettelkasten/豬背嶺.md",
     "Kanban/Kanban.md",
+    "Zettelkasten/豬背嶺.md",
     "Zettelkasten/地壘.md",
     "Zettelkasten/地塹.md",
     "Zettelkasten/斷層崖.md",

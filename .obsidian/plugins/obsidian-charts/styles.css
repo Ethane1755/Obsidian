@@ -6,7 +6,7 @@
 }
 
 .picker_editor > input {
-  color: var(--light1);
+  color: var(--text-normal);
 }
 
 div.chart-error {
