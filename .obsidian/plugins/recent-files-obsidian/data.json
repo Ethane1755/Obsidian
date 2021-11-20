@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "404.excalidraw",
+      "path": "Excalidraw/404.excalidraw.md"
+    },
+    {
       "basename": "地理筆記",
       "path": "Zettelkasten/地理筆記.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "黑體輻射",
       "path": "Zettelkasten/黑體輻射.md"
-    },
-    {
-      "basename": "黨團",
-      "path": "Zettelkasten/黨團.md"
     }
   ],
   "omittedPaths": [

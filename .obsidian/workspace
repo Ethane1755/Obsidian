@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "37441525e0770c49",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/404.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地理筆記.md",
+                "file": "Excalidraw/404.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地理筆記.md",
+                "file": "Excalidraw/404.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,8 +148,9 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "213ff807ec3e4468",
+  "active": "37441525e0770c49",
   "lastOpenFiles": [
+    "Excalidraw/404.excalidraw.md",
     "Zettelkasten/地理筆記.md",
     "Zettelkasten/豬背嶺.md",
     "Zettelkasten/地理學研究傳統.md",
@@ -148,7 +159,6 @@
     "Zettelkasten/絕對定年法.md",
     "Zettelkasten/河川襲奪.md",
     "Anki cards/Geography.md",
-    "Zettelkasten/縮尺係數.md",
-    "_resources/Past/701GrGnvPy.jpg"
+    "Zettelkasten/縮尺係數.md"
   ]
 }
