@@ -77,7 +77,7 @@
 	--pre-code:                   var(--dark2);
 	--text-highlight-bg:          rgba(224, 172, 68, 0.6);
 	--interactive-accent:         var(--frost0);
-	--interactive-before:         var(--light0);
+	--interactive-before:         var(--dark2);
 	--background-modifier-border: var(--dark2);
 	--text-accent:                var(--orange);
 	--interactive-accent-rgb:     var(--orange);
