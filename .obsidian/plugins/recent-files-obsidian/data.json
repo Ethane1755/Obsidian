@@ -5,6 +5,10 @@
       "path": "Zettelkasten/地理筆記.md"
     },
     {
+      "basename": "Ex-211120-2220.excalidraw",
+      "path": "Excalidraw/Ex-211120-2220.excalidraw.md"
+    },
+    {
       "basename": "Ex-211120-220.excalidraw",
       "path": "Excalidraw/Ex-211120-220.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "香料貿易",
       "path": "Zettelkasten/香料貿易.md"
-    },
-    {
-      "basename": "馬克士威方程組",
-      "path": "Zettelkasten/馬克士威方程組.md"
     }
   ],
   "omittedPaths": [
