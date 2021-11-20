@@ -101,6 +101,10 @@
   padding: 0;
   margin: 0;
 }
+.mm-node-edit > ol,
+.mm-node-edit > ul{
+  padding-left: 20px;
+}
 
 .mm-node.mm-root .mm-node-content {
   font-size: 1.6em;
@@ -150,6 +154,13 @@
   margin-top: -5px;
 }
 
+.mm-node-right.mm-mindmap1-node  .mm-node-bar{
+  right: -20px;
+  top: 50%;
+  margin-top: -5px;
+}
+
+
 .mm-root .mm-node-bar,
 .mm-node-second .mm-node-bar {
   top: 50%;
@@ -181,6 +192,12 @@
   margin-top: -5px;
 }
 
+.mm-node-left.mm-mindmap1-node  .mm-node-bar{
+  left: -20px;
+  top: 50%;
+  margin-top: -5px;
+}
+
 .mm-node-collapse .mm-node-bar {
   display: block !important;
   box-sizing: border-box;
@@ -193,6 +210,10 @@
 .mm-node-leaf .mm-node-bar,
 .mm-node-induce .mm-node-bar {
   display: none!important;
+}
+
+.mm-node.mm-node-induce .mm-node-content{
+  background-color: var(--background-primary);
 }
 
 
@@ -240,9 +261,9 @@
   position:absolute;
   background:#333;
   border:1px solid #000;
-  width:132px;
+  width:160px;
   border-radius: 0.25rem;
-  z-index: 60;
+  z-index: 6000;
 }
 
 .theme-light .mm-node-menu{
@@ -271,7 +292,7 @@
 
 .mm-drag {
   position: absolute;
-  z-index: 7000;
+  z-index: 5000;
   left: 2000px;
   top: 2000px;
   color: #f5f5f5;
@@ -1074,6 +1095,72 @@
   max-width: 400px;
 }
 
+.mm-note{
+  position: absolute;
+  width:400px;
+  height: 300px;
+  background-color:rgb(68 68 68);
+  border: 1px solid #000;
+  color: white;
+  z-index: 6000;
+  border-radius:5px;
+}
+
+.mm-note textarea{
+  outline: none;
+  border:0px solid #ccc;
+  display: block;
+  width:100%;
+  height: 100%;
+}
+
+.theme-light .mm-note{
+  background-color:white;
+  border: 1px solid #ccc;
+  color: #333;
+}
+
+.mm-note-dom svg{
+  fill: #d4d4d4;
+}
+
+.theme-light .mm-node-dom svg{
+   fill: #333;
+}
+
+.mm-node-note-close{
+  position: absolute;
+  right:6px;
+  top:6px;
+  color:red;
+  width:20px;
+  height: 20px;
+  font-size: 14px;
+}
+
+.mm-node-note-tab{
+  position: absolute;
+  min-width:400px;
+  min-height: 300px;
+  max-width: 500px;
+  max-height: 400px;
+  border-radius:5px;
+  background-color: wheat;
+  color:#333;
+  overflow: auto;
+  z-index: 6000;
+  display: none;
+}
+.mm-node-note-container{
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.block-language-mindmap{
+  
+  height: 600px;
+}
 
 
 
