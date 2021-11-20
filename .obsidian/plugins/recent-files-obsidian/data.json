@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "404.excalidraw",
+      "path": "Excalidraw/404.excalidraw.md"
+    },
+    {
       "basename": "404.excalidraw_0",
       "path": "Excalidraw/404.excalidraw_0.md"
     },
@@ -93,10 +97,6 @@
       "path": "Zettelkasten/太陽星雲說.md"
     },
     {
-      "basename": "Text Elements",
-      "path": "Excalidraw/Text Elements.md"
-    },
-    {
       "basename": "三角不等式",
       "path": "Zettelkasten/三角不等式.md"
     },
@@ -161,10 +161,6 @@
       "path": "Zettelkasten/水密度分析.md"
     },
     {
-      "basename": "404.excalidraw",
-      "path": "Excalidraw/404.excalidraw.md"
-    },
-    {
       "basename": "光子能量",
       "path": "Zettelkasten/光子能量.md"
     },
@@ -195,10 +191,6 @@
     {
       "basename": "石灰岩地形",
       "path": "Zettelkasten/石灰岩地形.md"
-    },
-    {
-      "basename": "甲必丹",
-      "path": "Zettelkasten/甲必丹.md"
     }
   ],
   "omittedPaths": [

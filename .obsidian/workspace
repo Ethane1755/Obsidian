@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "fb4d4deb77a6dd73",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/404.excalidraw_0.md"
+            "file": "Excalidraw/404.excalidraw.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/404.excalidraw_0.md",
+                "file": "Excalidraw/404.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/404.excalidraw_0.md",
+                "file": "Excalidraw/404.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -139,17 +138,17 @@
     "width": 273.5,
     "collapsed": true
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "fb4d4deb77a6dd73",
   "lastOpenFiles": [
+    "Excalidraw/404.excalidraw.md",
     "Excalidraw/404.excalidraw_0.md",
+    "Excalidraw/Text Elements.md",
+    "Excalidraw/Text Elements.png",
     "Zettelkasten/地理筆記.md",
     "Kanban/Kanban.md",
     "Zettelkasten/豬背嶺.md",
     "Zettelkasten/地壘.md",
     "Zettelkasten/地塹.md",
-    "Zettelkasten/斷層崖.md",
-    "Zettelkasten/斷層作用.md",
-    "Zettelkasten/單面山.md",
-    "Zettelkasten/地理觀念（高中地理主軸）.md"
+    "Zettelkasten/斷層崖.md"
   ]
 }
