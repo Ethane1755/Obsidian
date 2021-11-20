@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地理筆記.md",
+                "file": "Excalidraw/Ex-211120-2220.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地理筆記.md",
+                "file": "Excalidraw/Ex-211120-2220.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,10 +147,10 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "213ff807ec3e4468",
+  "active": "80648fc9c63ef295",
   "lastOpenFiles": [
-    "Zettelkasten/地理筆記.md",
     "Excalidraw/Ex-211120-2220.excalidraw.md",
+    "Zettelkasten/地理筆記.md",
     "Excalidraw/Ex-211120-220.excalidraw.md",
     "Excalidraw/404.excalidraw.png",
     "Excalidraw/404.excalidraw.md",
