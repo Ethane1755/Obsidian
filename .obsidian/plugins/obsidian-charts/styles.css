@@ -3,18 +3,15 @@
 .picker_wrapper.popup .picker_arrow::after,
 .picker_editor > input {
   background-color: var(--background-primary);
-  border-color: #ffffff
 }
-
+div {border-color: #92a8d1;}
 .picker_editor > input {
   color: var(--text-normal);
-  border-color: #ffffff
 }
 
 div.chart-error {
   padding: 1rem;
   border-radius: 1rem;
-  border-color: #ffffff
   background-color: var(--background-secondary);
 }
 
