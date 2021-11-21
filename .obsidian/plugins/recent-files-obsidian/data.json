@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "地理筆記",
-      "path": "Zettelkasten/地理筆記.md"
+      "basename": "Ex-211121-2217.excalidraw",
+      "path": "Excalidraw/Ex-211121-2217.excalidraw.md"
     },
     {
       "basename": "Ex-211121-2058.excalidraw",
       "path": "Excalidraw/Ex-211121-2058.excalidraw.md"
+    },
+    {
+      "basename": "地理筆記",
+      "path": "Zettelkasten/地理筆記.md"
     },
     {
       "basename": "Kanban",
@@ -195,10 +199,6 @@
     {
       "basename": "資料分析",
       "path": "Zettelkasten/資料分析.md"
-    },
-    {
-      "basename": "赫羅圖",
-      "path": "Zettelkasten/赫羅圖.md"
     }
   ],
   "omittedPaths": [
