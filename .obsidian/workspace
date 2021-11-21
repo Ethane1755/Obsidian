@@ -13,34 +13,6 @@
             "mode": "preview"
           }
         }
-      },
-      {
-        "id": "310cd7b912981f83",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "5a9f7f228a7fc8f7",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Excalidraw/Ex-211121-2058.excalidraw.png"
-          }
-        }
-      },
-      {
-        "id": "ddad1ac0d01d2e01",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Ex-211121-2227.excalidraw.md"
-          }
-        }
       }
     ],
     "direction": "vertical"
