@@ -5,6 +5,10 @@
       "path": "Zettelkasten/地理筆記.md"
     },
     {
+      "basename": "石灰岩地形",
+      "path": "Zettelkasten/石灰岩地形.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "碳-14",
       "path": "Zettelkasten/碳-14.md"
-    },
-    {
-      "basename": "石灰岩地形",
-      "path": "Zettelkasten/石灰岩地形.md"
     },
     {
       "basename": "矮行星與小行星",
