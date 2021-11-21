@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Ex-211121-2217.excalidraw",
-      "path": "Excalidraw/Ex-211121-2217.excalidraw.md"
+      "basename": "Ex-211121-2219.excalidraw",
+      "path": "Excalidraw/Ex-211121-2219.excalidraw.md"
     },
     {
       "basename": "Ex-211121-2058.excalidraw",
@@ -11,6 +11,10 @@
     {
       "basename": "地理筆記",
       "path": "Zettelkasten/地理筆記.md"
+    },
+    {
+      "basename": "Ex-211121-2217.excalidraw",
+      "path": "Excalidraw/Ex-211121-2217.excalidraw.md"
     },
     {
       "basename": "Kanban",
@@ -195,10 +199,6 @@
     {
       "basename": "距離模數公式",
       "path": "Zettelkasten/距離模數公式.md"
-    },
-    {
-      "basename": "資料分析",
-      "path": "Zettelkasten/資料分析.md"
     }
   ],
   "omittedPaths": [

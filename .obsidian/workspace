@@ -4,33 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/地理筆記.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a07f0aba917084c8",
+        "id": "cd26700366d0f3d8",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Excalidraw/Ex-211121-2217.excalidraw.md"
-          }
-        }
-      },
-      {
-        "id": "3987818d22e7d7a1",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Ex-211121-2058.excalidraw.md"
+            "file": "Excalidraw/Ex-211121-2219.excalidraw.md"
           }
         }
       }
@@ -83,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Ex-211121-2217.excalidraw.md",
+                "file": "Excalidraw/Ex-211121-2219.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Ex-211121-2217.excalidraw.md",
+                "file": "Excalidraw/Ex-211121-2219.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,17 +138,17 @@
     "width": 273.5,
     "collapsed": true
   },
-  "active": "a07f0aba917084c8",
+  "active": "cd26700366d0f3d8",
   "lastOpenFiles": [
-    "Excalidraw/Ex-211121-2217.excalidraw.md",
+    "Excalidraw/Ex-211121-2219.excalidraw.md",
     "Excalidraw/Ex-211121-2058.excalidraw.md",
     "Zettelkasten/地理筆記.md",
+    "Excalidraw/Ex-211121-2217.excalidraw.md",
     "Kanban/Kanban.md",
     "Excalidraw/Ex-211121-1051.excalidraw.md",
     "Zettelkasten/石灰岩地形.md",
     "Excalidraw/Ex-211120-2220.excalidraw.md",
     "Excalidraw/Ex-211120-220.excalidraw.md",
-    "Excalidraw/404.excalidraw.png",
-    "Excalidraw/404.excalidraw.md"
+    "Excalidraw/404.excalidraw.png"
   ]
 }
