@@ -8,11 +8,9 @@
   "obsidian-filename-heading-sync",
   "sliding-panes-obsidian",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-git",
   "obsidian-auto-link-title",
   "obsidian-auto-pair-chinese-symbol",
   "code-block-copy",
-  "dataview",
   "obsidian-fullscreen-plugin",
   "media-extended",
   "find-unlinked-files",
@@ -31,7 +29,6 @@
   "obsidian-pangu",
   "emoji-shortcodes",
   "customizable-sidebar",
-  "obsidian-excalidraw-plugin",
   "obsidian-emoji-toolbar",
   "obsidian-statusbar-pomo",
   "buttons",
@@ -39,5 +36,7 @@
   "obsidian-style-settings",
   "obsidian-languagetool-plugin",
   "customizable-menu",
-  "obsidian-charts"
+  "obsidian-charts",
+  "dataview",
+  "obsidian-excalidraw-plugin"
 ]
