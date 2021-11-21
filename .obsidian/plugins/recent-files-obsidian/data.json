@@ -5,6 +5,10 @@
       "path": "Zettelkasten/地理筆記.md"
     },
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "Ex-211120-2220.excalidraw",
       "path": "Excalidraw/Ex-211120-2220.excalidraw.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "第二堂社課-天球座標",
       "path": "_resources/第二堂社課-天球座標.pdf"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "README",

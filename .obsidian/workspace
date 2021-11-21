@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "213ff807ec3e4468",
+        "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/地理筆記.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "地理筆記",
+                "query": "自然探究",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,9 +138,10 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "213ff807ec3e4468",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
     "Zettelkasten/地理筆記.md",
+    "Kanban/Kanban.md",
     "Excalidraw/Ex-211120-2220.excalidraw.md",
     "Excalidraw/Ex-211120-220.excalidraw.md",
     "Excalidraw/404.excalidraw.png",
@@ -148,7 +149,6 @@
     "Zettelkasten/豬背嶺.md",
     "Zettelkasten/地理學研究傳統.md",
     "Zettelkasten/台灣考古學發展.md",
-    "Zettelkasten/放射性同位素定年法.md",
-    "Zettelkasten/絕對定年法.md"
+    "Zettelkasten/放射性同位素定年法.md"
   ]
 }
