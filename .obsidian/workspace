@@ -18,6 +18,24 @@
         "id": "310cd7b912981f83",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "5a9f7f228a7fc8f7",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Excalidraw/Ex-211121-2058.excalidraw.png"
+          }
+        }
+      },
+      {
+        "id": "ddad1ac0d01d2e01",
+        "type": "leaf",
+        "state": {
           "type": "excalidraw",
           "state": {
             "file": "Excalidraw/Ex-211121-2227.excalidraw.md"
@@ -84,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
@@ -148,9 +167,10 @@
     "width": 273.5,
     "collapsed": true
   },
-  "active": "310cd7b912981f83",
+  "active": "ddad1ac0d01d2e01",
   "lastOpenFiles": [
     "Excalidraw/Ex-211121-2227.excalidraw.md",
+    "Excalidraw/Ex-211121-2058.excalidraw.png",
     "Zettelkasten/地理筆記.md",
     "Excalidraw/Ex-211121-2219.excalidraw.md",
     "Excalidraw/Ex-211121-2058.excalidraw.md",
@@ -158,7 +178,6 @@
     "Kanban/Kanban.md",
     "Excalidraw/Ex-211121-1051.excalidraw.md",
     "Zettelkasten/石灰岩地形.md",
-    "Excalidraw/Ex-211120-2220.excalidraw.md",
-    "Excalidraw/Ex-211120-220.excalidraw.md"
+    "Excalidraw/Ex-211120-2220.excalidraw.md"
   ]
 }
