@@ -10,17 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/地理筆記.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5650b87746ec425c",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Ex-211121-1051.excalidraw.md"
+            "mode": "preview"
           }
         }
       }
@@ -73,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Ex-211121-1051.excalidraw.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -98,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Ex-211121-1051.excalidraw.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,10 +137,10 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "5650b87746ec425c",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Excalidraw/Ex-211121-1051.excalidraw.md",
     "Zettelkasten/地理筆記.md",
+    "Excalidraw/Ex-211121-1051.excalidraw.md",
     "Zettelkasten/石灰岩地形.md",
     "Kanban/Kanban.md",
     "Excalidraw/Ex-211120-2220.excalidraw.md",
