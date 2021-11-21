@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "05f6a57c39783f85",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Ex-211121-2058.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/地理筆記.md",
+                "file": "Excalidraw/Ex-211121-2058.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/地理筆記.md",
+                "file": "Excalidraw/Ex-211121-2058.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -136,10 +147,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "05f6a57c39783f85",
   "lastOpenFiles": [
+    "Excalidraw/Ex-211121-2058.excalidraw.md",
     "Zettelkasten/地理筆記.md",
     "Kanban/Kanban.md",
     "Excalidraw/Ex-211121-1051.excalidraw.md",
@@ -148,7 +161,6 @@
     "Excalidraw/Ex-211120-220.excalidraw.md",
     "Excalidraw/404.excalidraw.png",
     "Excalidraw/404.excalidraw.md",
-    "Zettelkasten/豬背嶺.md",
-    "Zettelkasten/地理學研究傳統.md"
+    "Zettelkasten/豬背嶺.md"
   ]
 }
