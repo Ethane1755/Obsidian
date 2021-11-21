@@ -13,16 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "5d461d3b73bbee02",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Ex-211121-2219.excalidraw.md"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Ex-211121-2219.excalidraw.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -98,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Ex-211121-2219.excalidraw.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,11 +138,11 @@
     "width": 273.5,
     "collapsed": true
   },
-  "active": "5d461d3b73bbee02",
+  "active": "cd26700366d0f3d8",
   "lastOpenFiles": [
+    "Zettelkasten/地理筆記.md",
     "Excalidraw/Ex-211121-2219.excalidraw.md",
     "Excalidraw/Ex-211121-2058.excalidraw.md",
-    "Zettelkasten/地理筆記.md",
     "Excalidraw/Ex-211121-2217.excalidraw.md",
     "Kanban/Kanban.md",
     "Excalidraw/Ex-211121-1051.excalidraw.md",
