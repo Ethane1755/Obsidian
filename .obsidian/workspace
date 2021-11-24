@@ -12,6 +12,28 @@
             "file": "Kanban/Kanban.md"
           }
         }
+      },
+      {
+        "id": "d2d37ff2769075f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/公民筆記.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6a46e0775b25da96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/地理筆記.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -62,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +95,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
@@ -86,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/地理筆記.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,17 +159,17 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "6a46e0775b25da96",
   "lastOpenFiles": [
-    "Kanban/Kanban.md",
     "Zettelkasten/地理筆記.md",
+    "Zettelkasten/公民筆記.md",
+    "Kanban/Kanban.md",
     "Excalidraw/Ex-211121-2227.excalidraw.md",
     "Excalidraw/Ex-211121-2058.excalidraw.png",
     "Excalidraw/Ex-211121-2219.excalidraw.md",
     "Excalidraw/Ex-211121-2058.excalidraw.md",
     "Excalidraw/Ex-211121-2217.excalidraw.md",
     "Excalidraw/Ex-211121-1051.excalidraw.md",
-    "Zettelkasten/石灰岩地形.md",
-    "Excalidraw/Ex-211120-2220.excalidraw.md"
+    "Zettelkasten/石灰岩地形.md"
   ]
 }
