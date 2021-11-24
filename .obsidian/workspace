@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban/Kanban.md"
-          }
-        }
-      },
-      {
         "id": "d2d37ff2769075f3",
         "type": "leaf",
         "state": {
@@ -84,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -151,8 +140,8 @@
   "active": "d2d37ff2769075f3",
   "lastOpenFiles": [
     "Zettelkasten/公民筆記.md",
-    "Zettelkasten/地理筆記.md",
     "Kanban/Kanban.md",
+    "Zettelkasten/地理筆記.md",
     "Excalidraw/Ex-211121-2227.excalidraw.md",
     "Excalidraw/Ex-211121-2058.excalidraw.png",
     "Excalidraw/Ex-211121-2219.excalidraw.md",
