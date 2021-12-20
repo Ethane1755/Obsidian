@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Geography",
-      "path": "Anki cards/Geography.md"
+      "basename": "2021-12-21",
+      "path": "2021-12-21.md"
     },
     {
       "basename": "美國擴張史",
       "path": "Zettelkasten/美國擴張史.md"
+    },
+    {
+      "basename": "500px-United_States_1863-06-1864-05",
+      "path": "_resources/Past/美國擴張史.resources/500px-United_States_1863-06-1864-05.png"
+    },
+    {
+      "basename": "Geography",
+      "path": "Anki cards/Geography.md"
     },
     {
       "basename": "500px-United_States_1889-11-08-1889-11-11",
@@ -191,14 +199,6 @@
     {
       "basename": "矮行星與小行星",
       "path": "Zettelkasten/矮行星與小行星.md"
-    },
-    {
-      "basename": "畢達哥拉斯恆等式",
-      "path": "Zettelkasten/畢達哥拉斯恆等式.md"
-    },
-    {
-      "basename": "生物演替",
-      "path": "Zettelkasten/生物演替.md"
     }
   ],
   "omittedPaths": [
