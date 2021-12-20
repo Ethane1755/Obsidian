@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-12-20.md",
-            "mode": "source"
+            "file": "Zettelkasten/準平原.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-12-20.md",
+                "file": "Zettelkasten/準平原.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-12-20.md",
+                "file": "Zettelkasten/準平原.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,6 +140,8 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/準平原.md",
+    "Zettelkasten/侵蝕輪迴論.md",
     "2021-12-20.md",
     "2021-12-21.md",
     "Zettelkasten/美國擴張史.md",
@@ -147,8 +149,6 @@
     "Anki cards/Geography.md",
     "_resources/Past/美國擴張史.resources/500px-United_States_1889-11-08-1889-11-11.png",
     "Zettelkasten/太陽風.md",
-    "Kanban/Kanban.md",
-    "Zettelkasten/星際空間的有機物質.md",
-    "_resources/Pasted image 20211212105857.png"
+    "Kanban/Kanban.md"
   ]
 }

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "準平原",
+      "path": "Zettelkasten/準平原.md"
+    },
+    {
+      "basename": "侵蝕輪迴論",
+      "path": "Zettelkasten/侵蝕輪迴論.md"
+    },
+    {
       "basename": "2021-12-20",
       "path": "2021-12-20.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "社考",
       "path": "Zettelkasten/社考.md"
-    },
-    {
-      "basename": "磁暴",
-      "path": "Zettelkasten/磁暴.md"
-    },
-    {
-      "basename": "碳-14",
-      "path": "Zettelkasten/碳-14.md"
     }
   ],
   "omittedPaths": [
