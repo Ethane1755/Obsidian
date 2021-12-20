@@ -12,16 +12,6 @@
             "file": "Kanban/Kanban.md"
           }
         }
-      },
-      {
-        "id": "065315cff9b27aa3",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Ex-211127-1732.excalidraw.md"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -72,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Ex-211127-1732.excalidraw.md",
+                "file": "Kanban/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Ex-211127-1732.excalidraw.md",
+                "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,17 +136,17 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "065315cff9b27aa3",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Excalidraw/Ex-211127-1732.excalidraw.md",
     "Kanban/Kanban.md",
-    "Zettelkasten/公民筆記.md",
-    "Excalidraw/Ex-211124-2220.excalidraw.md",
-    "Zettelkasten/地理筆記.md",
-    "Excalidraw/Ex-211121-2227.excalidraw.md",
-    "Excalidraw/Ex-211121-2058.excalidraw.png",
-    "Excalidraw/Ex-211121-2219.excalidraw.md",
-    "Excalidraw/Ex-211121-2058.excalidraw.md",
-    "Excalidraw/Ex-211121-2217.excalidraw.md"
+    "Zettelkasten/星際空間的有機物質.md",
+    "_resources/Pasted image 20211212105857.png",
+    "_resources/s1539299600000290 1.pdf",
+    "Excalidraw/Ex-211213-0951.excalidraw.md",
+    "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/117義賣.md",
+    "Excalidraw/Ex-211129-0945.excalidraw.md",
+    "Zettelkasten/Folium 入門.md",
+    "Zettelkasten/地科筆記.md"
   ]
 }

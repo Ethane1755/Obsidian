@@ -117,8 +117,6 @@
   "editor:delete-paragraph": [],
   "editor:follow-link": [],
   "editor:insert-link": [],
-  "app:go-back": [],
-  "app:go-forward": [],
   "obsidian-charts:creation-helper": [
     {
       "modifiers": [
