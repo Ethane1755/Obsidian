@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "500px-United_States_1889-11-08-1889-11-11",
-      "path": "_resources/Past/美國擴張史.resources/500px-United_States_1889-11-08-1889-11-11.png"
-    },
-    {
       "basename": "Geography",
       "path": "Anki cards/Geography.md"
+    },
+    {
+      "basename": "美國擴張史",
+      "path": "Zettelkasten/美國擴張史.md"
+    },
+    {
+      "basename": "500px-United_States_1889-11-08-1889-11-11",
+      "path": "_resources/Past/美國擴張史.resources/500px-United_States_1889-11-08-1889-11-11.png"
     },
     {
       "basename": "太陽風",
@@ -195,10 +199,6 @@
     {
       "basename": "生物演替",
       "path": "Zettelkasten/生物演替.md"
-    },
-    {
-      "basename": "水密度測量流程表",
-      "path": "Zettelkasten/水密度測量流程表.md"
     }
   ],
   "omittedPaths": [
