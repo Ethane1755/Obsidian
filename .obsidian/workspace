@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/準平原.md",
-            "mode": "preview"
+            "file": "Zettelkasten/課文續寫.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#地理",
+                "query": "自然探究",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/準平原.md",
+                "file": "Zettelkasten/課文續寫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/準平原.md",
+                "file": "Zettelkasten/課文續寫.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,6 +139,8 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/課文續寫.md",
+    "Kanban/Kanban.md",
     "Zettelkasten/準平原.md",
     "Zettelkasten/侵蝕輪迴論.md",
     "2021-12-20.md",
@@ -147,8 +148,6 @@
     "Zettelkasten/美國擴張史.md",
     "_resources/Past/美國擴張史.resources/500px-United_States_1863-06-1864-05.png",
     "Anki cards/Geography.md",
-    "_resources/Past/美國擴張史.resources/500px-United_States_1889-11-08-1889-11-11.png",
-    "Zettelkasten/太陽風.md",
-    "Kanban/Kanban.md"
+    "_resources/Past/美國擴張史.resources/500px-United_States_1889-11-08-1889-11-11.png"
   ]
 }

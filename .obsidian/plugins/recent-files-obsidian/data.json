@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "課文續寫",
+      "path": "Zettelkasten/課文續寫.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "準平原",
       "path": "Zettelkasten/準平原.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "太陽風",
       "path": "Zettelkasten/太陽風.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "星際空間的有機物質",
@@ -195,10 +199,6 @@
     {
       "basename": "立法院",
       "path": "Zettelkasten/立法院.md"
-    },
-    {
-      "basename": "社考",
-      "path": "Zettelkasten/社考.md"
     }
   ],
   "omittedPaths": [
