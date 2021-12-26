@@ -38,5 +38,7 @@
     "Astrochemistry"
   ],
   "newLinkFormat": "shortest",
-  "fileSortOrder": "byCreatedTime"
+  "fileSortOrder": "byCreatedTime",
+  "legacyEditor": false,
+  "livePreview": true
 }
