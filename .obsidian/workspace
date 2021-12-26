@@ -7,21 +7,19 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Zettelkasten/星際空間的有機物質.md",
-            "mode": "preview",
-            "source": true
+            "file": "Kanban/Kanban.md"
           }
         }
       },
       {
-        "id": "0300c6b43d4a2953",
+        "id": "38c9173e3fbee046",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/星際空間的有機物質_資料來源.md",
+            "file": "Zettelkasten/星際空間的有機物質.md",
             "mode": "source",
             "source": true
           }
@@ -111,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -150,10 +147,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "38c9173e3fbee046",
   "lastOpenFiles": [
     "Zettelkasten/星際空間的有機物質.md",
     "Zettelkasten/星際空間的有機物質_資料來源.md",
