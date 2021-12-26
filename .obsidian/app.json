@@ -39,6 +39,6 @@
   ],
   "newLinkFormat": "shortest",
   "fileSortOrder": "byCreatedTime",
-  "legacyEditor": false,
+  "legacyEditor": true,
   "livePreview": false
 }
