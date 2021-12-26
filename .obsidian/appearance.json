@@ -11,10 +11,10 @@
     "color_font",
     "header_centre",
     "tags align",
-    "Bullet LInes",
     "auto_fade",
     "enlarge_pic",
-    "enlarge_fold"
+    "enlarge_fold",
+    "Bullet LInes"
   ],
   "translucency": false,
   "baseFontSizeAction": true
