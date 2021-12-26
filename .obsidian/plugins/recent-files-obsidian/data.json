@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Test",
+      "path": "Zettelkasten/Test.md"
+    },
+    {
       "basename": "課文續寫",
       "path": "Zettelkasten/課文續寫.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "算幾不等式",
       "path": "Zettelkasten/算幾不等式.md"
-    },
-    {
-      "basename": "立法院",
-      "path": "Zettelkasten/立法院.md"
     }
   ],
   "omittedPaths": [

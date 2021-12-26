@@ -1,0 +1,15 @@
+# Test
+
+* Mdnotes File Name: [[undefined]]
+
+  
+
+# Extracted Annotations (2021-12-25)
+
+  
+
+> "with aromatic and aliphatic structures over very short time scales. These compounds are ejected into the interstellar medium and distributed throughout the Galaxy. The structures of these compounds are similar to the insoluble organic matter found in meteorites. In this paper, we discuss to what extent stellar organics has enriched the primordial Solar System and possibly" ([Kwok 2011:497](zotero://open-pdf/library/items/T8GCN533?page=1))
+
+  
+
+grasafsf ([note on p.497](zotero://open-pdf/library/items/T8GCN533?page=1))
