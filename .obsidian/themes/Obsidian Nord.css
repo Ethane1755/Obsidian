@@ -5,6 +5,7 @@
     --dark1:  #3b4252;
     --dark2:  #434c5e;
     --dark3:  #4c566a;
+	--hello:  #ECEFF4;
 
     --light0: #d8dee9;
     --light1: #e5e9f0;
@@ -17,10 +18,12 @@
     --frost3: #5e81ac;
 
     --red:    #bf616a;
-    --orange: #d08770;
-    --yellow: #ebcb8b;
+    --orange: #f39477;
+    --yellow: #e0ac44;
     --green:  #a3be8c;
     --purple: #b48ead;
+
+    --font-monospace: 'Sarasa Mono TC', 'Sarasa Mono TC', monospace;
 }
 
 .theme-dark
@@ -31,31 +34,27 @@
     --background-secondary-alt:   var(--dark2);
     --text-normal:                var(--light2);
     --text-faint:                 var(--light0);
-    --text-muted:                 var(--light1);
+    --text-muted:                 var(--light2);
     --text-title-h1:              var(--red);
     --text-title-h2:              var(--orange);
     --text-title-h3:              var(--yellow);
     --text-title-h4:              var(--green);
     --text-title-h5:              var(--purple);
-    --text-title-h6:              var(--orange);
     --text-link:                  var(--frost0);
-    --text-a:                     var(--frost3);
-    --text-a-hover:               var(--frost2);
+    --text-a:                     #47c5ff;
+    --text-a-hover:               var(--frost3);
     --text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
     --pre-code:                   var(--dark1);
-    --text-highlight-bg:          var(--red);
-    --text-highlight-bg-active:   var(--green);
+    --text-highlight-bg:          rgba(224, 172, 68, 0.6);
     --interactive-accent:         var(--frost0);
     --interactive-before:         var(--dark3);
-    --background-modifier-border: var(--dark2);
+    --background-modifier-border: var(--hello);
     --text-accent:                var(--orange);
     --interactive-accent-rgb:     var(--orange);
     --inline-code:                var(--frost1);
-    --code-block:                 var(--frost1);
+    --code-block:                 var(--frost0);
     --vim-cursor:                 var(--orange);
-    --text-selection:             var(--dark3);
-    --text-tag:                   var(--frost0);
-    --task-checkbox:              var(--frost0);
+    --text-selection:             rgba(136, 192, 208, 0.6);
 }
 .theme-light
 {
@@ -71,43 +70,21 @@
 	--text-title-h3:              var(--yellow);
 	--text-title-h4:              var(--green);
 	--text-title-h5:              var(--purple);
-	--text-title-h6:              var(--orange);
 	--text-link:                  var(--frost0);
 	--text-a:                     var(--frost3);
 	--text-a-hover:               var(--frost1);
 	--text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
 	--pre-code:                   var(--light2);
-	--text-highlight-bg:          var(--green);
-    --text-highlight-bg-active:   var(--yellow);
+	--text-highlight-bg:          var(--yellow);
 	--interactive-accent:         var(--frost0);
 	--interactive-before:         var(--light0);
 	--background-modifier-border: var(--light1);
 	--text-accent:                var(--orange);
 	--interactive-accent-rgb:     var(--orange);
-	--inline-code:                var(--frost1);
-	--code-block:                 var(--frost1);
+	--inline-code:                var(--dark2);
+	--code-block:                 var(--dark2);
 	--vim-cursor:                 var(--orange);
 	--text-selection:             var(--light0);
-    --text-tag:                   var(--frost2);
-    --task-checkbox:              var(--frost0);
-}
-
-:root {
-  --default-font: -apple-system, BlinkMacSystemFont, Segoe UI,
-    Helvetica, Arial, sans-serif, Apple Color Emoji,
-    Segoe UI Emoji;
-
-  --editor-font: 'Hack Nerd Font', 'Source Code Pro',
-    ui-monospace, SFMono-Regular, SF Mono, Menlo,
-    Consolas, Liberation Mono, monospace;
-}
-
-.markdown-source-view {
-  font-family: var(--editor-font);
-}
-
-.markdown-preview-view {
-  font-family: var(--default-font);
 }
 
 .theme-dark code[class*="language-"],
@@ -119,36 +96,50 @@
     background-color: var(--pre-code) !important;
 }
 
-.graph-view.color-circle,
-.graph-view.color-fill-highlight,
+.graph-view.color-circle
+{
+	color: var(--light0)
+}
+.graph-view.color-fill-highlight
+{
+	color: var(--red)
+}
 .graph-view.color-line-highlight
 {
-    color: var(--interactive-accent-rgb) !important;
+    color: var(--red) !important;
 }
 .graph-view.color-text
 {
-    color: var(--text-a-hover) !important;
+    color: var(--light1) !important;
 }
-/*
+
 .graph-view.color-fill
 {
-    color: var(--background-secondary);
+    color: var(--frost1);
 }
 .graph-view.color-line
 {
-  color: var(--background-modifier-border);
+    color: var(--light0);
 }
-*/
+.theme-dark .graph-view.color-fill-tag 
+{
+    color: var(--yellow);
+}
+
+.theme-dark .graph-view.color-fill-attachment 
+{
+    color: var(--red);
+}
 
 html,
 body
 {
-    /* font-size: 16px !important; */
+    font-size: 16px !important;
 }
 
 strong
 {
-    font-weight: 600 !important;
+    font-weight: 800 !important;
 }
 
 a,
@@ -162,28 +153,13 @@ a:hover,
 .cm-hmd-internal-link:hover,
 .cm-url
 {
-    color: var(--text-a-hover) !important;
+    color: var(--red) !important;
     text-decoration: none !important;
-}
-
-a.tag, a.tag:hover {
-  color: var(--text-tag) !important;
-  background-color: var(--background-secondary-alt);
-  padding: 2px 4px;
-  border-radius: 4px;
 }
 
 mark
 {
-    background-color: var(--text-mark) !important;
-}
-
-.titlebar {
-  background-color: var(--background-secondary-alt);
-}
-
-.titlebar-inner {
-  color: var(--text-normal);
+    background-color: rgba(224, 172, 68,0.6) !important;
 }
 
 .view-actions a
@@ -193,7 +169,7 @@ mark
 
 .view-actions a:hover
 {
-    color: var(--text-a) !important;
+    color: var(--red) !important;
 }
 
 .HyperMD-codeblock-bg
@@ -221,7 +197,7 @@ mark
 
 th
 {
-    font-weight: 600 !important;
+    font-weight: 800 !important;
 }
 
 thead
@@ -234,12 +210,12 @@ thead
     line-height: normal !important;
     padding-left: 4px !important;
     padding-right: 4px !important;
-    /* background-color: var(--pre-code) !important; */
+    background-color: var(--pre-code) !important; 
 }
 
 .HyperMD-table-row-0
 {
-    /* padding-top: 4px !important; */
+    padding-top: 4px !important; 
 }
 
 .CodeMirror-foldgutter-folded,
@@ -250,7 +226,7 @@ thead
 
 .nav-file-tag
 {
-    color: var(--text-a) !important;
+    color: var(--light1) !important;
 }
 
 .is-active .nav-file-title
@@ -267,19 +243,29 @@ thead
     border-top-right-radius: 0 !important;
 }
 
+img
+{
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
 .HyperMD-list-line
 {
     padding-top: 0 !important;
 }
 
-.cm-hashtag
+.CodeMirror-linenumber,
+.cm-formatting
 {
-    color: var(--text-tag) !important;
+    font-family: var(--font-monospace) !important;
+    color: var(--frost2) !important;
 }
 
+.cm-hashtag,
 .search-result-file-matched-text
 {
-    color: var(--light3) !important;
+    color: var(--frost2) !important;
 }
 
 .markdown-preview-section pre code,
@@ -389,7 +375,7 @@ thead
 .markdown-preview-section h1
 {
     font-weight: 500 !important;
-    font-size: 2.2em !important;
+    font-size: 34px !important;
     color: var(--text-title-h1) !important;
 }
 
@@ -397,7 +383,7 @@ thead
 .markdown-preview-section h2
 {
     font-weight: 500 !important;
-    font-size: 2.0em !important;
+    font-size: 26px !important;
     color: var(--text-title-h2) !important;
 }
 
@@ -405,7 +391,7 @@ thead
 .markdown-preview-section h3
 {
     font-weight: 500 !important;
-    font-size: 1.8em !important;
+    font-size: 22px !important;
     color: var(--text-title-h3) !important;
 }
 
@@ -413,24 +399,18 @@ thead
 .markdown-preview-section h4
 {
     font-weight: 500 !important;
-    font-size: 1.6em !important;
+    font-size: 20px !important;
     color: var(--text-title-h4) !important;
 }
 
 .cm-header-5,
-.markdown-preview-section h5
-{
-    font-weight: 500 !important;
-    font-size: 1.4em !important;
-    color: var(--text-title-h5) !important;
-}
-
 .cm-header-6,
+.markdown-preview-section h5,
 .markdown-preview-section h6
 {
     font-weight: 500 !important;
-    font-size: 1.2em !important;
-    color: var(--text-title-h6) !important;
+    font-size: 18px !important;
+    color: var(--text-title-h5) !important;
 }
 
 .suggestion-item.is-selected
@@ -438,9 +418,10 @@ thead
     background-color: var(--background-secondary);
 }
 
-.empty-state-action:hover
+.empty-state-container:hover
 {
-    color: var(--interactive-accent);
+    background-color: var(--background-secondary-alt);
+    border: 5px solid var(--interactive-accent) !important;
 }
 
 .checkbox-container
@@ -472,13 +453,13 @@ thead
 }
 
 input.task-list-item-checkbox {
-    border: 1px solid var(--task-checkbox);
+    border: 1px solid var(--light2);
     appearance: none;
     -webkit-appearance: none;
 }
 
 input.task-list-item-checkbox:checked {
-    background-color: var(--task-checkbox);
+    background-color: var(--green);
     box-shadow: inset 0 0 0 2px var(--background-primary);
 }
 
@@ -487,9 +468,7 @@ input.task-list-item-checkbox:checked {
     fill: var(--frost3) !important;
 }
 
-.setting-item-control input[type="text"] {
-    color: var(--text-normal);
-}
-.setting-item-control input[type="text"]::placeholder {
-    color: var(--dark3);
+.cm-strong,
+.markdown-preview-section strong {
+    color: var(--frost1) !important;
 }
