@@ -7,22 +7,18 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Zettelkasten/課文續寫.md",
-            "mode": "source"
+            "file": "Kanban/Kanban.md"
           }
         }
       },
       {
-        "id": "dfcd384a60a7e904",
+        "id": "38c9173e3fbee046",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Test.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -74,7 +70,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +142,7 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "dfcd384a60a7e904",
+  "active": "38c9173e3fbee046",
   "lastOpenFiles": [
     "Zettelkasten/Test.md",
     "Zettelkasten/課文續寫.md",
