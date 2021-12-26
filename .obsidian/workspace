@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban/Kanban.md"
-          }
-        }
-      },
-      {
         "id": "38c9173e3fbee046",
         "type": "leaf",
         "state": {
@@ -21,6 +11,17 @@
           "state": {
             "file": "Zettelkasten/星際空間的有機物質.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "94be39415e816ecf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/星際空間的有機物質_資料來源.md",
+            "mode": "preview"
           }
         }
       }
@@ -73,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/星際空間的有機物質.md",
+                "file": "Zettelkasten/星際空間的有機物質_資料來源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/星際空間的有機物質.md",
+                "file": "Zettelkasten/星際空間的有機物質_資料來源.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -146,14 +148,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
-  "active": "38c9173e3fbee046",
+  "active": "94be39415e816ecf",
   "lastOpenFiles": [
-    "Zettelkasten/星際空間的有機物質.md",
-    "2021-12-20.md",
     "Zettelkasten/星際空間的有機物質_資料來源.md",
+    "Zettelkasten/星際空間的有機物質.md",
     "Kanban/Kanban.md",
+    "2021-12-20.md",
     "Zettelkasten/課文續寫.md",
     "Zettelkasten/準平原.md",
     "Zettelkasten/侵蝕輪迴論.md",
