@@ -24,6 +24,7 @@
     --purple: #b48ead;
 
     --font-monospace: 'Sarasa Mono TC', 'Sarasa Mono TC', monospace;
+    --default-font: 'Sarasa Mono TC', monospace !important;
 }
 
 .theme-dark
@@ -309,7 +310,7 @@ img
 .side-dock-title
 {
     padding-top: 15px !important;
-    font-size: 20px !important;
+    font-size: 18px !important;
 }
 
 .side-dock-ribbon-tab:hover,
