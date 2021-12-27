@@ -1,6 +1,7 @@
 {
-  "defaultNote": "Home",
+  "defaultNote": "Kanban_Homepage",
   "workspaceEnabled": true,
   "hasRibbonIcon": true,
-  "openMode": "Replace all open notes"
+  "openMode": "Replace all open notes",
+  "alwaysPreview": false
 }

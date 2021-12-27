@@ -434,7 +434,7 @@
           {
             "id": "4cbb1f4015750da1",
             "type": "tabs",
-            "dimension": 36.09958506224067,
+            "dimension": 42.4390243902439,
             "children": [
               {
                 "id": "ce124a85989e51ed",
@@ -489,7 +489,7 @@
           {
             "id": "18d8fb9879b88a20",
             "type": "tabs",
-            "dimension": 63.900414937759344,
+            "dimension": 57.560975609756085,
             "children": [
               {
                 "id": "bb348a5fe3eda7d7",
@@ -545,7 +545,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 244.5
+        "width": 273.5
       },
       "active": "6f7f80b7b9434bc7"
     },
@@ -701,5 +701,5 @@
       "active": "38c9173e3fbee046"
     }
   },
-  "active": "Home"
+  "active": "Kanban_Homepage"
 }
