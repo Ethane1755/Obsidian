@@ -4,21 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "84ba93f1bb8ee4c2",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "Zettelkasten/星際空間的有機物質_資料來源.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "38c9173e3fbee046",
+        "id": "beed6d2b97d56a4c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/星際空間的有機物質.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -31,7 +35,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 42.4390243902439,
+        "dimension": 42.43902439024391,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -70,6 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/星際空間的有機物質.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,12 +85,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 57.560975609756085,
+        "dimension": 57.5609756097561,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
@@ -93,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/星際空間的有機物質.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -140,13 +148,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
-  "active": "38c9173e3fbee046",
+  "active": "beed6d2b97d56a4c",
   "lastOpenFiles": [
-    "Kanban/Kanban.md",
     "Zettelkasten/星際空間的有機物質.md",
     "Zettelkasten/星際空間的有機物質_資料來源.md",
+    "Kanban/Kanban.md",
     "2021-12-20.md",
     "Zettelkasten/課文續寫.md",
     "Zettelkasten/準平原.md",
