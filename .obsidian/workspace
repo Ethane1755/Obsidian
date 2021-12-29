@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban/Kanban.md"
-          }
-        }
-      },
-      {
         "id": "df788918de9a90fd",
         "type": "leaf",
         "state": {
@@ -106,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -144,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "active": "df788918de9a90fd",
   "lastOpenFiles": [
