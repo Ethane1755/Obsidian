@@ -7,10 +7,19 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Zettelkasten/星際空間的有機物質.md",
-            "mode": "preview"
+            "file": "Kanban/Kanban.md"
+          }
+        }
+      },
+      {
+        "id": "df788918de9a90fd",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Ex-211229-2154.excalidraw.md"
           }
         }
       }
@@ -63,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/星際空間的有機物質.md",
+                "file": "Excalidraw/Ex-211229-2154.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,8 +83,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -88,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/星際空間的有機物質.md",
+                "file": "Excalidraw/Ex-211229-2154.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -98,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -137,20 +144,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "df788918de9a90fd",
   "lastOpenFiles": [
-    "Zettelkasten/星際空間的有機物質.md",
+    "Excalidraw/Ex-211229-2154.excalidraw.md",
     "Kanban/Kanban.md",
+    "Zettelkasten/星際空間的有機物質.md",
     "Zettelkasten/星際空間的有機物質_資料來源.md",
     "2021-12-20.md",
     "Zettelkasten/課文續寫.md",
     "Zettelkasten/準平原.md",
     "Zettelkasten/侵蝕輪迴論.md",
     "2021-12-21.md",
-    "Zettelkasten/美國擴張史.md",
-    "_resources/Past/美國擴張史.resources/500px-United_States_1863-06-1864-05.png"
+    "Zettelkasten/美國擴張史.md"
   ]
 }
