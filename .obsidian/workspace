@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban/Kanban.md"
-          }
-        }
-      },
-      {
-        "id": "ada2ec520a887323",
+        "id": "62be1f2236d96de2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/成長散文.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -73,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/成長散文.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/成長散文.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,17 +137,17 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "ada2ec520a887323",
+  "active": "62be1f2236d96de2",
   "lastOpenFiles": [
+    "README.md",
+    "2021-12-21.md",
     "Zettelkasten/成長散文.md",
+    "2021-12-20.md",
     "Kanban/Kanban.md",
     "Excalidraw/Ex-211229-2154.excalidraw.md",
     "Excalidraw/Ex-211229-2154.excalidraw.png",
     "Zettelkasten/星際空間的有機物質.md",
     "Zettelkasten/星際空間的有機物質_資料來源.md",
-    "2021-12-20.md",
-    "Zettelkasten/課文續寫.md",
-    "Zettelkasten/準平原.md",
-    "Zettelkasten/侵蝕輪迴論.md"
+    "Zettelkasten/課文續寫.md"
   ]
 }
