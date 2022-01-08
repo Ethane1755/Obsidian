@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/電磁波速公式.md",
+            "file": "Zettelkasten/普朗克黑體輻射定律.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/電磁波速公式.md",
+                "file": "Zettelkasten/普朗克黑體輻射定律.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/電磁波速公式.md",
+                "file": "Zettelkasten/普朗克黑體輻射定律.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/普朗克黑體輻射定律.md",
+    "Zettelkasten/石灰岩地形.md",
+    "Zettelkasten/矮行星與小行星.md",
     "Zettelkasten/電磁波速公式.md",
     "Zettelkasten/課文續寫.md",
     "Zettelkasten/能讓台灣變更好的一件事.md",
     "Kanban/Kanban.md",
     "_Templates/Always.md",
     "Zettelkasten/星際空間的有機物質.md",
-    "Zettelkasten/星際空間的有機物質_資料來源.md",
-    "_resources/星際空間的有機物質.pdf",
-    "Zettelkasten/成長散文.md",
-    "README.md"
+    "Zettelkasten/星際空間的有機物質_資料來源.md"
   ]
 }
