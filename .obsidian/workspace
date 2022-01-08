@@ -7,9 +7,10 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "Zettelkasten/星際空間的有機物質.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/星際空間的有機物質.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/星際空間的有機物質.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,14 +140,14 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Kanban/Kanban.md",
+    "Zettelkasten/星際空間的有機物質.md",
     "Zettelkasten/成長散文.md",
+    "Kanban/Kanban.md",
     "README.md",
     "2021-12-21.md",
     "2021-12-20.md",
     "Excalidraw/Ex-211229-2154.excalidraw.md",
     "Excalidraw/Ex-211229-2154.excalidraw.png",
-    "Zettelkasten/星際空間的有機物質.md",
     "Zettelkasten/星際空間的有機物質_資料來源.md",
     "Zettelkasten/課文續寫.md"
   ]
