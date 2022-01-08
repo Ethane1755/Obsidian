@@ -1,3 +1,4 @@
+# Always
 ---
 title: {{title}}
 tags: #obsidian 

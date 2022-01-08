@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "電磁波速公式",
+      "path": "Zettelkasten/電磁波速公式.md"
+    },
+    {
+      "basename": "課文續寫",
+      "path": "Zettelkasten/課文續寫.md"
+    },
+    {
+      "basename": "能讓台灣變更好的一件事",
+      "path": "Zettelkasten/能讓台灣變更好的一件事.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
+    },
+    {
+      "basename": "Always",
+      "path": "_Templates/Always.md"
     },
     {
       "basename": "星際空間的有機物質",
@@ -19,10 +35,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "課文續寫",
-      "path": "Zettelkasten/課文續寫.md"
     },
     {
       "basename": "準平原",
@@ -187,10 +199,6 @@
     {
       "basename": "統計學",
       "path": "Zettelkasten/統計學.md"
-    },
-    {
-      "basename": "絕對值",
-      "path": "Zettelkasten/絕對值.md"
     }
   ],
   "omittedPaths": [
