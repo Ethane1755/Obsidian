@@ -7,8 +7,11 @@
         "id": "ef84e25c10a36f81",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/星際空間的有機物質.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/星際空間的有機物質.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/星際空間的有機物質.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,8 +140,8 @@
   },
   "active": "ef84e25c10a36f81",
   "lastOpenFiles": [
-    "_resources/星際空間的有機物質.pdf",
     "Zettelkasten/星際空間的有機物質.md",
+    "_resources/星際空間的有機物質.pdf",
     "Zettelkasten/成長散文.md",
     "Kanban/Kanban.md",
     "README.md",
