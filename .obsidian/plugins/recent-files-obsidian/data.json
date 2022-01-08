@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "星際空間的有機物質",
       "path": "Zettelkasten/星際空間的有機物質.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "成長散文",
       "path": "Zettelkasten/成長散文.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "README",
