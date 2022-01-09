@@ -10,6 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/筆記.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "313e1ab81bca16b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/地圖投影.md",
             "mode": "source"
           }
         }
@@ -40,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自然探究",
+                "query": "投影",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,6 +152,7 @@
   "active": "14af86e8d7db2cfb",
   "lastOpenFiles": [
     "Zettelkasten/筆記.md",
+    "Zettelkasten/地圖投影.md",
     "Kanban/Kanban.md",
     "Zettelkasten/普朗克黑體輻射定律.md",
     "Zettelkasten/石灰岩地形.md",
@@ -148,7 +160,6 @@
     "Zettelkasten/電磁波速公式.md",
     "Zettelkasten/課文續寫.md",
     "Zettelkasten/能讓台灣變更好的一件事.md",
-    "_Templates/Always.md",
-    "Zettelkasten/星際空間的有機物質.md"
+    "_Templates/Always.md"
   ]
 }

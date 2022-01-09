@@ -5,6 +5,10 @@
       "path": "Zettelkasten/筆記.md"
     },
     {
+      "basename": "地圖投影",
+      "path": "Zettelkasten/地圖投影.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "絕對定年法",
       "path": "Zettelkasten/絕對定年法.md"
-    },
-    {
-      "basename": "河川襲奪",
-      "path": "Zettelkasten/河川襲奪.md"
     }
   ],
   "omittedPaths": [
