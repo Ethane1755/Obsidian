@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "14af86e8d7db2cfb",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "Zettelkasten/筆記.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "18d8fb9879b88a20",
@@ -86,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/筆記.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,8 +138,9 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "14af86e8d7db2cfb",
   "lastOpenFiles": [
+    "Zettelkasten/筆記.md",
     "Kanban/Kanban.md",
     "Zettelkasten/普朗克黑體輻射定律.md",
     "Zettelkasten/石灰岩地形.md",
@@ -146,7 +149,6 @@
     "Zettelkasten/課文續寫.md",
     "Zettelkasten/能讓台灣變更好的一件事.md",
     "_Templates/Always.md",
-    "Zettelkasten/星際空間的有機物質.md",
-    "Zettelkasten/星際空間的有機物質_資料來源.md"
+    "Zettelkasten/星際空間的有機物質.md"
   ]
 }
