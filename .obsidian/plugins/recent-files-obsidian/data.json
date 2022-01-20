@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "聯展",
+      "path": "Zettelkasten/聯展.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "放射性同位素定年法",
       "path": "Zettelkasten/放射性同位素定年法.md"
-    },
-    {
-      "basename": "絕對定年法",
-      "path": "Zettelkasten/絕對定年法.md"
     }
   ],
   "omittedPaths": [
