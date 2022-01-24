@@ -12,17 +12,6 @@
             "file": "Kanban/Kanban.md"
           }
         }
-      },
-      {
-        "id": "ce3f20db2afdf3bb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/備忘錄.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/備忘錄.md",
+                "file": "Kanban/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/備忘錄.md",
+                "file": "Kanban/Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -146,13 +134,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
-  "active": "ce3f20db2afdf3bb",
+  "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Zettelkasten/備忘錄.md",
     "Kanban/Kanban.md",
+    "Zettelkasten/備忘錄.md",
     "Zettelkasten/聯展.md",
     "Zettelkasten/筆記.md",
     "Zettelkasten/地圖投影.md",
