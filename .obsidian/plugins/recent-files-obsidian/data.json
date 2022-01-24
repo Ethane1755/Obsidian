@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "備忘錄",
+      "path": "Zettelkasten/備忘錄.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "台灣考古學發展",
       "path": "Zettelkasten/台灣考古學發展.md"
-    },
-    {
-      "basename": "放射性同位素定年法",
-      "path": "Zettelkasten/放射性同位素定年法.md"
     }
   ],
   "omittedPaths": [
