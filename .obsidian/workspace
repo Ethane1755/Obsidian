@@ -19,8 +19,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/自然探究期中報告.md",
-            "mode": "preview"
+            "file": "Zettelkasten/List.md",
+            "mode": "source"
           }
         }
       }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/自然探究期中報告.md",
+                "file": "Zettelkasten/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/自然探究期中報告.md",
+                "file": "Zettelkasten/List.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,9 +149,9 @@
   },
   "active": "2b80d03b9b657f60",
   "lastOpenFiles": [
-    "Zettelkasten/自然探究期中報告.md",
-    "Zettelkasten/公民筆記.md",
     "Zettelkasten/List.md",
+    "Zettelkasten/公民筆記.md",
+    "Zettelkasten/自然探究期中報告.md",
     "Kanban/Kanban.md",
     "Zettelkasten/Untitled 3.md",
     "Zettelkasten/Untitled 2.md",
