@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 3",
-      "path": "Zettelkasten/Untitled 3.md"
+      "basename": "List",
+      "path": "Zettelkasten/List.md"
     },
     {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "Zettelkasten/Untitled 3.md"
     },
     {
       "basename": "Untitled 2",
@@ -195,10 +199,6 @@
     {
       "basename": "404.excalidraw",
       "path": "Excalidraw/404.excalidraw.md"
-    },
-    {
-      "basename": "豬背嶺",
-      "path": "Zettelkasten/豬背嶺.md"
     }
   ],
   "omittedPaths": [
