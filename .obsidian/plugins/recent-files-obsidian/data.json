@@ -5,16 +5,16 @@
       "path": "Zettelkasten/List.md"
     },
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "公民筆記",
       "path": "Zettelkasten/公民筆記.md"
     },
     {
       "basename": "自然探究期中報告",
       "path": "Zettelkasten/自然探究期中報告.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "Untitled 3",
