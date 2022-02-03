@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/List.md",
+            "file": "Zettelkasten/公民筆記.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/List.md",
+                "file": "Zettelkasten/公民筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/List.md",
+                "file": "Zettelkasten/公民筆記.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "2b80d03b9b657f60",
   "lastOpenFiles": [
+    "Zettelkasten/公民筆記.md",
     "Zettelkasten/List.md",
     "Kanban/Kanban.md",
     "Zettelkasten/Untitled 3.md",
@@ -157,7 +158,6 @@
     "Zettelkasten/聯展.md",
     "Zettelkasten/筆記.md",
     "Zettelkasten/地圖投影.md",
-    "Zettelkasten/普朗克黑體輻射定律.md",
-    "Zettelkasten/石灰岩地形.md"
+    "Zettelkasten/普朗克黑體輻射定律.md"
   ]
 }
