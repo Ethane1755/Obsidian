@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/黑矮星.md",
+            "file": "Zettelkasten/黨團.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/黑矮星.md",
+                "file": "Zettelkasten/黨團.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/黑矮星.md",
+                "file": "Zettelkasten/黨團.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,6 +139,7 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/黨團.md",
     "Zettelkasten/黑矮星.md",
     "Zettelkasten/外掛/Auto Pair Chinese Symbol Plugin.md",
     "Kanban/Kanban.md",
@@ -147,7 +148,6 @@
     "Zettelkasten/公民筆記.md",
     "Zettelkasten/自然探究期中報告.md",
     "Zettelkasten/Untitled 3.md",
-    "Zettelkasten/Untitled 2.md",
-    "Zettelkasten/備忘錄.md"
+    "Zettelkasten/Untitled 2.md"
   ]
 }
