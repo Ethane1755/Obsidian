@@ -7,8 +7,11 @@
         "id": "ea961200c8e25747",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/黑矮星.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/黑矮星.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/黑矮星.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,6 +139,7 @@
   },
   "active": "ea961200c8e25747",
   "lastOpenFiles": [
+    "Zettelkasten/黑矮星.md",
     "_Templates/Untitled.md",
     "Zettelkasten/Untitled.md",
     "_resources/Past/第二堂社課-天球座標.pdf",
@@ -142,7 +148,6 @@
     "Kanban/Kanban.md",
     "Zettelkasten/地理觀念（高中地理主軸）.md",
     "Zettelkasten/季節的感思.md",
-    "Zettelkasten/數線區間.md",
-    "Zettelkasten/核融合.md"
+    "Zettelkasten/數線區間.md"
   ]
 }
