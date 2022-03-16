@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/上課筆記/地科筆記.md",
-            "mode": "preview"
+            "file": "Notes/上課筆記/生物筆記.md",
+            "mode": "source"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/上課筆記/地科筆記.md",
+                "file": "Notes/上課筆記/生物筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/上課筆記/地科筆記.md",
+                "file": "Notes/上課筆記/生物筆記.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "ea961200c8e25747",
   "lastOpenFiles": [
+    "Notes/上課筆記/生物筆記.md",
     "Notes/上課筆記/地科筆記.md",
+    "Notes/上課筆記/公民筆記.md",
     "Zettelkasten/星等.md",
     "Zettelkasten/赫羅圖.md",
     "Zettelkasten/黑矮星.md",
     "_Templates/Untitled.md",
     "Zettelkasten/Untitled.md",
     "_resources/Past/第二堂社課-天球座標.pdf",
-    "Notes/上課筆記/地科B1L1.md",
-    "README.md",
-    "Kanban/Kanban.md"
+    "Notes/上課筆記/地科B1L1.md"
   ]
 }
