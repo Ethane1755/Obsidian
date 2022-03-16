@@ -39,5 +39,6 @@
   "obsidian-charts",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]
