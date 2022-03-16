@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "HTML 語法",
+      "path": "Zettelkasten/HTML 語法.md"
+    },
+    {
+      "basename": "Coursera Application",
+      "path": "Zettelkasten/Coursera Application.md"
+    },
+    {
+      "basename": "Folium 入門",
+      "path": "Zettelkasten/Folium 入門.md"
+    },
+    {
+      "basename": "Git Commands",
+      "path": "Zettelkasten/Git Commands.md"
+    },
+    {
+      "basename": "9_1~9_11",
+      "path": "Zettelkasten/9_1~9_11.md"
+    },
+    {
+      "basename": "Blockly",
+      "path": "Zettelkasten/Blockly.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
+    },
+    {
+      "basename": "Obsidian 快速鍵",
+      "path": "Zettelkasten/外掛/Obsidian 快速鍵.md"
     },
     {
       "basename": "Untitled 1",
@@ -149,10 +177,6 @@
       "path": "Excalidraw/Ex-211129-0945.excalidraw.md"
     },
     {
-      "basename": "Folium 入門",
-      "path": "Zettelkasten/Folium 入門.md"
-    },
-    {
       "basename": "地科筆記",
       "path": "Zettelkasten/地科筆記.md"
     },
@@ -175,26 +199,6 @@
     {
       "basename": "地理筆記",
       "path": "Zettelkasten/地理筆記.md"
-    },
-    {
-      "basename": "Ex-211121-2227.excalidraw",
-      "path": "Excalidraw/Ex-211121-2227.excalidraw.md"
-    },
-    {
-      "basename": "Ex-211121-2058.excalidraw",
-      "path": "Excalidraw/Ex-211121-2058.excalidraw.png"
-    },
-    {
-      "basename": "Ex-211121-2219.excalidraw",
-      "path": "Excalidraw/Ex-211121-2219.excalidraw.md"
-    },
-    {
-      "basename": "Ex-211121-2058.excalidraw",
-      "path": "Excalidraw/Ex-211121-2058.excalidraw.md"
-    },
-    {
-      "basename": "Ex-211121-2217.excalidraw",
-      "path": "Excalidraw/Ex-211121-2217.excalidraw.md"
     }
   ],
   "omittedPaths": [

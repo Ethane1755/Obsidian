@@ -12,9 +12,10 @@ kanban-plugin: basic
 
 
 
-## 已完成
+***
 
-**Complete**
+## Archive
+
 - [x] 公民報告練習(1)
 - [x] 春風化雨心得
 - [ ] 五味屋義賣文案
@@ -34,9 +35,6 @@ kanban-plugin: basic
 - [x] 英文講稿
 - [x] 五味屋資料
 - [x] 英文作文(將課本字插入)
-
-
-
 
 %% kanban:settings
 ```
