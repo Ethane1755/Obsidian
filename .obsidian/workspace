@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/歷史解釋_認同問題.md",
+            "file": "Zettelkasten/電子軌域.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/歷史解釋_認同問題.md",
+                "file": "Zettelkasten/電子軌域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/歷史解釋_認同問題.md",
+                "file": "Zettelkasten/電子軌域.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Zettelkasten/歷史解釋_認同問題.md",
-    "Zettelkasten/日冕物質拋射(CME).md",
-    "Zettelkasten/普朗克常數.md",
-    "Zettelkasten/必麒麟事件.md",
-    "Zettelkasten/底索曲線.md",
-    "Zettelkasten/建中學習單心得.md",
-    "Zettelkasten/多重根號.md",
-    "Zettelkasten/同注分彩法.md",
-    "Zettelkasten/光子能量.md",
-    "Zettelkasten/三次乘法公式.md"
+    "Zettelkasten/電子軌域.md",
+    "Zettelkasten/英文自我介紹.md",
+    "Zettelkasten/花岡一郎與花岡二郎.md",
+    "Zettelkasten/英文口說筆記.md",
+    "Zettelkasten/自主學習計畫討論.md",
+    "Zettelkasten/美國擴張史.md",
+    "Zettelkasten/美國各州加入聯邦順序.md",
+    "Zettelkasten/絕對定年法.md",
+    "Zettelkasten/立法院.md",
+    "Zettelkasten/熱輻射.md"
   ]
 }
