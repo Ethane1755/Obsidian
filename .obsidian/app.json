@@ -40,5 +40,6 @@
   "newLinkFormat": "shortest",
   "fileSortOrder": "byCreatedTime",
   "legacyEditor": true,
-  "livePreview": false
+  "livePreview": false,
+  "defaultViewMode": "preview"
 }

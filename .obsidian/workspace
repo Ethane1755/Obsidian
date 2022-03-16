@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/黑矮星.md",
-            "mode": "source"
+            "file": "Zettelkasten/星等.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unt",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/黑矮星.md",
+                "file": "Zettelkasten/星等.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/黑矮星.md",
+                "file": "Zettelkasten/星等.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,6 +139,8 @@
   },
   "active": "ea961200c8e25747",
   "lastOpenFiles": [
+    "Zettelkasten/星等.md",
+    "Zettelkasten/赫羅圖.md",
     "Zettelkasten/黑矮星.md",
     "_Templates/Untitled.md",
     "Zettelkasten/Untitled.md",
@@ -147,8 +148,6 @@
     "Notes/上課筆記/地科B1L1.md",
     "README.md",
     "Kanban/Kanban.md",
-    "Zettelkasten/地理觀念（高中地理主軸）.md",
-    "Zettelkasten/季節的感思.md",
-    "Zettelkasten/數線區間.md"
+    "Zettelkasten/地理觀念（高中地理主軸）.md"
   ]
 }
