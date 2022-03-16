@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Templates/Untitled.md",
+            "file": "Zettelkasten/Untitled.md",
             "mode": "source"
           }
         }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unti",
+                "query": "unt",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Templates/Untitled.md",
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "18d8fb9879b88a20",
@@ -99,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Templates/Untitled.md",
+                "file": "Zettelkasten/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,8 +150,8 @@
   },
   "active": "7e0845e929e12c97",
   "lastOpenFiles": [
-    "_Templates/Untitled.md",
     "Zettelkasten/Untitled.md",
+    "_Templates/Untitled.md",
     "_resources/Past/第二堂社課-天球座標.pdf",
     "Notes/上課筆記/地科B1L1.md",
     "README.md",
