@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d64072593bdc1a00",
+        "id": "93636027666eb08a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/食鹽水密度預報.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +60,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/食鹽水密度預報.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/食鹽水密度預報.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +132,7 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "d64072593bdc1a00",
+  "active": "93636027666eb08a",
   "lastOpenFiles": [
     "Zettelkasten/食鹽水密度預報.md",
     "Zettelkasten/黨團.md",
