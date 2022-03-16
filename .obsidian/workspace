@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/電子軌域.md",
-            "mode": "preview"
+            "file": "Zettelkasten/中研院天文演講.md",
+            "mode": "source"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/電子軌域.md",
+                "file": "Zettelkasten/中研院天文演講.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/電子軌域.md",
+                "file": "Zettelkasten/中研院天文演講.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,6 +139,8 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
+    "Zettelkasten/中研院天文演講.md",
+    "_resources/Pasted image 20220209151046.png",
     "Zettelkasten/電子軌域.md",
     "Zettelkasten/英文自我介紹.md",
     "Zettelkasten/花岡一郎與花岡二郎.md",
@@ -146,8 +148,6 @@
     "Zettelkasten/自主學習計畫討論.md",
     "Zettelkasten/美國擴張史.md",
     "Zettelkasten/美國各州加入聯邦順序.md",
-    "Zettelkasten/絕對定年法.md",
-    "Zettelkasten/立法院.md",
-    "Zettelkasten/熱輻射.md"
+    "Zettelkasten/絕對定年法.md"
   ]
 }
