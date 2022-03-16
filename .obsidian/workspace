@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Coursera Application.md",
-            "mode": "source"
+            "file": "Zettelkasten/歷史解釋_認同問題.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Coursera Application.md",
+                "file": "Zettelkasten/歷史解釋_認同問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Coursera Application.md",
+                "file": "Zettelkasten/歷史解釋_認同問題.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Zettelkasten/Coursera Application.md",
-    "Zettelkasten/Folium 入門.md",
-    "Zettelkasten/Git Commands.md",
-    "Zettelkasten/9_1~9_11.md",
-    "Zettelkasten/Blockly.md",
-    "Kanban/Kanban.md",
-    "Zettelkasten/外掛/Obsidian 快速鍵.md",
-    "Zettelkasten/Untitled 1.md",
-    "Zettelkasten/Untitled 4.md",
-    "Zettelkasten/Untitled 2.md"
+    "Zettelkasten/歷史解釋_認同問題.md",
+    "Zettelkasten/日冕物質拋射(CME).md",
+    "Zettelkasten/普朗克常數.md",
+    "Zettelkasten/必麒麟事件.md",
+    "Zettelkasten/底索曲線.md",
+    "Zettelkasten/建中學習單心得.md",
+    "Zettelkasten/多重根號.md",
+    "Zettelkasten/同注分彩法.md",
+    "Zettelkasten/光子能量.md",
+    "Zettelkasten/三次乘法公式.md"
   ]
 }
