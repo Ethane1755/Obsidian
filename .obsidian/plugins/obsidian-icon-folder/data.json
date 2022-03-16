@@ -17,5 +17,6 @@
   "Zettelkasten/外掛": "RiPlugLine",
   "README.md": "RiRiWifiLine",
   "Excalidraw": "RiRiPenNibLine",
-  "Notes/自然探究實作": "RiLeafLine"
+  "Notes/自然探究實作": "RiLeafLine",
+  "Notes": "RiRiBook2Line"
 }
