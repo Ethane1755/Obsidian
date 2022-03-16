@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "地理筆記",
+      "path": "Notes/上課筆記/地理筆記.md"
+    },
+    {
+      "basename": "公民筆記",
+      "path": "Notes/上課筆記/公民筆記.md"
+    },
+    {
+      "basename": "歷史筆記",
+      "path": "Notes/上課筆記/歷史筆記.md"
+    },
+    {
       "basename": "生物筆記",
       "path": "Notes/上課筆記/生物筆記.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "地科筆記",
       "path": "Notes/上課筆記/地科筆記.md"
-    },
-    {
-      "basename": "公民筆記",
-      "path": "Notes/上課筆記/公民筆記.md"
     },
     {
       "basename": "星等",
@@ -31,10 +39,6 @@
     {
       "basename": "第二堂社課-天球座標",
       "path": "_resources/Past/第二堂社課-天球座標.pdf"
-    },
-    {
-      "basename": "地科B1L1",
-      "path": "Notes/上課筆記/地科B1L1.md"
     },
     {
       "basename": "README",
