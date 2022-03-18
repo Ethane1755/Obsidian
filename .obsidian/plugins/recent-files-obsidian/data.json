@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "生物筆記",
       "path": "Notes/上課筆記/生物筆記.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
     },
     {
       "basename": "地理觀念（高中地理主軸）",
