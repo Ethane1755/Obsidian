@@ -12,6 +12,17 @@
             "file": "Kanban/Kanban.md"
           }
         }
+      },
+      {
+        "id": "1a35443a73c1ab8f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/八月初觀測計畫.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -23,7 +34,7 @@
       {
         "id": "4cbb1f4015750da1",
         "type": "tabs",
-        "dimension": 42.43902439024391,
+        "dimension": 60.07326007326007,
         "children": [
           {
             "id": "ce124a85989e51ed",
@@ -62,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/八月初觀測計畫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,7 +89,7 @@
       {
         "id": "18d8fb9879b88a20",
         "type": "tabs",
-        "dimension": 57.5609756097561,
+        "dimension": 39.92673992673993,
         "children": [
           {
             "id": "bb348a5fe3eda7d7",
@@ -86,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/八月初觀測計畫.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,8 +147,9 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "1a35443a73c1ab8f",
   "lastOpenFiles": [
+    "Zettelkasten/八月初觀測計畫.md",
     "Kanban/Kanban.md",
     "Notes/上課筆記/生物筆記.md",
     "Notes/上課筆記/地科筆記.md",
@@ -146,7 +158,6 @@
     "Notes/上課筆記/地科B1L1.md",
     "Notes/上課筆記/歷史筆記.md",
     "_resources/img004.jpg",
-    "Zettelkasten/星等.md",
-    "Zettelkasten/赫羅圖.md"
+    "Zettelkasten/星等.md"
   ]
 }
