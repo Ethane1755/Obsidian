@@ -7,9 +7,10 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "Zettelkasten/八月初觀測計畫.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/八月初觀測計畫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "18d8fb9879b88a20",
@@ -86,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/八月初觀測計畫.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,8 +140,8 @@
   },
   "active": "6f7f80b7b9434bc7",
   "lastOpenFiles": [
-    "Kanban/Kanban.md",
     "Zettelkasten/八月初觀測計畫.md",
+    "Kanban/Kanban.md",
     "Notes/上課筆記/生物筆記.md",
     "Notes/上課筆記/地科筆記.md",
     "Notes/上課筆記/公民筆記.md",
