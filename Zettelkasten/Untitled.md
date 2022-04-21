@@ -10,11 +10,13 @@ IN SiriL
 8. remove green noise
 
 IN Photoshop
-1. Camera Raw Filter(vibrance, contrast, etc...)
-2. export as 16-bit tiff
+1. Camera Raw Filter (vibrance, contrast, etc...)
+2. export as 16-bit tiff (processed.tif)
 
 IN StarNet++2
 generate starless.tif
 
 BACK TO Photoshop
-1. combine starless.tif with 
+1. combine starless.tif with processed.tif using mask
+2. final S-curve balance
+3. export and 
