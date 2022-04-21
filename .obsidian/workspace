@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7f80b7b9434bc7",
+        "id": "6ac400b995404182",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban/Kanban.md"
+            "file": "Zettelkasten/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "Zettelkasten/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,8 +137,9 @@
     "direction": "horizontal",
     "width": 273.5
   },
-  "active": "6f7f80b7b9434bc7",
+  "active": "6ac400b995404182",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled.md",
     "Kanban/Kanban.md",
     "Zettelkasten/八月初觀測計畫.md",
     "Notes/上課筆記/生物筆記.md",
@@ -146,7 +148,6 @@
     "Notes/上課筆記/地理筆記.md",
     "Notes/上課筆記/地科B1L1.md",
     "Notes/上課筆記/歷史筆記.md",
-    "_resources/img004.jpg",
-    "Zettelkasten/星等.md"
+    "_resources/img004.jpg"
   ]
 }
