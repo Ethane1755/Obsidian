@@ -12,4 +12,9 @@ IN SiriL
 IN Photoshop
 1. Camera Raw Filter(vibrance, contrast, etc...)
 2. export as 16-bit tiff
-3. 
+
+IN StarNet++2
+generate starless.tif
+
+BACK TO Photoshop
+1. combine starless.tif with 
