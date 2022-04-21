@@ -10,4 +10,6 @@ IN SiriL
 8. remove green noise
 
 IN Photoshop
-1. Camera 
+1. Camera Raw Filter(vibrance, contrast, etc...)
+2. export as 16-bit tiff
+3. 
