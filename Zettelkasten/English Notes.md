@@ -14,7 +14,7 @@ Grade:==80==
 	- Basic rules
 - enunciate
 	- 說清楚
-	- vs pronounciate
+	- vs pronounce
 
 
 
