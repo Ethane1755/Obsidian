@@ -12,7 +12,9 @@ Grade:==80==
 	- 瓷製餐具
 - Ground rules
 	- Basic rules
-- 
+- enunciate
+	- 說清楚
+	- vs pronounciate
 
 
 
