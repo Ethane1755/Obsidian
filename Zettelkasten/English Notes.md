@@ -4,7 +4,9 @@
 - grade:80
 
 **notes**
-- From top to 
+- From top to bottom
+- Varnish
+	- 打蠟
 
 
 
