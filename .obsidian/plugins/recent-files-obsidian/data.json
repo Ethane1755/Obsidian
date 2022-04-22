@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "English Notes",
+      "path": "Zettelkasten/English Notes.md"
+    },
+    {
+      "basename": "地科筆記",
+      "path": "Notes/上課筆記/地科筆記.md"
+    },
+    {
       "basename": "SQL",
       "path": "Zettelkasten/SQL.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "生物筆記",
       "path": "Notes/上課筆記/生物筆記.md"
-    },
-    {
-      "basename": "地科筆記",
-      "path": "Notes/上課筆記/地科筆記.md"
     },
     {
       "basename": "公民筆記",
@@ -195,10 +199,6 @@
     {
       "basename": "Coursera Application",
       "path": "Zettelkasten/Coursera Application.md"
-    },
-    {
-      "basename": "Folium 入門",
-      "path": "Zettelkasten/Folium 入門.md"
     }
   ],
   "omittedPaths": [
