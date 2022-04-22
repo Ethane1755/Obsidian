@@ -23,7 +23,8 @@ Grade:==80==
 - patriotism vs nationalism
 	- 愛國 vs 國家
 	- 正面 vs 負面
-- 
+- demarcation
+	- barrier
 
 
 
