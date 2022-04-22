@@ -4,7 +4,7 @@
 ### Striped Pajamas CH11-12
 Grade:==80==
 
-**notes**
+**Notes**
 - From top to bottom
 - Varnish
 	- 打蠟
