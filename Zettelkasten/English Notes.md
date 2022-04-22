@@ -15,6 +15,7 @@ Grade:==80==
 - enunciate
 	- 說清楚
 	- vs pronounce
+- Shift uncomfortably from foot to foot
 
 
 
