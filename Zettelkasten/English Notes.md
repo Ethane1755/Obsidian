@@ -20,6 +20,8 @@ Grade:==80==
 	- 反駁
 - dilemma
 	- 兩難
+- patriotism vs nationalism
+	- 愛國 vs 國家
 
 
 
