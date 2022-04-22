@@ -18,8 +18,8 @@ Grade:==80==
 - Shift uncomfortably from foot to foot
 - Contradict
 	- 反駁
-
-
+- dilemma
+	- 兩難
 
 
 
