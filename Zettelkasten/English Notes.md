@@ -16,6 +16,8 @@ Grade:==80==
 	- 說清楚
 	- vs pronounce
 - Shift uncomfortably from foot to foot
+- Contradict
+	- 反駁
 
 
 
