@@ -1,0 +1,12 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#8fbcbb",
+      "url": "https://calendar.google.com/calendar/ical/ck1100821%40gl.ck.tp.edu.tw/private-dab507d1e3cc36dfa92e8ffe6b85f4e8/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false,
+  "firstDay": 0
+}

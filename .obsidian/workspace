@@ -7,20 +7,19 @@
         "id": "6f7f80b7b9434bc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Notes/上課筆記/地科筆記.md",
-            "mode": "preview"
+            "file": "Kanban/Kanban.md"
           }
         }
       },
       {
-        "id": "9275f2826cdf7cba",
+        "id": "e29a788e572e49fc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/English Notes.md",
+            "file": "Zettelkasten/ckhsbnm.md",
             "mode": "source"
           }
         }
@@ -51,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SQL",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/English Notes.md",
+                "file": "Zettelkasten/ckhsbnm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/English Notes.md",
+                "file": "Zettelkasten/ckhsbnm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "6b84faf83a99a6bc",
@@ -147,20 +145,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
-  "active": "9275f2826cdf7cba",
+  "active": "e29a788e572e49fc",
   "lastOpenFiles": [
-    "Zettelkasten/English Notes.md",
-    "Notes/上課筆記/地科筆記.md",
-    "Zettelkasten/SQL.md",
+    "Zettelkasten/ckhsbnm.md",
     "Kanban/Kanban.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/八月初觀測計畫.md",
-    "Notes/上課筆記/生物筆記.md",
-    "Notes/上課筆記/公民筆記.md",
-    "Notes/上課筆記/地理筆記.md",
-    "Notes/上課筆記/地科B1L1.md"
+    "Zettelkasten/Ideas worth sharing.md",
+    "Notes/天文社/星際空間的有機物質.md",
+    "Notes/天文社/星際空間的有機物質_資料來源.md",
+    "Notes/天文社/中研院天文演講.md",
+    "Zettelkasten/荷蘭東印度公司.md",
+    "Zettelkasten/薩赫爾地區(Sahel).md",
+    "Zettelkasten/蘇丹草原.md",
+    "Zettelkasten/行星風系與地方風系.md"
   ]
 }

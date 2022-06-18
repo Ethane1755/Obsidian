@@ -11,7 +11,7 @@
   "showFrontmatter": false,
   "readableLineLength": true,
   "pdfExportSettings": {
-    "pageSize": "A5",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
@@ -38,7 +38,7 @@
     "Astrochemistry"
   ],
   "newLinkFormat": "shortest",
-  "fileSortOrder": "byCreatedTime",
+  "fileSortOrder": "alphabetical",
   "legacyEditor": true,
   "livePreview": false,
   "defaultViewMode": "preview"

@@ -1,4 +1,4 @@
-# English_Vocabulary_L1
+# English_Vocabulary_L1 (與 MSI 衝突的複本 2021-09-29)
 
 TARGET DECK: Vocabulary_L1
 
@@ -20,6 +20,7 @@ vt.
 
 不及物動詞 #flashcard 
 vi. 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FTaipei&src=Y2sxMTAwODIxQGdsLmNrLnRwLmVkdS50dw&src=Y19jbGFzc3Jvb20wYzcyNjY2NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb21lNWYyMTEwYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb21jMGQ5ODhmNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb20wZmNkODY5M0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb21iYzE0NWEzYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb21hMTgwOWZjM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb21hZjkzNzdjYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb200YTIwZWE1ZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb20yZjM5NjVkMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb20zYjBjM2FkN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb202MzlmNTIxYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb205MjU4NThjM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb21jZjkzZjFhZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb21hMjgyODc2NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb20yZDYzYWMzYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb21mNmVhNTM1M0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23202124&color=%230047a8&color=%23137333&color=%230047a8&color=%23202124&color=%23174ea6&color=%23202124&color=%230047a8&color=%230047a8&color=%230047a8&color=%230047a8&color=%230047a8&color=%23202124&color=%230047a8&color=%230047a8&color=%230047a8" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <!--ID: 1630672355198-->
 
 adj, 難過的，沮喪的/

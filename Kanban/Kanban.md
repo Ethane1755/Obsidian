@@ -6,10 +6,18 @@ kanban-plugin: basic
 
 ## 需辦事項
 
+- [ ] 數學每周進度
+- [ ] 社團事務
+- [ ] 網站更新、更改
+- [ ] APCS作業/測試
+- [ ] Python 計畫
 
 
-## 今日需辦
+## 本周已辦事項
 
+**Complete**
+- [x] Pixinsight
+- [x] Portfolio(x)半周更
 
 
 ***
